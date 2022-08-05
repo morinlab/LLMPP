@@ -18,4 +18,4 @@ shortLabel aSHM mutations
 longLabel mutations at aSHM sites
 visibility squish
 type bigBed
-bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hg19.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19.bb?raw=true
