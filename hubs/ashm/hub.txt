@@ -1,0 +1,14 @@
+hub aSHM sites in hg19
+shortLabel aSHM_hg19
+longLabel curated aSHM sites in hg19
+useOneFile on
+email rdmorin@sfu.ca
+
+genome hg19
+
+track aSHM
+shortLabel aSHM regions
+longLabel curated aSHM sites
+visibility squish
+type bigBed
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/somatic_hypermutation_locations_GRCh37.bb?raw=true
