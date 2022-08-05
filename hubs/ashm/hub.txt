@@ -17,6 +17,6 @@ track mutations_aSHM
 shortLabel aSHM mutations
 longLabel mutations at aSHM sites
 visibility squish
-type bigBed
-itemRgb On
+type bigBed 9
+itemRgb on
 bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19.bb?raw=true
