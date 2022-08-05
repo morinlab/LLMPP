@@ -25,7 +25,7 @@ track CDS_mutations
 shortLabel coding space
 longLabel mutations in coding space
 visibility full
-type bigBed 9
+type bigLolly
 itemRgb on
 bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/lolly_test.bb?raw=true
 
