@@ -1,3 +1,4 @@
+track type=bedGraph name="Mutation density" description="regions enriched for mutations genome-wide" visibility=full
 chr9	535000	550000	3.0770418944375
 chr9	565000	580000	3.02124232688938
 chr9	1285000	1300000	3.25110824218223
