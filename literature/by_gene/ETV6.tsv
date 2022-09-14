@@ -1,596 +1,538 @@
-pmid	doi	title	Hugo_Symbol
-36045062	10.3343/alm.2023.43.1.92	First Case of <i>ETV6-RUNX1</i> Fusion in Adult <i>De Novo</i> Acute Myeloid Leukemia Detected Using Targeted RNA Sequencing.	ETV6
-36011285	10.3390/genes13081374	Commonly Assessed Markers in Childhood BCP-ALL Diagnostic Panels and Their Association with Genetic Aberrations and Outcome Prediction.	ETV6
-35995457	10.1080/10428194.2022.2113524	Clinicopathologic and genetic evaluation of B-lymphoblastic leukemia with intrachromosomal amplification of chromosome 21 (iAMP21) in adult patients.	ETV6
-35928872	10.3389/fonc.2022.932674	Cell-Free DNA Sequencing of Intraocular Fluid as Liquid Biopsy in the Diagnosis of Vitreoretinal Lymphoma.	ETV6
-35865523	10.3389/fimmu.2022.868053	Savior Siblings Might Rescue Fetal Lethality But Not Adult Lymphoma in Irf2bp2-Null Mice.	ETV6
-35803545	10.1016/j.exphem.2022.06.002	Germline ETV6 mutation promotes inflammation and disrupts lymphoid development of early hematopoietic progenitors.	ETV6
-35720485	10.3892/ol.2022.13348	A unique case of inflammatory myofibroblastic tumor of the liver manifesting with biloma: A case report.	ETV6
-35646048	10.3389/fgene.2022.878618	Whole-Genome/Exome Sequencing Uncovers Mutations and Copy Number Variations in Primary Diffuse Large B-Cell Lymphoma of the Central Nervous System.	ETV6
-35644195	10.7499/j.issn.1008-8830.2111108	[Clinical features and prognosis of childhood B-lineage acute lymphoblastic leukemia expressing the <i>PRAME</i> gene].	ETV6
-35562965	10.3390/ijms23094574	Multi-Cohort Transcriptomic Subtyping of B-Cell Acute Lymphoblastic Leukemia.	ETV6
-35543076	10.1111/his.14680	Histologic characterization of paediatric mesenchymal neoplasms treated with kinase-targeted therapy.	ETV6
-35506873	10.1080/10428194.2022.2064991	Apparent coexistence of <i>ETV6::RUNX1</i> and <i>KMT2A::MLLT3</i> fusions due to a nonproductive <i>KMT2A</i> rearrangement in B-ALL.	ETV6
-35300216	10.2147/JIR.S341355	The Mutation of <i>BTG2</i> Gene Predicts a Poor Outcome in Primary Testicular Diffuse Large B-Cell Lymphoma.	ETV6
-35294722	10.1007/s11864-022-00963-3	In Utero Development and Immunosurveillance of B Cell Acute Lymphoblastic Leukemia.	ETV6
-35258855	10.1007/s12185-022-03315-x	JACLS ALL-02 SR protocol reduced-intensity chemotherapy produces excellent outcomes in patients with low-risk childhood acute lymphoblastic leukemia.	ETV6
-35106936	10.1002/cam4.4550	SGK1 mutation status can further stratify patients with germinal center B-cell-like diffuse large B-cell lymphoma into different prognostic subgroups.	ETV6
-35084434	10.1001/jamaoncol.2021.6826	Association of Genetic Ancestry With the Molecular Subtypes and Prognosis of Childhood Acute Lymphoblastic Leukemia.	ETV6
-35074994	10.4103/IJPM.IJPM_1154_20	Erythrophagocytosis in a patient with B-cell acute lymphoblastic leukemia with t(12;21) (p13.2; q22.1); ETV6-RUNX1: Case report and review of the literature.	ETV6
-35053500	10.3390/cancers14020338	High ETV6 Levels Support Aggressive B Lymphoma Cell Survival and Predict Poor Outcome in Diffuse Large B-Cell Lymphoma Patients.	ETV6
-35004601	10.3389/fpubh.2021.805757	Risk Factors for Childhood Leukemia: Radiation and Beyond.	ETV6
-34999180	10.1016/j.gene.2021.146132	Identification of diagnosis and prognosis gene markers in B-ALL with ETV6-RUNX1 fusion by integrated bioinformatics analysis.	ETV6
-34982829	10.1182/bloodadvances.2021005703	A somatic UBA2 variant preceded ETV6-RUNX1 in the concordant BCP-ALL of monozygotic twins.	ETV6
-34981432	10.1007/s12185-021-03269-6	Newly diagnosed ETV6-RUNX1-positive B-acute lymphoblastic leukemia localized to the left pelvic bone marrow.	ETV6
-34940123	10.3390/cimb43030149	Molecular Genetics of Pre-B Acute Lymphoblastic Leukemia Sister Cell Lines during Disease Progression.	ETV6
-34933343	10.1182/bloodadvances.2021005634	Whole-transcriptome analysis in acute lymphoblastic leukemia: a report from the DFCI ALL Consortium Protocol 16-001.	ETV6
-34871373	10.1182/blood.2021012727	Impact of high-risk cytogenetics on outcomes for children and young adults receiving CD19-directed CAR T-cell therapy.	ETV6
-34819303	10.1101/mcs.a006157	Hi-C detects genomic structural variants in peripheral blood of pediatric leukemia patients.	ETV6
-34788984	10.3324/haematol.2021.279177	Genetic and genomic analysis of acute lymphoblastic leukemia in older adults reveals a distinct profile of abnormalities: analysis of 210 patients from the UKALL14 and UKALL60+ clinical trials.	ETV6
-34787376	10.1002/cnr2.1587	Philadelphia-like acute lymphoblastic leukemia: Characterization in a pediatric cohort in a referral center in Colombia.	ETV6
-34753926	10.1038/s41408-021-00570-9	Cancer drivers and clonal dynamics in acute lymphoblastic leukaemia subtypes.	ETV6
-34732618	10.11406/rinketsu.62.1465	[Down syndrome and acute lymphoblastic leukemia].	ETV6
-34727170	10.1182/bloodadvances.2021005522	Decreased IL-10 accelerates B-cell leukemia/lymphoma in a mouse model of pediatric lymphoid leukemia.	ETV6
-34657128	10.1038/s41375-021-01448-2	Prognostic impact of chromosomal abnormalities and copy number alterations in adult B-cell precursor acute lymphoblastic leukaemia: a UKALL14 study.	ETV6
-34624096	10.1182/blood.2020010405	ETV6-NCOA2 fusion induces T/myeloid mixed-phenotype leukemia through transformation of nonthymic hematopoietic progenitor cells.	ETV6
-34617433	10.4274/tjh.galenos.2021.2021.0326	Characterization of Immunophenotypic Aberrancies with Respect to Common Fusion Transcripts in B-Cell Precursor Acute Lymphoblastic Leukemia: A Report of 986 Indian Patients	ETV6
-34597466	10.1002/pbc.29361	Clonal dynamics in pediatric B-cell precursor acute lymphoblastic leukemia with very early relapse.	ETV6
-34591292	10.1007/s12185-021-03229-0	Successful treatment of hepatosplenic T-cell lymphoma with fludarabine, high-dose cytarabine and subsequent unrelated umbilical cord blood transplantation.	ETV6
-34570179	10.1182/bloodadvances.2021004668	Mutational patterns and their correlation to CHIP-related mutations and age in hematological malignancies.	ETV6
-34551905	10.1158/1078-0432.CCR-21-1165	Comprehensive Molecular Analysis of Inflammatory Myofibroblastic Tumors Reveals Diverse Genomic Landscape and Potential Predictive Markers for Response to Crizotinib.	ETV6
-34547766	10.1182/bloodadvances.2021004895	Distinct clinical characteristics of DUX4- and PAX5-altered childhood B-lymphoblastic leukemia.	ETV6
-34535762	10.1038/s41375-021-01409-9	ETV6-RUNX1 and RUNX1 directly regulate RAG1 expression: one more step in the understanding of childhood B-cell acute lymphoblastic leukemia leukemogenesis.	ETV6
-34511174	10.7499/j.issn.1008-8830.2105004	Clinical features and prognosis of children with acute leukemias of ambiguous lineage under different diagnostic criteria.	ETV6
-34448823	10.1182/bloodadvances.2021004212	The molecular hallmarks of primary and secondary vitreoretinal lymphoma.	ETV6
-34371436	10.1016/j.leukres.2021.106683	Proposal and clinical application of molecular genetic risk scoring system, ""MRplus"", for BCR-ABL1 negative pediatric B-cell acute lymphoblastic leukemia- report from a single centre.	ETV6
-34348305	10.1159/000518280	Cytogenetic and Fluorescence in situ Hybridization Profile of Pediatric Acute Lymphoblastic Leukemia in a University Hospital in South India.	ETV6
-34329606	10.1016/S1470-2045(21)00328-4	Pulse therapy with vincristine and dexamethasone for childhood acute lymphoblastic leukaemia (CCCG-ALL-2015): an open-label, multicentre, randomised, phase 3, non-inferiority trial.	ETV6
-34325057	10.1016/j.jmoldx.2021.07.008	Comparison of Two Quantitative PCR-Based Assays for Detection of Minimal Residual Disease in B-Precursor Acute Lymphoblastic Leukemia Harboring Three Major Fusion Transcripts.	ETV6
-34297047	10.1182/bloodadvances.2021004334	Genomic and clinical characterization of early T-cell precursor lymphoblastic lymphoma.	ETV6
-34266412	10.1186/s12885-021-08545-6	DNA index as prognostic factor in childhood acute lymphoblastic leukemia in the COG-TARGET database.	ETV6
-34250504	10.1158/2643-3230.BCD-20-0229	Clinical significance of novel subtypes of acute lymphoblastic leukemia in the context of minimal residual disease-directed therapy.	ETV6
-34159401	10.1007/s00277-021-04574-0	Hematological characteristics, cytogenetic features, and post-induction measurable residual disease in thymic stromal lymphopoietin receptor (TSLPR) overexpressed B-cell acute lymphoblastic leukemia in an Indian cohort.	ETV6
-34101758	10.1371/journal.pone.0253012	Investigation of lncRNA-mRNA co-expression network in ETV6-RUNX1-positive pediatric B-cell acute lymphoblastic leukemia.	ETV6
-34072771	10.3390/ijms22115902	NKL Homeobox Gene VENTX Is Part of a Regulatory Network in Human Conventional Dendritic Cells.	ETV6
-34010407	10.1182/blood.2020009895	Toward prevention of childhood ALL by early-life immune training.	ETV6
-33990705	10.1038/s41379-021-00817-7	Myeloid/lymphoid neoplasms with FLT3 rearrangement.	ETV6
-33987955	10.1002/cam4.3928	RAG1 co-expression signature identifies ETV6-RUNX1-like B-cell precursor acute lymphoblastic leukemia in children.	ETV6
-33895809	10.1182/blood.2020010144	Molecular classification improves risk assessment in adult BCR-ABL1-negative B-ALL.	ETV6
-33890726	10.1002/cjp2.211	CRLF2 and IKZF1 abnormalities in Mexican children with acute lymphoblastic leukemia and recurrent gene fusions: exploring surrogate markers of signaling pathways.	ETV6
-33792628	10.1182/bloodadvances.2020003699	ETV6-FLT3-positive myeloid/lymphoid neoplasm with eosinophilia presenting in an infant: an entity distinct from JMML.	ETV6
-33777778	10.3389/fonc.2021.628807	Mutational Profile and Clonal Evolution of Relapsed/Refractory Diffuse Large B-Cell Lymphoma.	ETV6
-33750258	10.1080/0284186X.2021.1900908	Genomic landscape of B-other acute lymphoblastic leukemia in an adult retrospective cohort with a focus on <i>BCR-ABL1</i>-like subtype.	ETV6
-33747936	10.3389/fonc.2021.622648	Genomic Mutation Profile of Primary Gastrointestinal Diffuse Large B-Cell Lymphoma.	ETV6
-33743795	10.1186/s13045-021-01051-z	Reduction of RUNX1 transcription factor activity by a CBFA2T3-mimicking peptide: application to B cell precursor acute lymphoblastic leukemia.	ETV6
-33739852	10.1200/JCO.20.02370	Favorable Trisomies and <i>ETV6-RUNX1</i> Predict Cure in Low-Risk B-Cell Acute Lymphoblastic Leukemia: Results From Children's Oncology Group Trial AALL0331.	ETV6
-33725318	10.1007/s12185-021-03116-8	Clinical features and chromosomal/genetic aberration in adult acute lymphoblastic leukemia in Japan: results of Fukuoka Blood & Marrow Transplant Group Studies ALL MRD 2002 and 2008.	ETV6
-33714976	10.1038/s41375-021-01209-1	Profiling chromatin accessibility in pediatric acute lymphoblastic leukemia identifies subtype-specific chromatin landscapes and gene regulatory networks.	ETV6
-33707599	10.1038/s41598-021-85213-6	Philadelphia chromosome-negative B-cell acute lymphoblastic leukaemia with kinase fusions in Taiwan.	ETV6
-33660258	10.1111/bjh.17271	Management of ETV6-ABL1-positive childhood acute lymphoblastic leukaemia: report of two cases, a literature review and a call for action.	ETV6
-33646306	10.1182/bloodadvances.2020001844	Genome-wide interference of ZNF423 with B-lineage transcriptional circuitries in acute lymphoblastic leukemia.	ETV6
-33634864	10.1002/ijc.33527	Deleterious point mutations in T-cell acute lymphoblastic leukemia: Mechanistic insights into leukemogenesis.	ETV6
-33526873	10.1038/s41379-021-00739-4	Clinical, immunophenotypic and genomic findings of NK lymphoblastic leukemia: a study from the Bone Marrow Pathology Group.	ETV6
-33475741	10.1182/blood.2020008190	Germline ETV6 variants: not ALL created equally.	ETV6
-33400146	10.1007/s11684-020-0821-6	Emerging molecular subtypes and therapeutic targets in B-cell precursor acute lymphoblastic leukemia.	ETV6
-33386596	10.1007/s12185-020-03063-w	The role of minimal residual disease in specific subtypes of pediatric acute lymphoblastic leukemia.	ETV6
-33369444	10.31557/APJCP.2020.21.12.3493	Frequency and Correlation of Common Genes Copy Number Alterations in Childhood Acute Lymphoblastic Leukemia with Prognosis.	ETV6
-33368842	10.1002/gcc.22933	Sister chromatid cohesion defects are associated with chromosomal copy number heterogeneity in high hyperdiploid childhood acute lymphoblastic leukemia.	ETV6
-33355873	10.32471/exp-oncology.2312-8852.vol-42-no-4.15275	Woman with Turner syndrome and her child with acute leukemia (a case report).	ETV6
-33333691	10.3760/cma.j.issn.0253-2727.2020.11.003	[Efficacy and prognostic factors of the chemotherapy regimen of CCLG-ALL-2008 on pediatric acute lymphoblastic leukemia with ETV6-RUNX1 rearrangement].	ETV6
-33328584	10.1038/s41568-020-00315-z	Advances in germline predisposition to acute leukaemias and myeloid neoplasms.	ETV6
-33327998		[Clinical significance of minimal residual disease in B-lineage acute lymphoblastic leukemia pediatric patients with different fusion gene backgrounds].	ETV6
-33245684	10.2217/epi-2020-0152	Role of rs10406069 in miR-5196 in hyperdiploid childhood acute lymphoblastic leukemia.	ETV6
-33170547	10.1111/ijlh.13386	The gene expression level of m6A catalytic enzymes is increased in ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
-33166908	10.1016/j.leukres.2020.106460	Myeloid/lymphoid neoplasms with eosinophilia and FLT3 rearrangement.	ETV6
-33164984	10.1172/JCI140797	Pharmacogenomics of intracellular methotrexate polyglutamates in patients' leukemia cells in vivo.	ETV6
-33127954	10.1038/s41598-020-75596-3	Nanostring-based screening for tyrosine kinase fusions in inflammatory myofibroblastic tumors.	ETV6
-33113607	10.3760/cma.j.issn.0253-2727.2020.09.008	[Diagnosis of adult Philadelphia chromosome-like acute lymphoblastic leukemia by fluorescence in situ hybridization].	ETV6
-33095873	10.1182/bloodadvances.2019001307	Landscape of driver mutations and their clinical impacts in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
-33078873	10.1002/gcc.22901	Rare and novel RUNX1 fusions in myeloid neoplasms: A single-institute experience.	ETV6
-33074527	10.1007/s11684-020-0759-8	Precision medicine in acute lymphoblastic leukemia.	ETV6
-33070555	10.4143/crt.2020.507	Differing Outcomes of Patients with High Hyperdiploidy and ETV6-RUNX1 Rearrangement in Korean Pediatric Precursor B Cell Acute Lymphoblastic Leukemia.	ETV6
-33038982	10.1016/j.beha.2020.101193	Molecular markers in ALL: Clinical implications.	ETV6
-32946981	10.1016/j.exphem.2020.09.184	Human pediatric B-cell acute lymphoblastic leukemias can be classified as B-1 or B-2-like based on a minimal transcriptional signature.	ETV6
-32911536	10.1182/blood.2019004381	An intact gut microbiome protects genetically predisposed mice against leukemia.	ETV6
-32898863	10.1182/blood.2020005622	Identification of functional cooperative mutations of GNAO1 in human acute lymphoblastic leukemia.	ETV6
-32836179	10.1016/j.anndiagpath.2020.151588	Siblings with ETV6/RUNX1-positive B-lymphoblastic leukemia: A single site experience and review of the literature.	ETV6
-32819174	10.1080/09537104.2020.1802416	Functional analysis of germline <i>ETV6 W380R</i> mutation causing inherited thrombocytopenia and secondary acute lymphoblastic leukemia or essential thrombocythemia.	ETV6
-32812094	10.1007/s10561-020-09855-y	Screening for pre-leukemia TEL-AML1 chromosomal translocation in banked cord blood units: cord blood bank perspective.	ETV6
-32693409	10.1182/blood.2020006164	Molecular basis of ETV6-mediated predisposition to childhood acute lymphoblastic leukemia.	ETV6
-32661308	10.1038/s41598-020-68311-9	MLPA and DNA index improve the molecular diagnosis of childhood B-cell acute lymphoblastic leukemia.	ETV6
-32592278	10.1002/gcc.22882	Frequency and prognostic impact of PAX5 p.P80R in pediatric acute lymphoblastic leukemia patients treated on an AIEOP-BFM acute lymphoblastic leukemia protocol.	ETV6
-32573712	10.1182/blood.2019004090	Association of aberrant ASNS imprinting with asparaginase sensitivity and chromosomal abnormality in childhood BCP-ALL.	ETV6
-32572036	10.1038/s41598-020-65744-0	Evidence for a role of RUNX1 as recombinase cofactor for TCRβ rearrangements and pathological deletions in ETV6-RUNX1 ALL.	ETV6
-32536138	10.3760/cma.j.issn.0253-2727.2020.05.008	[Clinical characteristics and gene expression profiles in children with ETV6-RUNX1 acute lymphoblastic leukemia].	ETV6
-32467145	10.3324/haematol.2020.247973	Philadelphia-like acute lymphoblastic leukemia is associated with minimal residual disease persistence and poor outcome. First report of the minimal residual disease-oriented GIMEMA LAL1913.	ETV6
-32378810	10.1002/cam4.3099	High incidence of RAS pathway mutations among sentinel genetic lesions of Korean pediatric BCR-ABL1-like acute lymphoblastic leukemia.	ETV6
-32368831	10.1002/gcc.22858	Impact of immunophenotypic characteristics on genetic subgrouping in childhood acute lymphoblastic leukemia: Tokyo Children's Cancer Study Group (TCCSG) study L04-16.	ETV6
-32367453	10.1007/s12185-020-02885-y	Functional characterization of a germline ETV6 variant associated with inherited thrombocytopenia, acute lymphoblastic leukemia, and salivary gland carcinoma in childhood.	ETV6
-32238402	10.1101/mcs.a004937	The diagnostic challenges and clinical course of a myeloid/lymphoid neoplasm with eosinophilia and <i>ZBTB20-JAK2</i> gene fusion presenting as B-lymphoblastic leukemia.	ETV6
-32205481	10.1097/PAS.0000000000001471	Salivary Secretory Carcinoma Harboring a Novel ALK Fusion: Expanding the Molecular Characterization of Carcinomas Beyond the ETV6 Gene.	ETV6
-32201861	10.1093/noajnl/vdaa018	Primary CNS lymphoma commonly expresses immune response biomarkers.	ETV6
-32150610	10.1182/bloodadvances.2019001008	The application of RNA sequencing for the diagnosis and genomic classification of pediatric acute lymphoblastic leukemia.	ETV6
-32135505	10.1016/j.canep.2020.101693	MTHFR rs1801133 polymorphism is associated with increased risk of B-cell precursor lymphoblastic leukaemia with recurrent genetic aberrations of fetal origin.	ETV6
-32118299	10.1111/bjh.16523	Pro-inflammatory cytokines favor the emergence of ETV6-RUNX1-positive pre-leukemic cells in a model of mesenchymal niche.	ETV6
-32114371	10.1016/j.leukres.2020.106316	Osteopontin-c is overexpressed in KMT2A-AFF1 positive pediatric B-cell lymphoblastic leukemia when compared to those with ETV6-RUNX1"".	ETV6
-32078009	10.1007/s00277-020-03953-3	Implementation of RNA sequencing and array CGH in the diagnostic workflow of the AIEOP-BFM ALL 2017 trial on acute lymphoblastic leukemia.	ETV6
-32029838	10.1038/s41598-020-58970-z	Clinicopathological features and prognostic value of SOX11 in childhood acute lymphoblastic leukemia.	ETV6
-31952221	10.3390/cells9010215	<i>ETV6</i>/<i>RUNX1</i> Fusion Gene Abrogation Decreases the Oncogenicity of Tumour Cells in a Preclinical Model of Acute Lymphoblastic Leukaemia.	ETV6
-31944572	10.1002/cyto.b.21866	CD304/neuropilin-1 is a very useful and dependable marker for the measurable residual disease assessment of B-cell precursor acute lymphoblastic leukemia.	ETV6
-31905241	10.1182/bloodadvances.2019000769	Clinical response to larotrectinib in adult Philadelphia chromosome-like ALL with cryptic ETV6-NTRK3 rearrangement.	ETV6
-31902036	10.1007/s10555-019-09841-1	Insights into the prenatal origin of childhood acute lymphoblastic leukemia.	ETV6
-31894899	10.1002/cyto.b.21865	CD49f protein expression varies among genetic subgroups of B lymphoblastic leukemia and is distinctly low in KMT2A-rearranged cases.	ETV6
-31817853	10.3390/ijms20246175	SYK Targeting Represents a Potential Therapeutic Option for Relapsed Resistant Pediatric <i>ETV6-RUNX1</i> B-Acute Lymphoblastic Leukemia Patients.	ETV6
-31779973	10.1016/j.beha.2019.101095	How advanced are we in targeting novel subtypes of ALL?	ETV6
-31767839	10.1038/s41467-019-13069-6	Identification of four novel associations for B-cell acute lymphoblastic leukaemia risk.	ETV6
-31725893	10.1182/bloodadvances.2019000700	Larotrectinib in TRK fusion-positive pediatric B-cell acute lymphoblastic leukemia.	ETV6
-31704777	10.1136/jmedgenet-2019-106339	Novel phenotypes observed in patients with <i>ETV6</i>-linked leukaemia/familial thrombocytopenia syndrome and a biallelic <i>ARID5B</i> risk allele as leukaemogenic cofactor.	ETV6
-31648321	10.1182/bloodadvances.2019000404	Transcriptome analysis offers a comprehensive illustration of the genetic background of pediatric acute myeloid leukemia.	ETV6
-31645680	10.1038/s41417-019-0147-1	The incidence, genetic characteristics, and prognosis of leukemia with concurrent pathogenic fusion genes: a series of 25 cases from a large cohort of leukemia patients.	ETV6
-31629941	10.1016/j.ejca.2019.09.004	Outcome of adolescent patients with acute lymphoblastic leukaemia aged 10-14 years as compared with those aged 15-17 years: Long-term results of 1094 patients of the AIEOP-BFM ALL 2000 study.	ETV6
-31602594	10.1007/s13353-019-00524-9	The correction of ETV6/RUNX1 translocation in acute lymphocytic leukemia cells: a new gene targeting system by homologous recombination mechanism.	ETV6
-31519648	10.1182/bloodadvances.2018028795	Predisposition to childhood acute lymphoblastic leukemia caused by a constitutional translocation disrupting <i>ETV6</i>.	ETV6
-31506148		[Long-term clinical effect of the CCLG-ALL2008 regimen in treatment of childhood acute lymphoblastic leukemia with different molecular biological features].	ETV6
-31482743	10.1080/10428194.2019.1658105	Myeloid neoplasm with eosinophilia and <i>ETV6-JAK2</i> fusion.	ETV6
-31456164	10.1007/s13353-019-00509-8	MLPA as a complementary tool for diagnosis of chromosome 21 aberrations in childhood BCP-ALL.	ETV6
-31429529	10.1002/mgg3.933	The study of METTL3 and METTL14 expressions in childhood ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
-31381561	10.1371/journal.pgen.1008280	PAX5 is part of a functional transcription factor network targeted in lymphoid leukemia.	ETV6
-31311817	10.1182/blood.2018852400	Genetic defects in hematopoietic transcription factors and predisposition to acute lymphoblastic leukemia.	ETV6
-31289210	10.3324/haematol.2018.205849	<i>TP53, ETV6</i> and <i>RUNX1</i> germline variants in a case series of patients developing secondary neoplasms after treatment for childhood acute lymphoblastic leukemia.	ETV6
-31250485	10.1002/pbc.27902	A newborn case of jejunal ALK-negative inflammatory myofibroblastic tumor with ETV6-NTRK3 fusion.	ETV6
-31243155	10.1126/scitranslmed.aat8549	Pediatric patients with acute lymphoblastic leukemia generate abundant and functional neoantigen-specific CD8<sup>+</sup> T cell responses.	ETV6
-31228652	10.1016/j.leukres.2019.05.009	Prognostic gene alterations and clonal changes in childhood B-ALL.	ETV6
-31202078	10.1016/j.leukres.2019.05.013	Microarray testing as an efficient tool to redefine hyperdiploid paediatric B-cell precursor acute lymphoblastic leukaemia patients.	ETV6
-31157932	10.1002/bem.22193	Novel ETV6-RUNX1 Mouse Model to Study the Role of ELF-MF in Childhood B-Acute Lymphoblastic Leukemia: a Pilot Study.	ETV6
-31112375	10.1111/ijlh.13052	Chromosomal microarray analysis is superior in identifying cryptic aberrations in patients with acute lymphoblastic leukemia at diagnosis/relapse as a single assay.	ETV6
-31102422	10.1002/gcc.22765	Predisposing germline mutations in high hyperdiploid acute lymphoblastic leukemia in children.	ETV6
-31096545	10.3390/ijms20102394	Identification and Characterization of Novel Fusion Genes with Potential Clinical Applications in Mexican Children with Acute Lymphoblastic Leukemia.	ETV6
-31035338	10.3390/ijms20092089	Marek's Disease Virus Regulates the Ubiquitylome of Chicken CD4<sup>+</sup> T Cells to Promote Tumorigenesis.	ETV6
-31034759	10.1002/pbc.27780	High sensitivity and clonal stability of the genomic fusion as single marker for response monitoring in ETV6-RUNX1-positive acute lymphoblastic leukemia.	ETV6
-30986496	10.1016/j.exphem.2019.03.004	ETV6-RUNX1 interacts with a region in SPIB intron 1 to regulate gene expression in pre-B-cell acute lymphoblastic leukemia.	ETV6
-30944321	10.1038/s41467-019-09469-3	Proteogenomics and Hi-C reveal transcriptional dysregulation in high hyperdiploid childhood acute lymphoblastic leukemia.	ETV6
-30940639	10.1182/bloodadvances.2018030635	Germline deletion of <i>ETV6</i> in familial acute lymphoblastic leukemia.	ETV6
-30874617	10.1038/s41598-019-41078-4	Copy number alterations in B-cell development genes, drug resistance, and clinical outcome in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
-30842058	10.1016/S1470-2045(19)30031-2	Comparative features and outcomes between paediatric T-cell and B-cell acute lymphoblastic leukaemia.	ETV6
-30770347	10.1158/1055-9965.EPI-18-0801	Is There Etiologic Heterogeneity between Subtypes of Childhood Acute Lymphoblastic Leukemia? A Review of Variation in Risk by Subtype.	ETV6
-30730614	10.1111/ijlh.12983	Flow cytometric predictive scoring systems for common fusions ETV6/RUNX1, BCR/ABL1, TCF3/PBX1 and rearrangements of the KMT2A gene, proposed for the initial cytogenetic approach in cases of B-acute lymphoblastic leukemia.	ETV6
-30701920	10.26442/terarkh201890730-37	Structure and significance of cytogenetic abnormalities in adult patients with Ph-negative acute lymphoblastic leukemia.	ETV6
-30701458	10.1007/s11033-019-04649-2	Molecular profiling of adult acute myeloid and lymphoid leukemia in a major referral center in Lebanon: a 10-year experience report and review of the literature.	ETV6
-30689137	10.1007/s12185-019-02599-w	Discontinuation of L-asparaginase and poor response to prednisolone are associated with poor outcome of ETV6-RUNX1-positive pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
-30634950	10.1186/s12885-019-5277-1	Identification of a metastatic lung adenocarcinoma of the palate mucosa through genetic and histopathological analysis: a rare case report and literature review.	ETV6
-30630978	10.3324/haematol.2018.204974	Genomic landscape of pediatric B-other acute lymphoblastic leukemia in a consecutive European cohort.	ETV6
-30561492	10.1093/ajcp/aqy160	Application of Fluorescence In Situ Hybridization on Cerebrospinal Fluid Cytospins for the Detection of Residual Leukemic Cells in Patients With Childhood Acute Lymphoblastic Leukemia.	ETV6
-30559310	10.1101/mcs.a003079	Two myeloid leukemia cases with rare <i>FLT3</i> fusions.	ETV6
-30550870	10.1016/j.jtho.2018.12.003	Expanding the Molecular Characterization of Thoracic Inflammatory Myofibroblastic Tumors beyond ALK Gene Rearrangements.	ETV6
-30526151	10.1080/10428194.2018.1529311	Coexpression of ETV6/MDS1/EVI1 and ETV6/EVI1 fusion transcripts in acute myeloid leukemia with t(3;12)(q26.2;p13) and thrombocytosis.	ETV6
-30510082	10.1182/blood-2018-07-862946	Novel susceptibility variants at the <i>ERG</i> locus for childhood acute lymphoblastic leukemia in Hispanics.	ETV6
-30487223	10.1073/pnas.1814397115	Transcriptional landscape of B cell precursor acute lymphoblastic leukemia based on an international study of 1,223 cases.	ETV6
-30422774	10.1148/rg.2018180192	Primary Lung Tumors in Children: Radiologic-Pathologic Correlation From the Radiologic Pathology Archives.	ETV6
-30381299	10.3324/haematol.2018.193631	Autophagy inhibition as a potential future targeted therapy for ETV6-RUNX1-driven B-cell precursor acute lymphoblastic leukemia.	ETV6
-30341373	10.1038/s41598-018-33947-1	Genome wide mapping of ETV6 binding sites in pre-B leukemic cells.	ETV6
-30203896	10.1002/gcc.22664	Improved cytogenetic characterization and risk stratification of pediatric acute lymphoblastic leukemia using single nucleotide polymorphism array analysis: A single center experience of 296 cases.	ETV6
-30168245	10.1002/pbc.27366	A triple-probe FISH screening strategy for risk-stratified therapy of acute lymphoblastic leukaemia in low-resource settings.	ETV6
-30139830	10.1182/blood-2018-06-857540	Genomic precision medicine: on the TRK.	ETV6
-30125757	10.1016/j.leukres.2018.08.009	Retrospective analysis of 36 fusion genes in 2479 Chinese patients of de novo acute lymphoblastic leukemia.	ETV6
-30115129	10.1186/s13052-018-0541-6	ETV6/RUNX1-positive childhood acute lymphoblastic leukemia in China: excellent prognosis with improved BFM protocol.	ETV6
-30028819	10.1097/MPH.0000000000001249	Cryptic ETV6-ABL1 Fusion and MLL2 Truncation Revealed by Integrative Clinical Sequencing in Multiply Relapsed Acute Lymphoblastic Leukemia.	ETV6
-29997224	10.1182/blood-2018-04-841676	Genomic and outcome analyses of Ph-like ALL in NCI standard-risk patients: a report from the Children's Oncology Group.	ETV6
-29992858	10.1080/10428194.2018.1480774	Cryptic ETV6-PDGFRB fusion in a highly complex rearrangement of chromosomes 1, 5, and 12 due to a chromothripsis-like event in a myelodysplastic syndrome/myeloproliferative neoplasm.	ETV6
-29992138	10.1155/2018/3574534	Identification of Hub Genes and Key Pathways Associated with Two Subtypes of Diffuse Large B-Cell Lymphoma Based on Gene Expression Profiling via Integrated Bioinformatics.	ETV6
-29950197	10.7534/j.issn.1009-2137.2018.03.002	[HER2 Expression in Childhood ETV6/RUNX1<sup>+</sup> Acute Lymphoblastic Leukemia and Its Correlation with Clinical Features].	ETV6
-29900760	10.1177/0300060518780873	Anaplastic lymphoma kinase-negative uterine inflammatory myofibroblastic tumor containing the ETV6-NTRK3 fusion gene: a case report.	ETV6
-29891112	10.1016/j.critrevonc.2018.05.010	Molecular analysis in liquid biopsies for diagnostics of primary central nervous system lymphoma: Review of literature and future opportunities.	ETV6
-29880614	10.1182/blood-2018-05-849554	ETV6-NTRK3 induces aggressive acute lymphoblastic leukemia highly sensitive to selective TRK inhibition.	ETV6
-29786757	10.1007/s12185-018-2474-7	Copy number abnormality of acute lymphoblastic leukemia cell lines based on their genetic subtypes.	ETV6
-29784935	10.1038/s41568-018-0015-6	A causal mechanism for childhood acute lymphoblastic leukaemia.	ETV6
-29778230	10.1016/j.cancergen.2018.03.001	ETV6/RUNX1-positive childhood acute lymphoblastic leukemia (ALL): The spectrum of clonal heterogeneity and its impact on prognosis.	ETV6
-29763473	10.1371/journal.pone.0197408	Maternal folate genes and aberrant DNA hypermethylation in pediatric acute lymphoblastic leukemia.	ETV6
-29726059	10.1002/gcc.6	Two novel fusion genes, AIF1L-ETV6 and ABL1-AIF1L, result together with ETV6-ABL1 from a single chromosomal rearrangement in acute lymphoblastic leukemia with prenatal origin.	ETV6
-29632299	10.1038/s41467-018-03178-z	Genome-wide association study identifies susceptibility loci for B-cell childhood acute lymphoblastic leukemia.	ETV6
-29589281	10.1007/s12185-018-2440-4	Treatment outcome of children with acute lymphoblastic leukemia: the Tokyo Children's Cancer Study Group (TCCSG) Study L04-16.	ETV6
-29575541	10.1111/ijlh.12805	Simultaneous detection of ABL1 mutation and IKZF1 deletion in Philadelphia chromosome-positive acute lymphoblastic leukemia using a customized target enrichment system panel.	ETV6
-29530508	10.1016/j.jim.2018.03.005	Differential expression of CD73, CD86 and CD304 in normal vs. leukemic B-cell precursors and their utility as stable minimal residual disease markers in childhood B-cell precursor acute lymphoblastic leukemia.	ETV6
-29520434	10.1007/s00277-018-3291-z	A patient with B-cell acute lymphoblastic leukemia with PAX5-ETV6 rearrangement with dic(9;12)(p13;p13) identified by chromosomal microarray.	ETV6
-29507076	10.1182/bloodadvances.2017014704	Prognostic impact of kinase-activating fusions and IKZF1 deletions in pediatric high-risk B-lineage acute lymphoblastic leukemia.	ETV6
-29498923	10.1200/JCO.2017.74.3617	IKZF1<sup>plus</sup> Defines a New Minimal Residual Disease-Dependent Very-Poor Prognostic Profile in Pediatric B-Cell Precursor Acute Lymphoblastic Leukemia.	ETV6
-29432597	10.1093/neuonc/noy019	Identification of novel recurrent ETV6-IgH fusions in primary central nervous system lymphoma.	ETV6
-29407587	10.1016/j.leukres.2018.01.012	High frequency of intermediate and poor risk copy number abnormalities in pediatric cohort of B-ALL correlate with high MRD post induction.	ETV6
-29348129	10.1182/blood-2017-07-796862	Genomic CDKN2A/2B deletions in adult Ph<sup>+</sup> ALL are adverse despite allogeneic stem cell transplantation.	ETV6
-29327718	10.1038/modpathol.2017.191	Epithelioid fibrous histiocytoma: molecular characterization of ALK fusion partners in 23 cases.	ETV6
-29311095	10.1182/blood-2017-09-808402	Five percent of healthy newborns have an <i>ETV6-RUNX1</i> fusion as revealed by DNA-based GIPFEL screening.	ETV6
-29290585	10.1016/j.devcel.2017.12.005	A Human IPS Model Implicates Embryonic B-Myeloid Fate Restriction as Developmental Susceptibility to B Acute Lymphoblastic Leukemia-Associated ETV6-RUNX1.	ETV6
-29177615	10.1007/s12185-017-2371-5	ETV6-ABL1 fusion combined with monosomy 7 in childhood B-precursor acute lymphoblastic leukemia.	ETV6
-29148893	10.1200/JCO.2017.74.4946	Reduced-Intensity Delayed Intensification in Standard-Risk Pediatric Acute Lymphoblastic Leukemia Defined by Undetectable Minimal Residual Disease: Results of an International Randomized Trial (AIEOP-BFM ALL 2000).	ETV6
-29125853	10.1371/journal.pone.0187422	Whole-genome DNA methylation characteristics in pediatric precursor B cell acute lymphoblastic leukemia (BCP ALL).	ETV6
-29064485	10.1038/leu.2017.289	Differential impact of drugs on the outcome of ETV6-RUNX1 positive childhood B-cell precursor acute lymphoblastic leukaemia: results of the EORTC CLG 58881 and 58951 trials.	ETV6
-29046324	10.1530/EJE-17-0499	<i>ETV6-NTRK3</i> and <i>STRN-ALK</i> kinase fusions are recurrent events in papillary thyroid cancer of adult population.	ETV6
-29034503	10.1111/ejh.12981	Detection of a new heterozygous germline ETV6 mutation in a case with hyperdiploid acute lymphoblastic leukemia.	ETV6
-28972594	10.1038/leu.2017.303	RAS pathway mutations as a predictive biomarker for treatment adaptation in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
-28954346	10.3760/cma.j.issn.0253-2727.2017.08.006	[Clinical significance of monitoring ETV6-RUNX1 fusion gene expression in children with acute lymphoblastic leukemia after allogeneic hematopoietic stem cell transplantation].	ETV6
-28886309	10.14715/cmb/2017.63.8.4	The correlation between Pax5 deletion and patients survival in Iranian children with precursor B-cell acute lymphocytic leukemia.	ETV6
-28853218	10.1002/pbc.26786	Mutational status of NRAS, KRAS, and PTPN11 genes is associated with genetic/cytogenetic features in children with B-precursor acute lymphoblastic leukemia.	ETV6
-28819864	10.1007/s00018-017-2620-z	Molecular processes involved in B cell acute lymphoblastic leukaemia.	ETV6
-28810325	10.3760/cma.j.issn.0253-2727.2017.07.006	[Heterogeneity and clonal evolution in pediatric ETV6-RUNX1(+) acute lymphoblastic leukemia by quantitative multigene fluorescence in situ hybridization].	ETV6
-28806978	10.1186/s13045-017-0515-y	Transcriptome sequencing in pediatric acute lymphoblastic leukemia identifies fusion genes associated with distinct DNA methylation profiles.	ETV6
-28778863	10.1182/blood-2017-05-742643	New oncogenic subtypes in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
-28776427	10.1080/10428194.2017.1359742	ETV6 and NOTCH1 germline variants in adult acute leukemia.	ETV6
-28724437	10.1186/s12943-017-0692-x	The lncRNA CASC15 regulates SOX4 expression in RUNX1-rearranged acute leukemia.	ETV6
-28709134	10.1016/j.ejca.2017.06.012	BCR-ABL1-like acute lymphoblastic leukaemia: From bench to bedside.	ETV6
-28631637	10.4103/IJPM.IJPM_466_16	An integrated genomic profile that includes copy number alterations is highly predictive of minimal residual disease status in childhood precursor B-lineage acute lymphoblastic leukemia.	ETV6
-28630052	10.1158/0008-5472.CAN-17-0701	Infection Exposure Promotes <i>ETV6-RUNX1</i> Precursor B-cell Leukemia via Impaired H3K4 Demethylases.	ETV6
-28624474	10.1016/j.tiv.2017.06.013	""Exposure to the insecticides permethrin and malathion induces leukemia and lymphoma-associated gene aberrations in vitro"".	ETV6
-28557976	10.1038/bjc.2017.152	Mutations in TP53 and JAK2 are independent prognostic biomarkers in B-cell precursor acute lymphoblastic leukaemia.	ETV6
-28555414	10.1007/s12185-017-2259-4	Germline ETV6 mutations and predisposition to hematological malignancies.	ETV6
-28500740	10.1002/pbc.26518	Children with low-risk acute lymphoblastic leukemia are at highest risk of second cancers.	ETV6
-28487787	10.1155/2017/5083463	EBV-Negative Monomorphic B-Cell Posttransplant Lymphoproliferative Disorder with Marked Morphologic Pleomorphism and Pathogenic Mutations in <i>ASXL1</i>, <i>BCOR</i>, <i>CDKN2A</i>, <i>NF1</i>, and <i>TP53</i>.	ETV6
-28476198	10.1016/j.arcmed.2016.12.002	Copy Number Alterations Associated with Acute Lymphoblastic Leukemia in Mexican Children. A report from The Mexican Inter-Institutional Group for the identification of the causes of childhood leukemia.	ETV6
-28476192	10.1016/j.arcmed.2016.12.005	Gene Expression Profiling of Acute Lymphoblastic Leukemia in Children with Very Early Relapse.	ETV6
-28418909	10.18632/oncotarget.16367	Pathogenesis of ETV6/RUNX1-positive childhood acute lymphoblastic leukemia and mechanisms underlying its relapse.	ETV6
-28415763	10.18632/oncotarget.16211	Low numbers of pre-leukemic fusion genes are frequently present in umbilical cord blood without affecting DNA damage response.	ETV6
-28408464	10.1182/blood-2016-12-758979	Targetable kinase gene fusions in high-risk B-ALL: a study from the Children's Oncology Group.	ETV6
-28401483	10.1007/s12032-017-0940-3	Molecular profiling of gene copy number abnormalities in key regulatory genes in high-risk B-lineage acute lymphoblastic leukemia: frequency and their association with clinicopathological findings in Indian patients.	ETV6
-28395118	10.1002/gcc.22464	ETV6/RUNX1-like acute lymphoblastic leukemia: A novel B-cell precursor leukemia subtype associated with the CD27/CD44 immunophenotype.	ETV6
-28299660	10.1007/978-981-10-3233-2_14	ETV6-RUNX1 <sup>+</sup> Acute Lymphoblastic Leukaemia in Identical Twins.	ETV6
-28272805	10.1111/bjh.14579	Early thymic precursor-like lymphomatous presentation of the ETV6-NCOA2 translocation.	ETV6
-28256570	10.1038/modpathol.2017.12	Recurrent BCOR internal tandem duplication and BCOR or BCL6 expression distinguish primitive myxoid mesenchymal tumor of infancy from congenital infantile fibrosarcoma.	ETV6
-28219927	10.15252/embj.201695495	Molecular role of the PAX5-ETV6 oncoprotein in promoting B-cell acute lymphoblastic leukemia.	ETV6
-28202519	10.1158/0008-5472.CAN-16-2571	Correlates of Prenatal and Early-Life Tobacco Smoke Exposure and Frequency of Common Gene Deletions in Childhood Acute Lymphoblastic Leukemia.	ETV6
-28063722	10.1016/j.jfma.2016.12.002	Concordance of two approaches in monitoring of minimal residual disease in B-precursor acute lymphoblastic leukemia: Fusion transcripts and leukemia-associated immunophenotypes.	ETV6
-28063378	10.1016/j.leukres.2016.12.005	Overexpression of PTP4A3 in ETV6-RUNX1 acute lymphoblastic leukemia.	ETV6
-28004528	10.1111/ijlh.12593	Minimal residual disease monitoring in childhood B lymphoblastic leukemia with t(12;21)(p13;q22); ETV6-RUNX1: concordant results using quantitation of fusion transcript and flow cytometry.	ETV6
-27900092	10.3892/mco.2016.1008	Primary orbital precursor T-cell lymphoblastic lymphoma: Report of a unique case.	ETV6
-27620872	10.1101/gr.193649.115	Genome-wide repression of eRNA and target gene loci by the ETV6-RUNX1 fusion in acute leukemia.	ETV6
-27802191	10.3233/CBM-160656	Molecular combing: A new tool in diagnosing leukemia.	ETV6
-27365488	10.3324/haematol.2016.147496	Clinical and pathogenic features of ETV6-related thrombocytopenia with predisposition to acute lymphoblastic leukemia.	ETV6
-27698447	10.1038/leu.2016.274	Long-term outcome of 6-month maintenance chemotherapy for acute lymphoblastic leukemia in children.	ETV6
-27775641	10.3390/ijms17101759	Genetic Heterogeneity of HER2 Amplification and Telomere Shortening in Papillary Thyroid Carcinoma.	ETV6
-27683100	10.1002/cncr.30257	The treatment of childhood acute lymphoblastic leukemia in Guatemala: Biologic features, treatment hurdles, and results.	ETV6
-27664585	10.1016/j.gene.2016.09.030	Characterization of a novel acquired der(1)del(1)(p13p31)t(1;15)(q42;q15) in a high risk t(12;21)-positive acute lymphoblastic leukemia.	ETV6
-27650541	10.18632/oncotarget.12063	Unique long non-coding RNA expression signature in ETV6/RUNX1-driven B-cell precursor acute lymphoblastic leukemia.	ETV6
-27632978	10.1186/s13000-016-0541-z	Multiplexed automated digital quantification of fusion transcripts: comparative study with fluorescent in-situ hybridization (FISH) technique in acute leukemia patients.	ETV6
-27611867	10.1371/journal.pone.0162638	The Expression Pattern of the Pre-B Cell Receptor Components Correlates with Cellular Stage and Clinical Outcome in Acute Lymphoblastic Leukemia.	ETV6
-27590521	10.18632/oncotarget.11773	Deep targeted sequencing in pediatric acute lymphoblastic leukemia unveils distinct mutational patterns between genetic subtypes and novel relapse-associated genes.	ETV6
-27560110	10.1038/leu.2016.234	Clinical impact of minimal residual disease in children with different subtypes of acute lymphoblastic leukemia treated with Response-Adapted therapy.	ETV6
-27540136	10.3324/haematol.2016.149740	CLIC5: a novel ETV6 target gene in childhood acute lymphoblastic leukemia.	ETV6
-27536776	10.1371/journal.pone.0161539	Gene Signature of High White Blood Cell Count in B-Precursor Acute Lymphoblastic Leukemia.	ETV6
-27506214	10.4143/crt.2016.211	Outcome and Prognostic Factors for <i>ETV6/RUNX1</i> Positive Pediatric Acute Lymphoblastic Leukemia Treated at a Single Institution in Korea.	ETV6
-27498737	10.11406/rinketsu.57.900	Familial acute lymphoblastic leukemia.	ETV6
-27431763	10.7554/eLife.13087	Transcription-coupled genetic instability marks acute lymphoblastic leukemia structural variation hotspots.	ETV6
-27393278	10.1007/s12185-016-2034-y	Prognostic impact of RUNX1 and ETV6 gene copy number on pediatric B-cell precursor acute lymphoblastic leukemia with or without hyperdiploidy.	ETV6
-27374714	10.3343/alm.2016.36.5.475	Frequency and Clinical Characteristics of Intrachromosomal Amplification of Chromosome 21 in Korean Childhood B-lineage Acute Lymphoblastic Leukemia.	ETV6
-27341996	10.1016/j.cancergen.2016.06.004	Chromosomal aberrations in childhood acute lymphoblastic leukemia: 15-year single center experience.	ETV6
-27339065	10.1080/10428194.2016.1193855	Gene copy number alteration profile and its clinical correlation in B-cell acute lymphoblastic leukemia.	ETV6
-27265895	10.1038/ncomms11790	Identification of ETV6-RUNX1-like and DUX4-rearranged subtypes in paediatric B-cell precursor acute lymphoblastic leukaemia.	ETV6
-27259007	10.1097/PAS.0000000000000677	ETV6-NTRK3 Is Expressed in a Subset of ALK-Negative Inflammatory Myofibroblastic Tumors.	ETV6
-27239736	10.1016/j.leukres.2016.05.009	Defining the significance of IGF2BP1 overexpression in t(12;21)(p13;q22)-positive leukemia REH cells.	ETV6
-27215399	10.1016/j.yexmp.2016.05.010	Oligo-based aCGH analysis reveals cryptic unbalanced der(6)t(X;6) in pediatric t(12;21)-positive acute lymphoblastic leukemia.	ETV6
-27181063	10.1016/j.exphem.2016.04.011	Comprehensive genomic analysis reveals FLT3 activation and a therapeutic strategy for a patient with relapsed adult B-lymphoblastic leukemia.	ETV6
-27161658	10.1016/j.jmoldx.2016.03.004	Genome-Wide Single-Nucleotide Polymorphism Array Analysis Improves Prognostication of Acute Lymphoblastic Leukemia/Lymphoma.	ETV6
-27151989	10.3324/haematol.2016.143875	Deletions of the long arm of chromosome 5 define subgroups of T-cell acute lymphoblastic leukemia.	ETV6
-27058227	10.1038/bcj.2016.11	Myeloproliferative neoplasm with eosinophilia and T-lymphoblastic lymphoma with ETV6-LYN gene fusion.	ETV6
-27033238	10.3324/haematol.2015.141101	New and emerging prognostic and predictive genetic biomarkers in B-cell precursor acute lymphoblastic leukemia.	ETV6
-26957068	10.3760/cma.j.issn.0578-1310.2016.03.011	[Copy number variations in pediatric ETV6/RUNX1 positive acute lymphoblastic leukemia].	ETV6
-26919255	10.18632/oncotarget.7687	Cooperation of ETV6/RUNX1 and BCL2 enhances immunoglobulin production and accelerates glomerulonephritis in transgenic mice.	ETV6
-26883104	10.18632/oncotarget.7356	Prognostic and therapeutic role of targetable lesions in B-lineage acute lymphoblastic leukemia without recurrent fusion genes.	ETV6
-26852652	10.1016/j.bcmd.2015.11.006	ETV6/RUNX1 transcript is a target of RNA-binding protein IGF2BP1 in t(12;21)(p13;q22)-positive acute lymphoblastic leukemia.	ETV6
-26785729	10.1074/mcp.M115.054593	High-resolution Antibody Array Analysis of Childhood Acute Leukemia Cells.	ETV6
-26781410		[Detection of copy number variations in pediatric ETV6/RUNX1-positive acute lymphoblastic leukemia with multiplex ligation-dependent probe amplification].	ETV6
-26711002	10.1002/cam4.579	Determination of ETV6-RUNX1 genomic breakpoint by next-generation sequencing.	ETV6
-26693794	10.3109/10428194.2015.1115041	Genetic predisposition to myelodysplastic syndrome and acute myeloid leukemia in children and young adults.	ETV6
-26647767	10.1111/his.12910	ALK, ROS1 and NTRK3 gene rearrangements in inflammatory myofibroblastic tumours.	ETV6
-26625756	10.7314/apjcp.2015.16.17.7523	Low Frequency of ETV6-RUNX1 (t 12; 21) in Saudi Arabian Pediatric Acute Lymphoblastic Leukemia Patients: Association with Clinical Parameters and Early Remission.	ETV6
-26580398	10.1371/journal.pone.0142863	A Double Negative Loop Comprising ETV6/RUNX1 and MIR181A1 Contributes to Differentiation Block in t(12;21)-Positive Acute Lymphoblastic Leukemia.	ETV6
-26573422	10.1038/nrclinonc.2015.211	Haematological cancer: ETV6 germline mutation - a risk for ALL.	ETV6
-26522332	10.1016/S1470-2045(15)00369-1	Germline genetic variation in ETV6 and risk of childhood acute lymphoblastic leukaemia: a systematic genetic study.	ETV6
-26520622	10.1016/j.leukres.2015.10.006	Preserved global histone H4 acetylation linked to ETV6-RUNX1 fusion and PAX5 deletions is associated with favorable outcome in pediatric B-cell progenitor acute lymphoblastic leukemia.	ETV6
-26514535	10.7314/apjcp.2015.16.16.7343	Importance of FISH combined with Morphology, Immunophenotype and Cytogenetic Analysis of Childhood/ Adult Acute Lymphoblastic Leukemia in Omani Patients.	ETV6
-26429121	10.4081/pmc.2015.112	Mitotic crossover promotes leukemogenesis in children born with TEL-AML1 via the generation of loss of heterozygosity at 12p.	ETV6
-26327566	10.3109/10428194.2015.1088650	Genetic alterations in glucocorticoid signaling pathway components are associated with adverse prognosis in children with relapsed ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
-26277549	10.1016/j.cancergen.2015.06.003	Frequency of copy number abnormalities in common genes associated with B-cell precursor acute lymphoblastic leukemia cytogenetic subtypes in Brazilian children.	ETV6
-26269126	10.1186/s12885-015-1586-1	Somatic drivers of B-ALL in a model of ETV6-RUNX1; Pax5(+/-) leukemia.	ETV6
-26266519	10.1007/s40291-015-0149-0	High frequency and poor prognosis of late childhood BCR-ABL-positive and MLL-AF4-positive ALL define the need for advanced molecular diagnostics and improved therapeutic strategies in pediatric B-ALL in Pakistan.	ETV6
-26237075	10.1080/15592294.2015.1061174	Epigenetic landscape correlates with genetic subtype but does not predict outcome in childhood acute lymphoblastic leukemia.	ETV6
-26185316	10.1309/AJCPVY5E5OMMYBFJ	Heterogeneity of Abnormal RUNX1 Leading to Clinicopathologic Variations in Childhood B-Lymphoblastic Leukemia.	ETV6
-26137961	10.3324/haematol.2015.126953	CD200/BTLA deletions in pediatric precursor B-cell acute lymphoblastic leukemia treated according to the EORTC-CLG 58951 protocol.	ETV6
-26102509	10.1371/journal.pgen.1005262	Germline ETV6 Mutations Confer Susceptibility to Acute Lymphoblastic Leukemia and Thrombocytopenia.	ETV6
-25982135	10.1002/pbc.25583	Clinical features and induction outcome of childhood acute lymphoblastic leukemia in a lower/middle income population: A multi-institutional report from Pakistan.	ETV6
-25948177	10.7534/j.issn.1009-2137.2015.02.004	[Cytogenetic characteristics of 163 children with acute lymphoblastic leukemia].	ETV6
-25807284	10.1038/ng.3253	Germline mutations in ETV6 are associated with thrombocytopenia, red cell macrocytosis and predisposition to lymphoblastic leukemia.	ETV6
-25764068	10.1371/journal.pone.0119256	Neonatal infection with species C adenoviruses confirmed in viable cord blood lymphocytes.	ETV6
-25706938	10.1002/gcc.22246	A population-based single nucleotide polymorphism array analysis of genomic aberrations in younger adult acute lymphoblastic leukemia patients.	ETV6
-25692130	10.1155/2014/210560	Prevalence of gene rearrangements in Mexican children with acute lymphoblastic leukemia: a population study-report from the Mexican Interinstitutional Group for the identification of the causes of childhood leukemia.	ETV6
-25678190	10.1016/j.cancergen.2014.11.003	Integration of cytogenomic data for furthering the characterization of pediatric B-cell acute lymphoblastic leukemia: a multi-institution, multi-platform microarray study.	ETV6
-25595912	10.18632/oncotarget.2807	LCK over-expression drives STAT5 oncogenic signaling in PAX5 translocated BCP-ALL patients.	ETV6
-25388957	10.1038/leu.2014.322	Clonal origins of ETV6-RUNX1⁺ acute lymphoblastic leukemia: studies in monozygotic twins.	ETV6
-25373509	10.3109/10428194.2014.982643	ETV6/ARG oncoprotein confers autonomous cell growth by enhancing c-Myc expression via signal transducer and activator of transcription 5 activation in the acute promyelocytic leukemia cell line HT93A.	ETV6
-25368826	10.3343/alm.2014.34.6.475	A cryptic ETV6/ABL1 rearrangement represents a unique fluorescence in situ hybridization signal pattern in a patient with B acute lymphoblastic leukemia.	ETV6
-25355294	10.1002/humu.22719	The mutational landscape in pediatric acute lymphoblastic leukemia deciphered by whole genome sequencing.	ETV6
-25312094	10.1111/bjh.13142	Persistent MRD before and after allogeneic BMT predicts relapse in children with acute lymphoblastic leukaemia.	ETV6
-25298122	10.1038/srep06565	Identification and characterization of OSTL (RNF217) encoding a RING-IBR-RING protein adjacent to a translocation breakpoint involving ETV6 in childhood ALL.	ETV6
-25273558	10.1091/mbc.E14-06-1038	Predicting interactome network perturbations in human cancer: application to gene fusions in acute lymphoblastic leukemia.	ETV6
-25261097	10.3324/haematol.2014.112912	Novel gene targets detected by genomic profiling in a consecutive series of 126 adults with acute lymphoblastic leukemia.	ETV6
-25207766	10.1056/NEJMoa1403088	Targetable kinase-activating lesions in Ph-like acute lymphoblastic leukemia.	ETV6
-25150625	10.1016/j.bcmd.2014.07.011	Concordant B-cell precursor acute lymphoblastic leukemia in non-twinned siblings.	ETV6
-25137060	10.1371/journal.pone.0104419	Genomic inverse PCR for exploration of ligated breakpoints (GIPFEL), a new method to detect translocations in leukemia.	ETV6
-24998463	10.1016/j.cancergen.2014.05.003	High frequency of BTG1 deletions in patients with BCR-ABL1-positive acute leukemia.	ETV6
-24975316	10.3109/10428194.2014.938330	Imatinib non-responsive chronic eosinophilic leukemia with ETV6-PDGFRA fusion gene.	ETV6
-24970810	10.18632/oncotarget.2080	Mutational analysis of primary central nervous system lymphoma.	ETV6
-24957142	10.1182/blood-2014-03-562918	A novel integrated cytogenetic and genomic classification refines risk stratification in pediatric acute lymphoblastic leukemia.	ETV6
-24913195	10.1111/bjh.12963	Should myeloid and lymphoid neoplasms with PCM1-JAK2 and other rearrangements of JAK2 be recognized as specific entities?	ETV6
-24897505	10.1038/leu.2014.177	Evolutionary trajectories of hyperdiploid ALL in monozygotic twins.	ETV6
-24886876	10.1186/1756-8722-7-43	Polymorphisms in microRNA target sites modulate risk of lymphoblastic and myeloid leukemias and affect microRNA binding.	ETV6
-24816234	10.3324/haematol.2014.103820	IGH@ translocations co-exist with other primary rearrangements in B-cell precursor acute lymphoblastic leukemia.	ETV6
-24790906	10.3343/alm.2014.34.3.198	Diagnostic utility of multiprobe fluorescence in situ hybridization assay for detecting cytogenetic aberrations in acute leukemia.	ETV6
-24740533	10.1002/pbc.25050	False positivity of ETV6/RUNX1 detected by FISH in healthy newborns and adults.	ETV6
-24648275	10.1002/pbc.25031	Childhood acute lymphoblastic leukemia in the Middle East and neighboring countries: a prospective multi-institutional international collaborative study (CALLME1) by the Middle East Childhood Cancer Alliance (MECCA).	ETV6
-24596209	10.1158/2159-8290.CD-RW2014-018	ETV6-RUNX1-positive ALL may be driven by aberrant RAG activity.	ETV6
-24577543	10.1097/MPH.0000000000000119	Novel t(2;12)(q31;p13) in a case of pediatric T-cell acute lymphoblastic leukemia.	ETV6
-24557455	10.1159/000356778	ETV6/RUNX1 rearrangement identified by RT-PCR without evidence on FISH.	ETV6
-24473322	10.1038/ng.2879	A RAG driver on the road to pediatric ALL.	ETV6
-24413735	10.1038/ng.2874	RAG-mediated recombination is the predominant driver of oncogenic rearrangement in ETV6-RUNX1 acute lymphoblastic leukemia.	ETV6
-24394348	10.4161/epi.27585	Epigenetic deregulation in pediatric acute lymphoblastic leukemia.	ETV6
-24345752	10.1182/blood-2013-10-531509	A targeted mutational landscape of angioimmunoblastic T-cell lymphoma.	ETV6
-24339741	10.1593/neo.131310	ETV6/RUNX1 induces reactive oxygen species and drives the accumulation of DNA damage in B cells.	ETV6
-24319172	10.1182/asheducation-2013.1.118	Targeting signaling pathways in acute lymphoblastic leukemia: new insights.	ETV6
-24318592	10.1007/s00277-013-1975-y	Extramedullary T-lymphoid blast crisis of an ETV6/ABL1-positive myeloproliferative neoplasm with t(9;12)(q34;p13) and t(7;14)(p13;q11.2).	ETV6
-24241490	10.3324/haematol.2012.072470	Copy number genome alterations are associated with treatment response and outcome in relapsed childhood ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
-24240203	10.1038/leu.2013.345	Blocking ETV6/RUNX1-induced MDM2 overexpression by Nutlin-3 reactivates p53 signaling in childhood leukemia.	ETV6
-24235135	10.1182/blood-2013-07-453480	How I treat ALL in Down's syndrome: pathobiology and management.	ETV6
-24231528	10.1016/j.leukres.2013.10.008	Significance of CD66c expression in childhood acute lymphoblastic leukemia.	ETV6
-24222333	10.1182/blood-2013-06-509463	Acute lymphoblastic leukemia in children with Down syndrome: a retrospective analysis from the Ponte di Legno study group.	ETV6
-24188477	10.3109/10428194.2013.861071	Clinical outcome of the coexistence of ETV6/RUNX1 and high hyperdiploidy in pediatric acute lymphoblastic leukemia.	ETV6
-24166298	10.1038/leu.2013.317	An international study of intrachromosomal amplification of chromosome 21 (iAMP21): cytogenetic characterization and outcome.	ETV6
-24081948	10.1084/jem.20130497	Aberrant ZNF423 impedes B cell differentiation and is linked to adverse outcome of ETV6-RUNX1 negative B precursor acute lymphoblastic leukemia.	ETV6
-24076604	10.1038/ng.2777	Global chromatin profiling reveals NSD2 mutations in pediatric acute lymphoblastic leukemia.	ETV6
-24045615	10.1093/hmg/ddt447	Frequent and sex-biased deletion of SLX4IP by illegitimate V(D)J-mediated recombination in childhood acute lymphoblastic leukemia.	ETV6
-24006408	10.3324/haematol.2013.090860	Clone-specific secondary aberrations are not detected in neonatal blood spots of children with ETV6-RUNX1-positive leukemia.	ETV6
-23940019	10.1002/pbc.24584	Clinical characteristics and treatment outcome of childhood acute lymphoblastic leukemia in Saudi Arabia: a multi-institutional retrospective national collaborative study.	ETV6
-23915977	10.1016/j.leukres.2013.06.027	MiR-125b, miR-100 and miR-99a co-regulate vincristine resistance in childhood acute lymphoblastic leukemia.	ETV6
-23911702	10.3324/haematol.2013.090225	High CD45 surface expression determines relapse risk in children with precursor B-cell and T-cell acute lymphoblastic leukemia treated according to the ALL-BFM 2000 protocol.	ETV6
-23873282	10.1007/s00277-013-1843-9	Successful allogeneic stem cell transplantation with long-term remission of ETV6/FLT3-positive myeloid/lymphoid neoplasm with eosinophilia.	ETV6
-23859904	10.1016/j.cancergen.2013.05.017	Frequency of the ETV6-RUNX1, BCR-ABL1, TCF3-PBX1, and MLL-AFF1 fusion genes in Guatemalan pediatric acute lymphoblastic leukemia patients and their ethnic associations.	ETV6
-23772667	10.3109/10428194.2013.814127	Pathogenetic role of ETV6 fusion gene in leukemic transformation of myelodysplastic syndrome refractory anemia with excess blasts-1 with a new, rare translocation t(11;19)(q24.3;q13.12) and insertion ins(6;12)(p22.3p13).	ETV6
-23722552	10.1158/0008-5472.CAN-12-4367	Integration of high-resolution methylome and transcriptome analyses to dissect epigenomic changes in childhood acute lymphoblastic leukemia.	ETV6
-23716539	10.3324/haematol.2012.080432	Clinico-biological features of 5202 patients with acute lymphoblastic leukemia enrolled in the Italian AIEOP and GIMEMA protocols and stratified in age cohorts.	ETV6
-23710385	10.1155/2013/652745	Clonal Hypereosinophilia with ETV6 Rearrangement Evolving to T-Cell Lymphoblastic Lymphoma: A Case Report and Review of the Literature.	ETV6
-23694795		Hemophagocytosis by leukemic blasts in B lymphoblastic leukemia with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1): a case report.	ETV6
-23636228	10.1038/leu.2013.136	Long-term follow-up of ETV6-RUNX1 ALL reveals that NCI risk, rather than secondary genetic abnormalities, is the key risk factor.	ETV6
-23603912	10.1182/blood-2012-11-465138	Whole-exome sequencing in adult ETP-ALL reveals a high rate of DNMT3A mutations.	ETV6
-23491079	10.1016/j.cancergen.2013.01.004	Simultaneous occurrence of ETV6-RUNX1 and BCR-ABL1 (e1a2) transcripts in a child with B-cell acute lymphoblastic leukemia.	ETV6
-23488608	10.3109/10428194.2013.786068	The ETV6/RUNX1 fusion transcript is not detected in RNA isolated from neonatal dried blood spots from children later diagnosed with the corresponding leukemia.	ETV6
-23317202	10.7314/apjcp.2012.13.11.5469	Five most common prognostically important fusion oncogenes are detected in the majority of Pakistani pediatric acute lymphoblastic leukemia patients and are strongly associated with disease biology and treatment outcome.	ETV6
-23276184	10.5858/arpa.2011-0429-CR	Burkitt lymphoma arising from lymphoplasmacytic lymphoma following acquisition of MYC translocation and loss of the ETV6 tumor suppressor gene.	ETV6
-23233609	10.1182/asheducation-2012.1.389	The molecular genetic makeup of acute lymphoblastic leukemia.	ETV6
-23210573	10.3109/10428194.2012.754888	Detection and clinical significance of gene rearrangements in Chinese patients with adult acute lymphoblastic leukemia.	ETV6
-23190578	10.1111/ijlh.12031	Interphase-FISH screening for eight common rearrangements in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
-23171811	10.1159/000342490	Variant of ETV6/ABL1 gene is associated with leukemia phenotype.	ETV6
-23135987	10.1002/stem.1277	TEL (ETV6)-AML1 (RUNX1) initiates self-renewing fetal pro-B cells in association with a transcriptional program shared with embryonic stem cells in mice.	ETV6
-23077088	10.1002/gcc.22021	Abnormalities of the der(12)t(12;21) in ETV6-RUNX1 acute lymphoblastic leukemia.	ETV6
-22994759	10.7314/apjcp.2012.13.7.3349	Prognostically significant fusion oncogenes in Pakistani patients with adult acute lymphoblastic leukemia and their association with disease biology and outcome.	ETV6
-22976839	10.1007/s10552-012-0060-5	NQO1 rs1800566 (C609T), PON1 rs662 (Q192R), and PON1 rs854560 (L55M) polymorphisms segregate the risk of childhood acute leukemias according to age range distribution.	ETV6
-22897724	10.3109/10428194.2012.710330	Gene expression pattern contributing to prognostic factors in childhood acute lymphoblastic leukemia.	ETV6
-22851563	10.1200/JCO.2011.40.3907	IGH@ translocations, CRLF2 deregulation, and microdeletions in adolescents and adults with acute lymphoblastic leukemia.	ETV6
-22848414	10.1371/journal.pone.0040934	IKAROS deletions dictate a unique gene expression signature in patients with adult B-cell acute lymphoblastic leukemia.	ETV6
-22734863	10.3109/10428194.2012.706288	Identification of NIPBL, a new ETV6 partner gene in t(5;12) (p13;p13)-associated acute megakaryoblastic leukemia.	ETV6
-22733019	10.3324/haematol.2012.064659	Alternative TEL-JAK2 fusions associated with T-cell acute lymphoblastic leukemia and atypical chronic myelogenous leukemia dissected in zebrafish.	ETV6
-22705992	10.1038/leu.2012.161	Prognostic significance of FLT3 mutational status and expression levels in MLL-AF4+ and MLL-germline acute lymphoblastic leukemia.	ETV6
-22699455	10.1038/leu.2012.155	Prognostic value of genetic alterations in children with first bone marrow relapse of childhood B-cell precursor acute lymphoblastic leukemia.	ETV6
-22580999	10.3324/haematol.2011.059584	Excellent prognosis of late relapses of ETV6/RUNX1-positive childhood acute lymphoblastic leukemia: lessons from the FRALLE 93 protocol.	ETV6
-22534638	10.1097/DAD.0b013e31824d689c	Alpha-interferon secreting blastic plasmacytoid dendritic cells neoplasm: a case report with histological, molecular genetics and long-term tumor cells culture studies.	ETV6
-22531296	10.4161/epi.20193	A distinct DNA methylation signature defines pediatric pre-B cell acute lymphoblastic leukemia.	ETV6
-22528566	10.1007/s12253-012-9533-9	Six cases of rare gene amplifications and multiple copy of fusion gene in childhood acute lymphoblastic leukemia.	ETV6
-22521551	10.1016/j.leukres.2012.03.024	Additional aberrations of the ETV6 and RUNX1 genes have no prognostic impact in 229 t(12;21)(p13;q22)-positive B-cell precursor acute lymphoblastic leukaemias treated according to the NOPHO-ALL-2000 protocol.	ETV6
-22450142	10.1556/OH.2012.29334	[Leukemia- and lymphoma-associated flow cytometric, cytogenetic, and molecular genetic aberrations in healthy individuals].	ETV6
-22404039	10.1111/j.1365-2141.2012.09083.x	Genome-wide analysis of cytogenetic aberrations in ETV6/RUNX1-positive childhood acute lymphoblastic leukaemia.	ETV6
-22382891	10.1038/leu.2012.26	Newly diagnosed acute lymphoblastic leukemia in China (I): abnormal genetic patterns in 1346 childhood and adult cases and their comparison with the reports from Western countries.	ETV6
-22373549	10.1007/s00277-012-1431-4	Detection of ETV6 gene rearrangements in adult acute lymphoblastic leukemia.	ETV6
-22359517	10.1371/journal.pgen.1002533	The origin and nature of tightly clustered BTG1 deletions in precursor B-cell acute lymphoblastic leukemia support a model of multiclonal evolution.	ETV6
-22260162	10.3109/10428194.2012.658570	Clinical impact of in vitro cellular drug resistance on childhood acute lymphoblastic leukemia in Taiwan.	ETV6
-22237106	10.1038/nature10725	The genetic basis of early T-cell precursor acute lymphoblastic leukaemia.	ETV6
-22226019	10.1016/j.leukres.2011.12.003	RT-PCR diagnosis of recurrent rearrangements in pediatric acute lymphoblastic leukemia in Argentina.	ETV6
-22217495	10.1097/MPH.0b013e3182332268	RT-PCR screening for ETV6-RUNX1-positive clones in cord blood from newborns in the Danish National Birth Cohort.	ETV6
-22162831	10.1084/jem.20112239	ETV6 mutations in early immature human T cell leukemias.	ETV6
-22094587	10.1038/leu.2011.322	Silencing of ETV6/RUNX1 abrogates PI3K/AKT/mTOR signaling and impairs reconstitution of leukemia in xenografts.	ETV6
-22094584	10.1038/leu.2011.333	Whole-exome sequencing of pediatric acute lymphoblastic leukemia.	ETV6
-22076464	10.1038/leu.2011.302	Identification of germline susceptibility loci in ETV6-RUNX1-rearranged childhood acute lymphoblastic leukemia.	ETV6
-22072402	10.1002/gcc.20944	High frequency of BTG1 deletions in acute lymphoblastic leukemia in children with down syndrome.	ETV6
-22058208	10.3324/haematol.2011.049593	Epigenetic inactivation of TWIST2 in acute lymphoblastic leukemia modulates proliferation, cell survival and chemosensitivity.	ETV6
-22050763	10.1111/j.1365-2141.2011.08918.x	PRDM16 (1p36) translocations define a distinct entity of myeloid malignancies with poor prognosis but may also occur in lymphoid malignancies.	ETV6
-22028862	10.1371/journal.pone.0026348	The leukemia-specific fusion gene ETV6/RUNX1 perturbs distinct key biological functions primarily by gene repression.	ETV6
-22005784	10.1038/leu.2011.274	High concordance of subtypes of childhood acute lymphoblastic leukemia within families: lessons from sibships with multiple cases of leukemia.	ETV6
-21914494	10.1016/j.exphem.2011.08.014	hTERT promoter methylation and telomere length in childhood acute lymphoblastic leukemia: associations with immunophenotype and cytogenetic subgroup.	ETV6
-21882283	10.1002/gcc.20919	Microarray-based genomic profiling as a diagnostic tool in acute lymphoblastic leukemia.	ETV6
-21877899	10.3109/10428194.2011.618235	Update on cytogenetic and molecular changes in myelodysplastic syndromes.	ETV6
-21869842	10.1038/leu.2011.227	ETV6-RUNX1-positive childhood acute lymphoblastic leukemia: improved outcome with contemporary therapy.	ETV6
-21822204	10.1038/modpathol.2011.118	Pediatric B-lymphoblastic leukemia with RUNX1 amplification: clinicopathologic study of eight cases.	ETV6
-21765475	10.1038/onc.2011.291	Dominant-negative mechanism of leukemogenic PAX5 fusions.	ETV6
-21720744	10.1007/s00277-011-1289-x	Phenotypic and genetic characterization of adult T-cell acute lymphoblastic leukemia with del(9)(q34);SET-NUP214 rearrangement.	ETV6
-21705501	10.1182/blood-2011-03-343426	Response of ETV6-FLT3-positive myeloid/lymphoid neoplasm with eosinophilia to inhibitors of FMS-like tyrosine kinase 3.	ETV6
-21680795	10.1182/blood-2011-03-341412	Key pathways are frequently mutated in high-risk childhood acute lymphoblastic leukemia: a report from the Children's Oncology Group.	ETV6
-21628403	10.1182/blood-2011-02-338848	Modeling the evolution of ETV6-RUNX1-induced B-cell precursor acute lymphoblastic leukemia in mice.	ETV6
-21569007	10.1111/j.1365-2141.2011.08729.x	Native ETV6 deletions accompanied by ETV6-RUNX1 rearrangements are associated with a favourable prognosis in childhood acute lymphoblastic leukaemia: a candidate for prognostic marker.	ETV6
-21549623	10.1016/j.bcmd.2011.04.003	PAX5 deletion is common and concurrently occurs with CDKN2A deletion in B-lineage acute lymphoblastic leukemia.	ETV6
-21527530	10.1182/blood-2011-01-329961	Genomic characterization implicates iAMP21 as a likely primary genetic event in childhood B-cell precursor acute lymphoblastic leukemia.	ETV6
-21482711	10.1182/blood-2010-10-314674	Clonal origins of relapse in ETV6-RUNX1 acute lymphoblastic leukemia.	ETV6
-21444869	10.1200/JCO.2010.32.5340	Shortening infusion time for high-dose methotrexate alters antileukemic effects: a randomized prospective clinical trial.	ETV6
-21414819	10.1016/j.bcmd.2011.02.005	Identification of characteristic IGF2BP expression patterns in distinct B-ALL entities.	ETV6
-21312262	10.1002/gepi.20573	LOHAS: loss-of-heterozygosity analysis suite.	ETV6
-21224468	10.1182/blood-2010-03-275347	ETV6/RUNX1-positive relapses evolve from an ancestral clone and frequently acquire deletions of genes implicated in glucocorticoid signaling.	ETV6
-21212293	10.1182/blood-2010-09-309070	ETV6/RUNX1 (TEL/AML1) is a frequent prenatal first hit in childhood leukemia.	ETV6
-21172890	10.1200/JCO.2010.32.0325	Improved prognosis for older adolescents with acute lymphoblastic leukemia.	ETV6
-21160474	10.1038/nature09650	Genetic variegation of clonal architecture and propagating cells in leukaemia.	ETV6
-21156245	10.1016/j.cancergencyto.2010.08.004	B lymphoblastic leukemia with ETV6 amplification.	ETV6
-21152005	10.1371/journal.pcbi.1001019	Modeling mechanisms of in vivo variability in methotrexate accumulation and folate pathway inhibition in acute lymphoblastic leukemia cells.	ETV6
-21145270	10.1016/j.bcmd.2010.11.003	Febrile infections in young children do not frequently induce translocation ETV6-RUNX1.	ETV6
-21098271	10.1073/pnas.1006981107	Genetic landscape of high hyperdiploid childhood acute lymphoblastic leukemia.	ETV6
-21080443	10.1002/ijc.25769	Exposure to professional pest control treatments and the risk of childhood acute lymphoblastic leukemia.	ETV6
-21069786	10.1002/pbc.22679	The dual role of HLXB9 in leukemia.	ETV6
-20930648	10.1097/MPH.0b013e3181ed1655	Multiplex reverse transcription-polymerase chain reaction as diagnostic molecular screening of 4 common fusion chimeric genes in Taiwanese children with acute lymphoblastic leukemia.	ETV6
-20807887	10.1182/blood-2009-02-206706	TEL-AML1 regulation of survivin and apoptosis via miRNA-494 and miRNA-320a.	ETV6
-20806817		[ABL1, SRC and other non-receptor protein tyrosine kinases as new targets for specific anticancer therapy].	ETV6
-20804916	10.1016/j.cancergencyto.2010.07.121	ETV6-ARNT fusion in a patient with childhood T lymphoblastic leukemia.	ETV6
-20713965	10.1182/blood-2010-05-282764	Prevalence of t(12;21)[ETV6-RUNX1]-positive cells in healthy neonates.	ETV6
-20701601	10.1111/j.1365-2141.2010.08314.x	Detection of prognostically relevant genetic abnormalities in childhood B-cell precursor acute lymphoblastic leukaemia: recommendations from the Biology and Diagnosis Committee of the International Berlin-Frankfürt-Münster study group.	ETV6
-20658612	10.1002/pbc.22628	Frequencies of ETV6-RUNX1 fusion and hyperdiploidy in pediatric acute lymphoblastic leukemia are lower in far east than west.	ETV6
-20620598	10.1016/j.cancergencyto.2010.04.010	Distribution of common genetic subgroups in childhood acute lymphoblastic leukemia in four developing countries.	ETV6
-20618334	10.1111/j.1365-2141.2010.08323.x	A doctor(s) dilemma: ETV6-ABL1 positive acute lymphoblastic leukaemia.	ETV6
-20589932	10.1002/gcc.20796	Acute leukemias with ETV6/ABL1 (TEL/ABL) fusion: poor prognosis and prenatal origin.	ETV6
-20561032	10.1111/j.1600-0609.2010.01493.x	Childhood near-tetraploid acute lymphoblastic leukemia: an EGIL study on 36 cases.	ETV6
-20513752	10.1093/hmg/ddq224	The correlation pattern of acquired copy number changes in 164 ETV6/RUNX1-positive childhood acute lymphoblastic leukemias.	ETV6
-20442364	10.1182/blood-2009-07-235291	Down syndrome childhood acute lymphoblastic leukemia has a unique spectrum of sentinel cytogenetic lesions that influences treatment outcome: a report from the Children's Oncology Group.	ETV6
-20409752	10.1016/S1470-2045(10)70066-8	Prognostic effect of chromosomal abnormalities in childhood B-cell precursor acute lymphoblastic leukaemia: results from the UK Medical Research Council ALL97/99 randomised trial.	ETV6
-20211010	10.1186/1755-8794-3-6	Gene expression signatures in childhood acute leukemias are largely unique and distinct from those of normal tissues and other malignancies.	ETV6
-20197715	10.3343/kjlm.2010.30.1.1	[Prognostic significance of TEL/AML1 rearrangement and its additional genetic changes in Korean childhood precursor B-acute lymphoblastic leukemia].	ETV6
-20073070	10.1002/gcc.20743	ABL1 rearrangements in T-cell acute lymphoblastic leukemia.	ETV6
-20061556	10.1182/blood-2009-10-251413	Acquisition of genome-wide copy number alterations in monozygotic twins with acute lymphoblastic leukemia.	ETV6
-20042721	10.1182/blood-2009-09-235986	Immunoglobulin heavy chain locus chromosomal translocations in B-cell precursor acute lymphoblastic leukemia: rare clinical curios or potent genetic drivers?	ETV6
-20016538	10.1038/leu.2009.248	Long-term results of Taiwan Pediatric Oncology Group studies 1997 and 2002 for childhood acute lymphoblastic leukemia.	ETV6
-20016529	10.1038/leu.2009.264	Temporal changes in the incidence and pattern of central nervous system relapses in children with acute lymphoblastic leukaemia treated on four consecutive Medical Research Council trials, 1985-2001.	ETV6
-19998443	10.1002/gcc.20736	Cytogenetics of long-term survivors of ETV6-RUNX1 fusion positive acute lymphoblastic leukemia.	ETV6
-19963112	10.1016/j.cancergencyto.2009.07.002	A complex rearrangement involving cryptic deletion of ETV6 and CDKN1B genes in a case of childhood acute lymphoblastic leukemia.	ETV6
-19890372	10.1038/leu.2009.208	Hsa-mir-125b-2 is highly expressed in childhood ETV6/RUNX1 (TEL/AML1) leukemias and confers survival advantage to growth inhibitory signals independent of p53.	ETV6
-19837270	10.1016/j.cancergencyto.2009.06.013	Homozygous deletion of CDKN2A (p16, p14) and CDKN2B (p15) genes is a poor prognostic factor in adult but not in childhood B-lineage acute lymphoblastic leukemia: a comparative deletion and hypermethylation study.	ETV6
-19713226	10.3324/haematol.2009.011346	Clinical features and prognostic implications of TCF3-PBX1 and ETV6-RUNX1 in adult acute lymphoblastic leukemia.	ETV6
-19710699	10.1038/leu.2009.170	Characterizing chromosomal break points of t(12;21)[ETV6-RUNX1]-positive leukaemia using multiple tiling PCR on whole-genome-amplified DNA.	ETV6
-19679565	10.1093/hmg/ddp354	The DNA methylome of pediatric acute lymphoblastic leukemia.	ETV6
-19665068	10.1016/j.cancergencyto.2009.04.021	ETV6-RUNX1 fusion gene and additional genetic changes in infant leukemia: a genome-wide analysis.	ETV6
-19594616	10.1111/j.1600-0609.2009.01315.x	Interphase FISH on TEL/AML1 positive acute lymphoblastic leukemia relapses--analysis of clinical relevance of additional TEL and AML1 copy number changes.	ETV6
-19454491	10.3324/haematol.2008.000299	Overexpression of CD123 correlates with the hyperdiploid genotype in acute lymphoblastic leukemia.	ETV6
-19287094	10.1172/JCI36428	The TEL-AML1 leukemia fusion gene dysregulates the TGF-beta pathway in early B lineage progenitor cells.	ETV6
-19264230	10.1016/j.cancergencyto.2008.12.003	Involvement of der(12)t(12;21)(p13;q22) and as well as additional rearrangements of chromosome 12 homolog in ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
-19175693	10.1111/j.1582-4934.2008.00559.x	Molecular drug targets in myeloproliferative neoplasms: mutant ABL1, JAK2, MPL, KIT, PDGFRA, PDGFRB and FGFR1.	ETV6
-19147089	10.1016/j.bbmt.2008.10.010	Oncogenic signals as treatment targets in classic myeloproliferative neoplasms.	ETV6
-19135770	10.1016/j.exphem.2008.11.002	Long-term culture of primary human lymphoblastic leukemia cells in the absence of serum or hematopoietic growth factors.	ETV6
-19100516	10.1016/j.cancergencyto.2008.09.005	ETV6/RUNX1 fusion lacking prognostic effect in pediatric patients with acute lymphoblastic leukemia.	ETV6
-19081626	10.1016/j.leukres.2008.11.001	Cluster analysis of genomic ETV6-RUNX1 (TEL-AML1) fusion sites in childhood acute lymphoblastic leukemia.	ETV6
-19047175	10.1158/0008-5472.CAN-08-2139	Chromosome 12p deletions in TEL-AML1 childhood acute lymphoblastic leukemia are associated with retrotransposon elements and occur postnatally.	ETV6
-19010836	10.1158/1078-0432.CCR-07-5051	Role of the erythropoietin receptor in ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
-18992913	10.1016/j.humpath.2008.08.012	Diffuse large B-cell lymphoma with TEL/ETV6 translocation.	ETV6
-18927438	10.1182/blood-2008-08-170928	Specific JAK2 mutation (JAK2R683) and multiple gene deletions in Down syndrome acute lymphoblastic leukemia.	ETV6
-18838613	10.1182/blood-2008-07-166801	A comprehensive analysis of the CDKN2A gene in childhood acute lymphoblastic leukemia reveals genomic deletion, copy number neutral loss of heterozygosity, and association with specific cytogenetic subgroups.	ETV6
-18803328	10.1002/gcc.20616	Integration of genomic and gene expression data of childhood ALL without known aberrations identifies subgroups with specific genetic hallmarks.	ETV6
-18767247	10.4238/vol7-3gmr486	Leukemia/lymphoma-associated gene fusions in normal individuals.	ETV6
-18767146	10.1002/gcc.20613	The complex genomic profile of ETV6-RUNX1 positive acute lymphoblastic leukemia highlights a recurrent deletion of TBL1XR1.	ETV6
-18728978	10.1080/08880010802237450	RUNX1 aberrations in ETV6/RUNX1-positive and ETV6/RUNX1-negative patients: its hemato-pathological and prognostic significance in a large cohort (619 cases) of ALL.	ETV6
-18656693	10.1016/j.cancergencyto.2008.04.007	Deletion of 14q24.1 approximately q24.3 in a patient with acute lymphoblastic leukemia: a hidden chromosomal anomaly detected by array-based comparative genomic hybridization.	ETV6
-18656692	10.1016/j.cancergencyto.2008.05.001	Establishment and cytogenetic characterization of a human acute lymphoblastic leukemia cell line (ALL-VG) with ETV6/ABL1 rearrangement.	ETV6
-18617057	10.1016/j.cancergencyto.2008.04.003	Analysis of gene rearrangements using a fluorescence in situ hybridization method in Mexican patients with acute lymphoblastic leukemia: experience at a single institution.	ETV6
-18565891	10.1200/JCO.2008.16.1117	Minimal residual disease values discriminate between low and high relapse risk in children with B-cell precursor acute lymphoblastic leukemia and an intrachromosomal amplification of chromosome 21: the Austrian and German acute lymphoblastic leukemia Berlin-Frankfurt-Munster (ALL-BFM) trials.	ETV6
-18557744	10.1111/j.1365-2141.2008.07280.x	Array comparative genome hybridization analysis of acute lymphoblastic leukaemia and acute megakaryoblastic leukaemia in patients with Down syndrome.	ETV6
-18458336	10.1073/pnas.0800408105	Microdeletions are a general feature of adult and adolescent acute lymphoblastic leukemia: Unexpected similarities with pediatric disease.	ETV6
-18455790	10.1016/j.leukres.2008.03.021	BCR-ABL, ETV6-RUNX1 and E2A-PBX1: prevalence of the most common acute lymphoblastic leukemia fusion genes in Mexican patients.	ETV6
-18328947	10.1016/j.cancergencyto.2007.12.012	Coexistence of ETV6/RUNX1 and MLL aberrations in B-cell precursor acute lymphoblastic leukemia discloses a small subclass of BCP-ALL.	ETV6
-18297515	10.1080/10428190801895360	JAK and MPL mutations in myeloid malignancies.	ETV6
-18281529	10.1158/1078-0432.CCR-07-4022	ETV6-NCOA2: a novel fusion gene in acute leukemia associated with coexpression of T-lymphoid and myeloid markers and frequent NOTCH1 mutations.	ETV6
-18275435	10.1111/j.1365-2141.2007.06917.x	Array-CGH reveals hidden gene dose changes in children with acute lymphoblastic leukaemia and a normal or failed karyotype by G-banding.	ETV6
-18241254	10.1111/j.1365-2141.2008.06980.x	Outcome of ETV6/RUNX1-positive childhood acute lymphoblastic leukaemia in the NOPHO-ALL-1992 protocol: frequent late relapses but good overall survival.	ETV6
-18181181	10.1002/gcc.20537	Genetic lesions in a preleukemic aplasia phase in a child with acute lymphoblastic leukemia.	ETV6
-17976519	10.1016/j.exphem.2007.08.025	Numerical gain and structural rearrangements of JAK2, identified by FISH, characterize both JAK2617V&gt;F-positive and -negative patients with Ph-negative MPD, myelodysplasia, and B-lymphoid neoplasms.	ETV6
-17972957	10.1038/sj.leu.2404994	Disruption of ETV6 in intron 2 results in upregulatory and insertional events in childhood acute lymphoblastic leukaemia.	ETV6
-17956600	10.1186/1471-2164-8-385	Five distinct biological processes and 14 differentially expressed genes characterize TEL/AML1-positive leukemia.	ETV6
-17897302	10.1111/j.1365-2141.2007.06731.x	Identification of PML as novel PAX5 fusion partner in childhood acute lymphoblastic leukaemia.	ETV6
-17890455	10.1182/blood-2007-05-088310	Molecular allelokaryotyping of pediatric acute lymphoblastic leukemias by high-resolution single nucleotide polymorphism oligonucleotide genomic microarray.	ETV6
-17889709	10.1016/j.cancergencyto.2007.05.019	Prevalence of ETV6-RUNX1 fusion gene in children with acute lymphoblastic leukemia in China.	ETV6
-17854676	10.1016/j.cancergencyto.2007.05.012	Presenting features of 201 children with acute lymphoblastic leukemia: comparison according to presence or absence of ETV6/RUNX1 rearrangement.	ETV6
-17690704	10.1038/sj.leu.2404879	Combined high-resolution array-based comparative genomic hybridization and expression profiling of ETV6/RUNX1-positive acute lymphoblastic leukemias reveal a high incidence of cryptic Xq duplications and identify several putative target genes within the commonly gained region.	ETV6
-17622527	10.1007/s00262-007-0349-5	HLA-DPB1 supertype-associated protection from childhood leukaemia: relationship to leukaemia karyotype and implications for prevention.	ETV6
-17443227	10.1038/sj.leu.2404691	High-resolution genomic profiling of childhood ALL reveals novel recurrent genetic lesions affecting pathways involved in lymphocyte differentiation and cell cycle progression.	ETV6
-17374122	10.1111/j.1349-7006.2007.00443.x	Genetic abnormalities involved in t(12;21) TEL-AML1 acute lymphoblastic leukemia: analysis by means of array-based comparative genomic hybridization.	ETV6
-17284366	10.1016/j.cancergencyto.2006.09.007	Automated detection of residual leukemic cells by consecutive immunolabeling for CD10 and fluorescence in situ hybridization for ETV6/RUNX1 rearrangement in childhood acute lymphoblastic leukemia.	ETV6
-17237825	10.1038/sj.onc.1210190	Genome complexity in acute lymphoblastic leukemia is revealed by array-based comparative genomic hybridization.	ETV6
-17215856	10.1038/sj.leu.2404507	Deletion of 11q23 is a highly specific nonrandom secondary genetic abnormality of ETV6/RUNX1-rearranged childhood acute lymphoblastic leukemia.	ETV6
-22373549	10.1007/s00277-012-1431-4	Detection of ETV6 gene rearrangements in adult acute lymphoblastic leukemia.	ETV6
-22162831	10.1084/jem.20112239	ETV6 mutations in early immature human T cell leukemias.	ETV6
-21569007	10.1111/j.1365-2141.2011.08729.x	Native ETV6 deletions accompanied by ETV6-RUNX1 rearrangements are associated with a favourable prognosis in childhood acute lymphoblastic leukaemia: a candidate for prognostic marker.	ETV6
-21212294	10.1182/blood-2010-09-309351	Fusion genes in cord blood.	ETV6
-21212293	10.1182/blood-2010-09-309070	ETV6/RUNX1 (TEL/AML1) is a frequent prenatal first hit in childhood leukemia.	ETV6
-21157892	10.1002/pbc.22686	TEL/AML1-positive patients lacking TEL exon 5 resemble canonical TEL/AML1 cases.	ETV6
-21156245	10.1016/j.cancergencyto.2010.08.004	B lymphoblastic leukemia with ETV6 amplification.	ETV6
-20713965	10.1182/blood-2010-05-282764	Prevalence of t(12;21)[ETV6-RUNX1]-positive cells in healthy neonates.	ETV6
-20589932	10.1002/gcc.20796	Acute leukemias with ETV6/ABL1 (TEL/ABL) fusion: poor prognosis and prenatal origin.	ETV6
-18172310	10.1158/0008-5472.CAN-07-2778	PAX5/TEL acts as a transcriptional repressor causing down-modulation of CD19, enhances migration to CXCL12, and confers survival advantage in pre-BI cells.	ETV6
-17972957	10.1038/sj.leu.2404994	Disruption of ETV6 in intron 2 results in upregulatory and insertional events in childhood acute lymphoblastic leukaemia.	ETV6
-17854676	10.1016/j.cancergencyto.2007.05.012	Presenting features of 201 children with acute lymphoblastic leukemia: comparison according to presence or absence of ETV6/RUNX1 rearrangement.	ETV6
-15328172	10.1158/1078-0432.CCR-04-0584	TEL deletion analysis supports a novel view of relapse in childhood acute lymphoblastic leukemia.	ETV6
-34999180	10.1016/j.gene.2021.146132	Identification of diagnosis and prognosis gene markers in B-ALL with ETV6-RUNX1 fusion by integrated bioinformatics analysis.	ETV6
-34624096	10.1182/blood.2020010405	ETV6-NCOA2 fusion induces T/myeloid mixed-phenotype leukemia through transformation of nonthymic hematopoietic progenitor cells.	ETV6
-32118299	10.1111/bjh.16523	Pro-inflammatory cytokines favor the emergence of ETV6-RUNX1-positive pre-leukemic cells in a model of mesenchymal niche.	ETV6
-31952221	10.3390/cells9010215	<i>ETV6</i>/<i>RUNX1</i> Fusion Gene Abrogation Decreases the Oncogenicity of Tumour Cells in a Preclinical Model of Acute Lymphoblastic Leukaemia.	ETV6
-31704777	10.1136/jmedgenet-2019-106339	Novel phenotypes observed in patients with <i>ETV6</i>-linked leukaemia/familial thrombocytopenia syndrome and a biallelic <i>ARID5B</i> risk allele as leukaemogenic cofactor.	ETV6
-31096545	10.3390/ijms20102394	Identification and Characterization of Novel Fusion Genes with Potential Clinical Applications in Mexican Children with Acute Lymphoblastic Leukemia.	ETV6
-29778230	10.1016/j.cancergen.2018.03.001	ETV6/RUNX1-positive childhood acute lymphoblastic leukemia (ALL): The spectrum of clonal heterogeneity and its impact on prognosis.	ETV6
-29290585	10.1016/j.devcel.2017.12.005	A Human IPS Model Implicates Embryonic B-Myeloid Fate Restriction as Developmental Susceptibility to B Acute Lymphoblastic Leukemia-Associated ETV6-RUNX1.	ETV6
-29064485	10.1038/leu.2017.289	Differential impact of drugs on the outcome of ETV6-RUNX1 positive childhood B-cell precursor acute lymphoblastic leukaemia: results of the EORTC CLG 58881 and 58951 trials.	ETV6
-28418909	10.18632/oncotarget.16367	Pathogenesis of ETV6/RUNX1-positive childhood acute lymphoblastic leukemia and mechanisms underlying its relapse.	ETV6
-28299660	10.1007/978-981-10-3233-2_14	ETV6-RUNX1 <sup>+</sup> Acute Lymphoblastic Leukaemia in Identical Twins.	ETV6
-9360930	10.1126/science.278.5341.1309	A TEL-JAK2 fusion protein with constitutive kinase activity in human leukemia.	ETV6
-27540136	10.3324/haematol.2016.149740	CLIC5: a novel ETV6 target gene in childhood acute lymphoblastic leukemia.	ETV6
-27506214	10.4143/crt.2016.211	Outcome and Prognostic Factors for <i>ETV6/RUNX1</i> Positive Pediatric Acute Lymphoblastic Leukemia Treated at a Single Institution in Korea.	ETV6
-27393278	10.1007/s12185-016-2034-y	Prognostic impact of RUNX1 and ETV6 gene copy number on pediatric B-cell precursor acute lymphoblastic leukemia with or without hyperdiploidy.	ETV6
-27259007	10.1097/PAS.0000000000000677	ETV6-NTRK3 Is Expressed in a Subset of ALK-Negative Inflammatory Myofibroblastic Tumors.	ETV6
-26625756	10.7314/apjcp.2015.16.17.7523	Low Frequency of ETV6-RUNX1 (t 12; 21) in Saudi Arabian Pediatric Acute Lymphoblastic Leukemia Patients: Association with Clinical Parameters and Early Remission.	ETV6
-25388957	10.1038/leu.2014.322	Clonal origins of ETV6-RUNX1⁺ acute lymphoblastic leukemia: studies in monozygotic twins.	ETV6
-24339741	10.1593/neo.131310	ETV6/RUNX1 induces reactive oxygen species and drives the accumulation of DNA damage in B cells.	ETV6
-23488608	10.3109/10428194.2013.786068	The ETV6/RUNX1 fusion transcript is not detected in RNA isolated from neonatal dried blood spots from children later diagnosed with the corresponding leukemia.	ETV6
-23171811	10.1159/000342490	Variant of ETV6/ABL1 gene is associated with leukemia phenotype.	ETV6
-22404039	10.1111/j.1365-2141.2012.09083.x	Genome-wide analysis of cytogenetic aberrations in ETV6/RUNX1-positive childhood acute lymphoblastic leukaemia.	ETV6
-22028862	10.1371/journal.pone.0026348	The leukemia-specific fusion gene ETV6/RUNX1 perturbs distinct key biological functions primarily by gene repression.	ETV6
-21869842	10.1038/leu.2011.227	ETV6-RUNX1-positive childhood acute lymphoblastic leukemia: improved outcome with contemporary therapy.	ETV6
-21224468	10.1182/blood-2010-03-275347	ETV6/RUNX1-positive relapses evolve from an ancestral clone and frequently acquire deletions of genes implicated in glucocorticoid signaling.	ETV6
-20804916	10.1016/j.cancergencyto.2010.07.121	ETV6-ARNT fusion in a patient with childhood T lymphoblastic leukemia.	ETV6
-20658612	10.1002/pbc.22628	Frequencies of ETV6-RUNX1 fusion and hyperdiploidy in pediatric acute lymphoblastic leukemia are lower in far east than west.	ETV6
-20197715	10.3343/kjlm.2010.30.1.1	[Prognostic significance of TEL/AML1 rearrangement and its additional genetic changes in Korean childhood precursor B-acute lymphoblastic leukemia].	ETV6
-19100516	10.1016/j.cancergencyto.2008.09.005	ETV6/RUNX1 fusion lacking prognostic effect in pediatric patients with acute lymphoblastic leukemia.	ETV6
-18928518	10.1186/1756-8722-1-17	Persistence of TEL-AML1 fusion gene as minimal residual disease has no additive prognostic value in CD 10 positive B-acute lymphoblastic leukemia: a FISH study.	ETV6
-18635414	10.1016/S1607-551X(08)70155-4	TEL/AML1 fusion gene in childhood acute lymphoblastic leukemia in southern Taiwan.	ETV6
-18445843	10.1200/JCO.2007.14.3552	Prospective analysis of TEL gene rearrangements in childhood acute lymphoblastic leukemia: a Children's Oncology Group study.	ETV6
-18281529	10.1158/1078-0432.CCR-07-4022	ETV6-NCOA2: a novel fusion gene in acute leukemia associated with coexpression of T-lymphoid and myeloid markers and frequent NOTCH1 mutations.	ETV6
-18202291	10.1126/science.1150648	Initiating and cancer-propagating cells in TEL-AML1-associated childhood leukemia.	ETV6
-17956600	10.1186/1471-2164-8-385	Five distinct biological processes and 14 differentially expressed genes characterize TEL/AML1-positive leukemia.	ETV6
-17889709	10.1016/j.cancergencyto.2007.05.019	Prevalence of ETV6-RUNX1 fusion gene in children with acute lymphoblastic leukemia in China.	ETV6
-16914570	10.1158/1078-0432.CCR-05-2592	CpG island methylator phenotype redefines the prognostic effect of t(12;21) in childhood acute lymphoblastic leukemia.	ETV6
-16673018	10.1038/sj.leu.2404249	A novel TEL-AML1 fusion transcript involving the pro-apoptotic gene BCL-G in pediatric precursor B acute lymphoblastic leukemia.	ETV6
-16307024	10.1038/sj.leu.2404028	Expression of Tel-Aml1 transcript variants in pediatric acute lymphoblastic leukemia.	ETV6
-16278392	10.1158/1078-0432.CCR-05-1239	Immunogenotype changes prevail in relapses of young children with TEL-AML1-positive acute lymphoblastic leukemia and derive mainly from clonal selection.	ETV6
-32205481	10.1097/PAS.0000000000001471	Salivary Secretory Carcinoma Harboring a Novel ALK Fusion: Expanding the Molecular Characterization of Carcinomas Beyond the ETV6 Gene.	ETV6
-31289210	10.3324/haematol.2018.205849	<i>TP53, ETV6</i> and <i>RUNX1</i> germline variants in a case series of patients developing secondary neoplasms after treatment for childhood acute lymphoblastic leukemia.	ETV6
-15970674	10.4161/cc.4.8.1860	TELAML1-positive ALL: a discordant genotype.	ETV6
-15704129	10.1002/gcc.20158	ETV6/RUNX1 fusion at diagnosis and relapse: some prognostic indications.	ETV6
-15142881	10.1182/blood-2003-12-4306	Acute lymphoblastic leukemia with TEL-AML1 fusion has lower expression of genes involved in purine metabolism and lower de novo purine synthesis.	ETV6
-15104290	10.1016/j.cancergencyto.2003.07.003	Cloning and sequencing of ETV6/RUNX1 (TEL/AML1) variant in acute lymphoblastic leukemia.	ETV6
-12526921	10.1016/s0145-2126(02)00183-2	TEL-AML1 fusion precedes differentiation to pre-B cells in childhood acute lymphoblastic leukemia.	ETV6
-12127395	10.1016/s0165-4608(01)00655-0	Differential expression of TCL1 during pre-B-cell acute lymphoblastic leukemia progression.	ETV6
-11731410		Fusion of ETV6 to fibroblast growth factor receptor 3 in peripheral T-cell lymphoma with a t(4;12)(p16;p13) chromosomal translocation.	ETV6
-11001911		Recruitment of the nuclear receptor corepressor N-CoR by the TEL moiety of the childhood leukemia-associated TEL-AML1 oncoprotein.	ETV6
-9695962	10.1046/j.1365-2141.1998.00803.x	Haemopoietic transformation by the TEL/ABL oncogene.	ETV6
-8653712		Biallelic alterations of both ETV6 and CDKN1B genes in a t(12;21) childhood acute lymphoblastic leukemia case.	ETV6
-7780150		The t(12;21) of acute lymphoblastic leukemia results in a tel-AML1 gene fusion.	ETV6
-7761424	10.1073/pnas.92.11.4917	Fusion of the TEL gene on 12p13 to the AML1 gene on 21q22 in acute lymphoblastic leukemia.	ETV6
-29726059	10.1002/gcc.6	Two novel fusion genes, AIF1L-ETV6 and ABL1-AIF1L, result together with ETV6-ABL1 from a single chromosomal rearrangement in acute lymphoblastic leukemia with prenatal origin.	ETV6
-26852652	10.1016/j.bcmd.2015.11.006	ETV6/RUNX1 transcript is a target of RNA-binding protein IGF2BP1 in t(12;21)(p13;q22)-positive acute lymphoblastic leukemia.	ETV6
-26647767	10.1111/his.12910	ALK, ROS1 and NTRK3 gene rearrangements in inflammatory myofibroblastic tumours.	ETV6
-26580398	10.1371/journal.pone.0142863	A Double Negative Loop Comprising ETV6/RUNX1 and MIR181A1 Contributes to Differentiation Block in t(12;21)-Positive Acute Lymphoblastic Leukemia.	ETV6
-25893288	10.1038/onc.2015.50	The TEL-AML1 fusion protein of acute lymphoblastic leukemia modulates IRF3 activity during early B-cell differentiation.	ETV6
-23741012	10.1182/blood-2012-11-465252	STAT3 mediates oncogenic addiction to TEL-AML1 in t(12;21) acute lymphoblastic leukemia.	ETV6
-23443342	10.1038/leu.2013.15	Initially disadvantaged, TEL-AML1 cells expand and initiate leukemia in response to irradiation and cooperating mutations.	ETV6
-19896186	10.1016/j.leukres.2009.09.033	CD9 expression can be used to predict childhood TEL/AML1-positive acute lymphoblastic leukemia: proposal for an accelerated diagnostic flowchart.	ETV6
-18767146	10.1002/gcc.20613	The complex genomic profile of ETV6-RUNX1 positive acute lymphoblastic leukemia highlights a recurrent deletion of TBL1XR1.	ETV6
-17690704	10.1038/sj.leu.2404879	Combined high-resolution array-based comparative genomic hybridization and expression profiling of ETV6/RUNX1-positive acute lymphoblastic leukemias reveal a high incidence of cryptic Xq duplications and identify several putative target genes within the commonly gained region.	ETV6
-17673463	10.1074/jbc.M706314200	Hepatocyte growth factor receptor c-MET is associated with FAS and when activated enhances drug-induced apoptosis in pediatric B acute lymphoblastic leukemia with TEL-AML1 translocation.	ETV6
-17344859	10.1038/nature05690	Genome-wide analysis of genetic alterations in acute lymphoblastic leukaemia.	ETV6
-12626745	10.1073/pnas.0637114100	Small ubiquitin-like modifier conjugation regulates nuclear export of TEL, a putative tumor suppressor.	ETV6
-12091359	10.1182/blood.v100.2.640	Immature CD34+CD19- progenitor/stem cells in TEL/AML1-positive acute lymphoblastic leukemia are genetically and functionally normal.	ETV6
-29046324	10.1530/EJE-17-0499	<i>ETV6-NTRK3</i> and <i>STRN-ALK</i> kinase fusions are recurrent events in papillary thyroid cancer of adult population.	ETV6
-26237075	10.1080/15592294.2015.1061174	Epigenetic landscape correlates with genetic subtype but does not predict outcome in childhood acute lymphoblastic leukemia.	ETV6
-25373509	10.3109/10428194.2014.982643	ETV6/ARG oncoprotein confers autonomous cell growth by enhancing c-Myc expression via signal transducer and activator of transcription 5 activation in the acute promyelocytic leukemia cell line HT93A.	ETV6
-24240203	10.1038/leu.2013.345	Blocking ETV6/RUNX1-induced MDM2 overexpression by Nutlin-3 reactivates p53 signaling in childhood leukemia.	ETV6
-22094587	10.1038/leu.2011.322	Silencing of ETV6/RUNX1 abrogates PI3K/AKT/mTOR signaling and impairs reconstitution of leukemia in xenografts.	ETV6
-20807887	10.1182/blood-2009-02-206706	TEL-AML1 regulation of survivin and apoptosis via miRNA-494 and miRNA-320a.	ETV6
-19665068	10.1016/j.cancergencyto.2009.04.021	ETV6-RUNX1 fusion gene and additional genetic changes in infant leukemia: a genome-wide analysis.	ETV6
-19129484	10.1189/jlb.0808469	Histone deacetylase inhibition improves differentiation of dendritic cells from leukemic blasts of patients with TEL/AML1-positive acute lymphoblastic leukemia.	ETV6
-18617057	10.1016/j.cancergencyto.2008.04.003	Analysis of gene rearrangements using a fluorescence in situ hybridization method in Mexican patients with acute lymphoblastic leukemia: experience at a single institution.	ETV6
-16386788	10.1016/j.leukres.2005.11.007	The incidence of T-cell receptor gene rearrangements in childhood B-lineage acute lymphoblastic leukemia is related to immunophenotype and fusion oncogene expression.	ETV6
-23382691	10.1371/journal.pgen.1003225	Loci associated with N-glycosylation of human immunoglobulin G show pleiotropy with autoimmune diseases and haematological cancers.	ETV6
-22733019	10.3324/haematol.2012.064659	Alternative TEL-JAK2 fusions associated with T-cell acute lymphoblastic leukemia and atypical chronic myelogenous leukemia dissected in zebrafish.	ETV6
-22076464	10.1038/leu.2011.302	Identification of germline susceptibility loci in ETV6-RUNX1-rearranged childhood acute lymphoblastic leukemia.	ETV6
-17015828	10.1073/pnas.0603349103	TEL-AML1 transgenic zebrafish model of precursor B cell acute lymphoblastic leukemia.	ETV6
+pmid	doi	year	title	Hugo_Symbol
+36045062	10.3343/alm.2023.43.1.92	2023	First Case of <i>ETV6-RUNX1</i> Fusion in Adult <i>De Novo</i> Acute Myeloid Leukemia Detected Using Targeted RNA Sequencing.	ETV6
+34448823	10.1182/bloodadvances.2021004212	2022	The molecular hallmarks of primary and secondary vitreoretinal lymphoma.	ETV6
+34535762	10.1038/s41375-021-01409-9	2022	ETV6-RUNX1 and RUNX1 directly regulate RAG1 expression: one more step in the understanding of childhood B-cell acute lymphoblastic leukemia leukemogenesis.	ETV6
+34591292	10.1007/s12185-021-03229-0	2022	Successful treatment of hepatosplenic T-cell lymphoma with fludarabine, high-dose cytarabine and subsequent unrelated umbilical cord blood transplantation.	ETV6
+34597466	10.1002/pbc.29361	2022	Clonal dynamics in pediatric B-cell precursor acute lymphoblastic leukemia with very early relapse.	ETV6
+34617433	10.4274/tjh.galenos.2021.2021.0326	2022	Characterization of Immunophenotypic Aberrancies with Respect to Common Fusion Transcripts in B-Cell Precursor Acute Lymphoblastic Leukemia: A Report of 986 Indian Patients	ETV6
+34624096	10.1182/blood.2020010405	2022	ETV6-NCOA2 fusion induces T/myeloid mixed-phenotype leukemia through transformation of nonthymic hematopoietic progenitor cells.	ETV6
+34657128	10.1038/s41375-021-01448-2	2022	Prognostic impact of chromosomal abnormalities and copy number alterations in adult B-cell precursor acute lymphoblastic leukaemia: a UKALL14 study.	ETV6
+34727170	10.1182/bloodadvances.2021005522	2022	Decreased IL-10 accelerates B-cell leukemia/lymphoma in a mouse model of pediatric lymphoid leukemia.	ETV6
+34787376	10.1002/cnr2.1587	2022	Philadelphia-like acute lymphoblastic leukemia: Characterization in a pediatric cohort in a referral center in Colombia.	ETV6
+34788984	10.3324/haematol.2021.279177	2022	Genetic and genomic analysis of acute lymphoblastic leukemia in older adults reveals a distinct profile of abnormalities: analysis of 210 patients from the UKALL14 and UKALL60+ clinical trials.	ETV6
+34819303	10.1101/mcs.a006157	2022	Hi-C detects genomic structural variants in peripheral blood of pediatric leukemia patients.	ETV6
+34871373	10.1182/blood.2021012727	2022	Impact of high-risk cytogenetics on outcomes for children and young adults receiving CD19-directed CAR T-cell therapy.	ETV6
+34933343	10.1182/bloodadvances.2021005634	2022	Whole-transcriptome analysis in acute lymphoblastic leukemia: a report from the DFCI ALL Consortium Protocol 16-001.	ETV6
+34981432	10.1007/s12185-021-03269-6	2022	Newly diagnosed ETV6-RUNX1-positive B-acute lymphoblastic leukemia localized to the left pelvic bone marrow.	ETV6
+34982829	10.1182/bloodadvances.2021005703	2022	A somatic UBA2 variant preceded ETV6-RUNX1 in the concordant BCP-ALL of monozygotic twins.	ETV6
+34999180	10.1016/j.gene.2021.146132	2022	Identification of diagnosis and prognosis gene markers in B-ALL with ETV6-RUNX1 fusion by integrated bioinformatics analysis.	ETV6
+35053500	10.3390/cancers14020338	2022	High ETV6 Levels Support Aggressive B Lymphoma Cell Survival and Predict Poor Outcome in Diffuse Large B-Cell Lymphoma Patients.	ETV6
+35074994	10.4103/IJPM.IJPM_1154_20	2022	Erythrophagocytosis in a patient with B-cell acute lymphoblastic leukemia with t(12;21) (p13.2; q22.1); ETV6-RUNX1: Case report and review of the literature.	ETV6
+35084434	10.1001/jamaoncol.2021.6826	2022	Association of Genetic Ancestry With the Molecular Subtypes and Prognosis of Childhood Acute Lymphoblastic Leukemia.	ETV6
+35106936	10.1002/cam4.4550	2022	SGK1 mutation status can further stratify patients with germinal center B-cell-like diffuse large B-cell lymphoma into different prognostic subgroups.	ETV6
+35258855	10.1007/s12185-022-03315-x	2022	JACLS ALL-02 SR protocol reduced-intensity chemotherapy produces excellent outcomes in patients with low-risk childhood acute lymphoblastic leukemia.	ETV6
+35294722	10.1007/s11864-022-00963-3	2022	In Utero Development and Immunosurveillance of B Cell Acute Lymphoblastic Leukemia.	ETV6
+35300216	10.2147/JIR.S341355	2022	The Mutation of <i>BTG2</i> Gene Predicts a Poor Outcome in Primary Testicular Diffuse Large B-Cell Lymphoma.	ETV6
+35506873	10.1080/10428194.2022.2064991	2022	Apparent coexistence of <i>ETV6::RUNX1</i> and <i>KMT2A::MLLT3</i> fusions due to a nonproductive <i>KMT2A</i> rearrangement in B-ALL.	ETV6
+35543076	10.1111/his.14680	2022	Histologic characterization of paediatric mesenchymal neoplasms treated with kinase-targeted therapy.	ETV6
+35562965	10.3390/ijms23094574	2022	Multi-Cohort Transcriptomic Subtyping of B-Cell Acute Lymphoblastic Leukemia.	ETV6
+35644195	10.7499/j.issn.1008-8830.2111108	2022	[Clinical features and prognosis of childhood B-lineage acute lymphoblastic leukemia expressing the <i>PRAME</i> gene].	ETV6
+35646048	10.3389/fgene.2022.878618	2022	Whole-Genome/Exome Sequencing Uncovers Mutations and Copy Number Variations in Primary Diffuse Large B-Cell Lymphoma of the Central Nervous System.	ETV6
+35720485	10.3892/ol.2022.13348	2022	A unique case of inflammatory myofibroblastic tumor of the liver manifesting with biloma: A case report.	ETV6
+35803545	10.1016/j.exphem.2022.06.002	2022	Germline ETV6 mutation promotes inflammation and disrupts lymphoid development of early hematopoietic progenitors.	ETV6
+35865523	10.3389/fimmu.2022.868053	2022	Savior Siblings Might Rescue Fetal Lethality But Not Adult Lymphoma in Irf2bp2-Null Mice.	ETV6
+35928872	10.3389/fonc.2022.932674	2022	Cell-Free DNA Sequencing of Intraocular Fluid as Liquid Biopsy in the Diagnosis of Vitreoretinal Lymphoma.	ETV6
+35995457	10.1080/10428194.2022.2113524	2022	Clinicopathologic and genetic evaluation of B-lymphoblastic leukemia with intrachromosomal amplification of chromosome 21 (iAMP21) in adult patients.	ETV6
+36011285	10.3390/genes13081374	2022	Commonly Assessed Markers in Childhood BCP-ALL Diagnostic Panels and Their Association with Genetic Aberrations and Outcome Prediction.	ETV6
+31894899	10.1002/cyto.b.21865	2021	CD49f protein expression varies among genetic subgroups of B lymphoblastic leukemia and is distinctly low in KMT2A-rearranged cases.	ETV6
+32467145	10.3324/haematol.2020.247973	2021	Philadelphia-like acute lymphoblastic leukemia is associated with minimal residual disease persistence and poor outcome. First report of the minimal residual disease-oriented GIMEMA LAL1913.	ETV6
+32693409	10.1182/blood.2020006164	2021	Molecular basis of ETV6-mediated predisposition to childhood acute lymphoblastic leukemia.	ETV6
+32819174	10.1080/09537104.2020.1802416	2021	Functional analysis of germline <i>ETV6 W380R</i> mutation causing inherited thrombocytopenia and secondary acute lymphoblastic leukemia or essential thrombocythemia.	ETV6
+32898863	10.1182/blood.2020005622	2021	Identification of functional cooperative mutations of GNAO1 in human acute lymphoblastic leukemia.	ETV6
+33070555	10.4143/crt.2020.507	2021	Differing Outcomes of Patients with High Hyperdiploidy and ETV6-RUNX1 Rearrangement in Korean Pediatric Precursor B Cell Acute Lymphoblastic Leukemia.	ETV6
+33078873	10.1002/gcc.22901	2021	Rare and novel RUNX1 fusions in myeloid neoplasms: A single-institute experience.	ETV6
+33170547	10.1111/ijlh.13386	2021	The gene expression level of m6A catalytic enzymes is increased in ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
+33328584	10.1038/s41568-020-00315-z	2021	Advances in germline predisposition to acute leukaemias and myeloid neoplasms.	ETV6
+33368842	10.1002/gcc.22933	2021	Sister chromatid cohesion defects are associated with chromosomal copy number heterogeneity in high hyperdiploid childhood acute lymphoblastic leukemia.	ETV6
+33386596	10.1007/s12185-020-03063-w	2021	The role of minimal residual disease in specific subtypes of pediatric acute lymphoblastic leukemia.	ETV6
+33400146	10.1007/s11684-020-0821-6	2021	Emerging molecular subtypes and therapeutic targets in B-cell precursor acute lymphoblastic leukemia.	ETV6
+33475741	10.1182/blood.2020008190	2021	Germline ETV6 variants: not ALL created equally.	ETV6
+33526873	10.1038/s41379-021-00739-4	2021	Clinical, immunophenotypic and genomic findings of NK lymphoblastic leukemia: a study from the Bone Marrow Pathology Group.	ETV6
+33634864	10.1002/ijc.33527	2021	Deleterious point mutations in T-cell acute lymphoblastic leukemia: Mechanistic insights into leukemogenesis.	ETV6
+33646306	10.1182/bloodadvances.2020001844	2021	Genome-wide interference of ZNF423 with B-lineage transcriptional circuitries in acute lymphoblastic leukemia.	ETV6
+33660258	10.1111/bjh.17271	2021	Management of ETV6-ABL1-positive childhood acute lymphoblastic leukaemia: report of two cases, a literature review and a call for action.	ETV6
+33707599	10.1038/s41598-021-85213-6	2021	Philadelphia chromosome-negative B-cell acute lymphoblastic leukaemia with kinase fusions in Taiwan.	ETV6
+33714976	10.1038/s41375-021-01209-1	2021	Profiling chromatin accessibility in pediatric acute lymphoblastic leukemia identifies subtype-specific chromatin landscapes and gene regulatory networks.	ETV6
+33725318	10.1007/s12185-021-03116-8	2021	Clinical features and chromosomal/genetic aberration in adult acute lymphoblastic leukemia in Japan: results of Fukuoka Blood & Marrow Transplant Group Studies ALL MRD 2002 and 2008.	ETV6
+33739852	10.1200/JCO.20.02370	2021	Favorable Trisomies and <i>ETV6-RUNX1</i> Predict Cure in Low-Risk B-Cell Acute Lymphoblastic Leukemia: Results From Children's Oncology Group Trial AALL0331.	ETV6
+33743795	10.1186/s13045-021-01051-z	2021	Reduction of RUNX1 transcription factor activity by a CBFA2T3-mimicking peptide: application to B cell precursor acute lymphoblastic leukemia.	ETV6
+33747936	10.3389/fonc.2021.622648	2021	Genomic Mutation Profile of Primary Gastrointestinal Diffuse Large B-Cell Lymphoma.	ETV6
+33750258	10.1080/0284186X.2021.1900908	2021	Genomic landscape of B-other acute lymphoblastic leukemia in an adult retrospective cohort with a focus on <i>BCR-ABL1</i>-like subtype.	ETV6
+33777778	10.3389/fonc.2021.628807	2021	Mutational Profile and Clonal Evolution of Relapsed/Refractory Diffuse Large B-Cell Lymphoma.	ETV6
+33792628	10.1182/bloodadvances.2020003699	2021	ETV6-FLT3-positive myeloid/lymphoid neoplasm with eosinophilia presenting in an infant: an entity distinct from JMML.	ETV6
+33890726	10.1002/cjp2.211	2021	CRLF2 and IKZF1 abnormalities in Mexican children with acute lymphoblastic leukemia and recurrent gene fusions: exploring surrogate markers of signaling pathways.	ETV6
+33895809	10.1182/blood.2020010144	2021	Molecular classification improves risk assessment in adult BCR-ABL1-negative B-ALL.	ETV6
+33987955	10.1002/cam4.3928	2021	RAG1 co-expression signature identifies ETV6-RUNX1-like B-cell precursor acute lymphoblastic leukemia in children.	ETV6
+33990705	10.1038/s41379-021-00817-7	2021	Myeloid/lymphoid neoplasms with FLT3 rearrangement.	ETV6
+34010407	10.1182/blood.2020009895	2021	Toward prevention of childhood ALL by early-life immune training.	ETV6
+34072771	10.3390/ijms22115902	2021	NKL Homeobox Gene VENTX Is Part of a Regulatory Network in Human Conventional Dendritic Cells.	ETV6
+34101758	10.1371/journal.pone.0253012	2021	Investigation of lncRNA-mRNA co-expression network in ETV6-RUNX1-positive pediatric B-cell acute lymphoblastic leukemia.	ETV6
+34159401	10.1007/s00277-021-04574-0	2021	Hematological characteristics, cytogenetic features, and post-induction measurable residual disease in thymic stromal lymphopoietin receptor (TSLPR) overexpressed B-cell acute lymphoblastic leukemia in an Indian cohort.	ETV6
+34250504	10.1158/2643-3230.BCD-20-0229	2021	Clinical significance of novel subtypes of acute lymphoblastic leukemia in the context of minimal residual disease-directed therapy.	ETV6
+34266412	10.1186/s12885-021-08545-6	2021	DNA index as prognostic factor in childhood acute lymphoblastic leukemia in the COG-TARGET database.	ETV6
+34297047	10.1182/bloodadvances.2021004334	2021	Genomic and clinical characterization of early T-cell precursor lymphoblastic lymphoma.	ETV6
+34325057	10.1016/j.jmoldx.2021.07.008	2021	Comparison of Two Quantitative PCR-Based Assays for Detection of Minimal Residual Disease in B-Precursor Acute Lymphoblastic Leukemia Harboring Three Major Fusion Transcripts.	ETV6
+34329606	10.1016/S1470-2045(21)00328-4	2021	Pulse therapy with vincristine and dexamethasone for childhood acute lymphoblastic leukaemia (CCCG-ALL-2015): an open-label, multicentre, randomised, phase 3, non-inferiority trial.	ETV6
+34348305	10.1159/000518280	2021	Cytogenetic and Fluorescence in situ Hybridization Profile of Pediatric Acute Lymphoblastic Leukemia in a University Hospital in South India.	ETV6
+34371436	10.1016/j.leukres.2021.106683	2021	Proposal and clinical application of molecular genetic risk scoring system, ""MRplus"", for BCR-ABL1 negative pediatric B-cell acute lymphoblastic leukemia- report from a single centre.	ETV6
+34511174	10.7499/j.issn.1008-8830.2105004	2021	Clinical features and prognosis of children with acute leukemias of ambiguous lineage under different diagnostic criteria.	ETV6
+34547766	10.1182/bloodadvances.2021004895	2021	Distinct clinical characteristics of DUX4- and PAX5-altered childhood B-lymphoblastic leukemia.	ETV6
+34551905	10.1158/1078-0432.CCR-21-1165	2021	Comprehensive Molecular Analysis of Inflammatory Myofibroblastic Tumors Reveals Diverse Genomic Landscape and Potential Predictive Markers for Response to Crizotinib.	ETV6
+34570179	10.1182/bloodadvances.2021004668	2021	Mutational patterns and their correlation to CHIP-related mutations and age in hematological malignancies.	ETV6
+34732618	10.11406/rinketsu.62.1465	2021	[Down syndrome and acute lymphoblastic leukemia].	ETV6
+34753926	10.1038/s41408-021-00570-9	2021	Cancer drivers and clonal dynamics in acute lymphoblastic leukaemia subtypes.	ETV6
+34940123	10.3390/cimb43030149	2021	Molecular Genetics of Pre-B Acute Lymphoblastic Leukemia Sister Cell Lines during Disease Progression.	ETV6
+35004601	10.3389/fpubh.2021.805757	2021	Risk Factors for Childhood Leukemia: Radiation and Beyond.	ETV6
+31482743	10.1080/10428194.2019.1658105	2020	Myeloid neoplasm with eosinophilia and <i>ETV6-JAK2</i> fusion.	ETV6
+31602594	10.1007/s13353-019-00524-9	2020	The correction of ETV6/RUNX1 translocation in acute lymphocytic leukemia cells: a new gene targeting system by homologous recombination mechanism.	ETV6
+31645680	10.1038/s41417-019-0147-1	2020	The incidence, genetic characteristics, and prognosis of leukemia with concurrent pathogenic fusion genes: a series of 25 cases from a large cohort of leukemia patients.	ETV6
+31704777	10.1136/jmedgenet-2019-106339	2020	Novel phenotypes observed in patients with <i>ETV6</i>-linked leukaemia/familial thrombocytopenia syndrome and a biallelic <i>ARID5B</i> risk allele as leukaemogenic cofactor.	ETV6
+31902036	10.1007/s10555-019-09841-1	2020	Insights into the prenatal origin of childhood acute lymphoblastic leukemia.	ETV6
+31905241	10.1182/bloodadvances.2019000769	2020	Clinical response to larotrectinib in adult Philadelphia chromosome-like ALL with cryptic ETV6-NTRK3 rearrangement.	ETV6
+31944572	10.1002/cyto.b.21866	2020	CD304/neuropilin-1 is a very useful and dependable marker for the measurable residual disease assessment of B-cell precursor acute lymphoblastic leukemia.	ETV6
+31952221	10.3390/cells9010215	2020	<i>ETV6</i>/<i>RUNX1</i> Fusion Gene Abrogation Decreases the Oncogenicity of Tumour Cells in a Preclinical Model of Acute Lymphoblastic Leukaemia.	ETV6
+32029838	10.1038/s41598-020-58970-z	2020	Clinicopathological features and prognostic value of SOX11 in childhood acute lymphoblastic leukemia.	ETV6
+32078009	10.1007/s00277-020-03953-3	2020	Implementation of RNA sequencing and array CGH in the diagnostic workflow of the AIEOP-BFM ALL 2017 trial on acute lymphoblastic leukemia.	ETV6
+32114371	10.1016/j.leukres.2020.106316	2020	Osteopontin-c is overexpressed in KMT2A-AFF1 positive pediatric B-cell lymphoblastic leukemia when compared to those with ETV6-RUNX1"".	ETV6
+32118299	10.1111/bjh.16523	2020	Pro-inflammatory cytokines favor the emergence of ETV6-RUNX1-positive pre-leukemic cells in a model of mesenchymal niche.	ETV6
+32135505	10.1016/j.canep.2020.101693	2020	MTHFR rs1801133 polymorphism is associated with increased risk of B-cell precursor lymphoblastic leukaemia with recurrent genetic aberrations of fetal origin.	ETV6
+32150610	10.1182/bloodadvances.2019001008	2020	The application of RNA sequencing for the diagnosis and genomic classification of pediatric acute lymphoblastic leukemia.	ETV6
+32201861	10.1093/noajnl/vdaa018	2020	Primary CNS lymphoma commonly expresses immune response biomarkers.	ETV6
+32205481	10.1097/PAS.0000000000001471	2020	Salivary Secretory Carcinoma Harboring a Novel ALK Fusion: Expanding the Molecular Characterization of Carcinomas Beyond the ETV6 Gene.	ETV6
+32238402	10.1101/mcs.a004937	2020	The diagnostic challenges and clinical course of a myeloid/lymphoid neoplasm with eosinophilia and <i>ZBTB20-JAK2</i> gene fusion presenting as B-lymphoblastic leukemia.	ETV6
+32367453	10.1007/s12185-020-02885-y	2020	Functional characterization of a germline ETV6 variant associated with inherited thrombocytopenia, acute lymphoblastic leukemia, and salivary gland carcinoma in childhood.	ETV6
+32368831	10.1002/gcc.22858	2020	Impact of immunophenotypic characteristics on genetic subgrouping in childhood acute lymphoblastic leukemia: Tokyo Children's Cancer Study Group (TCCSG) study L04-16.	ETV6
+32378810	10.1002/cam4.3099	2020	High incidence of RAS pathway mutations among sentinel genetic lesions of Korean pediatric BCR-ABL1-like acute lymphoblastic leukemia.	ETV6
+32536138	10.3760/cma.j.issn.0253-2727.2020.05.008	2020	[Clinical characteristics and gene expression profiles in children with ETV6-RUNX1 acute lymphoblastic leukemia].	ETV6
+32572036	10.1038/s41598-020-65744-0	2020	Evidence for a role of RUNX1 as recombinase cofactor for TCRβ rearrangements and pathological deletions in ETV6-RUNX1 ALL.	ETV6
+32573712	10.1182/blood.2019004090	2020	Association of aberrant ASNS imprinting with asparaginase sensitivity and chromosomal abnormality in childhood BCP-ALL.	ETV6
+32592278	10.1002/gcc.22882	2020	Frequency and prognostic impact of PAX5 p.P80R in pediatric acute lymphoblastic leukemia patients treated on an AIEOP-BFM acute lymphoblastic leukemia protocol.	ETV6
+32661308	10.1038/s41598-020-68311-9	2020	MLPA and DNA index improve the molecular diagnosis of childhood B-cell acute lymphoblastic leukemia.	ETV6
+32812094	10.1007/s10561-020-09855-y	2020	Screening for pre-leukemia TEL-AML1 chromosomal translocation in banked cord blood units: cord blood bank perspective.	ETV6
+32836179	10.1016/j.anndiagpath.2020.151588	2020	Siblings with ETV6/RUNX1-positive B-lymphoblastic leukemia: A single site experience and review of the literature.	ETV6
+32911536	10.1182/blood.2019004381	2020	An intact gut microbiome protects genetically predisposed mice against leukemia.	ETV6
+32946981	10.1016/j.exphem.2020.09.184	2020	Human pediatric B-cell acute lymphoblastic leukemias can be classified as B-1 or B-2-like based on a minimal transcriptional signature.	ETV6
+33038982	10.1016/j.beha.2020.101193	2020	Molecular markers in ALL: Clinical implications.	ETV6
+33074527	10.1007/s11684-020-0759-8	2020	Precision medicine in acute lymphoblastic leukemia.	ETV6
+33095873	10.1182/bloodadvances.2019001307	2020	Landscape of driver mutations and their clinical impacts in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
+33113607	10.3760/cma.j.issn.0253-2727.2020.09.008	2020	[Diagnosis of adult Philadelphia chromosome-like acute lymphoblastic leukemia by fluorescence in situ hybridization].	ETV6
+33127954	10.1038/s41598-020-75596-3	2020	Nanostring-based screening for tyrosine kinase fusions in inflammatory myofibroblastic tumors.	ETV6
+33164984	10.1172/JCI140797	2020	Pharmacogenomics of intracellular methotrexate polyglutamates in patients' leukemia cells in vivo.	ETV6
+33166908	10.1016/j.leukres.2020.106460	2020	Myeloid/lymphoid neoplasms with eosinophilia and FLT3 rearrangement.	ETV6
+33245684	10.2217/epi-2020-0152	2020	Role of rs10406069 in miR-5196 in hyperdiploid childhood acute lymphoblastic leukemia.	ETV6
+33327998		2020	[Clinical significance of minimal residual disease in B-lineage acute lymphoblastic leukemia pediatric patients with different fusion gene backgrounds].	ETV6
+33333691	10.3760/cma.j.issn.0253-2727.2020.11.003	2020	[Efficacy and prognostic factors of the chemotherapy regimen of CCLG-ALL-2008 on pediatric acute lymphoblastic leukemia with ETV6-RUNX1 rearrangement].	ETV6
+33355873	10.32471/exp-oncology.2312-8852.vol-42-no-4.15275	2020	Woman with Turner syndrome and her child with acute leukemia (a case report).	ETV6
+33369444	10.31557/APJCP.2020.21.12.3493	2020	Frequency and Correlation of Common Genes Copy Number Alterations in Childhood Acute Lymphoblastic Leukemia with Prognosis.	ETV6
+29530508	10.1016/j.jim.2018.03.005	2019	Differential expression of CD73, CD86 and CD304 in normal vs. leukemic B-cell precursors and their utility as stable minimal residual disease markers in childhood B-cell precursor acute lymphoblastic leukemia.	ETV6
+29992858	10.1080/10428194.2018.1480774	2019	Cryptic ETV6-PDGFRB fusion in a highly complex rearrangement of chromosomes 1, 5, and 12 due to a chromothripsis-like event in a myelodysplastic syndrome/myeloproliferative neoplasm.	ETV6
+30028819	10.1097/MPH.0000000000001249	2019	Cryptic ETV6-ABL1 Fusion and MLL2 Truncation Revealed by Integrative Clinical Sequencing in Multiply Relapsed Acute Lymphoblastic Leukemia.	ETV6
+30381299	10.3324/haematol.2018.193631	2019	Autophagy inhibition as a potential future targeted therapy for ETV6-RUNX1-driven B-cell precursor acute lymphoblastic leukemia.	ETV6
+30510082	10.1182/blood-2018-07-862946	2019	Novel susceptibility variants at the <i>ERG</i> locus for childhood acute lymphoblastic leukemia in Hispanics.	ETV6
+30526151	10.1080/10428194.2018.1529311	2019	Coexpression of ETV6/MDS1/EVI1 and ETV6/EVI1 fusion transcripts in acute myeloid leukemia with t(3;12)(q26.2;p13) and thrombocytosis.	ETV6
+30550870	10.1016/j.jtho.2018.12.003	2019	Expanding the Molecular Characterization of Thoracic Inflammatory Myofibroblastic Tumors beyond ALK Gene Rearrangements.	ETV6
+30561492	10.1093/ajcp/aqy160	2019	Application of Fluorescence In Situ Hybridization on Cerebrospinal Fluid Cytospins for the Detection of Residual Leukemic Cells in Patients With Childhood Acute Lymphoblastic Leukemia.	ETV6
+30630978	10.3324/haematol.2018.204974	2019	Genomic landscape of pediatric B-other acute lymphoblastic leukemia in a consecutive European cohort.	ETV6
+30634950	10.1186/s12885-019-5277-1	2019	Identification of a metastatic lung adenocarcinoma of the palate mucosa through genetic and histopathological analysis: a rare case report and literature review.	ETV6
+30689137	10.1007/s12185-019-02599-w	2019	Discontinuation of L-asparaginase and poor response to prednisolone are associated with poor outcome of ETV6-RUNX1-positive pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
+30701458	10.1007/s11033-019-04649-2	2019	Molecular profiling of adult acute myeloid and lymphoid leukemia in a major referral center in Lebanon: a 10-year experience report and review of the literature.	ETV6
+30730614	10.1111/ijlh.12983	2019	Flow cytometric predictive scoring systems for common fusions ETV6/RUNX1, BCR/ABL1, TCF3/PBX1 and rearrangements of the KMT2A gene, proposed for the initial cytogenetic approach in cases of B-acute lymphoblastic leukemia.	ETV6
+30770347	10.1158/1055-9965.EPI-18-0801	2019	Is There Etiologic Heterogeneity between Subtypes of Childhood Acute Lymphoblastic Leukemia? A Review of Variation in Risk by Subtype.	ETV6
+30842058	10.1016/S1470-2045(19)30031-2	2019	Comparative features and outcomes between paediatric T-cell and B-cell acute lymphoblastic leukaemia.	ETV6
+30874617	10.1038/s41598-019-41078-4	2019	Copy number alterations in B-cell development genes, drug resistance, and clinical outcome in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
+30940639	10.1182/bloodadvances.2018030635	2019	Germline deletion of <i>ETV6</i> in familial acute lymphoblastic leukemia.	ETV6
+30944321	10.1038/s41467-019-09469-3	2019	Proteogenomics and Hi-C reveal transcriptional dysregulation in high hyperdiploid childhood acute lymphoblastic leukemia.	ETV6
+30986496	10.1016/j.exphem.2019.03.004	2019	ETV6-RUNX1 interacts with a region in SPIB intron 1 to regulate gene expression in pre-B-cell acute lymphoblastic leukemia.	ETV6
+31034759	10.1002/pbc.27780	2019	High sensitivity and clonal stability of the genomic fusion as single marker for response monitoring in ETV6-RUNX1-positive acute lymphoblastic leukemia.	ETV6
+31035338	10.3390/ijms20092089	2019	Marek's Disease Virus Regulates the Ubiquitylome of Chicken CD4<sup>+</sup> T Cells to Promote Tumorigenesis.	ETV6
+31096545	10.3390/ijms20102394	2019	Identification and Characterization of Novel Fusion Genes with Potential Clinical Applications in Mexican Children with Acute Lymphoblastic Leukemia.	ETV6
+31102422	10.1002/gcc.22765	2019	Predisposing germline mutations in high hyperdiploid acute lymphoblastic leukemia in children.	ETV6
+31112375	10.1111/ijlh.13052	2019	Chromosomal microarray analysis is superior in identifying cryptic aberrations in patients with acute lymphoblastic leukemia at diagnosis/relapse as a single assay.	ETV6
+31157932	10.1002/bem.22193	2019	Novel ETV6-RUNX1 Mouse Model to Study the Role of ELF-MF in Childhood B-Acute Lymphoblastic Leukemia: a Pilot Study.	ETV6
+31202078	10.1016/j.leukres.2019.05.013	2019	Microarray testing as an efficient tool to redefine hyperdiploid paediatric B-cell precursor acute lymphoblastic leukaemia patients.	ETV6
+31228652	10.1016/j.leukres.2019.05.009	2019	Prognostic gene alterations and clonal changes in childhood B-ALL.	ETV6
+31243155	10.1126/scitranslmed.aat8549	2019	Pediatric patients with acute lymphoblastic leukemia generate abundant and functional neoantigen-specific CD8<sup>+</sup> T cell responses.	ETV6
+31250485	10.1002/pbc.27902	2019	A newborn case of jejunal ALK-negative inflammatory myofibroblastic tumor with ETV6-NTRK3 fusion.	ETV6
+31289210	10.3324/haematol.2018.205849	2019	<i>TP53, ETV6</i> and <i>RUNX1</i> germline variants in a case series of patients developing secondary neoplasms after treatment for childhood acute lymphoblastic leukemia.	ETV6
+31311817	10.1182/blood.2018852400	2019	Genetic defects in hematopoietic transcription factors and predisposition to acute lymphoblastic leukemia.	ETV6
+31381561	10.1371/journal.pgen.1008280	2019	PAX5 is part of a functional transcription factor network targeted in lymphoid leukemia.	ETV6
+31429529	10.1002/mgg3.933	2019	The study of METTL3 and METTL14 expressions in childhood ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
+31456164	10.1007/s13353-019-00509-8	2019	MLPA as a complementary tool for diagnosis of chromosome 21 aberrations in childhood BCP-ALL.	ETV6
+31506148		2019	[Long-term clinical effect of the CCLG-ALL2008 regimen in treatment of childhood acute lymphoblastic leukemia with different molecular biological features].	ETV6
+31519648	10.1182/bloodadvances.2018028795	2019	Predisposition to childhood acute lymphoblastic leukemia caused by a constitutional translocation disrupting <i>ETV6</i>.	ETV6
+31629941	10.1016/j.ejca.2019.09.004	2019	Outcome of adolescent patients with acute lymphoblastic leukaemia aged 10-14 years as compared with those aged 15-17 years: Long-term results of 1094 patients of the AIEOP-BFM ALL 2000 study.	ETV6
+31648321	10.1182/bloodadvances.2019000404	2019	Transcriptome analysis offers a comprehensive illustration of the genetic background of pediatric acute myeloid leukemia.	ETV6
+31725893	10.1182/bloodadvances.2019000700	2019	Larotrectinib in TRK fusion-positive pediatric B-cell acute lymphoblastic leukemia.	ETV6
+31767839	10.1038/s41467-019-13069-6	2019	Identification of four novel associations for B-cell acute lymphoblastic leukaemia risk.	ETV6
+31779973	10.1016/j.beha.2019.101095	2019	How advanced are we in targeting novel subtypes of ALL?	ETV6
+31817853	10.3390/ijms20246175	2019	SYK Targeting Represents a Potential Therapeutic Option for Relapsed Resistant Pediatric <i>ETV6-RUNX1</i> B-Acute Lymphoblastic Leukemia Patients.	ETV6
+28272805	10.1111/bjh.14579	2018	Early thymic precursor-like lymphomatous presentation of the ETV6-NCOA2 translocation.	ETV6
+28776427	10.1080/10428194.2017.1359742	2018	ETV6 and NOTCH1 germline variants in adult acute leukemia.	ETV6
+28819864	10.1007/s00018-017-2620-z	2018	Molecular processes involved in B cell acute lymphoblastic leukaemia.	ETV6
+28853218	10.1002/pbc.26786	2018	Mutational status of NRAS, KRAS, and PTPN11 genes is associated with genetic/cytogenetic features in children with B-precursor acute lymphoblastic leukemia.	ETV6
+28972594	10.1038/leu.2017.303	2018	RAS pathway mutations as a predictive biomarker for treatment adaptation in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
+29034503	10.1111/ejh.12981	2018	Detection of a new heterozygous germline ETV6 mutation in a case with hyperdiploid acute lymphoblastic leukemia.	ETV6
+29046324	10.1530/EJE-17-0499	2018	<i>ETV6-NTRK3</i> and <i>STRN-ALK</i> kinase fusions are recurrent events in papillary thyroid cancer of adult population.	ETV6
+29064485	10.1038/leu.2017.289	2018	Differential impact of drugs on the outcome of ETV6-RUNX1 positive childhood B-cell precursor acute lymphoblastic leukaemia: results of the EORTC CLG 58881 and 58951 trials.	ETV6
+29148893	10.1200/JCO.2017.74.4946	2018	Reduced-Intensity Delayed Intensification in Standard-Risk Pediatric Acute Lymphoblastic Leukemia Defined by Undetectable Minimal Residual Disease: Results of an International Randomized Trial (AIEOP-BFM ALL 2000).	ETV6
+29177615	10.1007/s12185-017-2371-5	2018	ETV6-ABL1 fusion combined with monosomy 7 in childhood B-precursor acute lymphoblastic leukemia.	ETV6
+29290585	10.1016/j.devcel.2017.12.005	2018	A Human IPS Model Implicates Embryonic B-Myeloid Fate Restriction as Developmental Susceptibility to B Acute Lymphoblastic Leukemia-Associated ETV6-RUNX1.	ETV6
+29311095	10.1182/blood-2017-09-808402	2018	Five percent of healthy newborns have an <i>ETV6-RUNX1</i> fusion as revealed by DNA-based GIPFEL screening.	ETV6
+29327718	10.1038/modpathol.2017.191	2018	Epithelioid fibrous histiocytoma: molecular characterization of ALK fusion partners in 23 cases.	ETV6
+29348129	10.1182/blood-2017-07-796862	2018	Genomic CDKN2A/2B deletions in adult Ph<sup>+</sup> ALL are adverse despite allogeneic stem cell transplantation.	ETV6
+29407587	10.1016/j.leukres.2018.01.012	2018	High frequency of intermediate and poor risk copy number abnormalities in pediatric cohort of B-ALL correlate with high MRD post induction.	ETV6
+29432597	10.1093/neuonc/noy019	2018	Identification of novel recurrent ETV6-IgH fusions in primary central nervous system lymphoma.	ETV6
+29498923	10.1200/JCO.2017.74.3617	2018	IKZF1<sup>plus</sup> Defines a New Minimal Residual Disease-Dependent Very-Poor Prognostic Profile in Pediatric B-Cell Precursor Acute Lymphoblastic Leukemia.	ETV6
+29507076	10.1182/bloodadvances.2017014704	2018	Prognostic impact of kinase-activating fusions and IKZF1 deletions in pediatric high-risk B-lineage acute lymphoblastic leukemia.	ETV6
+29520434	10.1007/s00277-018-3291-z	2018	A patient with B-cell acute lymphoblastic leukemia with PAX5-ETV6 rearrangement with dic(9;12)(p13;p13) identified by chromosomal microarray.	ETV6
+29575541	10.1111/ijlh.12805	2018	Simultaneous detection of ABL1 mutation and IKZF1 deletion in Philadelphia chromosome-positive acute lymphoblastic leukemia using a customized target enrichment system panel.	ETV6
+29589281	10.1007/s12185-018-2440-4	2018	Treatment outcome of children with acute lymphoblastic leukemia: the Tokyo Children's Cancer Study Group (TCCSG) Study L04-16.	ETV6
+29632299	10.1038/s41467-018-03178-z	2018	Genome-wide association study identifies susceptibility loci for B-cell childhood acute lymphoblastic leukemia.	ETV6
+29726059	10.1002/gcc.6	2018	Two novel fusion genes, AIF1L-ETV6 and ABL1-AIF1L, result together with ETV6-ABL1 from a single chromosomal rearrangement in acute lymphoblastic leukemia with prenatal origin.	ETV6
+29763473	10.1371/journal.pone.0197408	2018	Maternal folate genes and aberrant DNA hypermethylation in pediatric acute lymphoblastic leukemia.	ETV6
+29778230	10.1016/j.cancergen.2018.03.001	2018	ETV6/RUNX1-positive childhood acute lymphoblastic leukemia (ALL): The spectrum of clonal heterogeneity and its impact on prognosis.	ETV6
+29784935	10.1038/s41568-018-0015-6	2018	A causal mechanism for childhood acute lymphoblastic leukaemia.	ETV6
+29786757	10.1007/s12185-018-2474-7	2018	Copy number abnormality of acute lymphoblastic leukemia cell lines based on their genetic subtypes.	ETV6
+29880614	10.1182/blood-2018-05-849554	2018	ETV6-NTRK3 induces aggressive acute lymphoblastic leukemia highly sensitive to selective TRK inhibition.	ETV6
+29891112	10.1016/j.critrevonc.2018.05.010	2018	Molecular analysis in liquid biopsies for diagnostics of primary central nervous system lymphoma: Review of literature and future opportunities.	ETV6
+29900760	10.1177/0300060518780873	2018	Anaplastic lymphoma kinase-negative uterine inflammatory myofibroblastic tumor containing the ETV6-NTRK3 fusion gene: a case report.	ETV6
+29950197	10.7534/j.issn.1009-2137.2018.03.002	2018	[HER2 Expression in Childhood ETV6/RUNX1<sup>+</sup> Acute Lymphoblastic Leukemia and Its Correlation with Clinical Features].	ETV6
+29992138	10.1155/2018/3574534	2018	Identification of Hub Genes and Key Pathways Associated with Two Subtypes of Diffuse Large B-Cell Lymphoma Based on Gene Expression Profiling via Integrated Bioinformatics.	ETV6
+29997224	10.1182/blood-2018-04-841676	2018	Genomic and outcome analyses of Ph-like ALL in NCI standard-risk patients: a report from the Children's Oncology Group.	ETV6
+30115129	10.1186/s13052-018-0541-6	2018	ETV6/RUNX1-positive childhood acute lymphoblastic leukemia in China: excellent prognosis with improved BFM protocol.	ETV6
+30125757	10.1016/j.leukres.2018.08.009	2018	Retrospective analysis of 36 fusion genes in 2479 Chinese patients of de novo acute lymphoblastic leukemia.	ETV6
+30139830	10.1182/blood-2018-06-857540	2018	Genomic precision medicine: on the TRK.	ETV6
+30168245	10.1002/pbc.27366	2018	A triple-probe FISH screening strategy for risk-stratified therapy of acute lymphoblastic leukaemia in low-resource settings.	ETV6
+30203896	10.1002/gcc.22664	2018	Improved cytogenetic characterization and risk stratification of pediatric acute lymphoblastic leukemia using single nucleotide polymorphism array analysis: A single center experience of 296 cases.	ETV6
+30341373	10.1038/s41598-018-33947-1	2018	Genome wide mapping of ETV6 binding sites in pre-B leukemic cells.	ETV6
+30422774	10.1148/rg.2018180192	2018	Primary Lung Tumors in Children: Radiologic-Pathologic Correlation From the Radiologic Pathology Archives.	ETV6
+30487223	10.1073/pnas.1814397115	2018	Transcriptional landscape of B cell precursor acute lymphoblastic leukemia based on an international study of 1,223 cases.	ETV6
+30559310	10.1101/mcs.a003079	2018	Two myeloid leukemia cases with rare <i>FLT3</i> fusions.	ETV6
+30701920	10.26442/terarkh201890730-37	2018	Structure and significance of cytogenetic abnormalities in adult patients with Ph-negative acute lymphoblastic leukemia.	ETV6
+27339065	10.1080/10428194.2016.1193855	2017	Gene copy number alteration profile and its clinical correlation in B-cell acute lymphoblastic leukemia.	ETV6
+27506214	10.4143/crt.2016.211	2017	Outcome and Prognostic Factors for <i>ETV6/RUNX1</i> Positive Pediatric Acute Lymphoblastic Leukemia Treated at a Single Institution in Korea.	ETV6
+27560110	10.1038/leu.2016.234	2017	Clinical impact of minimal residual disease in children with different subtypes of acute lymphoblastic leukemia treated with Response-Adapted therapy.	ETV6
+27683100	10.1002/cncr.30257	2017	The treatment of childhood acute lymphoblastic leukemia in Guatemala: Biologic features, treatment hurdles, and results.	ETV6
+27698447	10.1038/leu.2016.274	2017	Long-term outcome of 6-month maintenance chemotherapy for acute lymphoblastic leukemia in children.	ETV6
+28004528	10.1111/ijlh.12593	2017	Minimal residual disease monitoring in childhood B lymphoblastic leukemia with t(12;21)(p13;q22); ETV6-RUNX1: concordant results using quantitation of fusion transcript and flow cytometry.	ETV6
+28063378	10.1016/j.leukres.2016.12.005	2017	Overexpression of PTP4A3 in ETV6-RUNX1 acute lymphoblastic leukemia.	ETV6
+28063722	10.1016/j.jfma.2016.12.002	2017	Concordance of two approaches in monitoring of minimal residual disease in B-precursor acute lymphoblastic leukemia: Fusion transcripts and leukemia-associated immunophenotypes.	ETV6
+28202519	10.1158/0008-5472.CAN-16-2571	2017	Correlates of Prenatal and Early-Life Tobacco Smoke Exposure and Frequency of Common Gene Deletions in Childhood Acute Lymphoblastic Leukemia.	ETV6
+28219927	10.15252/embj.201695495	2017	Molecular role of the PAX5-ETV6 oncoprotein in promoting B-cell acute lymphoblastic leukemia.	ETV6
+28256570	10.1038/modpathol.2017.12	2017	Recurrent BCOR internal tandem duplication and BCOR or BCL6 expression distinguish primitive myxoid mesenchymal tumor of infancy from congenital infantile fibrosarcoma.	ETV6
+28299660	10.1007/978-981-10-3233-2_14	2017	ETV6-RUNX1 <sup>+</sup> Acute Lymphoblastic Leukaemia in Identical Twins.	ETV6
+28395118	10.1002/gcc.22464	2017	ETV6/RUNX1-like acute lymphoblastic leukemia: A novel B-cell precursor leukemia subtype associated with the CD27/CD44 immunophenotype.	ETV6
+28401483	10.1007/s12032-017-0940-3	2017	Molecular profiling of gene copy number abnormalities in key regulatory genes in high-risk B-lineage acute lymphoblastic leukemia: frequency and their association with clinicopathological findings in Indian patients.	ETV6
+28408464	10.1182/blood-2016-12-758979	2017	Targetable kinase gene fusions in high-risk B-ALL: a study from the Children's Oncology Group.	ETV6
+28415763	10.18632/oncotarget.16211	2017	Low numbers of pre-leukemic fusion genes are frequently present in umbilical cord blood without affecting DNA damage response.	ETV6
+28418909	10.18632/oncotarget.16367	2017	Pathogenesis of ETV6/RUNX1-positive childhood acute lymphoblastic leukemia and mechanisms underlying its relapse.	ETV6
+28487787	10.1155/2017/5083463	2017	EBV-Negative Monomorphic B-Cell Posttransplant Lymphoproliferative Disorder with Marked Morphologic Pleomorphism and Pathogenic Mutations in <i>ASXL1</i>, <i>BCOR</i>, <i>CDKN2A</i>, <i>NF1</i>, and <i>TP53</i>.	ETV6
+28500740	10.1002/pbc.26518	2017	Children with low-risk acute lymphoblastic leukemia are at highest risk of second cancers.	ETV6
+28555414	10.1007/s12185-017-2259-4	2017	Germline ETV6 mutations and predisposition to hematological malignancies.	ETV6
+28557976	10.1038/bjc.2017.152	2017	Mutations in TP53 and JAK2 are independent prognostic biomarkers in B-cell precursor acute lymphoblastic leukaemia.	ETV6
+28624474	10.1016/j.tiv.2017.06.013	2017	""Exposure to the insecticides permethrin and malathion induces leukemia and lymphoma-associated gene aberrations in vitro"".	ETV6
+28630052	10.1158/0008-5472.CAN-17-0701	2017	Infection Exposure Promotes <i>ETV6-RUNX1</i> Precursor B-cell Leukemia via Impaired H3K4 Demethylases.	ETV6
+28631637	10.4103/IJPM.IJPM_466_16	2017	An integrated genomic profile that includes copy number alterations is highly predictive of minimal residual disease status in childhood precursor B-lineage acute lymphoblastic leukemia.	ETV6
+28709134	10.1016/j.ejca.2017.06.012	2017	BCR-ABL1-like acute lymphoblastic leukaemia: From bench to bedside.	ETV6
+28724437	10.1186/s12943-017-0692-x	2017	The lncRNA CASC15 regulates SOX4 expression in RUNX1-rearranged acute leukemia.	ETV6
+28778863	10.1182/blood-2017-05-742643	2017	New oncogenic subtypes in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
+28806978	10.1186/s13045-017-0515-y	2017	Transcriptome sequencing in pediatric acute lymphoblastic leukemia identifies fusion genes associated with distinct DNA methylation profiles.	ETV6
+28810325	10.3760/cma.j.issn.0253-2727.2017.07.006	2017	[Heterogeneity and clonal evolution in pediatric ETV6-RUNX1(+) acute lymphoblastic leukemia by quantitative multigene fluorescence in situ hybridization].	ETV6
+28886309	10.14715/cmb/2017.63.8.4	2017	The correlation between Pax5 deletion and patients survival in Iranian children with precursor B-cell acute lymphocytic leukemia.	ETV6
+28954346	10.3760/cma.j.issn.0253-2727.2017.08.006	2017	[Clinical significance of monitoring ETV6-RUNX1 fusion gene expression in children with acute lymphoblastic leukemia after allogeneic hematopoietic stem cell transplantation].	ETV6
+29125853	10.1371/journal.pone.0187422	2017	Whole-genome DNA methylation characteristics in pediatric precursor B cell acute lymphoblastic leukemia (BCP ALL).	ETV6
+26327566	10.3109/10428194.2015.1088650	2016	Genetic alterations in glucocorticoid signaling pathway components are associated with adverse prognosis in children with relapsed ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
+26573422	10.1038/nrclinonc.2015.211	2016	Haematological cancer: ETV6 germline mutation - a risk for ALL.	ETV6
+26647767	10.1111/his.12910	2016	ALK, ROS1 and NTRK3 gene rearrangements in inflammatory myofibroblastic tumours.	ETV6
+26693794	10.3109/10428194.2015.1115041	2016	Genetic predisposition to myelodysplastic syndrome and acute myeloid leukemia in children and young adults.	ETV6
+26711002	10.1002/cam4.579	2016	Determination of ETV6-RUNX1 genomic breakpoint by next-generation sequencing.	ETV6
+26781410		2016	[Detection of copy number variations in pediatric ETV6/RUNX1-positive acute lymphoblastic leukemia with multiplex ligation-dependent probe amplification].	ETV6
+26785729	10.1074/mcp.M115.054593	2016	High-resolution Antibody Array Analysis of Childhood Acute Leukemia Cells.	ETV6
+26852652	10.1016/j.bcmd.2015.11.006	2016	ETV6/RUNX1 transcript is a target of RNA-binding protein IGF2BP1 in t(12;21)(p13;q22)-positive acute lymphoblastic leukemia.	ETV6
+26883104	10.18632/oncotarget.7356	2016	Prognostic and therapeutic role of targetable lesions in B-lineage acute lymphoblastic leukemia without recurrent fusion genes.	ETV6
+26919255	10.18632/oncotarget.7687	2016	Cooperation of ETV6/RUNX1 and BCL2 enhances immunoglobulin production and accelerates glomerulonephritis in transgenic mice.	ETV6
+26957068	10.3760/cma.j.issn.0578-1310.2016.03.011	2016	[Copy number variations in pediatric ETV6/RUNX1 positive acute lymphoblastic leukemia].	ETV6
+27033238	10.3324/haematol.2015.141101	2016	New and emerging prognostic and predictive genetic biomarkers in B-cell precursor acute lymphoblastic leukemia.	ETV6
+27058227	10.1038/bcj.2016.11	2016	Myeloproliferative neoplasm with eosinophilia and T-lymphoblastic lymphoma with ETV6-LYN gene fusion.	ETV6
+27151989	10.3324/haematol.2016.143875	2016	Deletions of the long arm of chromosome 5 define subgroups of T-cell acute lymphoblastic leukemia.	ETV6
+27161658	10.1016/j.jmoldx.2016.03.004	2016	Genome-Wide Single-Nucleotide Polymorphism Array Analysis Improves Prognostication of Acute Lymphoblastic Leukemia/Lymphoma.	ETV6
+27181063	10.1016/j.exphem.2016.04.011	2016	Comprehensive genomic analysis reveals FLT3 activation and a therapeutic strategy for a patient with relapsed adult B-lymphoblastic leukemia.	ETV6
+27215399	10.1016/j.yexmp.2016.05.010	2016	Oligo-based aCGH analysis reveals cryptic unbalanced der(6)t(X;6) in pediatric t(12;21)-positive acute lymphoblastic leukemia.	ETV6
+27239736	10.1016/j.leukres.2016.05.009	2016	Defining the significance of IGF2BP1 overexpression in t(12;21)(p13;q22)-positive leukemia REH cells.	ETV6
+27259007	10.1097/PAS.0000000000000677	2016	ETV6-NTRK3 Is Expressed in a Subset of ALK-Negative Inflammatory Myofibroblastic Tumors.	ETV6
+27265895	10.1038/ncomms11790	2016	Identification of ETV6-RUNX1-like and DUX4-rearranged subtypes in paediatric B-cell precursor acute lymphoblastic leukaemia.	ETV6
+27341996	10.1016/j.cancergen.2016.06.004	2016	Chromosomal aberrations in childhood acute lymphoblastic leukemia: 15-year single center experience.	ETV6
+27365488	10.3324/haematol.2016.147496	2016	Clinical and pathogenic features of ETV6-related thrombocytopenia with predisposition to acute lymphoblastic leukemia.	ETV6
+27374714	10.3343/alm.2016.36.5.475	2016	Frequency and Clinical Characteristics of Intrachromosomal Amplification of Chromosome 21 in Korean Childhood B-lineage Acute Lymphoblastic Leukemia.	ETV6
+27393278	10.1007/s12185-016-2034-y	2016	Prognostic impact of RUNX1 and ETV6 gene copy number on pediatric B-cell precursor acute lymphoblastic leukemia with or without hyperdiploidy.	ETV6
+27431763	10.7554/eLife.13087	2016	Transcription-coupled genetic instability marks acute lymphoblastic leukemia structural variation hotspots.	ETV6
+27498737	10.11406/rinketsu.57.900	2016	Familial acute lymphoblastic leukemia.	ETV6
+27536776	10.1371/journal.pone.0161539	2016	Gene Signature of High White Blood Cell Count in B-Precursor Acute Lymphoblastic Leukemia.	ETV6
+27540136	10.3324/haematol.2016.149740	2016	CLIC5: a novel ETV6 target gene in childhood acute lymphoblastic leukemia.	ETV6
+27590521	10.18632/oncotarget.11773	2016	Deep targeted sequencing in pediatric acute lymphoblastic leukemia unveils distinct mutational patterns between genetic subtypes and novel relapse-associated genes.	ETV6
+27611867	10.1371/journal.pone.0162638	2016	The Expression Pattern of the Pre-B Cell Receptor Components Correlates with Cellular Stage and Clinical Outcome in Acute Lymphoblastic Leukemia.	ETV6
+27620872	10.1101/gr.193649.115	2016	Genome-wide repression of eRNA and target gene loci by the ETV6-RUNX1 fusion in acute leukemia.	ETV6
+27632978	10.1186/s13000-016-0541-z	2016	Multiplexed automated digital quantification of fusion transcripts: comparative study with fluorescent in-situ hybridization (FISH) technique in acute leukemia patients.	ETV6
+27650541	10.18632/oncotarget.12063	2016	Unique long non-coding RNA expression signature in ETV6/RUNX1-driven B-cell precursor acute lymphoblastic leukemia.	ETV6
+27664585	10.1016/j.gene.2016.09.030	2016	Characterization of a novel acquired der(1)del(1)(p13p31)t(1;15)(q42;q15) in a high risk t(12;21)-positive acute lymphoblastic leukemia.	ETV6
+27775641	10.3390/ijms17101759	2016	Genetic Heterogeneity of HER2 Amplification and Telomere Shortening in Papillary Thyroid Carcinoma.	ETV6
+27802191	10.3233/CBM-160656	2016	Molecular combing: A new tool in diagnosing leukemia.	ETV6
+27900092	10.3892/mco.2016.1008	2016	Primary orbital precursor T-cell lymphoblastic lymphoma: Report of a unique case.	ETV6
+28476192	10.1016/j.arcmed.2016.12.005	2016	Gene Expression Profiling of Acute Lymphoblastic Leukemia in Children with Very Early Relapse.	ETV6
+28476198	10.1016/j.arcmed.2016.12.002	2016	Copy Number Alterations Associated with Acute Lymphoblastic Leukemia in Mexican Children. A report from The Mexican Inter-Institutional Group for the identification of the causes of childhood leukemia.	ETV6
+24897505	10.1038/leu.2014.177	2015	Evolutionary trajectories of hyperdiploid ALL in monozygotic twins.	ETV6
+24975316	10.3109/10428194.2014.938330	2015	Imatinib non-responsive chronic eosinophilic leukemia with ETV6-PDGFRA fusion gene.	ETV6
+25150625	10.1016/j.bcmd.2014.07.011	2015	Concordant B-cell precursor acute lymphoblastic leukemia in non-twinned siblings.	ETV6
+25261097	10.3324/haematol.2014.112912	2015	Novel gene targets detected by genomic profiling in a consecutive series of 126 adults with acute lymphoblastic leukemia.	ETV6
+25312094	10.1111/bjh.13142	2015	Persistent MRD before and after allogeneic BMT predicts relapse in children with acute lymphoblastic leukaemia.	ETV6
+25355294	10.1002/humu.22719	2015	The mutational landscape in pediatric acute lymphoblastic leukemia deciphered by whole genome sequencing.	ETV6
+25373509	10.3109/10428194.2014.982643	2015	ETV6/ARG oncoprotein confers autonomous cell growth by enhancing c-Myc expression via signal transducer and activator of transcription 5 activation in the acute promyelocytic leukemia cell line HT93A.	ETV6
+25388957	10.1038/leu.2014.322	2015	Clonal origins of ETV6-RUNX1⁺ acute lymphoblastic leukemia: studies in monozygotic twins.	ETV6
+25595912	10.18632/oncotarget.2807	2015	LCK over-expression drives STAT5 oncogenic signaling in PAX5 translocated BCP-ALL patients.	ETV6
+25678190	10.1016/j.cancergen.2014.11.003	2015	Integration of cytogenomic data for furthering the characterization of pediatric B-cell acute lymphoblastic leukemia: a multi-institution, multi-platform microarray study.	ETV6
+25706938	10.1002/gcc.22246	2015	A population-based single nucleotide polymorphism array analysis of genomic aberrations in younger adult acute lymphoblastic leukemia patients.	ETV6
+25764068	10.1371/journal.pone.0119256	2015	Neonatal infection with species C adenoviruses confirmed in viable cord blood lymphocytes.	ETV6
+25807284	10.1038/ng.3253	2015	Germline mutations in ETV6 are associated with thrombocytopenia, red cell macrocytosis and predisposition to lymphoblastic leukemia.	ETV6
+25893288	10.1038/onc.2015.50	2015	The TEL-AML1 fusion protein of acute lymphoblastic leukemia modulates IRF3 activity during early B-cell differentiation.	ETV6
+25948177	10.7534/j.issn.1009-2137.2015.02.004	2015	[Cytogenetic characteristics of 163 children with acute lymphoblastic leukemia].	ETV6
+25982135	10.1002/pbc.25583	2015	Clinical features and induction outcome of childhood acute lymphoblastic leukemia in a lower/middle income population: A multi-institutional report from Pakistan.	ETV6
+26102509	10.1371/journal.pgen.1005262	2015	Germline ETV6 Mutations Confer Susceptibility to Acute Lymphoblastic Leukemia and Thrombocytopenia.	ETV6
+26137961	10.3324/haematol.2015.126953	2015	CD200/BTLA deletions in pediatric precursor B-cell acute lymphoblastic leukemia treated according to the EORTC-CLG 58951 protocol.	ETV6
+26185316	10.1309/AJCPVY5E5OMMYBFJ	2015	Heterogeneity of Abnormal RUNX1 Leading to Clinicopathologic Variations in Childhood B-Lymphoblastic Leukemia.	ETV6
+26237075	10.1080/15592294.2015.1061174	2015	Epigenetic landscape correlates with genetic subtype but does not predict outcome in childhood acute lymphoblastic leukemia.	ETV6
+26266519	10.1007/s40291-015-0149-0	2015	High frequency and poor prognosis of late childhood BCR-ABL-positive and MLL-AF4-positive ALL define the need for advanced molecular diagnostics and improved therapeutic strategies in pediatric B-ALL in Pakistan.	ETV6
+26269126	10.1186/s12885-015-1586-1	2015	Somatic drivers of B-ALL in a model of ETV6-RUNX1; Pax5(+/-) leukemia.	ETV6
+26277549	10.1016/j.cancergen.2015.06.003	2015	Frequency of copy number abnormalities in common genes associated with B-cell precursor acute lymphoblastic leukemia cytogenetic subtypes in Brazilian children.	ETV6
+26429121	10.4081/pmc.2015.112	2015	Mitotic crossover promotes leukemogenesis in children born with TEL-AML1 via the generation of loss of heterozygosity at 12p.	ETV6
+26514535	10.7314/apjcp.2015.16.16.7343	2015	Importance of FISH combined with Morphology, Immunophenotype and Cytogenetic Analysis of Childhood/ Adult Acute Lymphoblastic Leukemia in Omani Patients.	ETV6
+26520622	10.1016/j.leukres.2015.10.006	2015	Preserved global histone H4 acetylation linked to ETV6-RUNX1 fusion and PAX5 deletions is associated with favorable outcome in pediatric B-cell progenitor acute lymphoblastic leukemia.	ETV6
+26522332	10.1016/S1470-2045(15)00369-1	2015	Germline genetic variation in ETV6 and risk of childhood acute lymphoblastic leukaemia: a systematic genetic study.	ETV6
+26580398	10.1371/journal.pone.0142863	2015	A Double Negative Loop Comprising ETV6/RUNX1 and MIR181A1 Contributes to Differentiation Block in t(12;21)-Positive Acute Lymphoblastic Leukemia.	ETV6
+26625756	10.7314/apjcp.2015.16.17.7523	2015	Low Frequency of ETV6-RUNX1 (t 12; 21) in Saudi Arabian Pediatric Acute Lymphoblastic Leukemia Patients: Association with Clinical Parameters and Early Remission.	ETV6
+23772667	10.3109/10428194.2013.814127	2014	Pathogenetic role of ETV6 fusion gene in leukemic transformation of myelodysplastic syndrome refractory anemia with excess blasts-1 with a new, rare translocation t(11;19)(q24.3;q13.12) and insertion ins(6;12)(p22.3p13).	ETV6
+23873282	10.1007/s00277-013-1843-9	2014	Successful allogeneic stem cell transplantation with long-term remission of ETV6/FLT3-positive myeloid/lymphoid neoplasm with eosinophilia.	ETV6
+23911702	10.3324/haematol.2013.090225	2014	High CD45 surface expression determines relapse risk in children with precursor B-cell and T-cell acute lymphoblastic leukemia treated according to the ALL-BFM 2000 protocol.	ETV6
+23940019	10.1002/pbc.24584	2014	Clinical characteristics and treatment outcome of childhood acute lymphoblastic leukemia in Saudi Arabia: a multi-institutional retrospective national collaborative study.	ETV6
+24045615	10.1093/hmg/ddt447	2014	Frequent and sex-biased deletion of SLX4IP by illegitimate V(D)J-mediated recombination in childhood acute lymphoblastic leukemia.	ETV6
+24166298	10.1038/leu.2013.317	2014	An international study of intrachromosomal amplification of chromosome 21 (iAMP21): cytogenetic characterization and outcome.	ETV6
+24188477	10.3109/10428194.2013.861071	2014	Clinical outcome of the coexistence of ETV6/RUNX1 and high hyperdiploidy in pediatric acute lymphoblastic leukemia.	ETV6
+24222333	10.1182/blood-2013-06-509463	2014	Acute lymphoblastic leukemia in children with Down syndrome: a retrospective analysis from the Ponte di Legno study group.	ETV6
+24231528	10.1016/j.leukres.2013.10.008	2014	Significance of CD66c expression in childhood acute lymphoblastic leukemia.	ETV6
+24235135	10.1182/blood-2013-07-453480	2014	How I treat ALL in Down's syndrome: pathobiology and management.	ETV6
+24240203	10.1038/leu.2013.345	2014	Blocking ETV6/RUNX1-induced MDM2 overexpression by Nutlin-3 reactivates p53 signaling in childhood leukemia.	ETV6
+24241490	10.3324/haematol.2012.072470	2014	Copy number genome alterations are associated with treatment response and outcome in relapsed childhood ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
+24318592	10.1007/s00277-013-1975-y	2014	Extramedullary T-lymphoid blast crisis of an ETV6/ABL1-positive myeloproliferative neoplasm with t(9;12)(q34;p13) and t(7;14)(p13;q11.2).	ETV6
+24345752	10.1182/blood-2013-10-531509	2014	A targeted mutational landscape of angioimmunoblastic T-cell lymphoma.	ETV6
+24394348	10.4161/epi.27585	2014	Epigenetic deregulation in pediatric acute lymphoblastic leukemia.	ETV6
+24413735	10.1038/ng.2874	2014	RAG-mediated recombination is the predominant driver of oncogenic rearrangement in ETV6-RUNX1 acute lymphoblastic leukemia.	ETV6
+24473322	10.1038/ng.2879	2014	A RAG driver on the road to pediatric ALL.	ETV6
+24557455	10.1159/000356778	2014	ETV6/RUNX1 rearrangement identified by RT-PCR without evidence on FISH.	ETV6
+24577543	10.1097/MPH.0000000000000119	2014	Novel t(2;12)(q31;p13) in a case of pediatric T-cell acute lymphoblastic leukemia.	ETV6
+24596209	10.1158/2159-8290.CD-RW2014-018	2014	ETV6-RUNX1-positive ALL may be driven by aberrant RAG activity.	ETV6
+24648275	10.1002/pbc.25031	2014	Childhood acute lymphoblastic leukemia in the Middle East and neighboring countries: a prospective multi-institutional international collaborative study (CALLME1) by the Middle East Childhood Cancer Alliance (MECCA).	ETV6
+24740533	10.1002/pbc.25050	2014	False positivity of ETV6/RUNX1 detected by FISH in healthy newborns and adults.	ETV6
+24790906	10.3343/alm.2014.34.3.198	2014	Diagnostic utility of multiprobe fluorescence in situ hybridization assay for detecting cytogenetic aberrations in acute leukemia.	ETV6
+24816234	10.3324/haematol.2014.103820	2014	IGH@ translocations co-exist with other primary rearrangements in B-cell precursor acute lymphoblastic leukemia.	ETV6
+24886876	10.1186/1756-8722-7-43	2014	Polymorphisms in microRNA target sites modulate risk of lymphoblastic and myeloid leukemias and affect microRNA binding.	ETV6
+24913195	10.1111/bjh.12963	2014	Should myeloid and lymphoid neoplasms with PCM1-JAK2 and other rearrangements of JAK2 be recognized as specific entities?	ETV6
+24957142	10.1182/blood-2014-03-562918	2014	A novel integrated cytogenetic and genomic classification refines risk stratification in pediatric acute lymphoblastic leukemia.	ETV6
+24970810	10.18632/oncotarget.2080	2014	Mutational analysis of primary central nervous system lymphoma.	ETV6
+24998463	10.1016/j.cancergen.2014.05.003	2014	High frequency of BTG1 deletions in patients with BCR-ABL1-positive acute leukemia.	ETV6
+25137060	10.1371/journal.pone.0104419	2014	Genomic inverse PCR for exploration of ligated breakpoints (GIPFEL), a new method to detect translocations in leukemia.	ETV6
+25207766	10.1056/NEJMoa1403088	2014	Targetable kinase-activating lesions in Ph-like acute lymphoblastic leukemia.	ETV6
+25273558	10.1091/mbc.E14-06-1038	2014	Predicting interactome network perturbations in human cancer: application to gene fusions in acute lymphoblastic leukemia.	ETV6
+25298122	10.1038/srep06565	2014	Identification and characterization of OSTL (RNF217) encoding a RING-IBR-RING protein adjacent to a translocation breakpoint involving ETV6 in childhood ALL.	ETV6
+25368826	10.3343/alm.2014.34.6.475	2014	A cryptic ETV6/ABL1 rearrangement represents a unique fluorescence in situ hybridization signal pattern in a patient with B acute lymphoblastic leukemia.	ETV6
+25692130	10.1155/2014/210560	2014	Prevalence of gene rearrangements in Mexican children with acute lymphoblastic leukemia: a population study-report from the Mexican Interinstitutional Group for the identification of the causes of childhood leukemia.	ETV6
+22528566	10.1007/s12253-012-9533-9	2013	Six cases of rare gene amplifications and multiple copy of fusion gene in childhood acute lymphoblastic leukemia.	ETV6
+22699455	10.1038/leu.2012.155	2013	Prognostic value of genetic alterations in children with first bone marrow relapse of childhood B-cell precursor acute lymphoblastic leukemia.	ETV6
+22734863	10.3109/10428194.2012.706288	2013	Identification of NIPBL, a new ETV6 partner gene in t(5;12) (p13;p13)-associated acute megakaryoblastic leukemia.	ETV6
+22897724	10.3109/10428194.2012.710330	2013	Gene expression pattern contributing to prognostic factors in childhood acute lymphoblastic leukemia.	ETV6
+23077088	10.1002/gcc.22021	2013	Abnormalities of the der(12)t(12;21) in ETV6-RUNX1 acute lymphoblastic leukemia.	ETV6
+23135987	10.1002/stem.1277	2013	TEL (ETV6)-AML1 (RUNX1) initiates self-renewing fetal pro-B cells in association with a transcriptional program shared with embryonic stem cells in mice.	ETV6
+23171811	10.1159/000342490	2013	Variant of ETV6/ABL1 gene is associated with leukemia phenotype.	ETV6
+23190578	10.1111/ijlh.12031	2013	Interphase-FISH screening for eight common rearrangements in pediatric B-cell precursor acute lymphoblastic leukemia.	ETV6
+23210573	10.3109/10428194.2012.754888	2013	Detection and clinical significance of gene rearrangements in Chinese patients with adult acute lymphoblastic leukemia.	ETV6
+23276184	10.5858/arpa.2011-0429-CR	2013	Burkitt lymphoma arising from lymphoplasmacytic lymphoma following acquisition of MYC translocation and loss of the ETV6 tumor suppressor gene.	ETV6
+23382691	10.1371/journal.pgen.1003225	2013	Loci associated with N-glycosylation of human immunoglobulin G show pleiotropy with autoimmune diseases and haematological cancers.	ETV6
+23443342	10.1038/leu.2013.15	2013	Initially disadvantaged, TEL-AML1 cells expand and initiate leukemia in response to irradiation and cooperating mutations.	ETV6
+23488608	10.3109/10428194.2013.786068	2013	The ETV6/RUNX1 fusion transcript is not detected in RNA isolated from neonatal dried blood spots from children later diagnosed with the corresponding leukemia.	ETV6
+23491079	10.1016/j.cancergen.2013.01.004	2013	Simultaneous occurrence of ETV6-RUNX1 and BCR-ABL1 (e1a2) transcripts in a child with B-cell acute lymphoblastic leukemia.	ETV6
+23603912	10.1182/blood-2012-11-465138	2013	Whole-exome sequencing in adult ETP-ALL reveals a high rate of DNMT3A mutations.	ETV6
+23636228	10.1038/leu.2013.136	2013	Long-term follow-up of ETV6-RUNX1 ALL reveals that NCI risk, rather than secondary genetic abnormalities, is the key risk factor.	ETV6
+23694795		2013	Hemophagocytosis by leukemic blasts in B lymphoblastic leukemia with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1): a case report.	ETV6
+23710385	10.1155/2013/652745	2013	Clonal Hypereosinophilia with ETV6 Rearrangement Evolving to T-Cell Lymphoblastic Lymphoma: A Case Report and Review of the Literature.	ETV6
+23716539	10.3324/haematol.2012.080432	2013	Clinico-biological features of 5202 patients with acute lymphoblastic leukemia enrolled in the Italian AIEOP and GIMEMA protocols and stratified in age cohorts.	ETV6
+23722552	10.1158/0008-5472.CAN-12-4367	2013	Integration of high-resolution methylome and transcriptome analyses to dissect epigenomic changes in childhood acute lymphoblastic leukemia.	ETV6
+23741012	10.1182/blood-2012-11-465252	2013	STAT3 mediates oncogenic addiction to TEL-AML1 in t(12;21) acute lymphoblastic leukemia.	ETV6
+23859904	10.1016/j.cancergen.2013.05.017	2013	Frequency of the ETV6-RUNX1, BCR-ABL1, TCF3-PBX1, and MLL-AFF1 fusion genes in Guatemalan pediatric acute lymphoblastic leukemia patients and their ethnic associations.	ETV6
+23915977	10.1016/j.leukres.2013.06.027	2013	MiR-125b, miR-100 and miR-99a co-regulate vincristine resistance in childhood acute lymphoblastic leukemia.	ETV6
+24006408	10.3324/haematol.2013.090860	2013	Clone-specific secondary aberrations are not detected in neonatal blood spots of children with ETV6-RUNX1-positive leukemia.	ETV6
+24076604	10.1038/ng.2777	2013	Global chromatin profiling reveals NSD2 mutations in pediatric acute lymphoblastic leukemia.	ETV6
+24081948	10.1084/jem.20130497	2013	Aberrant ZNF423 impedes B cell differentiation and is linked to adverse outcome of ETV6-RUNX1 negative B precursor acute lymphoblastic leukemia.	ETV6
+24319172	10.1182/asheducation-2013.1.118	2013	Targeting signaling pathways in acute lymphoblastic leukemia: new insights.	ETV6
+24339741	10.1593/neo.131310	2013	ETV6/RUNX1 induces reactive oxygen species and drives the accumulation of DNA damage in B cells.	ETV6
+21720744	10.1007/s00277-011-1289-x	2012	Phenotypic and genetic characterization of adult T-cell acute lymphoblastic leukemia with del(9)(q34);SET-NUP214 rearrangement.	ETV6
+21765475	10.1038/onc.2011.291	2012	Dominant-negative mechanism of leukemogenic PAX5 fusions.	ETV6
+21869842	10.1038/leu.2011.227	2012	ETV6-RUNX1-positive childhood acute lymphoblastic leukemia: improved outcome with contemporary therapy.	ETV6
+21877899	10.3109/10428194.2011.618235	2012	Update on cytogenetic and molecular changes in myelodysplastic syndromes.	ETV6
+22005784	10.1038/leu.2011.274	2012	High concordance of subtypes of childhood acute lymphoblastic leukemia within families: lessons from sibships with multiple cases of leukemia.	ETV6
+22050763	10.1111/j.1365-2141.2011.08918.x	2012	PRDM16 (1p36) translocations define a distinct entity of myeloid malignancies with poor prognosis but may also occur in lymphoid malignancies.	ETV6
+22058208	10.3324/haematol.2011.049593	2012	Epigenetic inactivation of TWIST2 in acute lymphoblastic leukemia modulates proliferation, cell survival and chemosensitivity.	ETV6
+22072402	10.1002/gcc.20944	2012	High frequency of BTG1 deletions in acute lymphoblastic leukemia in children with down syndrome.	ETV6
+22076464	10.1038/leu.2011.302	2012	Identification of germline susceptibility loci in ETV6-RUNX1-rearranged childhood acute lymphoblastic leukemia.	ETV6
+22094584	10.1038/leu.2011.333	2012	Whole-exome sequencing of pediatric acute lymphoblastic leukemia.	ETV6
+22094587	10.1038/leu.2011.322	2012	Silencing of ETV6/RUNX1 abrogates PI3K/AKT/mTOR signaling and impairs reconstitution of leukemia in xenografts.	ETV6
+22217495	10.1097/MPH.0b013e3182332268	2012	RT-PCR screening for ETV6-RUNX1-positive clones in cord blood from newborns in the Danish National Birth Cohort.	ETV6
+22226019	10.1016/j.leukres.2011.12.003	2012	RT-PCR diagnosis of recurrent rearrangements in pediatric acute lymphoblastic leukemia in Argentina.	ETV6
+22237106	10.1038/nature10725	2012	The genetic basis of early T-cell precursor acute lymphoblastic leukaemia.	ETV6
+22260162	10.3109/10428194.2012.658570	2012	Clinical impact of in vitro cellular drug resistance on childhood acute lymphoblastic leukemia in Taiwan.	ETV6
+22359517	10.1371/journal.pgen.1002533	2012	The origin and nature of tightly clustered BTG1 deletions in precursor B-cell acute lymphoblastic leukemia support a model of multiclonal evolution.	ETV6
+22373549	10.1007/s00277-012-1431-4	2012	Detection of ETV6 gene rearrangements in adult acute lymphoblastic leukemia.	ETV6
+22382891	10.1038/leu.2012.26	2012	Newly diagnosed acute lymphoblastic leukemia in China (I): abnormal genetic patterns in 1346 childhood and adult cases and their comparison with the reports from Western countries.	ETV6
+22404039	10.1111/j.1365-2141.2012.09083.x	2012	Genome-wide analysis of cytogenetic aberrations in ETV6/RUNX1-positive childhood acute lymphoblastic leukaemia.	ETV6
+22450142	10.1556/OH.2012.29334	2012	[Leukemia- and lymphoma-associated flow cytometric, cytogenetic, and molecular genetic aberrations in healthy individuals].	ETV6
+22521551	10.1016/j.leukres.2012.03.024	2012	Additional aberrations of the ETV6 and RUNX1 genes have no prognostic impact in 229 t(12;21)(p13;q22)-positive B-cell precursor acute lymphoblastic leukaemias treated according to the NOPHO-ALL-2000 protocol.	ETV6
+22531296	10.4161/epi.20193	2012	A distinct DNA methylation signature defines pediatric pre-B cell acute lymphoblastic leukemia.	ETV6
+22534638	10.1097/DAD.0b013e31824d689c	2012	Alpha-interferon secreting blastic plasmacytoid dendritic cells neoplasm: a case report with histological, molecular genetics and long-term tumor cells culture studies.	ETV6
+22580999	10.3324/haematol.2011.059584	2012	Excellent prognosis of late relapses of ETV6/RUNX1-positive childhood acute lymphoblastic leukemia: lessons from the FRALLE 93 protocol.	ETV6
+22705992	10.1038/leu.2012.161	2012	Prognostic significance of FLT3 mutational status and expression levels in MLL-AF4+ and MLL-germline acute lymphoblastic leukemia.	ETV6
+22733019	10.3324/haematol.2012.064659	2012	Alternative TEL-JAK2 fusions associated with T-cell acute lymphoblastic leukemia and atypical chronic myelogenous leukemia dissected in zebrafish.	ETV6
+22848414	10.1371/journal.pone.0040934	2012	IKAROS deletions dictate a unique gene expression signature in patients with adult B-cell acute lymphoblastic leukemia.	ETV6
+22851563	10.1200/JCO.2011.40.3907	2012	IGH@ translocations, CRLF2 deregulation, and microdeletions in adolescents and adults with acute lymphoblastic leukemia.	ETV6
+22976839	10.1007/s10552-012-0060-5	2012	NQO1 rs1800566 (C609T), PON1 rs662 (Q192R), and PON1 rs854560 (L55M) polymorphisms segregate the risk of childhood acute leukemias according to age range distribution.	ETV6
+22994759	10.7314/apjcp.2012.13.7.3349	2012	Prognostically significant fusion oncogenes in Pakistani patients with adult acute lymphoblastic leukemia and their association with disease biology and outcome.	ETV6
+23233609	10.1182/asheducation-2012.1.389	2012	The molecular genetic makeup of acute lymphoblastic leukemia.	ETV6
+23317202	10.7314/apjcp.2012.13.11.5469	2012	Five most common prognostically important fusion oncogenes are detected in the majority of Pakistani pediatric acute lymphoblastic leukemia patients and are strongly associated with disease biology and treatment outcome.	ETV6
+20713965	10.1182/blood-2010-05-282764	2011	Prevalence of t(12;21)[ETV6-RUNX1]-positive cells in healthy neonates.	ETV6
+21069786	10.1002/pbc.22679	2011	The dual role of HLXB9 in leukemia.	ETV6
+21080443	10.1002/ijc.25769	2011	Exposure to professional pest control treatments and the risk of childhood acute lymphoblastic leukemia.	ETV6
+21145270	10.1016/j.bcmd.2010.11.003	2011	Febrile infections in young children do not frequently induce translocation ETV6-RUNX1.	ETV6
+21157892	10.1002/pbc.22686	2011	TEL/AML1-positive patients lacking TEL exon 5 resemble canonical TEL/AML1 cases.	ETV6
+21160474	10.1038/nature09650	2011	Genetic variegation of clonal architecture and propagating cells in leukaemia.	ETV6
+21172890	10.1200/JCO.2010.32.0325	2011	Improved prognosis for older adolescents with acute lymphoblastic leukemia.	ETV6
+21212293	10.1182/blood-2010-09-309070	2011	ETV6/RUNX1 (TEL/AML1) is a frequent prenatal first hit in childhood leukemia.	ETV6
+21212294	10.1182/blood-2010-09-309351	2011	Fusion genes in cord blood.	ETV6
+21224468	10.1182/blood-2010-03-275347	2011	ETV6/RUNX1-positive relapses evolve from an ancestral clone and frequently acquire deletions of genes implicated in glucocorticoid signaling.	ETV6
+21312262	10.1002/gepi.20573	2011	LOHAS: loss-of-heterozygosity analysis suite.	ETV6
+21414819	10.1016/j.bcmd.2011.02.005	2011	Identification of characteristic IGF2BP expression patterns in distinct B-ALL entities.	ETV6
+21444869	10.1200/JCO.2010.32.5340	2011	Shortening infusion time for high-dose methotrexate alters antileukemic effects: a randomized prospective clinical trial.	ETV6
+21482711	10.1182/blood-2010-10-314674	2011	Clonal origins of relapse in ETV6-RUNX1 acute lymphoblastic leukemia.	ETV6
+21527530	10.1182/blood-2011-01-329961	2011	Genomic characterization implicates iAMP21 as a likely primary genetic event in childhood B-cell precursor acute lymphoblastic leukemia.	ETV6
+21549623	10.1016/j.bcmd.2011.04.003	2011	PAX5 deletion is common and concurrently occurs with CDKN2A deletion in B-lineage acute lymphoblastic leukemia.	ETV6
+21569007	10.1111/j.1365-2141.2011.08729.x	2011	Native ETV6 deletions accompanied by ETV6-RUNX1 rearrangements are associated with a favourable prognosis in childhood acute lymphoblastic leukaemia: a candidate for prognostic marker.	ETV6
+21628403	10.1182/blood-2011-02-338848	2011	Modeling the evolution of ETV6-RUNX1-induced B-cell precursor acute lymphoblastic leukemia in mice.	ETV6
+21680795	10.1182/blood-2011-03-341412	2011	Key pathways are frequently mutated in high-risk childhood acute lymphoblastic leukemia: a report from the Children's Oncology Group.	ETV6
+21705501	10.1182/blood-2011-03-343426	2011	Response of ETV6-FLT3-positive myeloid/lymphoid neoplasm with eosinophilia to inhibitors of FMS-like tyrosine kinase 3.	ETV6
+21822204	10.1038/modpathol.2011.118	2011	Pediatric B-lymphoblastic leukemia with RUNX1 amplification: clinicopathologic study of eight cases.	ETV6
+21882283	10.1002/gcc.20919	2011	Microarray-based genomic profiling as a diagnostic tool in acute lymphoblastic leukemia.	ETV6
+21914494	10.1016/j.exphem.2011.08.014	2011	hTERT promoter methylation and telomere length in childhood acute lymphoblastic leukemia: associations with immunophenotype and cytogenetic subgroup.	ETV6
+22028862	10.1371/journal.pone.0026348	2011	The leukemia-specific fusion gene ETV6/RUNX1 perturbs distinct key biological functions primarily by gene repression.	ETV6
+22162831	10.1084/jem.20112239	2011	ETV6 mutations in early immature human T cell leukemias.	ETV6
+19710699	10.1038/leu.2009.170	2010	Characterizing chromosomal break points of t(12;21)[ETV6-RUNX1]-positive leukaemia using multiple tiling PCR on whole-genome-amplified DNA.	ETV6
+19713226	10.3324/haematol.2009.011346	2010	Clinical features and prognostic implications of TCF3-PBX1 and ETV6-RUNX1 in adult acute lymphoblastic leukemia.	ETV6
+19890372	10.1038/leu.2009.208	2010	Hsa-mir-125b-2 is highly expressed in childhood ETV6/RUNX1 (TEL/AML1) leukemias and confers survival advantage to growth inhibitory signals independent of p53.	ETV6
+19896186	10.1016/j.leukres.2009.09.033	2010	CD9 expression can be used to predict childhood TEL/AML1-positive acute lymphoblastic leukemia: proposal for an accelerated diagnostic flowchart.	ETV6
+19998443	10.1002/gcc.20736	2010	Cytogenetics of long-term survivors of ETV6-RUNX1 fusion positive acute lymphoblastic leukemia.	ETV6
+20016529	10.1038/leu.2009.264	2010	Temporal changes in the incidence and pattern of central nervous system relapses in children with acute lymphoblastic leukaemia treated on four consecutive Medical Research Council trials, 1985-2001.	ETV6
+20016538	10.1038/leu.2009.248	2010	Long-term results of Taiwan Pediatric Oncology Group studies 1997 and 2002 for childhood acute lymphoblastic leukemia.	ETV6
+20042721	10.1182/blood-2009-09-235986	2010	Immunoglobulin heavy chain locus chromosomal translocations in B-cell precursor acute lymphoblastic leukemia: rare clinical curios or potent genetic drivers?	ETV6
+20061556	10.1182/blood-2009-10-251413	2010	Acquisition of genome-wide copy number alterations in monozygotic twins with acute lymphoblastic leukemia.	ETV6
+20073070	10.1002/gcc.20743	2010	ABL1 rearrangements in T-cell acute lymphoblastic leukemia.	ETV6
+20197715	10.3343/kjlm.2010.30.1.1	2010	[Prognostic significance of TEL/AML1 rearrangement and its additional genetic changes in Korean childhood precursor B-acute lymphoblastic leukemia].	ETV6
+20211010	10.1186/1755-8794-3-6	2010	Gene expression signatures in childhood acute leukemias are largely unique and distinct from those of normal tissues and other malignancies.	ETV6
+20409752	10.1016/S1470-2045(10)70066-8	2010	Prognostic effect of chromosomal abnormalities in childhood B-cell precursor acute lymphoblastic leukaemia: results from the UK Medical Research Council ALL97/99 randomised trial.	ETV6
+20442364	10.1182/blood-2009-07-235291	2010	Down syndrome childhood acute lymphoblastic leukemia has a unique spectrum of sentinel cytogenetic lesions that influences treatment outcome: a report from the Children's Oncology Group.	ETV6
+20513752	10.1093/hmg/ddq224	2010	The correlation pattern of acquired copy number changes in 164 ETV6/RUNX1-positive childhood acute lymphoblastic leukemias.	ETV6
+20561032	10.1111/j.1600-0609.2010.01493.x	2010	Childhood near-tetraploid acute lymphoblastic leukemia: an EGIL study on 36 cases.	ETV6
+20589932	10.1002/gcc.20796	2010	Acute leukemias with ETV6/ABL1 (TEL/ABL) fusion: poor prognosis and prenatal origin.	ETV6
+20618334	10.1111/j.1365-2141.2010.08323.x	2010	A doctor(s) dilemma: ETV6-ABL1 positive acute lymphoblastic leukaemia.	ETV6
+20620598	10.1016/j.cancergencyto.2010.04.010	2010	Distribution of common genetic subgroups in childhood acute lymphoblastic leukemia in four developing countries.	ETV6
+20658612	10.1002/pbc.22628	2010	Frequencies of ETV6-RUNX1 fusion and hyperdiploidy in pediatric acute lymphoblastic leukemia are lower in far east than west.	ETV6
+20701601	10.1111/j.1365-2141.2010.08314.x	2010	Detection of prognostically relevant genetic abnormalities in childhood B-cell precursor acute lymphoblastic leukaemia: recommendations from the Biology and Diagnosis Committee of the International Berlin-Frankfürt-Münster study group.	ETV6
+20804916	10.1016/j.cancergencyto.2010.07.121	2010	ETV6-ARNT fusion in a patient with childhood T lymphoblastic leukemia.	ETV6
+20806817		2010	[ABL1, SRC and other non-receptor protein tyrosine kinases as new targets for specific anticancer therapy].	ETV6
+20807887	10.1182/blood-2009-02-206706	2010	TEL-AML1 regulation of survivin and apoptosis via miRNA-494 and miRNA-320a.	ETV6
+20930648	10.1097/MPH.0b013e3181ed1655	2010	Multiplex reverse transcription-polymerase chain reaction as diagnostic molecular screening of 4 common fusion chimeric genes in Taiwanese children with acute lymphoblastic leukemia.	ETV6
+21098271	10.1073/pnas.1006981107	2010	Genetic landscape of high hyperdiploid childhood acute lymphoblastic leukemia.	ETV6
+21152005	10.1371/journal.pcbi.1001019	2010	Modeling mechanisms of in vivo variability in methotrexate accumulation and folate pathway inhibition in acute lymphoblastic leukemia cells.	ETV6
+21156245	10.1016/j.cancergencyto.2010.08.004	2010	B lymphoblastic leukemia with ETV6 amplification.	ETV6
+18803328	10.1002/gcc.20616	2009	Integration of genomic and gene expression data of childhood ALL without known aberrations identifies subgroups with specific genetic hallmarks.	ETV6
+18838613	10.1182/blood-2008-07-166801	2009	A comprehensive analysis of the CDKN2A gene in childhood acute lymphoblastic leukemia reveals genomic deletion, copy number neutral loss of heterozygosity, and association with specific cytogenetic subgroups.	ETV6
+18927438	10.1182/blood-2008-08-170928	2009	Specific JAK2 mutation (JAK2R683) and multiple gene deletions in Down syndrome acute lymphoblastic leukemia.	ETV6
+18992913	10.1016/j.humpath.2008.08.012	2009	Diffuse large B-cell lymphoma with TEL/ETV6 translocation.	ETV6
+19081626	10.1016/j.leukres.2008.11.001	2009	Cluster analysis of genomic ETV6-RUNX1 (TEL-AML1) fusion sites in childhood acute lymphoblastic leukemia.	ETV6
+19100516	10.1016/j.cancergencyto.2008.09.005	2009	ETV6/RUNX1 fusion lacking prognostic effect in pediatric patients with acute lymphoblastic leukemia.	ETV6
+19129484	10.1189/jlb.0808469	2009	Histone deacetylase inhibition improves differentiation of dendritic cells from leukemic blasts of patients with TEL/AML1-positive acute lymphoblastic leukemia.	ETV6
+19135770	10.1016/j.exphem.2008.11.002	2009	Long-term culture of primary human lymphoblastic leukemia cells in the absence of serum or hematopoietic growth factors.	ETV6
+19147089	10.1016/j.bbmt.2008.10.010	2009	Oncogenic signals as treatment targets in classic myeloproliferative neoplasms.	ETV6
+19175693	10.1111/j.1582-4934.2008.00559.x	2009	Molecular drug targets in myeloproliferative neoplasms: mutant ABL1, JAK2, MPL, KIT, PDGFRA, PDGFRB and FGFR1.	ETV6
+19264230	10.1016/j.cancergencyto.2008.12.003	2009	Involvement of der(12)t(12;21)(p13;q22) and as well as additional rearrangements of chromosome 12 homolog in ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
+19287094	10.1172/JCI36428	2009	The TEL-AML1 leukemia fusion gene dysregulates the TGF-beta pathway in early B lineage progenitor cells.	ETV6
+19454491	10.3324/haematol.2008.000299	2009	Overexpression of CD123 correlates with the hyperdiploid genotype in acute lymphoblastic leukemia.	ETV6
+19594616	10.1111/j.1600-0609.2009.01315.x	2009	Interphase FISH on TEL/AML1 positive acute lymphoblastic leukemia relapses--analysis of clinical relevance of additional TEL and AML1 copy number changes.	ETV6
+19665068	10.1016/j.cancergencyto.2009.04.021	2009	ETV6-RUNX1 fusion gene and additional genetic changes in infant leukemia: a genome-wide analysis.	ETV6
+19679565	10.1093/hmg/ddp354	2009	The DNA methylome of pediatric acute lymphoblastic leukemia.	ETV6
+19837270	10.1016/j.cancergencyto.2009.06.013	2009	Homozygous deletion of CDKN2A (p16, p14) and CDKN2B (p15) genes is a poor prognostic factor in adult but not in childhood B-lineage acute lymphoblastic leukemia: a comparative deletion and hypermethylation study.	ETV6
+19963112	10.1016/j.cancergencyto.2009.07.002	2009	A complex rearrangement involving cryptic deletion of ETV6 and CDKN1B genes in a case of childhood acute lymphoblastic leukemia.	ETV6
+17622527	10.1007/s00262-007-0349-5	2008	HLA-DPB1 supertype-associated protection from childhood leukaemia: relationship to leukaemia karyotype and implications for prevention.	ETV6
+17890455	10.1182/blood-2007-05-088310	2008	Molecular allelokaryotyping of pediatric acute lymphoblastic leukemias by high-resolution single nucleotide polymorphism oligonucleotide genomic microarray.	ETV6
+17972957	10.1038/sj.leu.2404994	2008	Disruption of ETV6 in intron 2 results in upregulatory and insertional events in childhood acute lymphoblastic leukaemia.	ETV6
+18172310	10.1158/0008-5472.CAN-07-2778	2008	PAX5/TEL acts as a transcriptional repressor causing down-modulation of CD19, enhances migration to CXCL12, and confers survival advantage in pre-BI cells.	ETV6
+18181181	10.1002/gcc.20537	2008	Genetic lesions in a preleukemic aplasia phase in a child with acute lymphoblastic leukemia.	ETV6
+18202291	10.1126/science.1150648	2008	Initiating and cancer-propagating cells in TEL-AML1-associated childhood leukemia.	ETV6
+18241254	10.1111/j.1365-2141.2008.06980.x	2008	Outcome of ETV6/RUNX1-positive childhood acute lymphoblastic leukaemia in the NOPHO-ALL-1992 protocol: frequent late relapses but good overall survival.	ETV6
+18275435	10.1111/j.1365-2141.2007.06917.x	2008	Array-CGH reveals hidden gene dose changes in children with acute lymphoblastic leukaemia and a normal or failed karyotype by G-banding.	ETV6
+18281529	10.1158/1078-0432.CCR-07-4022	2008	ETV6-NCOA2: a novel fusion gene in acute leukemia associated with coexpression of T-lymphoid and myeloid markers and frequent NOTCH1 mutations.	ETV6
+18297515	10.1080/10428190801895360	2008	JAK and MPL mutations in myeloid malignancies.	ETV6
+18328947	10.1016/j.cancergencyto.2007.12.012	2008	Coexistence of ETV6/RUNX1 and MLL aberrations in B-cell precursor acute lymphoblastic leukemia discloses a small subclass of BCP-ALL.	ETV6
+18445843	10.1200/JCO.2007.14.3552	2008	Prospective analysis of TEL gene rearrangements in childhood acute lymphoblastic leukemia: a Children's Oncology Group study.	ETV6
+18455790	10.1016/j.leukres.2008.03.021	2008	BCR-ABL, ETV6-RUNX1 and E2A-PBX1: prevalence of the most common acute lymphoblastic leukemia fusion genes in Mexican patients.	ETV6
+18458336	10.1073/pnas.0800408105	2008	Microdeletions are a general feature of adult and adolescent acute lymphoblastic leukemia: Unexpected similarities with pediatric disease.	ETV6
+18557744	10.1111/j.1365-2141.2008.07280.x	2008	Array comparative genome hybridization analysis of acute lymphoblastic leukaemia and acute megakaryoblastic leukaemia in patients with Down syndrome.	ETV6
+18565891	10.1200/JCO.2008.16.1117	2008	Minimal residual disease values discriminate between low and high relapse risk in children with B-cell precursor acute lymphoblastic leukemia and an intrachromosomal amplification of chromosome 21: the Austrian and German acute lymphoblastic leukemia Berlin-Frankfurt-Munster (ALL-BFM) trials.	ETV6
+18617057	10.1016/j.cancergencyto.2008.04.003	2008	Analysis of gene rearrangements using a fluorescence in situ hybridization method in Mexican patients with acute lymphoblastic leukemia: experience at a single institution.	ETV6
+18635414	10.1016/S1607-551X(08)70155-4	2008	TEL/AML1 fusion gene in childhood acute lymphoblastic leukemia in southern Taiwan.	ETV6
+18656692	10.1016/j.cancergencyto.2008.05.001	2008	Establishment and cytogenetic characterization of a human acute lymphoblastic leukemia cell line (ALL-VG) with ETV6/ABL1 rearrangement.	ETV6
+18656693	10.1016/j.cancergencyto.2008.04.007	2008	Deletion of 14q24.1 approximately q24.3 in a patient with acute lymphoblastic leukemia: a hidden chromosomal anomaly detected by array-based comparative genomic hybridization.	ETV6
+18728978	10.1080/08880010802237450	2008	RUNX1 aberrations in ETV6/RUNX1-positive and ETV6/RUNX1-negative patients: its hemato-pathological and prognostic significance in a large cohort (619 cases) of ALL.	ETV6
+18767146	10.1002/gcc.20613	2008	The complex genomic profile of ETV6-RUNX1 positive acute lymphoblastic leukemia highlights a recurrent deletion of TBL1XR1.	ETV6
+18767247	10.4238/vol7-3gmr486	2008	Leukemia/lymphoma-associated gene fusions in normal individuals.	ETV6
+18928518	10.1186/1756-8722-1-17	2008	Persistence of TEL-AML1 fusion gene as minimal residual disease has no additive prognostic value in CD 10 positive B-acute lymphoblastic leukemia: a FISH study.	ETV6
+19010836	10.1158/1078-0432.CCR-07-5051	2008	Role of the erythropoietin receptor in ETV6/RUNX1-positive acute lymphoblastic leukemia.	ETV6
+19047175	10.1158/0008-5472.CAN-08-2139	2008	Chromosome 12p deletions in TEL-AML1 childhood acute lymphoblastic leukemia are associated with retrotransposon elements and occur postnatally.	ETV6
+17215856	10.1038/sj.leu.2404507	2007	Deletion of 11q23 is a highly specific nonrandom secondary genetic abnormality of ETV6/RUNX1-rearranged childhood acute lymphoblastic leukemia.	ETV6
+17237825	10.1038/sj.onc.1210190	2007	Genome complexity in acute lymphoblastic leukemia is revealed by array-based comparative genomic hybridization.	ETV6
+17284366	10.1016/j.cancergencyto.2006.09.007	2007	Automated detection of residual leukemic cells by consecutive immunolabeling for CD10 and fluorescence in situ hybridization for ETV6/RUNX1 rearrangement in childhood acute lymphoblastic leukemia.	ETV6
+17344859	10.1038/nature05690	2007	Genome-wide analysis of genetic alterations in acute lymphoblastic leukaemia.	ETV6
+17374122	10.1111/j.1349-7006.2007.00443.x	2007	Genetic abnormalities involved in t(12;21) TEL-AML1 acute lymphoblastic leukemia: analysis by means of array-based comparative genomic hybridization.	ETV6
+17443227	10.1038/sj.leu.2404691	2007	High-resolution genomic profiling of childhood ALL reveals novel recurrent genetic lesions affecting pathways involved in lymphocyte differentiation and cell cycle progression.	ETV6
+17673463	10.1074/jbc.M706314200	2007	Hepatocyte growth factor receptor c-MET is associated with FAS and when activated enhances drug-induced apoptosis in pediatric B acute lymphoblastic leukemia with TEL-AML1 translocation.	ETV6
+17690704	10.1038/sj.leu.2404879	2007	Combined high-resolution array-based comparative genomic hybridization and expression profiling of ETV6/RUNX1-positive acute lymphoblastic leukemias reveal a high incidence of cryptic Xq duplications and identify several putative target genes within the commonly gained region.	ETV6
+17854676	10.1016/j.cancergencyto.2007.05.012	2007	Presenting features of 201 children with acute lymphoblastic leukemia: comparison according to presence or absence of ETV6/RUNX1 rearrangement.	ETV6
+17889709	10.1016/j.cancergencyto.2007.05.019	2007	Prevalence of ETV6-RUNX1 fusion gene in children with acute lymphoblastic leukemia in China.	ETV6
+17897302	10.1111/j.1365-2141.2007.06731.x	2007	Identification of PML as novel PAX5 fusion partner in childhood acute lymphoblastic leukaemia.	ETV6
+17956600	10.1186/1471-2164-8-385	2007	Five distinct biological processes and 14 differentially expressed genes characterize TEL/AML1-positive leukemia.	ETV6
+17976519	10.1016/j.exphem.2007.08.025	2007	Numerical gain and structural rearrangements of JAK2, identified by FISH, characterize both JAK2617V&gt;F-positive and -negative patients with Ph-negative MPD, myelodysplasia, and B-lymphoid neoplasms.	ETV6
+16307024	10.1038/sj.leu.2404028	2006	Expression of Tel-Aml1 transcript variants in pediatric acute lymphoblastic leukemia.	ETV6
+16386788	10.1016/j.leukres.2005.11.007	2006	The incidence of T-cell receptor gene rearrangements in childhood B-lineage acute lymphoblastic leukemia is related to immunophenotype and fusion oncogene expression.	ETV6
+16673018	10.1038/sj.leu.2404249	2006	A novel TEL-AML1 fusion transcript involving the pro-apoptotic gene BCL-G in pediatric precursor B acute lymphoblastic leukemia.	ETV6
+16914570	10.1158/1078-0432.CCR-05-2592	2006	CpG island methylator phenotype redefines the prognostic effect of t(12;21) in childhood acute lymphoblastic leukemia.	ETV6
+17015828	10.1073/pnas.0603349103	2006	TEL-AML1 transgenic zebrafish model of precursor B cell acute lymphoblastic leukemia.	ETV6
+15704129	10.1002/gcc.20158	2005	ETV6/RUNX1 fusion at diagnosis and relapse: some prognostic indications.	ETV6
+15970674	10.4161/cc.4.8.1860	2005	TELAML1-positive ALL: a discordant genotype.	ETV6
+16278392	10.1158/1078-0432.CCR-05-1239	2005	Immunogenotype changes prevail in relapses of young children with TEL-AML1-positive acute lymphoblastic leukemia and derive mainly from clonal selection.	ETV6
+15104290	10.1016/j.cancergencyto.2003.07.003	2004	Cloning and sequencing of ETV6/RUNX1 (TEL/AML1) variant in acute lymphoblastic leukemia.	ETV6
+15142881	10.1182/blood-2003-12-4306	2004	Acute lymphoblastic leukemia with TEL-AML1 fusion has lower expression of genes involved in purine metabolism and lower de novo purine synthesis.	ETV6
+15328172	10.1158/1078-0432.CCR-04-0584	2004	TEL deletion analysis supports a novel view of relapse in childhood acute lymphoblastic leukemia.	ETV6
+12526921	10.1016/s0145-2126(02)00183-2	2003	TEL-AML1 fusion precedes differentiation to pre-B cells in childhood acute lymphoblastic leukemia.	ETV6
+12626745	10.1073/pnas.0637114100	2003	Small ubiquitin-like modifier conjugation regulates nuclear export of TEL, a putative tumor suppressor.	ETV6
+12091359	10.1182/blood.v100.2.640	2002	Immature CD34+CD19- progenitor/stem cells in TEL/AML1-positive acute lymphoblastic leukemia are genetically and functionally normal.	ETV6
+12127395	10.1016/s0165-4608(01)00655-0	2002	Differential expression of TCL1 during pre-B-cell acute lymphoblastic leukemia progression.	ETV6
+11731410		2001	Fusion of ETV6 to fibroblast growth factor receptor 3 in peripheral T-cell lymphoma with a t(4;12)(p16;p13) chromosomal translocation.	ETV6
+11001911		2000	Recruitment of the nuclear receptor corepressor N-CoR by the TEL moiety of the childhood leukemia-associated TEL-AML1 oncoprotein.	ETV6
+9695962	10.1046/j.1365-2141.1998.00803.x	1998	Haemopoietic transformation by the TEL/ABL oncogene.	ETV6
+9360930	10.1126/science.278.5341.1309	1997	A TEL-JAK2 fusion protein with constitutive kinase activity in human leukemia.	ETV6
+8653712		1996	Biallelic alterations of both ETV6 and CDKN1B genes in a t(12;21) childhood acute lymphoblastic leukemia case.	ETV6
+7761424	10.1073/pnas.92.11.4917	1995	Fusion of the TEL gene on 12p13 to the AML1 gene on 21q22 in acute lymphoblastic leukemia.	ETV6
+7780150		1995	The t(12;21) of acute lymphoblastic leukemia results in a tel-AML1 gene fusion.	ETV6
