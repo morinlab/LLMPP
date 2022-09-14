@@ -1,4 +1,4 @@
-pmid	doi	title	Hugo_Symbol
-21670604	10.4161/cc.10.12.15798	Spinophilin loss contributes to tumorigenesis in vivo.	PPP1R9B
-12531897	10.1074/jbc.M207876200	Regulation of p70 S6 kinase by complex formation between the Rac guanine nucleotide exchange factor (Rac-GEF) Tiam1 and the scaffold spinophilin.	PPP1R9B
-20360004	10.1074/jbc.M109.051490	Scaffold proteins IRSp53 and spinophilin regulate localized Rac activation by T-lymphocyte invasion and metastasis protein 1 (TIAM1).	PPP1R9B
+pmid	doi	year	title	Hugo_Symbol
+21670604	10.4161/cc.10.12.15798	2011	Spinophilin loss contributes to tumorigenesis in vivo.	PPP1R9B
+20360004	10.1074/jbc.M109.051490	2010	Scaffold proteins IRSp53 and spinophilin regulate localized Rac activation by T-lymphocyte invasion and metastasis protein 1 (TIAM1).	PPP1R9B
+12531897	10.1074/jbc.M207876200	2003	Regulation of p70 S6 kinase by complex formation between the Rac guanine nucleotide exchange factor (Rac-GEF) Tiam1 and the scaffold spinophilin.	PPP1R9B
