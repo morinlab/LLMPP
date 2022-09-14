@@ -1,18 +1,18 @@
-pmid	doi	title	Hugo_Symbol
-33232972	10.1182/blood.2020005244	Adaptive T-cell immunity controls senescence-prone MyD88- or CARD11-mutant B-cell lymphomas.	NFKBIZ
-30401751	10.1182/bloodadvances.2018022962	Insights into the genomic landscape of MYD88 wild-type Waldenström macroglobulinemia.	NFKBIZ
-30275490	10.1038/s41467-018-06354-3	Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.	NFKBIZ
-29289361	10.1016/j.blre.2017.12.001	The pathobiology of primary testicular diffuse large B-cell lymphoma: Implications for novel therapies.	NFKBIZ
-27793034	10.18632/oncotarget.12876	Therapeutic efficacy of the bromodomain inhibitor OTX015/MK-8628 in ALK-positive anaplastic large cell lymphoma: an alternative modality to overcome resistant phenotypes.	NFKBIZ
-26869285	10.1002/cam4.650	Machine learning-based classification of diffuse large B-cell lymphoma patients by eight gene expression profiles.	NFKBIZ
-26727576	10.1038/oncsis.2015.44	A mix of S and ΔS variants of STAT3 enable survival of activated B-cell-like diffuse large B-cell lymphoma cells in culture.	NFKBIZ
-26702065	10.1182/blood-2015-10-673236	Targetable genetic features of primary testicular and primary central nervous system lymphomas.	NFKBIZ
-26647218	10.1158/1078-0432.CCR-15-2123	Genetic Landscapes of Relapsed and Refractory Diffuse Large B-Cell Lymphomas.	NFKBIZ
-25282160	10.1038/ni.3008	Cleavage of roquin and regnase-1 by the paracaspase MALT1 releases their cooperatively repressed targets to promote T(H)17 differentiation.	NFKBIZ
-24072847	10.1182/blood-2013-08-516864	Shaping oncogenic NF-κB activity in the nucleus.	NFKBIZ
-24027435	10.1593/neo.131140	Human T cell leukemia virus type I tax-induced IκB-ζ modulates tax-dependent and tax-independent gene expression in T cells.	NFKBIZ
-23869088	10.1182/blood-2013-06-508028	IκB-ζ controls the constitutive NF-κB target gene network and survival of ABC DLBCL.	NFKBIZ
-22513784	10.1038/jid.2012.117	A meta-analysis of gene expression data identifies a molecular signature characteristic for tumor-stage mycosis fungoides.	NFKBIZ
-19586995	10.1177/1753425909103738	Interleukin (IL)-10 attenuates lipopolysaccharide-induced IL-6 production via inhibition of IkappaB-zeta activity by Bcl-3.	NFKBIZ
-18647318	10.1111/j.1365-2222.2008.03030.x	Up-regulated cytokine-inducible SH2-containing protein expression in allergen-stimulated T cells from hen's egg-allergic patients.	NFKBIZ
-17367755	10.1016/j.bbrc.2007.03.002	Induction of the nuclear IkappaB protein IkappaB-zeta upon stimulation of B cell antigen receptor.	NFKBIZ
+pmid	doi	year	title	Hugo_Symbol
+33232972	10.1182/blood.2020005244	2021	Adaptive T-cell immunity controls senescence-prone MyD88- or CARD11-mutant B-cell lymphomas.	NFKBIZ
+29289361	10.1016/j.blre.2017.12.001	2018	The pathobiology of primary testicular diffuse large B-cell lymphoma: Implications for novel therapies.	NFKBIZ
+30275490	10.1038/s41467-018-06354-3	2018	Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.	NFKBIZ
+30401751	10.1182/bloodadvances.2018022962	2018	Insights into the genomic landscape of MYD88 wild-type Waldenström macroglobulinemia.	NFKBIZ
+26647218	10.1158/1078-0432.CCR-15-2123	2016	Genetic Landscapes of Relapsed and Refractory Diffuse Large B-Cell Lymphomas.	NFKBIZ
+26702065	10.1182/blood-2015-10-673236	2016	Targetable genetic features of primary testicular and primary central nervous system lymphomas.	NFKBIZ
+26727576	10.1038/oncsis.2015.44	2016	A mix of S and ΔS variants of STAT3 enable survival of activated B-cell-like diffuse large B-cell lymphoma cells in culture.	NFKBIZ
+26869285	10.1002/cam4.650	2016	Machine learning-based classification of diffuse large B-cell lymphoma patients by eight gene expression profiles.	NFKBIZ
+27793034	10.18632/oncotarget.12876	2016	Therapeutic efficacy of the bromodomain inhibitor OTX015/MK-8628 in ALK-positive anaplastic large cell lymphoma: an alternative modality to overcome resistant phenotypes.	NFKBIZ
+25282160	10.1038/ni.3008	2014	Cleavage of roquin and regnase-1 by the paracaspase MALT1 releases their cooperatively repressed targets to promote T(H)17 differentiation.	NFKBIZ
+23869088	10.1182/blood-2013-06-508028	2013	IκB-ζ controls the constitutive NF-κB target gene network and survival of ABC DLBCL.	NFKBIZ
+24027435	10.1593/neo.131140	2013	Human T cell leukemia virus type I tax-induced IκB-ζ modulates tax-dependent and tax-independent gene expression in T cells.	NFKBIZ
+24072847	10.1182/blood-2013-08-516864	2013	Shaping oncogenic NF-κB activity in the nucleus.	NFKBIZ
+22513784	10.1038/jid.2012.117	2012	A meta-analysis of gene expression data identifies a molecular signature characteristic for tumor-stage mycosis fungoides.	NFKBIZ
+19586995	10.1177/1753425909103738	2009	Interleukin (IL)-10 attenuates lipopolysaccharide-induced IL-6 production via inhibition of IkappaB-zeta activity by Bcl-3.	NFKBIZ
+18647318	10.1111/j.1365-2222.2008.03030.x	2008	Up-regulated cytokine-inducible SH2-containing protein expression in allergen-stimulated T cells from hen's egg-allergic patients.	NFKBIZ
+17367755	10.1016/j.bbrc.2007.03.002	2007	Induction of the nuclear IkappaB protein IkappaB-zeta upon stimulation of B cell antigen receptor.	NFKBIZ
