@@ -1,35 +1,30 @@
-pmid	doi	title	Hugo_Symbol
-34624096	10.1182/blood.2020010405	ETV6-NCOA2 fusion induces T/myeloid mixed-phenotype leukemia through transformation of nonthymic hematopoietic progenitor cells.	MEF2C
-34440292	10.3390/genes12081118	T-Cell Acute Lymphoblastic Leukemia: Biomarkers and Their Clinical Usefulness.	MEF2C
-33298918	10.1038/s41467-020-20136-w	Primary effusion lymphoma enhancer connectome links super-enhancers to dependency factors.	MEF2C
-33150819	10.1080/08880018.2020.1838013	<i>KMT2A</i>-rearranged diffuse large B-cell lymphoma in a child: a case report and molecular characterization.	MEF2C
-33094287	10.1093/narcan/zcaa029	Activation-induced cytidine deaminase localizes to G-quadruplex motifs at mutation hotspots in lymphoma.	MEF2C
-32913188	10.1038/s41419-020-02949-1	A small molecular compound CC1007 induces cross-lineage differentiation by inhibiting HDAC7 expression and HDAC7/MEF2C interaction in BCR-ABL1<sup>-</sup> pre-B-ALL.	MEF2C
-32142900	10.1016/j.jmoldx.2020.02.004	Design of a Comprehensive Fluorescence in Situ Hybridization Assay for Genetic Classification of T-Cell Acute Lymphoblastic Leukemia.	MEF2C
-31900516	10.1007/s00210-019-01764-6	A novel MEF2C mutation in lymphoid neoplasm diffuse large B-cell lymphoma promotes tumorigenesis by increasing c-JUN expression.	MEF2C
-30190342	10.3324/haematol.2018.196055	Prognostic implications of additional genomic lesions in adult Philadelphia chromosome-positive acute lymphoblastic leukemia.	MEF2C
-30171027	10.3324/haematol.2017.186320	Clinical and molecular characteristics of <i>MEF2D</i> fusion-positive B-cell precursor acute lymphoblastic leukemia in childhood, including a novel translocation resulting in <i>MEF2D-HNRNPH1</i> gene fusion.	MEF2C
-29279377	10.1073/pnas.1717125115	Identification of fusion genes and characterization of transcriptome features in T-cell acute lymphoblastic leukemia.	MEF2C
-28482719	10.1080/10428194.2017.1312383	MEF2C-dysregulated pediatric T-cell acute lymphoblastic leukemia is associated with CDKN1B deletions and a poor response to glucocorticoid therapy.	MEF2C
-27322685	10.18632/oncotarget.9982	Deregulation of polycomb repressor complex 1 modifier AUTS2 in T-cell leukemia.	MEF2C
-26957223	10.1038/mt.2016.55	Evaluating the Safety of Retroviral Vectors Based on Insertional Oncogene Activation and Blocked Differentiation in Cultured Thymocytes.	MEF2C
-26670384	10.1128/mBio.01863-15	Common Viral Integration Sites Identified in Avian Leukosis Virus-Induced B-Cell Lymphomas.	MEF2C
-26473286	10.18632/oncotarget.5556	Aberrant expression of homeobox gene SIX1 in Hodgkin lymphoma.	MEF2C
-26245647	10.1038/ncomms8953	MEF2B mutations in non-Hodgkin lymphoma dysregulate cell migration by decreasing MEF2B target gene activation.	MEF2C
-26172269	10.1371/journal.pone.0132926	BCL2 Inhibitor (ABT-737): A Restorer of Prednisolone Sensitivity in Early T-Cell Precursor-Acute Lymphoblastic Leukemia with High MEF2C Expression?	MEF2C
-25716962		Analysis of microRNA expression in canine mammary cancer stem-like cells indicates epigenetic regulation of transforming growth factor-beta signaling.	MEF2C
-25675295	10.1038/cddis.2014.594	The transcriptional repressor HDAC7 promotes apoptosis and c-Myc downregulation in particular types of leukemia and lymphoma.	MEF2C
-24304814	10.1038/jid.2013.461	miR-223 regulates cell growth and targets proto-oncogenes in mycosis fungoides/cutaneous T-cell lymphoma.	MEF2C
-23975177	10.3324/haematol.2013.090233	Immature MEF2C-dysregulated T-cell leukemia patients have an early T-cell precursor acute lymphoblastic leukemia gene signature and typically have non-rearranged T-cell receptors.	MEF2C
-22997707	10.1134/s1068162012030089	[The functional analysis of polymorphic insertions of Alu retroelements at acute lymphoblastic leukemia].	MEF2C
-21481790	10.1016/j.ccr.2011.02.008	Integrated transcript and genome analyses reveal NKX2-1 and MEF2C as potential oncogenes in T cell acute lymphoblastic leukemia.	MEF2C
-21425961	10.3109/10428194.2011.566391	Activation of Paired-homeobox gene PITX1 by del(5)(q31) in T-cell acute lymphoblastic leukemia.	MEF2C
-21261500	10.3109/10428194.2010.537003	Transcriptional deregulation of oncogenic myocyte enhancer factor 2C in T-cell acute lymphoblastic leukemia.	MEF2C
-19056693	10.1182/blood-2007-09-113597	HOXA9 is required for survival in human MLL-rearranged acute leukemias.	MEF2C
-18079734	10.1038/sj.leu.2405067	MEF2C is activated by multiple mechanisms in a subset of T-acute lymphoblastic leukemia cell lines.	MEF2C
-16455055	10.1016/j.bbrc.2006.01.036	Evidence for the interaction of the regulatory protein Ki-1/57 with p53 and its interacting proteins.	MEF2C
-28482719	10.1080/10428194.2017.1312383	MEF2C-dysregulated pediatric T-cell acute lymphoblastic leukemia is associated with CDKN1B deletions and a poor response to glucocorticoid therapy.	MEF2C
-26172269	10.1371/journal.pone.0132926	BCL2 Inhibitor (ABT-737): A Restorer of Prednisolone Sensitivity in Early T-Cell Precursor-Acute Lymphoblastic Leukemia with High MEF2C Expression?	MEF2C
-22997707	10.1134/s1068162012030089	[The functional analysis of polymorphic insertions of Alu retroelements at acute lymphoblastic leukemia].	MEF2C
-21481790	10.1016/j.ccr.2011.02.008	Integrated transcript and genome analyses reveal NKX2-1 and MEF2C as potential oncogenes in T cell acute lymphoblastic leukemia.	MEF2C
-18079734	10.1038/sj.leu.2405067	MEF2C is activated by multiple mechanisms in a subset of T-acute lymphoblastic leukemia cell lines.	MEF2C
+pmid	doi	year	title	Hugo_Symbol
+34624096	10.1182/blood.2020010405	2022	ETV6-NCOA2 fusion induces T/myeloid mixed-phenotype leukemia through transformation of nonthymic hematopoietic progenitor cells.	MEF2C
+33150819	10.1080/08880018.2020.1838013	2021	<i>KMT2A</i>-rearranged diffuse large B-cell lymphoma in a child: a case report and molecular characterization.	MEF2C
+34440292	10.3390/genes12081118	2021	T-Cell Acute Lymphoblastic Leukemia: Biomarkers and Their Clinical Usefulness.	MEF2C
+31900516	10.1007/s00210-019-01764-6	2020	A novel MEF2C mutation in lymphoid neoplasm diffuse large B-cell lymphoma promotes tumorigenesis by increasing c-JUN expression.	MEF2C
+32142900	10.1016/j.jmoldx.2020.02.004	2020	Design of a Comprehensive Fluorescence in Situ Hybridization Assay for Genetic Classification of T-Cell Acute Lymphoblastic Leukemia.	MEF2C
+32913188	10.1038/s41419-020-02949-1	2020	A small molecular compound CC1007 induces cross-lineage differentiation by inhibiting HDAC7 expression and HDAC7/MEF2C interaction in BCR-ABL1<sup>-</sup> pre-B-ALL.	MEF2C
+33094287	10.1093/narcan/zcaa029	2020	Activation-induced cytidine deaminase localizes to G-quadruplex motifs at mutation hotspots in lymphoma.	MEF2C
+33298918	10.1038/s41467-020-20136-w	2020	Primary effusion lymphoma enhancer connectome links super-enhancers to dependency factors.	MEF2C
+30171027	10.3324/haematol.2017.186320	2019	Clinical and molecular characteristics of <i>MEF2D</i> fusion-positive B-cell precursor acute lymphoblastic leukemia in childhood, including a novel translocation resulting in <i>MEF2D-HNRNPH1</i> gene fusion.	MEF2C
+30190342	10.3324/haematol.2018.196055	2019	Prognostic implications of additional genomic lesions in adult Philadelphia chromosome-positive acute lymphoblastic leukemia.	MEF2C
+29279377	10.1073/pnas.1717125115	2018	Identification of fusion genes and characterization of transcriptome features in T-cell acute lymphoblastic leukemia.	MEF2C
+28482719	10.1080/10428194.2017.1312383	2017	MEF2C-dysregulated pediatric T-cell acute lymphoblastic leukemia is associated with CDKN1B deletions and a poor response to glucocorticoid therapy.	MEF2C
+26957223	10.1038/mt.2016.55	2016	Evaluating the Safety of Retroviral Vectors Based on Insertional Oncogene Activation and Blocked Differentiation in Cultured Thymocytes.	MEF2C
+27322685	10.18632/oncotarget.9982	2016	Deregulation of polycomb repressor complex 1 modifier AUTS2 in T-cell leukemia.	MEF2C
+25675295	10.1038/cddis.2014.594	2015	The transcriptional repressor HDAC7 promotes apoptosis and c-Myc downregulation in particular types of leukemia and lymphoma.	MEF2C
+25716962		2015	Analysis of microRNA expression in canine mammary cancer stem-like cells indicates epigenetic regulation of transforming growth factor-beta signaling.	MEF2C
+26172269	10.1371/journal.pone.0132926	2015	BCL2 Inhibitor (ABT-737): A Restorer of Prednisolone Sensitivity in Early T-Cell Precursor-Acute Lymphoblastic Leukemia with High MEF2C Expression?	MEF2C
+26245647	10.1038/ncomms8953	2015	MEF2B mutations in non-Hodgkin lymphoma dysregulate cell migration by decreasing MEF2B target gene activation.	MEF2C
+26473286	10.18632/oncotarget.5556	2015	Aberrant expression of homeobox gene SIX1 in Hodgkin lymphoma.	MEF2C
+26670384	10.1128/mBio.01863-15	2015	Common Viral Integration Sites Identified in Avian Leukosis Virus-Induced B-Cell Lymphomas.	MEF2C
+23975177	10.3324/haematol.2013.090233	2014	Immature MEF2C-dysregulated T-cell leukemia patients have an early T-cell precursor acute lymphoblastic leukemia gene signature and typically have non-rearranged T-cell receptors.	MEF2C
+24304814	10.1038/jid.2013.461	2014	miR-223 regulates cell growth and targets proto-oncogenes in mycosis fungoides/cutaneous T-cell lymphoma.	MEF2C
+22997707	10.1134/s1068162012030089	2012	[The functional analysis of polymorphic insertions of Alu retroelements at acute lymphoblastic leukemia].	MEF2C
+21261500	10.3109/10428194.2010.537003	2011	Transcriptional deregulation of oncogenic myocyte enhancer factor 2C in T-cell acute lymphoblastic leukemia.	MEF2C
+21425961	10.3109/10428194.2011.566391	2011	Activation of Paired-homeobox gene PITX1 by del(5)(q31) in T-cell acute lymphoblastic leukemia.	MEF2C
+21481790	10.1016/j.ccr.2011.02.008	2011	Integrated transcript and genome analyses reveal NKX2-1 and MEF2C as potential oncogenes in T cell acute lymphoblastic leukemia.	MEF2C
+19056693	10.1182/blood-2007-09-113597	2009	HOXA9 is required for survival in human MLL-rearranged acute leukemias.	MEF2C
+18079734	10.1038/sj.leu.2405067	2008	MEF2C is activated by multiple mechanisms in a subset of T-acute lymphoblastic leukemia cell lines.	MEF2C
+16455055	10.1016/j.bbrc.2006.01.036	2006	Evidence for the interaction of the regulatory protein Ki-1/57 with p53 and its interacting proteins.	MEF2C

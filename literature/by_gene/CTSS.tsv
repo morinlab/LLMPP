@@ -1,6 +1,6 @@
-pmid	doi	title	Hugo_Symbol
-34272611	10.1007/s00467-021-05202-9	Novel urine biomarkers to distinguish UTI from culture-negative pyuria.	CTSS
-32396854	10.1016/j.ccell.2020.04.008	Genetic Alterations Impact Immune Microenvironment Interactions in Follicular Lymphoma.	CTSS
-32330455	10.1016/j.ccell.2020.03.016	Cathepsin S Regulates Antigen Processing and T Cell Activity in Non-Hodgkin Lymphoma.	CTSS
-32330423	10.1016/j.celrep.2020.107522	Cathepsin S Alterations Induce a Tumor-Promoting Immune Microenvironment in Follicular Lymphoma.	CTSS
-25907256	10.1007/s12253-015-9926-7	Exploring the Molecular Mechanism and Biomakers of Liver Cancer Based on Gene Expression Microarray.	CTSS
+pmid	doi	year	title	Hugo_Symbol
+34272611	10.1007/s00467-021-05202-9	2022	Novel urine biomarkers to distinguish UTI from culture-negative pyuria.	CTSS
+32330423	10.1016/j.celrep.2020.107522	2020	Cathepsin S Alterations Induce a Tumor-Promoting Immune Microenvironment in Follicular Lymphoma.	CTSS
+32330455	10.1016/j.ccell.2020.03.016	2020	Cathepsin S Regulates Antigen Processing and T Cell Activity in Non-Hodgkin Lymphoma.	CTSS
+32396854	10.1016/j.ccell.2020.04.008	2020	Genetic Alterations Impact Immune Microenvironment Interactions in Follicular Lymphoma.	CTSS
+25907256	10.1007/s12253-015-9926-7	2015	Exploring the Molecular Mechanism and Biomakers of Liver Cancer Based on Gene Expression Microarray.	CTSS
