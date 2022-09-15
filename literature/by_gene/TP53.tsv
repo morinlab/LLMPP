@@ -95,7 +95,7 @@ pmid	doi	year	title	Hugo_Symbol
 35561314	10.1182/bloodadvances.2022007247	2022	Evaluating real-world treatment patterns and outcomes of mantle cell lymphoma.	TP53
 35562412	10.1038/s41379-022-01085-9	2022	Oncogenetic landscape of T-cell lymphoblastic lymphomas compared to T-cell acute lymphoblastic leukemia.	TP53
 35577753	10.1016/j.clml.2022.04.017	2022	SOHO State of the Art Updates and Next Questions | Management of Most Difficult Cases of Chronic Lymphocytic Leukemia: Relapse After Both BTK and BCL2 Inhibition and Richter Transformation.	TP53
-35579989	10.1002/ijc.34123	2022	Special issue ""The advance of solid tumor research in China"": Real-world clinical outcomes of alectinib for advanced nonsmall-cell lung cancer patients with ALK fusion in China.	TP53
+35579989	10.1002/ijc.34123	2022	Special issue The advance of solid tumor research in China: Real-world clinical outcomes of alectinib for advanced nonsmall-cell lung cancer patients with ALK fusion in China.	TP53
 35585141	10.1038/s41375-022-01587-0	2022	Pediatric T-ALL type-1 and type-2 relapses develop along distinct pathways of clonal evolution.	TP53
 35592333	10.3389/fimmu.2022.888250	2022	Aberrantly Activated APOBEC3B Is Associated With Mutant p53-Driven Refractory/Relapsed Diffuse Large B-Cell Lymphoma.	TP53
 35592856	10.3389/fmed.2022.808378	2022	A Somatic Mutation Signature Predicts the Best Overall Response to Anti-programmed Cell Death Protein-1 Treatment in Epidermal Growth Factor Receptor/Anaplastic Lymphoma Kinase-Negative Non-squamous Non-small Cell Lung Cancer.	TP53
@@ -150,7 +150,7 @@ pmid	doi	year	title	Hugo_Symbol
 36075047	10.1080/10428194.2022.2118532	2022	A nomogram using cytogenetics, TP53, and NPM1 mutational status can predict responses to induction chemotherapy in AML.	TP53
 36089905	10.1080/10428194.2022.2118533	2022	Clinical and molecular profiling of AML patients with chromosome 7 or 7q deletions in the context of <i>TP53</i> alterations and venetoclax treatment.	TP53
 32193631	10.1007/s00277-020-03974-y	2021	Treatment response to idelalisib in a patient with immunodeficiency-associated Burkitt lymphoma harboring a PIK3CA H1047R mutation.	TP53
-32356355	10.1002/ajh.25848	2021	""Triple hit"" SOX11<sup>-</sup> , MME<sup>+</sup> , TP53 mutated high-grade pleomorphic mantle cell lymphoma.	TP53
+32356355	10.1002/ajh.25848	2021	Triple hit SOX11<sup>-</sup> , MME<sup>+</sup> , TP53 mutated high-grade pleomorphic mantle cell lymphoma.	TP53
 32488603	10.1007/s00277-020-04094-3	2021	Atrial fibrillation in patients with chronic lymphocytic leukemia (CLL) treated with ibrutinib: risk prediction, management, and clinical outcomes.	TP53
 32732362	10.3324/haematol.2020.254276	2021	Genetic manipulation of primary human natural killer cells to investigate the functional and oncogenic roles of PRDM1.	TP53
 32908255	10.1038/s41379-020-00669-7	2021	The survival impact of CKS1B gains or amplification is dependent on the background karyotype and TP53 deletion status in patients with myeloma.	TP53
@@ -238,7 +238,7 @@ pmid	doi	year	title	Hugo_Symbol
 34049842	10.1016/j.clml.2020.10.001	2021	Case Report of an Unusual Tumor in an Adult With a TP53 Germline Mutation.	TP53
 34058070	10.1002/1878-0261.13033	2021	NGS-based liquid biopsy profiling identifies mechanisms of resistance to ALK inhibitors: a step toward personalized NSCLC treatment.	TP53
 34066756	10.3390/diagnostics11050844	2021	<i>TP53</i>-Mutated Circulating Tumor DNA for Disease Monitoring in Lymphoma Patients after CAR T Cell Therapy.	TP53
-34074652	10.1101/mcs.a006089	2021	Twists and turns from ""tumor in tumor"" profiling: surveillance of chronic lymphocytic leukemia (CLL) leads to detection of a lung adenocarcinoma, whose genomic characterization alters the original hematologic diagnosis.	TP53
+34074652	10.1101/mcs.a006089	2021	Twists and turns from tumor in tumor profiling: surveillance of chronic lymphocytic leukemia (CLL) leads to detection of a lung adenocarcinoma, whose genomic characterization alters the original hematologic diagnosis.	TP53
 34078654	10.1136/jitc-2020-002029	2021	MYC/BCL2/BCL6 triple hit and TP53 deletion in a case of high-grade B cell lymphoma receiving CAR T cell immunotherapy.	TP53
 34080325	10.1002/cam4.4024	2021	The genomic landscape of teenage and young adult T-cell acute lymphoblastic leukemia.	TP53
 34080947	10.1080/10428194.2021.1933480	2021	Targeted genomic investigations in a population-based cohort of mantle cell lymphoma reveal novel clinically relevant targets.	TP53
@@ -509,7 +509,7 @@ pmid	doi	year	title	Hugo_Symbol
 31780660	10.1038/s41408-019-0259-8	2019	Repurposing auranofin to treat TP53-mutated or PTEN-deleted refractory B-cell lymphoma.	TP53
 31808882	10.1182/hematology.2019000011	2019	Molecular profiling and management of mantle cell lymphoma.	TP53
 31839919	10.1177/2040620719891356	2019	Emerging treatment options for patients with p53-pathway-deficient CLL.	TP53
-31856440	10.3760/cma.j.issn.0253-2727.2019.11.006	2019	[Clinical prognosis analysis of patients with ""double hit"" multiple myeloma].	TP53
+31856440	10.3760/cma.j.issn.0253-2727.2019.11.006	2019	[Clinical prognosis analysis of patients with double hit multiple myeloma].	TP53
 31891126	10.1016/j.cdtm.2019.08.001	2019	Cross-talk between Myc and p53 in B-cell lymphomas.	TP53
 32397023	10.3760/cma.j.issn.0253-2727.2019.07.010	2019	[Prognostic evaluation of P53 and BCL2 proteins in MYC/BCL2 double expression DLBCL].	TP53
 27859003	10.1111/bjh.14431	2018	Targeted next generation sequencing of breast implant-associated anaplastic large cell lymphoma reveals mutations in JAK/STAT signalling pathway genes, TP53 and DNMT3A.	TP53
