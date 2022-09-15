@@ -93,7 +93,7 @@ pmid	doi	year	title	Hugo_Symbol
 36001789	10.46883/2022.25920970	2022	Current Treatment of Burkitt Lymphoma and High-Grade B-Cell Lymphomas.	BCL6
 36057749	10.1007/s00428-022-03404-6	2022	Diagnostic approaches and future directions in Burkitt lymphoma and high-grade B-cell lymphoma.	BCL6
 36091937	10.3389/pore.2022.1610588	2022	Clinicopathologic Features and Treatment of CD10-Positive Mantle Cell Lymphoma: A Case Report and Review of Literature.	BCL6
-32356355	10.1002/ajh.25848	2021	""Triple hit"" SOX11<sup>-</sup> , MME<sup>+</sup> , TP53 mutated high-grade pleomorphic mantle cell lymphoma.	BCL6
+32356355	10.1002/ajh.25848	2021	Triple hit SOX11<sup>-</sup> , MME<sup>+</sup> , TP53 mutated high-grade pleomorphic mantle cell lymphoma.	BCL6
 32590454	10.1097/PAI.0000000000000863	2021	Aberrant Cytoplasmic Terminal Deoxynucleotidyl Transferase (TdT) Immunostaining on Previously Frozen, Formalin-fixed Paraffin-embedded Tissue: Cryotomy-induced Antigen Diffusion (CIAD).	BCL6
 32675470	10.1097/DAD.0000000000001737	2021	Atypical BCL6/GATA3+ Primary Cutaneous Acral CD8-Positive T-Cell Lymphoma: A Diagnostic Challenge.	BCL6
 32731312	10.1111/odi.13578	2021	Clinicopathological and genetic characteristics of diffuse large B-cell lymphoma of the oropharyngeal and maxillofacial region.	BCL6
@@ -138,7 +138,7 @@ pmid	doi	year	title	Hugo_Symbol
 33619998	10.1177/1066896921995942	2021	Tiny but Mighty: Collision Tumor of a Superficial Adenocarcinoma Arising From a Tubulovillous Adenoma with Associated Low-Grade Follicular Lymphoma.	BCL6
 33629212	10.1007/s12032-021-01470-5	2021	Identification BCL6 and miR-30 family associating with Ibrutinib resistance in activated B-cell-like diffuse large B-cell lymphoma.	BCL6
 33650043	10.1007/s00428-021-03071-z	2021	Clinicopathological characterization of follicular helper T-cell-derived peripheral T-cell lymphoma involving Waldeyer's ring.	BCL6
-33655392	10.1007/s00428-021-03050-4	2021	The ""Burkitt-like"" immunophenotype and genotype is rarely encountered in diffuse large B cell lymphoma and high-grade B cell lymphoma, NOS.	BCL6
+33655392	10.1007/s00428-021-03050-4	2021	The Burkitt-like immunophenotype and genotype is rarely encountered in diffuse large B cell lymphoma and high-grade B cell lymphoma, NOS.	BCL6
 33663954	10.1016/j.it.2021.02.002	2021	Bcl6-Mediated Transcriptional Regulation of Follicular Helper T cells (T<sub>FH</sub>).	BCL6
 33672644	10.3390/cancers13040887	2021	Systemic Inflammation and Tumour-Infiltrating T-Cell Receptor Repertoire Diversity Are Predictive of Clinical Outcome in High-Grade B-Cell Lymphoma with <i>MYC</i> and <i>BCL2</i> and/or <i>BCL6</i> Rearrangements.	BCL6
 33683983	10.1177/1093526621999022	2021	EBV-Positive Plasmacytomas Involving a Nasopharyngeal Angiofibroma in an Adolescent.	BCL6
@@ -253,7 +253,7 @@ pmid	doi	year	title	Hugo_Symbol
 31955451	10.1002/hon.2716	2020	Diffuse large B-cell lymphoma carrying t(9;14)(p13;q32)/PAX5-immunoglobulin heavy chain gene is characterized by nuclear positivity of MUM1 and PAX5 by immunohistochemistry.	BCL6
 31990228	10.5858/arpa.2019-0182-RA	2020	A Practical Approach to Diagnosis of B-Cell Lymphomas With Diffuse Large Cell Morphology.	BCL6
 31991488	10.1111/apm.13029	2020	EZH2 expression is dependent on MYC and TP53 regulation in diffuse large B-cell lymphoma.	BCL6
-31997133	10.1007/s12105-020-01135-1	2020	HIV-Associated ""Double-Hit"" Lymphoma of the Tonsil: A First Reported Case.	BCL6
+31997133	10.1007/s12105-020-01135-1	2020	HIV-Associated Double-Hit Lymphoma of the Tonsil: A First Reported Case.	BCL6
 32013324	10.4132/jptm.2019.12.17	2020	Morphologic variant of follicular lymphoma reminiscent of hyaline-vascular Castleman disease.	BCL6
 32023600	10.11406/rinketsu.61.33	2020	[CD20-negative diffuse large B-cell lymphoma complicated by rheumatoid arthritis].	BCL6
 32025812	10.1007/s00432-020-03137-6	2020	MYC/BCL2/BCL6 triple hit lymphoma of the pericardium: a case report and review of the literature.	BCL6
@@ -372,7 +372,7 @@ pmid	doi	year	title	Hugo_Symbol
 30653103	10.1097/MD.0000000000013985	2019	Colorectal follicular lymphoma: A case report.	BCL6
 30680935	10.1002/jez.b.22843	2019	Bcl6aa and bcl6ab are ubiquitously expressed and are inducible by lipopolysaccharide and polyI:C in adult tissues of medaka Oryzias latipes.	BCL6
 30719149	10.7150/jca.25732	2019	BCL6 Rearrangement Indicates Poor Prognosis in Diffuse Large B-cell Lymphoma Patients: A Meta-analysis of Cohort Studies.	BCL6
-30732171	10.1097/MD.0000000000014367	2019	Diffuse large B-cell lymphoma of the central nervous system presenting as ""lymphomatosis cerebri"" and dementia in elderly man: Case report and review of the literature.	BCL6
+30732171	10.1097/MD.0000000000014367	2019	Diffuse large B-cell lymphoma of the central nervous system presenting as lymphomatosis cerebri and dementia in elderly man: Case report and review of the literature.	BCL6
 30734478	10.1002/cyto.b.21770	2019	Bright CD38 Expression by Flow Cytometric Analysis Is a Biomarker for Double/Triple Hit Lymphomas with a Moderate Sensitivity and High Specificity.	BCL6
 30737994	10.1111/ejh.13219	2019	Stratification by MYC expression has prognostic impact in MYC translocated B-cell lymphoma-Identifies a subgroup of patients with poor outcome.	BCL6
 30768141	10.1093/asj/sjz044	2019	The First Reported Case of Gluteal Implant-Associated Anaplastic Large Cell Lymphoma (ALCL).	BCL6
@@ -464,7 +464,7 @@ pmid	doi	year	title	Hugo_Symbol
 29510136	10.1016/j.bbrc.2018.03.010	2018	Interferon γ is a strong, STAT1-dependent direct inducer of BCL6 expression in multiple myeloma cells.	BCL6
 29510377	10.1159/000487372	2018	miR-519d-3p Inhibits Cell Proliferation and Invasion of Gastric Cancer by Downregulating B-Cell Lymphoma 6.	BCL6
 29983382	10.1016/j.clml.2018.06.010	2018	Prognostic Significance of BCL-2 and BCL-6 Expression in MYC-positive DLBCL.	BCL6
-30043475	10.1002/dc.24038	2018	""Triple hit"" lymphomas: A retrospective cytology case series of an uncommon high grade B-cell malignancy with C-MYC, BCL-2 and BCL-6 rearrangements.	BCL6
+30043475	10.1002/dc.24038	2018	Triple hit lymphomas: A retrospective cytology case series of an uncommon high grade B-cell malignancy with C-MYC, BCL-2 and BCL-6 rearrangements.	BCL6
 30082494	10.1182/blood-2018-02-831438	2018	PRMT5 interacts with the BCL6 oncoprotein and is required for germinal center formation and lymphoma cell survival.	BCL6
 30089946	10.4103/JOC.JOC_42_18	2018	Contribution of Immunocytochemistry to the Diagnosis of Usual and Unusual Lymphoma Cases.	BCL6
 30103201	10.1016/j.leukres.2018.08.002	2018	Combination of cabazitaxel and plicamycin induces cell death in drug resistant B-cell acute lymphoblastic leukemia.	BCL6
@@ -487,7 +487,7 @@ pmid	doi	year	title	Hugo_Symbol
 30279867	10.1016/j.jccase.2017.11.002	2018	Primary cardiac MYC/BCL6 double hit non-Hodgkin lymphoma.	BCL6
 30287880	10.1038/s41598-018-33230-3	2018	Mutation of TP53, translocation analysis and immunohistochemical expression of MYC, BCL-2 and BCL-6 in patients with DLBCL treated with R-CHOP.	BCL6
 30305516	10.11406/rinketsu.59.2109	2018	[Treatment strategy for high-grade B-cell lymphoma].	BCL6
-30323893	10.18632/oncotarget.26060	2018	Generation and characteristics of a novel ""double-hit"" high grade B-cell lymphoma cell line DH-My6 with <i>MYC</i>/<i>IGH</i> and <i>BCL6</i>/<i>IGH</i> gene arrangements and potential molecular targeted therapies.	BCL6
+30323893	10.18632/oncotarget.26060	2018	Generation and characteristics of a novel double-hit high grade B-cell lymphoma cell line DH-My6 with <i>MYC</i>/<i>IGH</i> and <i>BCL6</i>/<i>IGH</i> gene arrangements and potential molecular targeted therapies.	BCL6
 30333862	10.3892/ol.2018.9376	2018	miR-339-5p inhibits lung adenocarcinoma invasion and migration by directly targeting BCL6.	BCL6
 30335946	10.1021/acschembio.8b00698	2018	Development of a Novel B-Cell Lymphoma 6 (BCL6) PROTAC To Provide Insight into Small Molecule Targeting of BCL6.	BCL6
 30348671	10.1182/bloodadvances.2018023572	2018	High-resolution architecture and partner genes of <i>MYC</i> rearrangements in lymphoma with DLBCL morphology.	BCL6
