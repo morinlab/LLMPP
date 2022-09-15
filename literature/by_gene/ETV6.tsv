@@ -74,7 +74,7 @@ pmid	doi	year	title	Hugo_Symbol
 34325057	10.1016/j.jmoldx.2021.07.008	2021	Comparison of Two Quantitative PCR-Based Assays for Detection of Minimal Residual Disease in B-Precursor Acute Lymphoblastic Leukemia Harboring Three Major Fusion Transcripts.	ETV6
 34329606	10.1016/S1470-2045(21)00328-4	2021	Pulse therapy with vincristine and dexamethasone for childhood acute lymphoblastic leukaemia (CCCG-ALL-2015): an open-label, multicentre, randomised, phase 3, non-inferiority trial.	ETV6
 34348305	10.1159/000518280	2021	Cytogenetic and Fluorescence in situ Hybridization Profile of Pediatric Acute Lymphoblastic Leukemia in a University Hospital in South India.	ETV6
-34371436	10.1016/j.leukres.2021.106683	2021	Proposal and clinical application of molecular genetic risk scoring system, ""MRplus"", for BCR-ABL1 negative pediatric B-cell acute lymphoblastic leukemia- report from a single centre.	ETV6
+34371436	10.1016/j.leukres.2021.106683	2021	Proposal and clinical application of molecular genetic risk scoring system, MRplus, for BCR-ABL1 negative pediatric B-cell acute lymphoblastic leukemia- report from a single centre.	ETV6
 34511174	10.7499/j.issn.1008-8830.2105004	2021	Clinical features and prognosis of children with acute leukemias of ambiguous lineage under different diagnostic criteria.	ETV6
 34547766	10.1182/bloodadvances.2021004895	2021	Distinct clinical characteristics of DUX4- and PAX5-altered childhood B-lymphoblastic leukemia.	ETV6
 34551905	10.1158/1078-0432.CCR-21-1165	2021	Comprehensive Molecular Analysis of Inflammatory Myofibroblastic Tumors Reveals Diverse Genomic Landscape and Potential Predictive Markers for Response to Crizotinib.	ETV6
@@ -93,7 +93,7 @@ pmid	doi	year	title	Hugo_Symbol
 31952221	10.3390/cells9010215	2020	<i>ETV6</i>/<i>RUNX1</i> Fusion Gene Abrogation Decreases the Oncogenicity of Tumour Cells in a Preclinical Model of Acute Lymphoblastic Leukaemia.	ETV6
 32029838	10.1038/s41598-020-58970-z	2020	Clinicopathological features and prognostic value of SOX11 in childhood acute lymphoblastic leukemia.	ETV6
 32078009	10.1007/s00277-020-03953-3	2020	Implementation of RNA sequencing and array CGH in the diagnostic workflow of the AIEOP-BFM ALL 2017 trial on acute lymphoblastic leukemia.	ETV6
-32114371	10.1016/j.leukres.2020.106316	2020	Osteopontin-c is overexpressed in KMT2A-AFF1 positive pediatric B-cell lymphoblastic leukemia when compared to those with ETV6-RUNX1"".	ETV6
+32114371	10.1016/j.leukres.2020.106316	2020	Osteopontin-c is overexpressed in KMT2A-AFF1 positive pediatric B-cell lymphoblastic leukemia when compared to those with ETV6-RUNX1.	ETV6
 32118299	10.1111/bjh.16523	2020	Pro-inflammatory cytokines favor the emergence of ETV6-RUNX1-positive pre-leukemic cells in a model of mesenchymal niche.	ETV6
 32135505	10.1016/j.canep.2020.101693	2020	MTHFR rs1801133 polymorphism is associated with increased risk of B-cell precursor lymphoblastic leukaemia with recurrent genetic aberrations of fetal origin.	ETV6
 32150610	10.1182/bloodadvances.2019001008	2020	The application of RNA sequencing for the diagnosis and genomic classification of pediatric acute lymphoblastic leukemia.	ETV6
@@ -230,7 +230,7 @@ pmid	doi	year	title	Hugo_Symbol
 28500740	10.1002/pbc.26518	2017	Children with low-risk acute lymphoblastic leukemia are at highest risk of second cancers.	ETV6
 28555414	10.1007/s12185-017-2259-4	2017	Germline ETV6 mutations and predisposition to hematological malignancies.	ETV6
 28557976	10.1038/bjc.2017.152	2017	Mutations in TP53 and JAK2 are independent prognostic biomarkers in B-cell precursor acute lymphoblastic leukaemia.	ETV6
-28624474	10.1016/j.tiv.2017.06.013	2017	""Exposure to the insecticides permethrin and malathion induces leukemia and lymphoma-associated gene aberrations in vitro"".	ETV6
+28624474	10.1016/j.tiv.2017.06.013	2017	Exposure to the insecticides permethrin and malathion induces leukemia and lymphoma-associated gene aberrations in vitro.	ETV6
 28630052	10.1158/0008-5472.CAN-17-0701	2017	Infection Exposure Promotes <i>ETV6-RUNX1</i> Precursor B-cell Leukemia via Impaired H3K4 Demethylases.	ETV6
 28631637	10.4103/IJPM.IJPM_466_16	2017	An integrated genomic profile that includes copy number alterations is highly predictive of minimal residual disease status in childhood precursor B-lineage acute lymphoblastic leukemia.	ETV6
 28709134	10.1016/j.ejca.2017.06.012	2017	BCR-ABL1-like acute lymphoblastic leukaemia: From bench to bedside.	ETV6

@@ -97,7 +97,7 @@ pmid	doi	year	title	Hugo_Symbol
 30457169	10.1111/his.13794	2019	Biphasic pathological pattern in transformed mycosis fungoides not associated with DUSP22-IRF4 translocation.	IRF4
 30664244	10.1002/eji.201847855	2019	Transformation of mature mouse B cells into malignant plasma cells in vitro via introduction of defined genetic elements.	IRF4
 30695866	10.3760/cma.j.issn.0529-5807.2019.02.011	2019	[Clinicopathological features of follicular lymphoma in children].	IRF4
-30732171	10.1097/MD.0000000000014367	2019	Diffuse large B-cell lymphoma of the central nervous system presenting as ""lymphomatosis cerebri"" and dementia in elderly man: Case report and review of the literature.	IRF4
+30732171	10.1097/MD.0000000000014367	2019	Diffuse large B-cell lymphoma of the central nervous system presenting as lymphomatosis cerebri and dementia in elderly man: Case report and review of the literature.	IRF4
 30792929	10.1155/2019/3730915	2019	CD5-Positive Primary Cutaneous Diffuse Large B-Cell Lymphoma-Leg Type.	IRF4
 30802809	10.1016/j.anndiagpath.2019.02.001	2019	American Registry of Pathology Expert Opinions: Immunohistochemical evaluation of classic Hodgkin lymphoma.	IRF4
 30907723	10.1099/jgv.0.001249	2019	IRF4 promotes Epstein-Barr virus activation in Burkitt's lymphoma cells.	IRF4
@@ -173,7 +173,7 @@ pmid	doi	year	title	Hugo_Symbol
 26416032	10.1007/s00428-015-1855-z	2016	Indolent lymphomas in the pediatric population: follicular lymphoma, IRF4/MUM1+ lymphoma, nodal marginal zone lymphoma and chronic lymphocytic leukemia.	IRF4
 26526666	10.1007/s00431-015-2660-z	2016	Hodgkin lymphoma as a novel presentation of familial DICER1 syndrome.	IRF4
 26608593	10.1002/gcc.22328	2016	Whole exome sequencing of relapsed/refractory patients expands the repertoire of somatic mutations in diffuse large B-cell lymphoma.	IRF4
-26762526	10.1007/s00428-015-1902-9	2016	Intrafollicular Epstein-Barr virus-positive large B cell lymphoma. A variant of ""germinotropic"" lymphoproliferative disorder.	IRF4
+26762526	10.1007/s00428-015-1902-9	2016	Intrafollicular Epstein-Barr virus-positive large B cell lymphoma. A variant of germinotropic lymphoproliferative disorder.	IRF4
 26851186	10.1158/1078-0432.CCR-15-1784	2016	STAT3/5-Dependent IL9 Overexpression Contributes to Neoplastic Cell Survival in Mycosis Fungoides.	IRF4
 26869285	10.1002/cam4.650	2016	Machine learning-based classification of diffuse large B-cell lymphoma patients by eight gene expression profiles.	IRF4
 26878872	10.18632/aging.100898	2016	p63 expression confers significantly better survival outcomes in high-risk diffuse large B-cell lymphoma and demonstrates p53-like and p53-independent tumor suppressor function.	IRF4
@@ -238,7 +238,7 @@ pmid	doi	year	title	Hugo_Symbol
 23348205	10.1097/PAS.0b013e31826cebad	2013	Double-hit B-cell lymphomas with BCL6 and MYC translocations are aggressive, frequently extranodal lymphomas distinct from BCL2 double-hit B-cell lymphomas.	IRF4
 23355206	10.1309/AJCP0YGM8BLFYHJY	2013	Nuclear protein dysregulation in lymphoplasmacytic lymphoma/waldenstrom macroglobulinemia.	IRF4
 23445872	10.3324/haematol.2012.073916	2013	Recurrent loss of heterozygosity in 1p36 associated with TNFRSF14 mutations in IRF4 translocation negative pediatric follicular lymphomas.	IRF4
-23449597	10.3324/haematol.2013.084582	2013	Reply to ""A combination treatment approach and cord blood stem cell transplant for blastic plasmacytoid dendritic cell neoplasm"" and to ""A low-grade B-cell lymphoma with prolymphocytic/paraimmunoblastic proliferation and IRF4 rearrangement"" dendritic cell leukemia.	IRF4
+23449597	10.3324/haematol.2013.084582	2013	Reply to A combination treatment approach and cord blood stem cell transplant for blastic plasmacytoid dendritic cell neoplasm and to A low-grade B-cell lymphoma with prolymphocytic/paraimmunoblastic proliferation and IRF4 rearrangement dendritic cell leukemia.	IRF4
 23455380	10.1093/carcin/bgt082	2013	Risk of genome-wide association study-identified genetic variants for non-Hodgkin lymphoma in a Chinese population.	IRF4
 23599146	10.1038/modpathol.2013.50	2013	Follicular lymphoma in young adults: a clinicopathological and molecular study of 200 patients.	IRF4
 23648461	10.1097/PAS.0b013e318282d01e	2013	Chromosomal rearrangements of 6p25.3 define a new subtype of lymphomatoid papulosis.	IRF4
@@ -360,7 +360,7 @@ pmid	doi	year	title	Hugo_Symbol
 17082608	10.4049/jimmunol.177.10.6930	2006	Stages of germinal center transit are defined by B cell transcription factor coexpression and relative abundance.	IRF4
 17149956	10.5858/2006-130-1819-ICODNT	2006	Immunohistochemical classification of de novo, transformed, and relapsed diffuse large B-cell lymphoma into germinal center B-cell and nongerminal center B-cell subtypes correlates with gene expression profile and patient survival.	IRF4
 15308563	10.1182/blood-2004-04-1594	2005	Distinct types of primary cutaneous large B-cell lymphoma identified by gene expression profiling.	IRF4
-15510210	10.1038/sj.leu.2403543	2005	Translocation t(1;6)(p35.3;p25.2): a new recurrent aberration in ""unmutated"" B-CLL.	IRF4
+15510210	10.1038/sj.leu.2403543	2005	Translocation t(1;6)(p35.3;p25.2): a new recurrent aberration in unmutated B-CLL.	IRF4
 15578069	10.1038/modpathol.3800355	2005	Plasmablastic lymphomas and plasmablastic plasma cell myelomas have nearly identical immunophenotypic profiles.	IRF4
 15611260	10.4049/jimmunol.174.1.367	2005	Tracing the pre-B to immature B cell transition in human leukemia cells reveals a coordinated sequence of primary and secondary IGK gene rearrangement, IGK deletion, and IGL gene rearrangement.	IRF4
 15677569	10.1182/blood-2004-08-3112	2005	Expression of the human germinal center-associated lymphoma (HGAL) protein, a new marker of germinal center B-cell derivation.	IRF4
