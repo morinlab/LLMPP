@@ -1,0 +1,25 @@
+pmid	doi	year	title	Hugo_Symbol
+32793890	10.1158/0008-5472.BCD-19-0041	2022	Mutational landscape and patterns of clonal evolution in relapsed pediatric acute lymphoblastic leukemia.	NCOR2
+32619424	10.1016/j.cell.2020.05.049	2021	TBL1XR1 Mutations Drive Extranodal Lymphoma by Inducing a Pro-tumorigenic Memory Fate.	NCOR2
+31883669	10.1016/j.pathol.2019.09.014	2020	The clinicopathological and genetic features of ovarian diffuse large B-cell lymphoma.	NCOR2
+29481902	10.1016/j.jid.2018.02.015	2019	Panel Sequencing Shows Recurrent Genetic FAS Alterations in Primary Cutaneous Marginal Zone Lymphoma.	NCOR2
+30082494	10.1182/blood-2018-02-831438	2019	PRMT5 interacts with the BCL6 oncoprotein and is required for germinal center formation and lymphoma cell survival.	NCOR2
+27733359	10.1158/2159-8290.CD-16-0975	2017	CREBBP Inactivation Promotes the Development of HDAC3-Dependent Lymphomas.	NCOR2
+26728228	10.1038/srep18778	2016	Bcl6 Sets a Threshold for Antiviral Signaling by Restraining IRF7 Transcriptional Program.	NCOR2
+25873174	10.1016/j.ccell.2015.03.006	2015	Convergent mutations and kinase fusions lead to oncogenic STAT3 activation in anaplastic large cell lymphoma.	NCOR2
+23911289	10.1016/j.celrep.2013.06.016	2014	A hybrid mechanism of action for BCL6 in B cells defined by formation of functionally distinct complexes at enhancers and promoters.	NCOR2
+21518914	10.1073/pnas.1104991108	2011	EBV nuclear antigen EBNALP dismisses transcription repressors NCoR and RBPJ from enhancers and EBNA2 increases NCoR-deficient RBPJ DNA binding.	NCOR2
+20385356	10.1016/j.ccr.2010.03.012	2010	Anticancer therapy SMRT-ens up: targeting the BCL6-SMRT interaction in B cell lymphoma.	NCOR2
+18927431	10.1182/blood-2008-07-168773	2009	A peptomimetic inhibitor of BCL6 with potent antilymphoma effects in vitro and in vivo.	NCOR2
+18052923	10.1042/BJ20071393	2008	The functional relationship between co-repressor N-CoR and SMRT in mediating transcriptional repression by thyroid hormone receptor alpha.	NCOR2
+18079734	10.1038/sj.leu.2405067	2008	MEF2C is activated by multiple mechanisms in a subset of T-acute lymphoblastic leukemia cell lines.	NCOR2
+18212045	10.1128/MCB.01400-07	2008	CtBP is an essential corepressor for BCL6 autoregulation.	NCOR2
+17545502	10.1182/blood-2007-01-069575	2007	BCL6 programs lymphoma cells for survival and differentiation through distinct biochemical mechanisms.	NCOR2
+16147992	10.1074/mcp.M500112-MCP200	2006	Analysis of BCL6-interacting proteins by tandem mass spectrometry.	NCOR2
+16331266	10.1038/sj.onc.1209252	2006	A peptide aptamer to antagonize BCL-6 function.	NCOR2
+15531890	10.1038/nm1134	2005	Specific peptide interference reveals BCL6 transcriptional and oncogenic mechanisms in B-cell lymphoma cells.	NCOR2
+15930272	10.1158/0008-5472.CAN-04-4108	2005	Alteration of SMRT tumor suppressor function in transformed non-Hodgkin lymphomas.	NCOR2
+14690607	10.1016/s1097-2765(03)00454-4	2004	Mechanism of SMRT corepressor recruitment by the BCL6 BTB domain.	NCOR2
+10611298	10.1073/pnas.96.26.14831	2000	Recruitment of SMRT/N-CoR-mSin3A-HDAC-repressing complexes is not a general mechanism for BTB/POZ transcriptional repressors: the case of HIC-1 and gammaFBP-B.	NCOR2
+10898795		2000	BCoR, a novel corepressor involved in BCL-6 repression.	NCOR2
+9380707	10.1073/pnas.94.20.10762	1997	Corepressor SMRT binds the BTB/POZ repressing domain of the LAZ3/BCL6 oncoprotein.	NCOR2

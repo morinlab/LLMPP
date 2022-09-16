@@ -1,0 +1,54 @@
+pmid	doi	year	title	Hugo_Symbol
+34162177	10.3324/haematol.2020.267096	2022	Characterization of GECPAR, a noncoding RNA that regulates the transcriptional program of diffuse large B-cell lymphoma.	POU2AF1
+33512466	10.1182/blood.2020010175	2021	OBF1 and Oct factors control the germinal center transcriptional program.	POU2AF1
+29931583	10.1007/s10637-018-0623-8	2020	Dual targeting of bromodomain-containing 4 by AZD5153 and BCL2 by AZD4320 against B-cell lymphomas concomitantly overexpressing c-MYC and BCL2.	POU2AF1
+33232656	10.1016/j.molcel.2020.10.036	2020	Unique Immune Cell Coactivators Specify Locus Control Region Function and Cell Stage.	POU2AF1
+29375549	10.3389/fimmu.2017.01841	2019	Blood Gene Expression Predicts Bronchiolitis Obliterans Syndrome.	POU2AF1
+30802265	10.1371/journal.pone.0212813	2019	Unraveling transformation of follicular lymphoma to diffuse large B-cell lymphoma.	POU2AF1
+27835906	10.18632/oncotarget.13239	2018	Whole-exome and transcriptome sequencing of refractory diffuse large B-cell lymphoma.	POU2AF1
+28756244	10.1016/j.imlet.2017.07.012	2018	High frequency of Bob1<sup>lo</sup> T follicular helper cells in florid reactive follicular hyperplasia.	POU2AF1
+27229929	10.1186/s12885-016-2374-2	2017	Systematic interactome mapping of acute lymphoblastic leukemia cancer gene products reveals EXT-1 tumor suppressor as a Notch1 and FBWX7 common interactor.	POU2AF1
+27319306	10.1111/his.13017	2017	Oct2 and Bob1 are sensitive and specific markers in lineage determination of B cell lymphomas with no expression of conventional B cell markers.	POU2AF1
+28053195	10.1182/blood-2016-09-737536	2017	TCR-based therapy for multiple myeloma and other B-cell malignancies targeting intracellular transcription factor BOB1.	POU2AF1
+28064239	10.1182/blood-2016-07-729954	2017	Recurrent somatic mutations affecting B-cell receptor signaling pathway genes in follicular lymphoma.	POU2AF1
+28345816	10.1002/mc.22652	2017	Germline variation in the 3'-untranslated region of the POU2AF1 gene is associated with susceptibility to lymphoma.	POU2AF1
+28851661	10.1016/j.humpath.2017.08.015	2017	J chain and myocyte enhancer factor 2B are useful in differentiating classical Hodgkin lymphoma from nodular lymphocyte predominant Hodgkin lymphoma and primary mediastinal large B-cell lymphoma.	POU2AF1
+24300721	10.1097/PAT.0000000000000039	2015	Plasmablastic lymphoma presenting as a colonic stricture in Crohn's disease.	POU2AF1
+24115831	10.3748/wjg.v19.i37.6299	2014	A case of plasmablastic lymphoma of the liver without human immunodeficiency virus infection.	POU2AF1
+24332044	10.1016/j.ccr.2013.11.003	2014	Discovery and characterization of super-enhancer-associated dependencies in diffuse large B cell lymphoma.	POU2AF1
+22324490	10.1111/j.1600-0560.2012.01872.x	2012	Use of an expanded immunohistochemical panel to distinguish cutaneous Hodgkin lymphoma from histopathologic imitators.	POU2AF1
+21420167	10.1016/j.leukres.2010.10.032	2011	Chromosome 11q23.1 is an unstable region in B-cell tumor cell lines.	POU2AF1
+21424034		2011	B-cell transcription factors Pax-5, Oct-2, BOB.1, Bcl-6, and MUM1 are useful markers for the diagnosis of nodular lymphocyte predominant Hodgkin lymphoma.	POU2AF1
+21438833	10.3109/10428194.2010.548535	2011	Expression and prognostic significance of Oct2 and Bob1 in multiple myeloma: implications for targeted therapeutics.	POU2AF1
+17822631		2010	[Differential diagnosis of nodular lymphocyte-predominant Hodgkin lymphoma and lymphocyte-rich classic Hodgkin lymphoma: role of immunohistochemistry].	POU2AF1
+20102401	10.1111/j.1365-2559.2009.03462.x	2010	BOB.1, CD79a and cyclin E are the most appropriate markers to discriminate classical Hodgkin's lymphoma from primary mediastinal large B-cell lymphoma.	POU2AF1
+20141429	10.3109/10428191003592735	2010	OCT-2 expression and OCT-2/BOB.1 co-expression predict prognosis in patients with newly diagnosed acute myeloid leukemia.	POU2AF1
+18695675	10.1038/onc.2008.286	2008	Functional long-range interactions of the IgH 3' enhancers with the bcl-2 promoter region in t(14;18) lymphoma cells.	POU2AF1
+16648862	10.1038/modpathol.3800622	2007	Expression profiling of transcription factors Pax-5, Oct-1, Oct-2, BOB.1, and PU.1 in Hodgkin's and non-Hodgkin's lymphomas: a comparative study using high throughput tissue microarrays.	POU2AF1
+17562619	10.1532/IJH97.06094	2007	Primary gastric Hodgkin's lymphoma expressing a B-Cell profile including Oct-2 and Bob-1 proteins.	POU2AF1
+17577776	10.1080/10428190701342000	2007	Hodgkin-like anaplastic large cell lymphoma (previously designated in the REAL classification) has same immunophenotypic features to classical Hodgkin lymphoma.	POU2AF1
+16186795	10.1038/sj.onc.1209127	2006	Oct transcription factors mediate t(14;18) lymphoma cell survival by directly regulating bcl-2 expression.	POU2AF1
+16778825	10.1038/modpathol.3800650	2006	Expression of B-cell transcription factors in primary cutaneous B-cell lymphoma.	POU2AF1
+15257313	10.1038/modpathol.3800227	2005	Analysis of transcription factor OCT.1, OCT.2 and BOB.1 expression using tissue arrays in classical Hodgkin's lymphoma.	POU2AF1
+15672409	10.1002/gcc.20159	2005	Identification of a potential role for POU2AF1 and BTG4 in the deletion of 11q23 in chronic lymphocytic leukemia.	POU2AF1
+15796964	10.1016/j.cancergencyto.2004.09.005	2005	Alterations of loci encoding PU.1, BOB1, and OCT2 transcription regulators do not correlate with their suppressed expression in Hodgkin lymphoma.	POU2AF1
+16249468	10.1167/iovs.05-0318	2005	Expression of immunoglobulin transcription factors in primary intraocular lymphoma and primary central nervous system lymphoma.	POU2AF1
+12848851	10.1046/j.0818-9641.2003.01172.x	2004	Knockout B lymphoma cell lines as biochemical tools to explore multiple signalling pathways.	POU2AF1
+14662861	10.4049/jimmunol.171.12.6589	2004	Critical role for the Oct-2/OCA-B partnership in Ig-secreting cells.	POU2AF1
+14694522	10.1002/path.1485	2004	Differential Emu enhancer activity and expression of BOB.1/OBF.1, Oct2, PU.1, and immunoglobulin in reactive B-cell populations, B-cell non-Hodgkin lymphomas, and Hodgkin lymphomas.	POU2AF1
+15231650	10.1158/0008-5472.CAN-03-3885	2004	High-throughput retroviral tagging for identification of genes involved in initiation and progression of mouse splenic marginal zone lymphomas.	POU2AF1
+15284123	10.1182/blood-2003-04-1197	2004	Epigenetic silencing of the immunoglobulin heavy-chain gene in classical Hodgkin lymphoma-derived cell lines contributes to the loss of immunoglobulin expression.	POU2AF1
+12507907	10.1016/s0002-9440(10)63815-1	2003	Primary mediastinal B-cell lymphoma: high frequency of BCL-6 mutations and consistent expression of the transcription factors OCT-2, BOB.1, and PU.1 in the absence of immunoglobulins.	POU2AF1
+12592383	10.1038/sj.onc.1206270	2003	Disruption of the B-cell specific transcriptional program in HHV-8 associated primary effusion lymphoma cell lines.	POU2AF1
+12647220	10.1007/s00428-002-0735-5	2003	Expression patterns of transcription factors in progressively transformed germinal centers and Hodgkin lymphoma.	POU2AF1
+14608905	10.1309/YCH8-DWUF-FQBK-GPVB	2003	The B-cell transcription factors BSAP, Oct-2, and BOB.1 and the pan-B-cell markers CD20, CD22, and CD79a are useful in the differential diagnosis of classic Hodgkin lymphoma.	POU2AF1
+11904338	10.1038/modpathol.3880518	2002	Analysis of octamer-binding transcription factors Oct2 and Oct1 and their coactivator BOB.1/OBF.1 in lymphomas.	POU2AF1
+11929801	10.1182/blood.v99.8.3060	2002	Loss of PU.1 expression is associated with defective immunoglobulin transcription in Hodgkin and Reed-Sternberg cells of classical Hodgkin disease.	POU2AF1
+11154228	10.1182/blood.v97.2.496	2001	Down-regulation of BOB.1/OBF.1 and Oct2 in classical Hodgkin disease but not in lymphocyte predominant Hodgkin disease correlates with immunoglobulin transcription.	POU2AF1
+11280769		2001	Oct-2 and Bob-1 deficiency in Hodgkin and Reed Sternberg cells.	POU2AF1
+11342448	10.1182/blood.v97.10.3191	2001	Defective octamer-dependent transcription is responsible for silenced immunoglobulin transcription in Reed-Sternberg cells.	POU2AF1
+10666379	10.1016/S0002-9440(10)64754-2	2000	Up-regulation of BOB.1/OBF.1 expression in normal germinal center B cells and germinal center-derived lymphomas.	POU2AF1
+9724642	10.1093/emboj/17.17.5066	1998	OCA-B integrates B cell antigen receptor-, CD40L- and IL 4-mediated signals for the germinal center pathway of B cell development.	POU2AF1
+8574789		1996	Fusion of the LAZ3/BCL6 and BOB1/OBF1 genes by t(3; 11) (q27; q23) chromosomal translocation.	POU2AF1
+8618432		1996	The B cell transcriptional coactivator BOB1/OBF1 gene fuses to the LAZ3/BCL6 gene by t(3;11)(q27;q23.1) chromosomal translocation in a B cell leukemia line (Karpas 231).	POU2AF1
+8751468		1996	Heterogeneity of breakpoints at the transcriptional co-activator gene, BOB-1, in lymphoproliferative disease.	POU2AF1
