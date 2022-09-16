@@ -1,0 +1,37 @@
+pmid	doi	year	title	Hugo_Symbol
+33570628	10.1182/bloodadvances.2020001665	2021	Inhibition of B-cell receptor signaling disrupts cell adhesion in mantle cell lymphoma via RAC2.	BLNK
+31882553	10.21873/cgp.20169	2020	BRD4-Regulated Molecular Targets in Mantle Cell Lymphoma: Insights into Targeted Therapeutic Approach.	BLNK
+32420699	10.1002/cam4.3136	2020	Serine-227 in the N-terminal kinase domain of RSK2 is a potential therapeutic target for mantle cell lymphoma.	BLNK
+32585766	10.1002/1878-0261.12753	2020	Identification of BLNK and BTK as mediators of rituximab-induced programmed cell death by CRISPR screens in GCB-subtype diffuse large B-cell lymphoma.	BLNK
+33020271	10.1073/pnas.2007946117	2020	Rewiring of B cell receptor signaling by Epstein-Barr virus LMP2A.	BLNK
+29931583	10.1007/s10637-018-0623-8	2019	Dual targeting of bromodomain-containing 4 by AZD5153 and BCL2 by AZD4320 against B-cell lymphomas concomitantly overexpressing c-MYC and BCL2.	BLNK
+30872780	10.1038/s41375-019-0442-8	2019	Inhibition of SYK or BTK augments venetoclax sensitivity in SHP1-negative/BCL-2-positive diffuse large B-cell lymphoma.	BLNK
+30890517	10.12122/j.issn.1673-4254.2019.02.20	2019	[Structure and function of B-cell linker and its role in the development of B cell-related diseases].	BLNK
+30402490	10.1155/2018/6728128	2018	Gene Expression Profile Signature of Aggressive Waldenström Macroglobulinemia with Chromosome 6q Deletion.	BLNK
+26354285	10.1002/hon.2251	2017	Concomitant high expression of Toll-like receptor (TLR) and B-cell receptor (BCR) signalling molecules has clinical implications in mantle cell lymphoma.	BLNK
+28791394	10.3892/mmr.2017.7158	2017	Identification of key genes and pathways associated with classical Hodgkin lymphoma by bioinformatics analysis.	BLNK
+26522721	10.1038/onc.2015.385	2016	ZFP521 contributes to pre-B-cell lymphomagenesis through modulation of the pre-B-cell receptor signaling pathway.	BLNK
+27016671	10.1016/j.molimm.2016.03.007	2016	PAX5 promotes pre-B cell proliferation by regulating the expression of pre-B cell receptor and its downstream signaling.	BLNK
+25080849	10.1111/ejh.12427	2015	B-cell receptor signalling and its crosstalk with other pathways in normal and malignant cells.	BLNK
+25391967	10.1007/s11060-014-1655-3	2015	Differential expression of Toll-like receptor (TLR) and B cell receptor (BCR) signaling molecules in primary diffuse large B-cell lymphoma of the central nervous system.	BLNK
+24240734	10.1007/s00401-013-1202-x	2014	Systems biology of primary CNS lymphoma: from genetic aberrations to modeling in mice.	BLNK
+24169826	10.1182/blood-2012-12-473090	2013	The Myc-miR-17-92 axis amplifies B-cell receptor signaling via inhibition of ITIM proteins: a novel lymphomagenic feed-forward loop.	BLNK
+22262777	10.1182/blood-2011-04-351965	2012	CIN85 is required for Cbl-mediated regulation of antigen receptor signaling in human B cells.	BLNK
+22880054	10.1371/journal.pone.0042610	2012	Src kinase and Syk activation initiate PI3K signaling by a chimeric latent membrane protein 1 in Epstein-Barr virus (EBV)+ B cell lymphomas.	BLNK
+19758698	10.1016/j.leukres.2009.08.030	2010	Therapeutic implications of Src independent calcium mobilization in diffuse large B-cell lymphoma.	BLNK
+20876806	10.1158/0008-5472.CAN-10-1438	2010	Activation-induced cytidine deaminase accelerates clonal evolution in BCR-ABL1-driven B-cell lineage acute lymphoblastic leukemia.	BLNK
+19150402	10.1016/j.cellsig.2008.12.006	2009	SAP binds to CD22 and regulates B cell inhibitory signaling and calcium flux.	BLNK
+19850008	10.1016/j.bbrc.2009.10.070	2009	Phosphatidylinositol-3-kinase-dependent phosphorylation of SLP-76 by the lymphoma-associated ITK-SYK fusion-protein.	BLNK
+19855081	10.1182/blood-2009-02-204362	2009	BCL6 modulates tonic BCR signaling in diffuse large B-cell lymphomas by repressing the SYK phosphatase, PTPROt.	BLNK
+18006696	10.1182/blood-2007-07-100115	2008	SYK-dependent tonic B-cell receptor signaling is a rational treatment target in diffuse large B-cell lymphoma.	BLNK
+18426802	10.1074/jbc.M708459200	2008	Induction of cytosolic calcium flux by CD20 is dependent upon B Cell antigen receptor signaling.	BLNK
+18566961	10.1002/path.2384	2008	The Epstein-Barr virus oncoprotein, latent membrane protein-1, reprograms germinal centre B cells towards a Hodgkin's Reed-Sternberg-like phenotype.	BLNK
+17717600	10.1172/JCI30842	2007	B cell activator PAX5 promotes lymphomagenesis through stimulation of B cell receptor signaling.	BLNK
+16568084	10.1038/sj.onc.1209510	2006	The SRC family kinase LYN redirects B cell receptor signaling in human SLP65-deficient B cell lymphoma cells.	BLNK
+16636677	10.1038/sj.onc.1209520	2006	SLP65 deficiency results in perpetual V(D)J recombinase activity in pre-B-lymphoblastic leukemia and B-cell lymphoma cells.	BLNK
+16888096	10.1182/blood-2006-03-013821	2006	Protein tyrosine phosphatase receptor-type O truncated (PTPROt) regulates SYK phosphorylation, proximal B-cell-receptor signaling, and cellular proliferation.	BLNK
+15744341	10.1038/sj.leu.2403702	2005	Expression pattern of intracellular leukocyte-associated proteins in primary mediastinal B cell lymphoma.	BLNK
+14984504	10.1111/j.1365-2141.2004.04802.x	2004	Intracellular signalling molecules as immunohistochemical markers of normal and neoplastic human leucocytes in routine biopsy samples.	BLNK
+15231650	10.1158/0008-5472.CAN-03-3885	2004	High-throughput retroviral tagging for identification of genes involved in initiation and progression of mouse splenic marginal zone lymphomas.	BLNK
+12436112	10.1038/ni862	2003	The adaptor protein SLP-65 acts as a tumor suppressor that limits pre-B cell expansion.	BLNK
+11489945	10.1084/jem.194.3.255	2001	Epstein-Barr virus latent membrane protein 2A (LMP2A) employs the SLP-65 signaling module.	BLNK
