@@ -284,10 +284,14 @@ clean_gene_abstracts = function(infile="~/git/LLMPP/literature/lymphoma_genes_ab
 fetch_all_gene_abstracts = function(path="~/git/LLMPP/literature/by_gene/"){
   all_files = dir(path)
   for(f in all_files){
-    f = paste0(path,f)
-    print(paste("working on",f))
-    #the function being called will automatically skip all PMID that are already in the output file
-    fetch_full_abstracts(infile=f)
+    if(f == "MTOR.tsv"){
+      print(paste("SKIPPING:",f))
+    }else{
+      f = paste0(path,f)
+      print(paste("working on",f))
+      #the function being called will automatically skip all PMID that are already in the output file
+      fetch_full_abstracts(infile=f)
+    }
   }
   
 }
@@ -353,5 +357,5 @@ filter_abstracts_keywords()
 clean_gene_abstracts()
 
 #Use this to actually load the cleaned-up set of gene:paper associations so you can do things with the information we have accumulated!
-gene_papers = load_papers_all_genes() 
+gene_citations = load_papers_all_genes() 
 
