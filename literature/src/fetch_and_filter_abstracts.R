@@ -1,6 +1,6 @@
 require(tidyverse)
 require(easyPubMed)
-
+require(rentrez)
 #' Find all publications linked to a gene in NCBI Gene and subset them based on keywords in the abstract (default is to restrict to lymphoma and DLBCL)
 #'
 #' @param gene_symbol Required: specify a single gene symbol that will be searched in Entrez and pubmed
@@ -131,6 +131,7 @@ mine_lymphoma_literature = function(these_genes,per_gene=FALSE,output_path="~/gi
           write_tsv(these_papers,file=file_name)
         }  
       }else{
+        print(paste("CREATING:",file_name))
         write_tsv(these_papers,file=file_name)
       }
     }
@@ -233,10 +234,11 @@ find_lymphoma_papers_for_gene = function(gene_symbol,keywords = c("lymphoma","DL
   abstracts_df = do.call("bind_rows",all_dfs) %>% unique() 
   if(nrow(abstracts_df) > 0){
     abstracts_df = abstracts_df %>% arrange(desc(year),pmid)
+    #I think the following will correct the quotation mark issue that github doesn't like
+    abstracts_df = mutate(abstracts_df,title=str_remove_all(title,"\"+"))
+    #abstracts_df = data.frame(pmid=all_pmids,doi=all_dois,title=all_titles) %>% unique() %>% mutate(doi=ifelse(str_length(doi)< 200,doi,""))
+    
   }
-  #I think the following will correct the quotation mark issue that github doesn't like
-  abstracts_df = mutate(abstracts_df,title=str_remove_all(title,"\"+"))
-  #abstracts_df = data.frame(pmid=all_pmids,doi=all_dois,title=all_titles) %>% unique() %>% mutate(doi=ifelse(str_length(doi)< 200,doi,""))
   return(abstracts_df)
 }
 
@@ -359,3 +361,13 @@ clean_gene_abstracts()
 #Use this to actually load the cleaned-up set of gene:paper associations so you can do things with the information we have accumulated!
 gene_citations = load_papers_all_genes() 
 
+citation_counts_gene = gene_citations %>% group_by(Hugo_Symbol) %>% tally()
+
+#add missing genes
+full_gene_table = lymphoma_genes_comprehensive
+
+full_gene_table = left_join(full_gene_table,citation_counts_gene,by=c("Gene"="Hugo_Symbol"))
+
+genome_meta = get_gambl_metadata()
+
+gene_mutation_tally()
