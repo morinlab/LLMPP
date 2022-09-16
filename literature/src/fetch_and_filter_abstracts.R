@@ -244,15 +244,19 @@ find_lymphoma_papers_for_gene = function(gene_symbol,keywords = c("lymphoma","DL
 
 
 
-load_papers_all_genes = function(in_dir = "~/git/LLMPP/literature/by_gene_clean/"){
+load_papers_all_genes = function(in_dir = "~/git/LLMPP/literature/by_gene_clean/",other_in_dir="~/git/LLMPP/literature/by_gene/"){
   cleaned_files = dir(in_dir)
+  loaded_genes = c()
   all_dfs = list()
   for(f in cleaned_files){
+    gene = gsub(".txt","",f)
+    loaded_genes = c(loaded_genes,gene)
     this_df = read_tsv(paste0(in_dir,f),col_types = "ccncc")
     if(nrow(this_df)>0){
       all_dfs[[f]]=this_df
     }
   }
+  print(paste("loaded genes:",loaded_genes))
   full_df = do.call("bind_rows",all_dfs)
   return(full_df)
 }
