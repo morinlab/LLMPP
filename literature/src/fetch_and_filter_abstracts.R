@@ -372,6 +372,6 @@ full_gene_table = lymphoma_genes_comprehensive
 
 full_gene_table = left_join(full_gene_table,citation_counts_gene,by=c("Gene"="Hugo_Symbol"))
 
-genome_meta = get_gambl_metadata()
-
-gene_mutation_tally()
+genome_meta = get_gambl_metadata() %>% dplyr::filter(pathology=="DLBCL")
+genome_muts = get_coding_ssm(these_samples_metadata = genome_meta,seq_type="genome")
+genome_mut_counts = gene_mutation_tally()
