@@ -290,7 +290,7 @@ clean_gene_abstracts = function(infile="~/git/LLMPP/literature/lymphoma_genes_ab
 fetch_all_gene_abstracts = function(path="~/git/LLMPP/literature/by_gene/"){
   all_files = dir(path)
   for(f in all_files){
-    if(f == "MTOR.tsv"){
+    if(f == "MTOR.tsv" | f == "CDKN2A.tsv" || f == "HLA-A.tsv" || f=="TOX.tsv"){
       print(paste("SKIPPING:",f))
     }else{
       f = paste0(path,f)
@@ -300,6 +300,51 @@ fetch_all_gene_abstracts = function(path="~/git/LLMPP/literature/by_gene/"){
     }
   }
   
+}
+
+fetch_dlbcl_gene_abstracts = function(gene_list = "~/git/LLMPP/resources/curated/dlbcl_genes.tsv",outfile="~/git/LLMPP/literature/lymphoma_genes_abstracts.tsv"){
+  dlbcl_genes = read_tsv(gene_list,col_types="cccccccccc")
+  dlbcl_genes_all = dlbcl_genes
+  dlbcl_genes = dplyr::filter(dlbcl_genes,!is.na(earliest_support)) 
+  complete_details = outfile
+  pmids_done = c()
+  if(file.exists(complete_details)){
+    pmids_done = read_tsv(complete_details) %>% pull(pmid) %>% unique()
+    some_pmid = dplyr::filter(dlbcl_genes,!earliest_support %in% pmids_done) %>% pull(earliest_support) %>% unique()
+  }else{
+    some_pmid = pull(dlbcl_genes,earliest_support) %>% unique()
+  }
+
+  print(paste("will look for:"))
+  print(some_pmid)
+  
+  abstracts = list()
+  for(pmid in some_pmid){
+    if(pmid %in% names(abstracts)){
+      print("Skipping")
+      next
+    }
+    mq = paste0(pmid,"[PMID]")
+    print(mq)
+    my_entrez_id <- get_pubmed_ids(mq,api_key = "2e29854cd27de6b5e142369b5f0506b01308")
+    if(my_entrez_id$Count==0){
+      next #this shouldn't happen with existing PMID so I'm not sure why I need this
+    }
+    my_abstracts_xml <- fetch_pubmed_data(my_entrez_id)
+    my_PM_list <- articles_to_list(my_abstracts_xml)
+    abstract_df = article_to_df(my_PM_list,max_chars=-1,getKeywords = F) %>% slice_head() %>% select(-address,-email,-keywords,-journal)
+    abstracts[[as.character(pmid)]] = abstract_df
+  }
+  full_df = do.call("bind_rows",abstracts)
+  if(nrow(full_df)>0){
+    full_df_clean = mutate(full_df,abstract=str_remove_all(abstract,"\"+"))
+    write_tsv(full_df,file=complete_details,append=T)
+  }
+  print(head(dlbcl_genes_all))
+  gene_abstracts = read_tsv(complete_details,col_types="cccccccccc") %>% 
+    left_join(dlbcl_genes_all,.,by=c("earliest_support"="pmid")) %>%
+    dplyr::select(-abstract,-title)
+  return(gene_abstracts)
 }
 
 #don't call this directly with defaults. It takes forever. Use the above function to call per gene
@@ -368,10 +413,40 @@ gene_citations = load_papers_all_genes()
 citation_counts_gene = gene_citations %>% group_by(Hugo_Symbol) %>% tally()
 
 #add missing genes
-full_gene_table = lymphoma_genes_comprehensive
+#full_gene_table = lymphoma_genes_comprehensive
+annotated = fetch_dlbcl_gene_abstracts()
 
-full_gene_table = left_join(full_gene_table,citation_counts_gene,by=c("Gene"="Hugo_Symbol"))
+
+
+
+full_gene_table = left_join(annotated,citation_counts_gene,by=c("Gene"="Hugo_Symbol"))
 
 genome_meta = get_gambl_metadata() %>% dplyr::filter(pathology=="DLBCL")
-genome_muts = get_coding_ssm(these_samples_metadata = genome_meta,seq_type="genome")
-genome_mut_counts = gene_mutation_tally()
+cap_meta = get_gambl_metadata(seq_type_filter = "capture") %>% dplyr::filter(pathology=="DLBCL")
+
+cap_coding = get_coding_ssm(these_samples_metadata = cap_meta,seq_type = "capture")
+
+genome_coding = get_coding_ssm(these_samples_metadata = genome_meta)
+tallied_cap = gene_mutation_tally(maf_df = cap_coding,these_samples_metadata = cap_meta,grouping_variable = "cohort",these_genes = pull(full_gene_table,Gene)) %>% dplyr::filter(total>100)
+
+tallied_mut = gene_mutation_tally(maf_df = genome_coding,these_samples_metadata = genome_meta,grouping_variable = "seq_type",these_genes = pull(full_gene_table,Gene)) %>%
+  dplyr::filter(total>30) %>% 
+  dplyr::select(Hugo_Symbol,n,total,frequency) %>% 
+  mutate(cohort="GAMBL")
+  
+tallied_both = bind_rows(tallied_mut,tallied_cap)
+ordered = tallied_both %>% dplyr::filter(cohort=="GAMBL") %>% arrange(frequency) %>% pull(Hugo_Symbol)
+tallied_both$Hugo_Symbol = factor(tallied_both$Hugo_Symbol,levels=ordered)
+curated_genes = dplyr::filter(annotated,curated==TRUE,aSHM==FALSE) %>% pull(Gene)
+other_genes = dplyr::filter(annotated,curated==FALSE,aSHM==FALSE) %>% pull(Gene)
+dplyr::filter(tallied_both,Hugo_Symbol %in% curated_genes) %>% 
+  ggplot(aes(x=Hugo_Symbol,y=frequency,fill=cohort)) + 
+  geom_bar(stat="identity",position=position_dodge())  + theme_minimal()+ theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+dplyr::filter(tallied_both,Hugo_Symbol %in% other_genes) %>% 
+  ggplot(aes(x=Hugo_Symbol,y=frequency,fill=cohort)) + 
+  geom_bar(stat="identity",position=position_dodge()) + theme_minimal() + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+
+#genes by citations
+
