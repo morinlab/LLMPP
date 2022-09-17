@@ -412,21 +412,21 @@ gene_citations = load_papers_all_genes()
 
 citation_counts_gene = gene_citations %>% group_by(Hugo_Symbol) %>% tally()
 
-#add missing genes
-#full_gene_table = lymphoma_genes_comprehensive
+#sync up with DLBCL gene list
+# the function below loads this file by default
+full_gene_table = read_tsv("~/git/LLMPP/resources/curated/dlbcl_genes.tsv")
 annotated = fetch_dlbcl_gene_abstracts()
 
 
-
-
 full_gene_table = left_join(annotated,citation_counts_gene,by=c("Gene"="Hugo_Symbol"))
-
+require(GAMBLR)
 genome_meta = get_gambl_metadata() %>% dplyr::filter(pathology=="DLBCL")
 cap_meta = get_gambl_metadata(seq_type_filter = "capture") %>% dplyr::filter(pathology=="DLBCL")
 
 cap_coding = get_coding_ssm(these_samples_metadata = cap_meta,seq_type = "capture")
 
 genome_coding = get_coding_ssm(these_samples_metadata = genome_meta)
+
 tallied_cap = gene_mutation_tally(maf_df = cap_coding,these_samples_metadata = cap_meta,grouping_variable = "cohort",these_genes = pull(full_gene_table,Gene)) %>% dplyr::filter(total>100)
 
 tallied_mut = gene_mutation_tally(maf_df = genome_coding,these_samples_metadata = genome_meta,grouping_variable = "seq_type",these_genes = pull(full_gene_table,Gene)) %>%
@@ -436,6 +436,7 @@ tallied_mut = gene_mutation_tally(maf_df = genome_coding,these_samples_metadata 
   
 tallied_both = bind_rows(tallied_mut,tallied_cap)
 ordered = tallied_both %>% dplyr::filter(cohort=="GAMBL") %>% arrange(frequency) %>% pull(Hugo_Symbol)
+
 tallied_both$Hugo_Symbol = factor(tallied_both$Hugo_Symbol,levels=ordered)
 curated_genes = dplyr::filter(annotated,curated==TRUE,aSHM==FALSE) %>% pull(Gene)
 other_genes = dplyr::filter(annotated,curated==FALSE,aSHM==FALSE) %>% pull(Gene)
