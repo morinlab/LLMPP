@@ -4,6 +4,8 @@ require(maftools)
 
 maf_capture = read_tsv("~/git/LLMPP/literature/mutation_patterns/data/dlbcl_capture_gambl.maf.gz")
 out_base = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_study/gambl_reanalysis/"
+out_seq_type = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_seq_type/gambl_reanalysis/"
+
 cohorts = unique(maf_capture$cohort)
 print("will process these cohorts:")
 print(cohorts)
@@ -28,6 +30,16 @@ for (this_cohort in cohorts){
       lollipopPlot(this_maftools,gene=gene)
       dev.off()
   }
+}
+# generate lollipop plot for all samples that have this seq_type
+
+for(gene in these_genes){
+  outf = paste0(out_seq_type,"/",gene,".pdf")
+  print(outf)
+  pdf(outf)
+  
+  lollipopPlot(this_maftools,gene=gene)
+  dev.off()
 }
 
 # process data from study supplements to generate MAFs using their annotations
@@ -77,8 +89,19 @@ reddy_annotations = mutate(reddy_full,AAChange.refGene = str_remove(AAChange.ref
 #old way, just taking one arbitrary annotation
 #reddy_maf = bind_cols(dplyr::select(reddy_full,Variant.ID,ExonicFunc.refGene),reddy_annotations,reddy_variants)
 
+# try to fill in a position for those with NA in HGVSP_Short
+reanno = dplyr::filter(reddy_variants_all_selected,is.na(HGVSp_Short))
+reanno = reanno %>% mutate(cdna_pos = str_remove(cdna,"_\\d+\\w+")) %>% 
+  mutate(cdna_pos = str_remove(cdna_pos,"^c\\.")) %>% 
+  mutate(aa_num = round(as.numeric(cdna_pos)/3)) %>% 
+  mutate(HGVSp_Short=paste0("p.N",aa_num,"fs*1")) %>% dplyr::select(-cdna_pos,-aa_num)
+#this will erroneously annotate all unannotated variants as frameshift. Needs to be improved
+
+reddy_nona = dplyr::filter(reddy_variants_all_selected,!is.na(HGVSp_Short))
+reddy_together = bind_rows(reanno,reddy_nona)
+
 #new way
-reddy_maf = left_join(reddy_variants_all_selected,reddy_variants)
+reddy_maf = left_join(reddy_together,reddy_variants)
 
 #need to fix Variant_Classification to include the information from ExonicFunc.refGene
 reddy_maf = mutate(reddy_maf,Variant_Classification = case_when(
@@ -114,13 +137,13 @@ reddy_maftools=read.maf(reddy_maf_full)
 
 this_cohort = "dlbcl_reddy"
 this_maf = reddy_maf_full
-this_maftools = read.maf(this_maf)
+this_maftools = read.maf(this_maf,clinicalData = dplyr::filter(cap_meta,cohort=="dlbcl_reddy"))
 these_genes = unique(this_maf$Hugo_Symbol)
 ngenes = length(these_genes)
 print(paste("processing",ngenes,"genes"))
 for(this_gene in these_genes){
 
-  gene_transcript = dplyr::filter(this_maf,Hugo_Symbol==this_gene) %>% pull(Refseq) %>% head(1)
+  gene_transcript = dplyr::filter(this_maf,Hugo_Symbol==this_gene) %>% pull(RefSeq) %>% head(1)
   #problematic genes and missing Refseq IDs to clean up later
   if(this_gene %in% c("JAK3","FAM5C","MEF2BNB-MEF2B") | gene_transcript %in% c("NM_001128147","NM_175630","NM_058197","NM_001005526","NM_001271851","NM_001012505")){
     next
@@ -134,7 +157,7 @@ for(this_gene in these_genes){
 }
 
 gambl_maf = dplyr::filter(maf_capture,cohort == this_cohort)
-gambl_maftools = read.maf(gambl_maf)
+gambl_maftools = read.maf(gambl_maf,clinicalData = dplyr::filter(cap_meta,cohort=="dlbcl_reddy"))
 #plot reddy vs reddy 
 for(this_gene in these_genes){
   gene_transcript = dplyr::filter(this_maf,Hugo_Symbol==this_gene) %>% pull(RefSeq) %>% head(1)
@@ -145,6 +168,11 @@ for(this_gene in these_genes){
   print(gene_transcript)
   outf = paste0(out_base,"/compare/",this_cohort,"/",this_gene,".png")
   png(outf)
+  print(outf)
+  lollipopPlot2(this_maftools,gambl_maftools,gene=this_gene,refSeqID = gene_transcript,m1_name = "Reddy analysis",m2_name="Reanalysis")
+  dev.off()
+  outf = paste0(out_base,"/compare/",this_cohort,"/",this_gene,".pdf")
+  pdf(outf)
   print(outf)
   lollipopPlot2(this_maftools,gambl_maftools,gene=this_gene,refSeqID = gene_transcript,m1_name = "Reddy analysis",m2_name="Reanalysis")
   dev.off()
