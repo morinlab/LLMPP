@@ -1,0 +1,222 @@
+category	group	name	colour	is_alias
+subgroup	BL-genetic	Q53-BL	#A6CEE3FF	
+subgroup	BL-genetic	DLBCL-A	#721F0FFF	
+subgroup	BL-genetic	IC-BL	#45425AFF	
+subgroup	BL-genetic	DGG-BL	#E90C8BFF	
+subgroup	BL-genetic	DLBCL-B	#FB9A99FF	
+subgroup	BL-genetic	DLBCL-C	#C41230FF	
+publication	blood	Red	#C41230FF	
+publication	blood	Blue	#115284FF	
+publication	blood	Green	#39B54BFF	
+publication	blood	Purple	#5C266CFF	
+publication	blood	Orange	#FE9003FF	
+publication	blood	Green	#046852FF	
+publication	blood	Lavendar	#8781BDFF	
+publication	blood	Steel Blue	#455564FF	
+publication	blood	Light Blue	#2CACE3FF	
+publication	blood	Magenta	#E90C8BFF	
+publication	blood	Mustard	#B76D29FF	
+publication	blood	LimeGreen	#A4BB87FF	
+publication	blood	Brown	#5F3A17FF	
+publication	blood	Gray	#BDBDC1FF	
+publication	blood	Yellow	#F9BD1FFF	
+patient	clinical	M	#118AB2FF	
+patient	clinical	Male	#118AB2FF	yes
+patient	clinical	F	#EF476FFF	
+patient	clinical	Female	#EF476FFF	yes
+patient	clinical	EBV-positive	#7F055FFF	
+patient	clinical	EBV-negative	#E5A4CBFF	
+patient	clinical	POS	#C41230FF	
+patient	clinical	NEG	#E88873FF	
+patient	clinical	FAIL	#BDBDC1FF	
+patient	clinical	Alive	#046852FF	yes
+patient	clinical	alive	#046852FF	
+patient	clinical	dead	#A4BB87FF	
+patient	clinical	Dead	#A4BB87FF	yes
+patient	clinical	deceased	#A4BB87FF	yes
+patient	clinical	unknown	#C3C9E9FF	
+patient	clinical	IPI_0	#3B9AB2FF	
+patient	clinical	IPI_1	#78B7C5FF	
+patient	clinical	IPI_2	#EBCC2AFF	
+patient	clinical	IPI_3	#E1AF00FF	
+patient	clinical	IPI_4	#F21A00FF	
+patient	clinical	Adult	#DCE0E5FF	yes
+patient	clinical	adult	#DCE0E5FF	
+patient	clinical	Pediatric	#677A8EFF	yes
+patient	clinical	pediatric	#677A8EFF	
+patient	clinical	Diagnosis	#E57A44FF	
+patient	clinical	A	#E57A44FF	
+patient	clinical	B	#721817FF	
+patient	clinical	C	#721817FF	
+patient	clinical	D	#721817FF	
+patient	clinical	E	#721817FF	
+patient	clinical	Progression	#A44A3FFF	
+patient	clinical	Relapse	#721817FF	
+patient	clinical	I	#75F4F4FF	
+patient	clinical	FOLL1	#75F4F4FF	
+patient	clinical	II	#90E0F3FF	
+patient	clinical	FOLL2	#90E0F3FF	
+patient	clinical	IIIA	#B8B3E9FF	
+patient	clinical	FOLL3A	#B8B3E9FF	
+patient	clinical	IIIB	#D999B9FF	
+patient	clinical	FOLL3B	#D999B9FF	
+patient	clinical	matched	#F0B67FFF	
+patient	clinical	unmatched	#D6D1B1FF	
+patient	clinical	FF	#009FFDFF	yes
+patient	clinical	frozen	#009FFDFF	
+patient	clinical	FFPE	#95B2B8FF	
+patient	clinical	ctDNA	#7E6148FF	
+study	cohort	Chapuy	#8B0000FF	yes
+study	cohort	Chapuy, 2018	#8B0000FF	
+study	cohort	Arthur	#8845A8FF	yes
+study	cohort	Arthur, 2018	#8845A8FF	
+study	cohort	Schmitz	#2C72B2FF	yes
+study	cohort	Schmitz, 2018	#2C72B2FF	
+study	cohort	Reddy	#E561C3FF	yes
+study	cohort	Reddy, 2017	#E561C3FF	
+study	cohort	Morin	#8DB753FF	yes
+study	cohort	Morin, 2013	#8DB753FF	
+study	cohort	Kridel	#4686B7FF	yes
+study	cohort	Kridel, 2016	#4686B7FF	
+study	cohort	ICGC	#E09C3BFF	yes
+study	cohort	ICGC, 2018	#E09C3BFF	
+study	cohort	Grande	#E90C8BFF	yes
+study	cohort	Grande, 2019	#E90C8BFF	
+subgroup	coo	ABC	#05ACEFFF	
+subgroup	coo	UNCLASS	#05631EFF	yes
+subgroup	coo	Unclass	#05631EFF	yes
+subgroup	coo	U	#05631EFF	
+subgroup	coo	UNC	#05631EFF	yes
+subgroup	coo	GCB	#F58F20FF	
+subgroup	coo	DHITsig-	#F58F20FF	
+subgroup	coo	DHITsigNeg	#F58F20FF	yes
+subgroup	coo	DHITsig-IND	#003049FF	
+subgroup	coo	DHITsig+	#D62828FF	
+subgroup	coo	DHITsigPos	#D62828FF	yes
+genetic_alteration	copy_number	nLOH	#E026D7FF	
+genetic_alteration	copy_number	14	#380015FF	
+genetic_alteration	copy_number	15	#380015FF	
+genetic_alteration	copy_number	13	#380015FF	
+genetic_alteration	copy_number	12	#380015FF	
+genetic_alteration	copy_number	11	#380015FF	
+genetic_alteration	copy_number	10	#380015FF	
+genetic_alteration	copy_number	9	#380015FF	
+genetic_alteration	copy_number	8	#380015FF	
+genetic_alteration	copy_number	7	#380015FF	
+genetic_alteration	copy_number	6	#380015FF	
+genetic_alteration	copy_number	5	#67001FFF	
+genetic_alteration	copy_number	4	#B2182BFF	
+genetic_alteration	copy_number	3	#D6604DFF	
+genetic_alteration	copy_number	2	#EDE4C7FF	
+genetic_alteration	copy_number	1	#92C5DEFF	
+genetic_alteration	copy_number	0	#4393C3FF	
+subgroup	DLBCL-genetic	MP3	#5B8565FF	
+subgroup	DLBCL-genetic	EGB	#98622AFF	
+subgroup	DLBCL-genetic	ETB	#813F3DFF	
+subgroup	DLBCL-genetic	aSCI	#D66B1FFF	
+subgroup	DLBCL-genetic	aSEL	#C41230FF	
+subgroup	DLBCL-genetic	MCaP	#5F8CFFFF	
+subgroup	DLBCL-genetic	BNZ	#8870B6FF	
+pathogen	EBV	EBV-positive	#7F055FFF	
+pathogen	EBV	EBV-negative	#E5A4CBFF	
+pathogen	EBV	POS	#7F055FFF	yes
+pathogen	EBV	NEG	#E5A4CBFF	yes
+subgroup	FL-genetic	dFL	#99C1B9FF	
+subgroup	FL-genetic	cFL	#D16666FF	
+subgroup	FL-genetic	DLBCL	#479450FF	
+subgroup	hmrn	BCL2-MYC	#52000FFF	
+subgroup	hmrn	BCL2	#721F0FFF	
+subgroup	hmrn	SOCS1/SGK1	#D66B1FFF	
+subgroup	hmrn	TET2/SGK1	#C41230FF	
+subgroup	hmrn	MYD88	#3B5FACFF	
+subgroup	hmrn	NOTCH2	#7F3293FF	
+subgroup	hmrn	NOTCH1	#55B55EFF	
+subgroup	hmrn	Other	#ACADAFFF	
+genetic_alteration	indels	DEL	#53B1FCFF	
+genetic_alteration	indels	INS	#FC9C6DFF	
+subgroup	LymphGen	EZB-MYC	#52000FFF	
+subgroup	LymphGen	EZB	#721F0FFF	
+subgroup	LymphGen	EZB-COMP	#C7371AFF	
+subgroup	LymphGen	ST2	#C41230FF	
+subgroup	LymphGen	ST2-COMP	#EC3251FF	
+subgroup	LymphGen	MCD	#3B5FACFF	
+subgroup	LymphGen	MCD-COMP	#6787CBFF	
+subgroup	LymphGen	BN2	#7F3293FF	
+subgroup	LymphGen	BN2-COMP	#A949C1FF	
+subgroup	LymphGen	N1	#55B55EFF	
+subgroup	LymphGen	N1-COMP	#7FC787FF	
+subgroup	LymphGen	A53	#5B6D8AFF	
+subgroup	LymphGen	Other	#ACADAFFF	
+subgroup	LymphGen	COMPOSITE	#ACADAFFF	
+genetic_alteration	mutation	Nonsense_Mutation	#C41230FF	
+genetic_alteration	mutation	Missense_Mutation	#39B54BFF	
+genetic_alteration	mutation	Multi_Hit	#455564FF	
+genetic_alteration	mutation	Frame_Shift_Ins	#E90C8BFF	
+genetic_alteration	mutation	Frame_Shift_Del	#E90C8BFF	
+genetic_alteration	mutation	In_Frame_Ins	#5F3A17FF	
+genetic_alteration	mutation	In_Frame_Del	#5F3A17FF	
+genetic_alteration	mutation	Nonstop_Mutation	#2CACE3FF	
+genetic_alteration	mutation	Translation_Start_Site	#8781BDFF	
+genetic_alteration	mutation	Splice_Site	#FE9003FF	
+genetic_alteration	mutation	Splice_Region	#FE9003FF	
+genetic_alteration	mutation	3'UTR	#F9BD1FFF	
+diagnosis	pathology	B-ALL	#C1C64BFF	
+diagnosis	pathology	CLL	#889BE5FF	
+diagnosis	pathology	MCL	#F37A20FF	
+diagnosis	pathology	BL	#926CADFF	
+diagnosis	pathology	mBL	#34C7F4FF	
+diagnosis	pathology	tFL	#FF8595FF	
+diagnosis	pathology	DLBCL-BL-like	#34C7F4FF	yes
+diagnosis	pathology	pre-HT	#754F5BFF	
+diagnosis	pathology	PMBL	#227C9DFF	
+diagnosis	pathology	PMBCL	#227C9DFF	yes
+diagnosis	pathology	FL	#EA8368FF	
+diagnosis	pathology	no-HT	#EA8368FF	
+diagnosis	pathology	COMFL	#8BBC98FF	yes
+diagnosis	pathology	COM	#8BBC98FF	
+diagnosis	pathology	post-HT	#479450FF	
+diagnosis	pathology	DLBCL	#479450FF	
+diagnosis	pathology	denovo-DLBCL	#479450FF	yes
+diagnosis	pathology	HGBL-NOS	#294936FF	yes
+diagnosis	pathology	HGBL	#294936FF	
+diagnosis	pathology	HGBL-DH/TH	#7A1616FF	
+diagnosis	pathology	PBL	#E058C0FF	
+diagnosis	pathology	CNS	#E2EF60FF	
+diagnosis	pathology	THRLBCL	#A5F2B3FF	
+diagnosis	pathology	MM	#CC9A42FF	
+diagnosis	pathology	SCBC	#8C9C90FF	
+diagnosis	pathology	UNSPECIFIED	#CFBA7CFF	yes
+diagnosis	pathology	OTHER	#CFBA7CFF	
+diagnosis	pathology	MZL	#065A7FFF	
+diagnosis	pathology	SMZL	#065A7FFF	yes
+generic	pos_neg	POS	#C41230FF	
+generic	pos_neg	NEG	#E88873FF	
+generic	pos_neg	PARTIAL	#E88873FF	
+generic	pos_neg	yes	#C41230FF	
+generic	pos_neg	no	#E88873FF	
+generic	pos_neg	YES	#C41230FF	yes
+generic	pos_neg	NO	#E88873FF	yes
+generic	pos_neg	FAIL	#BDBDC1FF	yes
+generic	pos_neg	positive	#C41230FF	yes
+generic	pos_neg	negative	#E88873FF	yes
+generic	pos_neg	fail	#BDBDC1FF	
+genetic_alteration	rainfall	C>A	#2196F3FF	
+genetic_alteration	rainfall	C>G	#3F51B5FF	
+genetic_alteration	rainfall	C>T	#F44336FF	
+genetic_alteration	rainfall	InDel	#A020F0FF	
+genetic_alteration	rainfall	T>A	#4CAF50FF	
+genetic_alteration	rainfall	T>C	#FFC107FF	
+genetic_alteration	rainfall	T>G	#FF9800FF	
+assay	seq_type	mrna	#E41A1CFF	
+assay	seq_type	genome	#377EB8FF	
+assay	seq_type	capture	#4DAF4AFF	
+patient	sex	M	#118AB2FF	
+patient	sex	Male	#118AB2FF	yes
+patient	sex	male	#118AB2FF	yes
+patient	sex	F	#EF476FFF	
+patient	sex	Female	#EF476FFF	yes
+patient	sex	female	#EF476FFF	yes
+genetic_alteration	svs	DEL	#53B1FCFF	
+genetic_alteration	svs	DUP	#FC9C6DFF	
+genetic_alteration	type	gain	#0000FFFF	
+genetic_alteration	type	loss	#FF0000FF	

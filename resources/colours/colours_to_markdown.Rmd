@@ -1,0 +1,92 @@
+---
+title: "B-NHL colours"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE,echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(kableExtra)
+library(tidyverse)
+#devtools::install_github("morinlab/ggsci")
+library(ggsci)
+library(gridExtra)
+library(conflicted)
+conflict_prefer("filter", "dplyr")
+```
+
+```{r,echo=FALSE,message=F}
+full_codes = read_tsv("colour_codes.tsv") %>% dplyr::filter(is.na(is_alias)) %>% select(-is_alias)
+```
+
+
+```{r cars,echo=FALSE,message=FALSE}
+show_col = function(col_df){
+  
+
+  col_df = col_df %>% rename("Name"="name","Code"="colour") %>% 
+    dplyr::relocate(Name,Code)
+
+  col_df %>% 
+  kbl() %>%
+  kable_styling(full_width = T) %>%
+  
+  column_spec(1, color = "white",
+              background = col_df$Code) %>% 
+    column_spec(2, color = "white",
+              background = col_df$Code)
+}
+
+```
+
+## Hex codes for B-cell lymphomas
+
+```{r full_image1, echo=FALSE, message=FALSE}
+dplyr::filter(full_codes,group=="pathology") %>% show_col()
+
+```
+
+
+
+### Cell of Origin / Gene Expression Subgroups
+
+```{r coo, echo=FALSE}
+
+dplyr::filter(full_codes,group=="coo") %>% show_col()
+```
+
+### LymphGen classes with Composite classes
+
+
+```{r full_image2, echo=FALSE, message=FALSE}
+dplyr::filter(full_codes,group=="LymphGen") %>% show_col()
+
+```
+
+### HMRN classes
+```{r hmrn, echo=FALSE }
+dplyr::filter(full_codes,group=="hmrn") %>% show_col()
+```
+
+### Clinical variables
+```{r clinical, echo=FALSE }
+dplyr::filter(full_codes,group=="clinical") %>% show_col()
+```
+
+
+### BL and DLBCL Genetic subgroups from the Morin lab
+```{r bl,echo=FALSE}
+dplyr::filter(full_codes,group %in% c("BL-genetic","DLBCL-genetic")) %>% show_col()
+```
+### ASH family journals
+```{r blood, echo=FALSE }
+dplyr::filter(full_codes,group=="blood") %>% show_col()
+```
+
+### The entire palette
+
+```{r,echo=F}
+full_codes %>% show_col()
+
+```
