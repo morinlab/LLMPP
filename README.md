@@ -19,6 +19,11 @@ This file contains four additional columns, which respectively report the mutati
 
 This list is intended to include all genes nominated to be recurrently/significantly mutated in DLBCL. It contains columns indicating, where possible, which study nominated the gene. _Contributors willing to help fill in missing data (genes, citations, hot spots) are encouraged to submit a GitHub issue._ 
 
+We also have two (nearly identical) files that each represent the coordinates of genomic regions we have identified as being targets of aberrant somatic hypermutation (aSHM) from our analysis of DLBCL genomes. 
+
+`somatic_hypermutation_locations_GRCh37.txt`
+`somatic_hypermutation_locations_GRCh37.bed`
+
 ### Images
 
 There are several directories under `literature/mutation_patterns/lollipop/` that contain representations of the underlying data from the cohorts we have analyzed. In essence, we have generated sets of lollipop plots for each study a few ways.
