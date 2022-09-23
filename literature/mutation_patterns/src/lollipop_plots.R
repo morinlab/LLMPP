@@ -3,6 +3,8 @@ require(maftools)
 #this includes multiple cohorts. Separate it per cohort for generating plots
 
 maf_capture = read_tsv("~/git/LLMPP/literature/mutation_patterns/data/dlbcl_capture_gambl.maf.gz")
+# cap_coding_reddy_gambl # this is created in fetch_and_filter_abstracts.R but not currently saved to the repository
+
 out_base = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_study/gambl_reanalysis/"
 out_seq_type = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_seq_type/gambl_reanalysis/"
 
@@ -61,6 +63,7 @@ reddy_variants_all_best = dplyr::select(reddy_variants_all_long,Hugo_Symbol,RefS
 #manual selection of certain genes
 reddy_variants_all_best = reddy_variants_all_long %>% 
   dplyr::filter((Hugo_Symbol=="EZH2" & RefSeq=="NM_004456")|
+                  (RefSeq=="NM_006311")|
                   (RefSeq == "NM_001760")|
                   (RefSeq=="NM_001143676")|
                   (RefSeq=="NM_005238")|
@@ -73,7 +76,7 @@ reddy_variants_all_best = reddy_variants_all_long %>%
                   (RefSeq=="NM_080425")|
                   (RefSeq=="NM_033632")|
                   (Hugo_Symbol=="ARID5B" & RefSeq=="NM_032199")|
-                  (!Hugo_Symbol %in% c("SGK1","PIM1","MYD88","MCL1","IKZF3","EZH2","GNAS","ARID5B","CCND3","ETS1","FAS","FBXW7","GNAI2") )) %>%
+                  (!Hugo_Symbol %in% c("NCOR1","SGK1","PIM1","MYD88","MCL1","IKZF3","EZH2","GNAS","ARID5B","CCND3","ETS1","FAS","FBXW7","GNAI2") )) %>%
   group_by(Hugo_Symbol) %>% slice_head() %>% pull(RefSeq)
 
 reddy_variants_all_selected = dplyr::filter(reddy_variants_all_long,RefSeq %in% reddy_variants_all_best)
@@ -133,6 +136,9 @@ reddy_maf_full = left_join(reddy_pivot,reddy_maf)
 reddy_maf_full = mutate(reddy_maf_full,Hugo_Symbol=ifelse(Hugo_Symbol=="MLL2","KMT2D",Hugo_Symbol))
 reddy_maf_full = mutate(reddy_maf_full,Hugo_Symbol=ifelse(Hugo_Symbol=="MLL3","KMT2C",Hugo_Symbol))
 
+write_tsv(reddy_maf_full,file="~/git/LLMPP/literature/data/supplements/dlbcl_reddy/mutations_reddy_reformatted.maf.gz")
+
+
 reddy_maftools=read.maf(reddy_maf_full)
 
 this_cohort = "dlbcl_reddy"
@@ -159,7 +165,10 @@ for(this_gene in these_genes){
 gambl_maf = dplyr::filter(maf_capture,cohort == this_cohort)
 gambl_maftools = read.maf(gambl_maf,clinicalData = dplyr::filter(cap_meta,cohort=="dlbcl_reddy"))
 #plot reddy vs reddy 
-for(this_gene in these_genes){
+for(this_gene in c("NCOR1")){
+  
+#for(this_gene in these_genes){
+  
   gene_transcript = dplyr::filter(this_maf,Hugo_Symbol==this_gene) %>% pull(RefSeq) %>% head(1)
   #problematic genes and missing Refseq IDs to clean up later
   if(this_gene %in% c("JAK3","FAM5C","MEF2BNB-MEF2B") | gene_transcript %in% c("NM_001128147","NM_175630","NM_058197","NM_001005526","NM_001271851","NM_001012505")){
@@ -177,5 +186,34 @@ for(this_gene in these_genes){
   lollipopPlot2(this_maftools,gambl_maftools,gene=this_gene,refSeqID = gene_transcript,m1_name = "Reddy analysis",m2_name="Reanalysis")
   dev.off()
 }
+
+
+#annotate reddy variants and GAMBL variants for those that are shared and unique to either set
+
+#reddy_genes = dplyr::filter(reddy_gambl_intersect,SHARED_GAMBL==TRUE) %>% pull(Hugo_Symbol) %>% unique()
+# it's just FAM5C (BRINP3) and MEF2BNB-MEF2B (MEF2B)
+
+reddy_maf_full = mutate(reddy_maf_full,Hugo_Symbol=case_when(Hugo_Symbol == "FAM5C" ~ "BRINP3",
+                                                             Hugo_Symbol == "MEF2BNB-MEF2B" ~ "MEF2B",
+                                                             TRUE ~ Hugo_Symbol))
+
+reddy_maf_full$SHARED_REDDY= TRUE
+cap_coding_reddy_gambl$SHARED_GAMBL = TRUE
+
+reddy_maf_full$Start_Position = as.numeric(reddy_maf_full$Start_Position)
+reddy_gambl_intersect = left_join(reddy_maf_full,dplyr::select(cap_coding_reddy_gambl,Tumor_Sample_Barcode,Chromosome,Start_Position,SHARED_GAMBL),
+                                  by=c("Tumor_Sample_Barcode","Chromosome","Start_Position")) %>%
+  dplyr::select(-SHARED_REDDY)
+gambl_reddy_intersect = left_join(cap_coding_reddy_gambl,dplyr::select(reddy_maf_full,Tumor_Sample_Barcode,Chromosome,Start_Position,SHARED_REDDY),
+                                  by=c("Tumor_Sample_Barcode","Chromosome","Start_Position")) %>%
+  dplyr::select(-SHARED_GAMBL) %>% 
+  mutate(SHARED_REDDY=ifelse(is.na(SHARED_REDDY),FALSE,TRUE))
+
+reddy_genes = dplyr::filter(reddy_gambl_intersect,SHARED_GAMBL==TRUE) %>% pull(Hugo_Symbol) %>% unique()
+#filter both to curated gene list (careful not to drop genes with different names used)
+gambl_reddy_intersect_rgenes = dplyr::filter(gambl_reddy_intersect,Hugo_Symbol %in% reddy_genes)
+
+
+
 
 

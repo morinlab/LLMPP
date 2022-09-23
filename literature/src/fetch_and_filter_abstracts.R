@@ -420,10 +420,38 @@ annotated = fetch_dlbcl_gene_abstracts()
 
 full_gene_table = left_join(annotated,citation_counts_gene,by=c("Gene"="Hugo_Symbol"))
 require(GAMBLR)
+Sys.setenv(R_CONFIG_ACTIVE= "remote")
 genome_meta = get_gambl_metadata() %>% dplyr::filter(pathology=="DLBCL")
+
 cap_meta = get_gambl_metadata(seq_type_filter = "capture") %>% dplyr::filter(pathology=="DLBCL")
 
+#redact patient_id with a random number but keep cohort
+cap_meta$randomized_id = stri_rand_strings(nrow(cap_meta), 16, pattern = "[A-Za-z0-9]")
+
 cap_coding = get_coding_ssm(these_samples_metadata = cap_meta,seq_type = "capture")
+
+
+
+#create a patient-redacted MAF file for just the mutations in the full gene list
+cap_coding_annotated = left_join(cap_coding,dplyr::select(cap_meta,cohort,Tumor_Sample_Barcode,randomized_id)) %>% 
+  dplyr::filter(cohort %in% c("dlbcl_reddy","dlbcl_schmitz","dlbcl_chapuy"))
+
+#repair IDs to match Reddy
+cap_coding_reddy_gambl = dplyr::filter(cap_coding_annotated,cohort == "dlbcl_reddy") %>%
+  mutate(Tumor_Sample_Barcode = str_replace(Tumor_Sample_Barcode,"Reddy_","")) %>%
+  mutate(Tumor_Sample_Barcode = str_replace(Tumor_Sample_Barcode,"T","")) %>% 
+  mutate(Chromosome = paste0("chr",Chromosome))
+
+cap_coding_annotated = cap_coding_annotated %>% 
+  mutate(Tumor_Sample_Barcode = randomized_id) %>%
+  dplyr::filter(Hugo_Symbol %in% full_gene_table$Gene) %>%
+  dplyr::select(-Matched_Norm_Sample_Barcode) %>%
+  dplyr::select(1:45)
+  
+
+write_tsv(cap_coding_annotated,file="~/git/LLMPP/literature/mutation_patterns/data/dlbcl_capture_gambl.maf.gz")
+
+
 
 genome_coding = get_coding_ssm(these_samples_metadata = genome_meta)
 
