@@ -23,5 +23,6 @@ This list is intended to include all genes nominated to be recurrently/significa
 
 There are several directories under `literature/mutation_patterns/lollipop/` that contain representations of the underlying data from the cohorts we have analyzed. In essence, we have generated sets of lollipop plots for each study a few ways.
 
-For plots from individual studies, look under one of the directories with this naming pattern: 
-`literature/mutation_patterns/lollipop/by_study/STUDY`
+For plots from individual studies, look under one of the directories with this naming pattern:
+`literature/mutation_patterns/lollipop/by_study/TYPE/STUDY`
+Here, the three types of plots that might be available are *compare*, *as_reported*, and *gambl_reanalysis*. The *compare* directory contains sets of images for any cohort that has lollipop plots that directly contrast the mutation pattern between the variants reported in the study and our analysis. The *as_reported* and *gambl_reanalysis* directories are probably self-explanatory. Essentially, these are individual lollipop plots from the study using either the mutations reported in that study or those identified in our re-analysis of the data from that study.   
