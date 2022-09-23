@@ -19,7 +19,7 @@ This file contains four additional columns, which respectively report the mutati
 
 This list is intended to include all genes nominated to be recurrently/significantly mutated in DLBCL. It contains columns indicating, where possible, which study nominated the gene. _Contributors willing to help fill in missing data (genes, citations, hot spots) are encouraged to submit a GitHub issue._ 
 
-We also have two (nearly identical) files that each represent the coordinates of genomic regions we have identified as being targets of aberrant somatic hypermutation (aSHM) from our analysis of DLBCL genomes. 
+We also have two (somewhat redundant) files that each represent the coordinates of genomic regions we have identified as being targets of aberrant somatic hypermutation (aSHM) from our analysis of DLBCL genomes. Use the bed file if you need that format, otherwise refer to the txt file for more complete details about the regions. _Contributors willing to help fill in regions you think need to be added to this list are encouraged to submit a GitHub issue and we'll review the data we have to determine if this is warranted._ 
 
 `somatic_hypermutation_locations_GRCh37.txt`
 
