@@ -1,8 +1,8 @@
-# LLMPP
+# Lymphoma/Leukemia Molecular Profiling Project (LLMPP)
 
-## Curated and consolodated resources for lymphoma genomics
+This is the landing page for the growing set of resources for lymphoma genomics that is being produced within the LLMPP. 
 
-## Getting started
+## Where to start
 
 If you want, you can simply peruse the GitHub repository using the web interface. If you want all the files in the repository, you can download the repository using the button above (select "Download Zip" or clone the repository, if you are a git user). 
 
