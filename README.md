@@ -36,3 +36,9 @@ There are several directories under `literature/mutation_patterns/lollipop/` tha
 For plots from individual studies, look under one of the directories with this naming pattern:
 `literature/mutation_patterns/lollipop/by_study/TYPE/STUDY`
 Here, the three types of plots that might be available are *compare*, *as_reported*, and *gambl_reanalysis*. The *compare* directory contains sets of images for any cohort that has lollipop plots that directly contrast the mutation pattern between the variants reported in the study and our analysis. The *as_reported* and *gambl_reanalysis* directories are probably self-explanatory. Essentially, these are individual lollipop plots from the study using either the mutations reported in that study or those identified in our re-analysis of the data from that study.   
+
+Finally, for one of the studies (so far), there are lollipop plots that compare the mutations as they were reported by the authors to the mutations detected through re-analysis of the raw data. These can be found under:
+
+`literature/mutation_patterns/lollipop/by_study/gambl_reanalysis/`
+
+![](literature/mutation_patterns/lollipop/by_study/compare/dlbcl_reddy/GNAI2.png)
