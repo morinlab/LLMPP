@@ -6,7 +6,7 @@ Forthcoming
 
 ## How to contribute
 
-These lists may be incomplete and may contain errors. If you believe a gene is missing, is mis-attributed, etc please let us know. 
+These lists may be incomplete and may contain errors. If you believe a gene is missing, is mis-attributed, etc please let us know. Feedback can be provided by submitting a GitHub issue. 
 
 ## How to cite
 
