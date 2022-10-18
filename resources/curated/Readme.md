@@ -1,6 +1,6 @@
 # Curated lymphoma gene lists
 
-# What these files are and are not
+# What these files are and what they are not
 
 These lists are meant to be comprehensive lists of genes that are (reportedly) enriched for non-silent or other driver mutations in one or more B-cell lymphomas. As a result, contain many genes that are likely not relevant to these malignancies and some genes may be missing if they are only affected by aberrant somatic hypermutation (aSHM) but not demonstrated to be _bona fide_ drivers. Comprehensive lists of regions affected by aSHM are provided separately but are not considered gene lists per-se because they are not all within genes. The completeness of these lists is a blessing and a curse. Be sure to filter the lists based on how stringent you would like to be. Most people will be interested in just the core lists.
 
