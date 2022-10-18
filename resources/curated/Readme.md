@@ -2,7 +2,9 @@
 
 ## Details
 
-Forthcoming
+The master curated gene list for DLBCL including all genes nominated by any exome/genome-wide study can be found in `dlbcl_genes.tsv`. 
+
+bl_genes.tsv
 
 ## How to contribute
 
