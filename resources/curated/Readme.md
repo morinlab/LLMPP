@@ -176,7 +176,7 @@ Similar to dlbcl_genes.tsv, this file contains a Curated_BL_driver column, which
 
 | Gene    | Curated_BL_driver | frequency_BL_Thomas | frequency_BL_Panea |
 |---------|-------------------|---------------------|--------------------|
-| MYC     | TRUE              | 60.2                | [49.5](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_panea/MYC.png)               |
+| MYC     | TRUE              | [60.2](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_panea/MYC.png)                 | [49.5](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_thomas/MYC.png)               |
 | DDX3X   | TRUE              | 48.7                | 39.6               |
 | ID3     | TRUE              | 47                  | 31.7               |
 | TP53    | TRUE              | 41.9                | 43.6               |
