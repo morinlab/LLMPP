@@ -2,9 +2,11 @@
 
 ## Details
 
+These lists are meant to be comprehensive and, as a result, contain many genes that are likely not relevant to these malignancies. Be sure to filter the lists based on how stringent you would like to be. Most people will be interested in the core lists. 
+
 The master curated gene list for DLBCL including all genes nominated by any exome/genome-wide study can be found in this directory in `dlbcl_genes.tsv` or [here](dlbcl_genes.tsv). Most of the columns in this file are self-explanatory. The earliest_support column is meant to refer to the PubMed ID of the first study that nominated that gene as a significantly mutated gene in DLBCL. The columns Chapuy,	Reddy and	LymphGen indicate TRUE/FALSE for whether each gene was nominated/reported by that study. The next column (curated) is TRUE only for genes that have made it to the curated core list of DLBCL genes. The Lacy column indicates whether the gene was sequenced by Lacy et al. 
 
-The master curated list for BL including DLBCL genes that have been scrutinized within BL is can be found in `bl_genes.tsv` (or [here](bl_genes.tsv)). The earliest_support_BL column indicates the PubMed ID of the first study to nominate this gene as mutated in BL (or NA when not applicable).
+The master curated list for BL including DLBCL genes that have been scrutinized within BL is can be found in `bl_genes.tsv` (or [here](bl_genes.tsv)). The earliest_support_BL column indicates the PubMed ID of the first study to nominate this gene as mutated in BL (or NA when not applicable). Similar to dlbcl_genes.tsv, this file contains a Curated_BL_driver column, which will be TRUE for the subset of genes that have made it to our core list. 
 
 ## How to contribute
 
