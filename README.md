@@ -10,18 +10,7 @@ If you want, you can simply peruse the GitHub repository using the web interface
 
 ### Resource files
 
-This repository contains a curated DLBCL gene list, which is maintained by the Morin lab. A few variants of this list can be found under `resources/curated`. 
-
-This file is the basic list with the core columns:
-`dlbcl_genes.tsv`
-
-This file contains four additional columns, which respectively report the mutation frequency in the cohorts from Chapuy et al, Schmitz et al, Reddy et al and our compendium of genomes in the GAMBL project. 
-
-We also have two (somewhat redundant) files that each represent the coordinates of genomic regions we have identified as being targets of aberrant somatic hypermutation (aSHM) from our analysis of DLBCL genomes. Use the bed file if you need that format, otherwise refer to the txt file for more complete details about the regions. _Contributors willing to help fill in regions you think need to be added to this list are encouraged to submit a GitHub issue and we'll review the data we have to determine if this is warranted._ 
-
-`somatic_hypermutation_locations_GRCh37.txt`
-
-`somatic_hypermutation_locations_GRCh37.bed`
+This repository contains a curated DLBCL gene list, which is maintained by the Morin lab. A few variants of this list can be found under `resources/curated` [here](resources/curated/Readme.md).
 
 ### Images
 
