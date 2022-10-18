@@ -23,7 +23,7 @@ CD70	NA	FALSE		DLBCL gene with extremely low mutation rate in BL	DLBCL	0.4	3	5	5
 CD79B	NA	FALSE		DLBCL gene with extremely low mutation rate in BL	DLBCL	0	4	6	5.9
 CD83	31558468	FALSE		Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.7	NA	NA	NA
 CDKN2A	NA	FALSE		DLBCL gene with extremely low mutation rate in BL	DLBCL	3	3	NA	NA
-CDKN2C	36201743	TRUE			BL	3.4	3	NA	NA
+CDKN2C	36201743	FALSE		Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	3.4	3	NA	NA
 CHD8	36201743	TRUE			BL	8.5	16.8	10	9.9
 CREBBP	23143597	FALSE		DLBCL gene with extremely low mutation rate in BL in most studies. Nominating study is an outlier.	DLBCL	3	12.9	11	10.9
 CTCF	31558468	FALSE		Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.7	6.9	7	6.9
