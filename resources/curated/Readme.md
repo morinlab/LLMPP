@@ -4,6 +4,10 @@
 
 Forthcoming
 
+## How to contribute
+
+These lists may be incomplete and may contain errors. If you believe a gene is missing, is mis-attributed, etc please let us know. 
+
 ## How to cite
 
 If you use the information in these lists please cite the following papers:
