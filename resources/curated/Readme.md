@@ -51,7 +51,6 @@ The master curated gene list for DLBCL including all genes nominated by any exom
 | FBXW7     | TRUE    | FALSE |                  |
 | FOXC1     | TRUE    | FALSE |                  |
 | FOXO1     | TRUE    | FALSE | 21796119         |
-| FOXP1     | FALSE   | TRUE  | 28985567         |
 | GNA13     | TRUE    | FALSE | 21796119         |
 | GNAI2     | TRUE    | FALSE |                  |
 | GRHPR     | TRUE    | TRUE  |                  |
@@ -75,7 +74,6 @@ The master curated gene list for DLBCL including all genes nominated by any exom
 | HNRNPU    | TRUE    | FALSE |                  |
 | HVCN1     | TRUE    | FALSE |                  |
 | ID3       | TRUE    | FALSE | 22885699         |
-| IGLL5     | FALSE   | TRUE  |                  |
 | IL16      | TRUE    | FALSE |                  |
 | IL4R      | TRUE    | TRUE  | 33684939         |
 | IRF4      | TRUE    | TRUE  | 21796119         |
@@ -111,7 +109,6 @@ The master curated gene list for DLBCL including all genes nominated by any exom
 | NOTCH2    | TRUE    | FALSE |                  |
 | OSBPL10   | TRUE    | TRUE  |                  |
 | P2RY8     | TRUE    | FALSE | 22343534         |
-| PAX5      | FALSE   | TRUE  | 11460166         |
 | PCBP1     | TRUE    | FALSE |                  |
 | PIM1      | TRUE    | TRUE  | 11460166         |
 | PIM2      | TRUE    | TRUE  |                  |
