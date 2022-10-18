@@ -2,7 +2,7 @@
 
 ## Details
 
-These lists are meant to be comprehensive and, as a result, contain many genes that are likely not relevant to these malignancies. Be sure to filter the lists based on how stringent you would like to be. Most people will be interested in the core lists. 
+These lists are meant to be comprehensive lists of genes that are (reportedly) enriched for non-silent or other driver mutations in one or more B-cell lymphomas. As a result, contain many genes that are likely not relevant to these malignancies and some genes may be missing if they are only affected by aberrant somatic hypermutation (aSHM) but not demonstrated to be _bona fide_ drivers. Be sure to filter the lists based on how stringent you would like to be. Most people will be interested in the core lists. 
 
 The master curated gene list for DLBCL including all genes nominated by any exome/genome-wide study can be found in this directory in `dlbcl_genes.tsv` or [here](dlbcl_genes.tsv). Most of the columns in this file are self-explanatory. The earliest_support column is meant to refer to the PubMed ID of the first study that nominated that gene as a significantly mutated gene in DLBCL. The columns Chapuy,	Reddy and	LymphGen indicate TRUE/FALSE for whether each gene was nominated/reported by that study. The next column (curated) is TRUE only for genes that have made it to the curated core list of DLBCL genes. The Lacy column indicates whether the gene was sequenced by Lacy et al. The core list at the time this document was prepared is shown below along with a few key columns from the file. _This may not match the actual file, depending on whether this document is kept up to date. Please refer to the the file rather than this list._
 
