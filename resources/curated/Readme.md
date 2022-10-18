@@ -229,3 +229,7 @@ Blood. 2022 Oct 11:blood.2022016095. doi: 10.1182/blood.2022016095. PMID: 362198
 ### BL gene list
 
 GENETIC SUBGROUPS INFORM ON PATHOBIOLOGY IN ADULT AND PEDIATRIC BURKITT LYMPHOMA. Thomas N, Dreval K et al. Blood. 2022 Oct 6:blood.2022016534. doi: 10.1182/blood.2022016534. PMID: 36201743
+
+### SHM regions
+
+Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma. Arthur et al. Nat Commun. 2018 Oct 1;9(1):4001. doi: 10.1038/s41467-018-06354-3.
