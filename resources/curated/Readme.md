@@ -4,7 +4,7 @@
 
 The master curated gene list for DLBCL including all genes nominated by any exome/genome-wide study can be found in `dlbcl_genes.tsv`. Most of the columns in this file are self-explanatory. The earliest_support column is meant to refer to the PubMed ID of the first study that nominated that gene as a significantly mutated gene in DLBCL. 
 
-bl_genes.tsv
+The master curated list for BL including DLBCL genes that have been scrutinized within BL is can be found in `bl_genes.tsv`. The earliest_support_BL column indicates the PubMed ID of the first study to nominate this gene as mutated in BL (or NA when not applicable).
 
 ## How to contribute
 
