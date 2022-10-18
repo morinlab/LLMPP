@@ -10,37 +10,36 @@ The master curated list for BL including DLBCL genes that have been scrutinized 
 
 Similar to dlbcl_genes.tsv, this file contains a Curated_BL_driver column, which will be TRUE for the subset of genes that have made it to our core list. The current core list at the time this document was created is below. This may not match the actual file, depending on whether this document is kept up to date. Please refer to the the file rather than this list. 
 
-```
-Gene	Curated_BL_driver	frequency_BL_Thomas
-MYC	TRUE	60.2
-DDX3X	TRUE	48.7
-ID3	TRUE	47
-TP53	TRUE	41.9
-ARID1A	TRUE	36
-CCND3	TRUE	28
-FOXO1	TRUE	28
-FBXO11	TRUE	21.6
-GNA13	TRUE	21.6
-SMARCA4	TRUE	17.8
-KMT2D	TRUE	14
-PCBP1	TRUE	12.3
-P2RY8	TRUE	11
-TCF3	TRUE	11
-SIN3A	TRUE	10.6
-TFAP4	TRUE	10.6
-GNAI2	TRUE	9.7
-RFX7	TRUE	9.3
-BMP7	TRUE	8.9
-CHD8	TRUE	8.5
-RHOA	TRUE	8.1
-EPPK1	TRUE	7.6
-USP7	TRUE	6.8
-WNK1	TRUE	6.8
-HNRNPU	TRUE	6.4
-PHF6	TRUE	5.5
-EIF4A1	TRUE	5.1
-PTEN	TRUE	4.7
-```
+| Gene    | Curated_BL_driver | frequency_BL_Thomas | frequency_BL_Panea |
+|---------|-------------------|---------------------|--------------------|
+| MYC     | TRUE              | 60.2                | 49.5               |
+| DDX3X   | TRUE              | 48.7                | 39.6               |
+| ID3     | TRUE              | 47                  | 31.7               |
+| TP53    | TRUE              | 41.9                | 43.6               |
+| ARID1A  | TRUE              | 36                  | 19.8               |
+| CCND3   | TRUE              | 28                  | 17.8               |
+| FOXO1   | TRUE              | 28                  | 21.8               |
+| FBXO11  | TRUE              | 21.6                | 15.8               |
+| GNA13   | TRUE              | 21.6                | 20.8               |
+| SMARCA4 | TRUE              | 17.8                | 18.8               |
+| KMT2D   | TRUE              | 14                  | 15.8               |
+| PCBP1   | TRUE              | 12.3                | 11.9               |
+| P2RY8   | TRUE              | 11                  | NA                 |
+| TCF3    | TRUE              | 11                  | 9.9                |
+| SIN3A   | TRUE              | 10.6                | 14.9               |
+| TFAP4   | TRUE              | 10.6                | 9.9                |
+| GNAI2   | TRUE              | 9.7                 | 8.9                |
+| RFX7    | TRUE              | 9.3                 | 4                  |
+| BMP7    | TRUE              | 8.9                 | 5                  |
+| CHD8    | TRUE              | 8.5                 | 16.8               |
+| RHOA    | TRUE              | 8.1                 | 12.9               |
+| EPPK1   | TRUE              | 7.6                 | 15.8               |
+| USP7    | TRUE              | 6.8                 | 5.9                |
+| WNK1    | TRUE              | 6.8                 | 11.9               |
+| HNRNPU  | TRUE              | 6.4                 | 8.9                |
+| PHF6    | TRUE              | 5.5                 | 5.9                |
+| EIF4A1  | TRUE              | 5.1                 | 6.9                |
+| PTEN    | TRUE              | 4.7                 | 4                  |
 
 ## How to contribute
 
