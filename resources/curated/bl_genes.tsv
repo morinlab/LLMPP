@@ -1,128 +1,128 @@
 Gene	Initial_BL_citation	Curated_BL_driver	aSHM_target_DLBCL	Curator_comments	Enrichment_DLBCL_BL	frequency_BL_Thomas	frequency_BL_Panea	n_BL_Panea_original	frequency_BL_Panea_original
-CCND3	22885699	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	28	17.8	19	18.8
-DDX3X	22885699	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	48.7	39.6	48	47.5
-FOXO1	22885699	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	DLBCL	28	21.8	22	21.8
-TCF3	22885699	TRUE	FALSE	Confirmed by multiple studies	BL	11	9.9	5	5
-ID3	23143595	TRUE	FALSE	Confirmed by multiple studies	BL	47	31.7	33	32.7
-ARID1A	23143597	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	36	19.8	24	23.8
-GNA13	23143597	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	21.6	20.8	27	26.7
-CREBBP	23143597	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL in most studies. Nominating study is an outlier.	DLBCL	3	12.9	11	10.9
-EZH2	23143597	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL in most studies. Nominating study is an outlier.	DLBCL	1.3	10.9	NA	NA
-SMARCA4	23143597	TRUE	FALSE	Confirmed by multiple studies	BL	17.8	18.8	20	19.8
-P2RY8	25274307	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	11	NA	NA	NA
-S1PR2	25274307	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	4	1	1
-PCBP1	26173642	TRUE	FALSE	Confirmed by multiple studies	BL	12.3	11.9	5	5
-CCNF	26468873	FALSE	FALSE	Hot spot reported in this study is a rare germline variant in African populations					
-GNAI2	30617194	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	9.7	8.9	20	19.8
-SIN3A	30617194	TRUE	FALSE	Confirmed by multiple studies	BL	10.6	14.9	12	11.9
-TFAP4	30617194	TRUE	FALSE	Confirmed by multiple studies	BL	10.6	9.9	12	11.9
-EPPK1	31558468	TRUE	FALSE	Mutation pattern and MutSig results etc require further scrutiny.	NA	7.6	15.8	5	5
-CXCR4	31558468	FALSE	TRUE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	2.1	2	9	8.9
-FZD3	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	0	1	NA	NA
-IKZF3	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	0.8	3	5	5
-MTOR	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	3.4	10.9	5	5
-PDZRN3	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	2.1	9.9	4	4
-PLCG2	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	0.8	10.9	3	3
-HIST1H3D	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.7	3	2	2
 ALPK2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	5.1	9.9	5	5
+ARID1A	23143597	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	36	19.8	24	23.8
+B2M	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	2.5	3	NA	NA
+BACH2	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	BL	0.4	5	3	3
+BCL10	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.4	NA	NA	NA
+BCL11A	NA	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	1.7	5.9	NA	NA
+BCL2	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	1	NA	NA
+BCL2L11	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	2.1	1	NA	NA
+BCL6	30617194	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	3.4	7.9	18	17.8
+BCL7A	30617194	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	5.5	5	6	5.9
+BCR	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	NA	6.4	10.9	7	6.9
+BIRC6	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	3.8	14.9	NA	NA
+BMP7	31558468	TRUE	FALSE	Confirmed by multiple studies	NA	8.9	5	9	8.9
+BTG2	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	NA	4.2	9.9	16	15.8
+C10orf12	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	NA	NA	NA
+CARD11	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.7	10.9	NA	NA
+CCND3	22885699	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	28	17.8	19	18.8
+CCNF	26468873	FALSE	FALSE	Hot spot reported in this study is a rare germline variant in African populations	NA	NA	NA	NA	NA
+CD58	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.8	2	NA	NA
+CD70	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.4	3	5	5
+CD79B	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	4	6	5.9
 CD83	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.7	NA	NA	NA
+CDKN2A	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	3	3	NA	NA
+CDKN2C	36201743	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	3.4	3	NA	NA
+CHD8	36201743	TRUE	FALSE	Confirmed by multiple studies	BL	8.5	16.8	10	9.9
+CREBBP	23143597	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL in most studies. Nominating study is an outlier.	DLBCL	3	12.9	11	10.9
 CTCF	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.7	6.9	7	6.9
+CXCR4	31558468	FALSE	TRUE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	2.1	2	9	8.9
+DDX3X	22885699	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	48.7	39.6	48	47.5
 DNMT1	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.7	5	15	14.9
+DTX1	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	NA	5.9	8.9	16	15.8
+EBF1	NA	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	1.3	5.9	NA	NA
+EHD1	NA	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	DLBCL	0	5.9	NA	NA
+EIF4A1	31558468	TRUE	FALSE	Confirmed by multiple studies	NA	5.1	6.9	12	11.9
+EP300	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	4.2	7.9	NA	NA
+EPPK1	31558468	TRUE	FALSE	Mutation pattern and MutSig results etc require further scrutiny.	NA	7.6	15.8	5	5
+ETS1	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	NA	7.6	11.9	2	2
+EZH2	23143597	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL in most studies. Nominating study is an outlier.	DLBCL	1.3	10.9	NA	NA
+FAS	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.7	4	NA	NA
+FBXO11	36201743	TRUE	FALSE	Confirmed by multiple studies	BL	21.6	15.8	12	11.9
+FIP1L1	NA	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	2.5	2	NA	NA
+FOXO1	22885699	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	DLBCL	28	21.8	22	21.8
+FZD3	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	0	1	NA	NA
+GNA13	23143597	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	21.6	20.8	27	26.7
+GNAI2	30617194	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	9.7	8.9	20	19.8
+GRB2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study	DLBCL	0.4	1	NA	NA
+HIST1H1B	NA	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	DLBCL	5.5	4	NA	NA
 HIST1H1C	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	3.8	9.9	19	18.8
+HIST1H1D	NA	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	DLBCL	4.7	4	NA	NA
 HIST1H1E	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	7.6	19.8	42	41.6
 HIST1H2AG	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	2.5	1	3	3
 HIST1H2AM	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.7	3	NA	NA
 HIST1H2BK	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	4.7	7.9	38	37.6
+HIST1H3D	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.7	3	2	2
 HIST1H3H	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.3	5.9	26	25.7
 HIST1H3I	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0	2	NA	NA
 HIST1H3J	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.7	5	13	12.9
 HIST1H4J	31558468	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.4	NA	NA	NA
-KCNK10	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.8	1	NA	NA
-MCL1	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	2.1	2	4	4
-MME	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.8	5.9	2	2
-PABPC4L	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.3	3	1	1
-PCDHA11	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.3	3	4	4
-PIK3R1	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	2.5	4	1	1
-PXDNL	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	3	9.9	2	2
-RNF144B	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.4	NA	NA	NA
-SNTB2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0	2	NA	NA
-WDR7	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.4	6.9	2	2
-WNK2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.8	10.9	4	4
-GRB2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study	DLBCL	0.4	1	NA	NA
-SYNCRIP	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study	BL	2.5	5	NA	NA
-BCR	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	NA	6.4	10.9	7	6.9
-BTG2	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	NA	4.2	9.9	16	15.8
-DTX1	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	NA	5.9	8.9	16	15.8
-ETS1	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	NA	7.6	11.9	2	2
-BMP7	31558468	TRUE	FALSE	Confirmed by multiple studies	NA	8.9	5	9	8.9
-EIF4A1	31558468	TRUE	FALSE	Confirmed by multiple studies	NA	5.1	6.9	12	11.9
-HNRNPU	31558468	TRUE	FALSE	Confirmed by multiple studies	BL	6.4	8.9	18	17.8
-RAC2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	DLBCL	0.4	NA	NA	NA
-CDKN2C	36201743	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	3.4	3	NA	NA
-CHD8	36201743	TRUE	FALSE	Confirmed by multiple studies	BL	8.5	16.8	10	9.9
-FBXO11	36201743	TRUE	FALSE	Confirmed by multiple studies	BL	21.6	15.8	12	11.9
-PHF6	36201743	TRUE	FALSE	Recently identified. Ideally this should be confirmed in more cohorts.	BL	5.5	5.9	NA	NA
-WNK1	36201743	TRUE	FALSE	Confirmed by multiple studies	BL	6.8	11.9	NA	NA
-HIST1H1B	NA	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	DLBCL	5.5	4	NA	NA
-HIST1H1D	NA	FALSE	TRUE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	DLBCL	4.7	4	NA	NA
-EHD1	NA	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	DLBCL	0	5.9	NA	NA
-FIP1L1	NA	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	2.5	2	NA	NA
-PMAIP1	NA	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	3	5	NA	NA
-RPL22	NA	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	3	2	NA	NA
-SEPT10	NA	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	2.1	2	NA	NA
-BCL2	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	1	NA	NA
-TMSB4X	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	2	1	1
-B2M	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	2.5	3	NA	NA
-BCL10	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.4	NA	NA	NA
-BCL2L11	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	2.1	1	NA	NA
-BIRC6	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	3.8	14.9	NA	NA
-C10orf12	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	NA	NA	NA
-CARD11	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.7	10.9	NA	NA
-CD58	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.8	2	NA	NA
-CD70	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.4	3	5	5
-CD79B	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	4	6	5.9
-CDKN2A	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	3	3	NA	NA
-EP300	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	4.2	7.9	NA	NA
-FAS	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.7	4	NA	NA
 HLA-A	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.3	NA	NA	NA
 HLA-B	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	3.8	5	NA	NA
 HLA-DMB	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	NA	NA	NA
+HNRNPU	31558468	TRUE	FALSE	Confirmed by multiple studies	BL	6.4	8.9	18	17.8
 HVCN1	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.8	2	NA	NA
+ID3	23143595	TRUE	FALSE	Confirmed by multiple studies	BL	47	31.7	33	32.7
+IGLL5	NA	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	25	23.8	27	26.7
+IKZF3	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	0.8	3	5	5
 IRF8	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.3	6.9	7	6.9
+KCNK10	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.8	1	NA	NA
 KLHL6	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	3	6.9	NA	NA
+KMT2D	30617194	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	DLBCL	14	15.8	13	12.9
+LTB	NA	FALSE	TRUE	Borderline evidence to consider this also a BL gene	DLBCL	3	5.9	NA	NA
+MCL1	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	2.1	2	4	4
 MEF2B	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.8	3	NA	NA
+MME	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.8	5.9	2	2
+MTOR	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	3.4	10.9	5	5
+MYC	TBD	TRUE	TRUE	Hot spots from aSHM can affect MYC protein stability	BL	60.2	49.5	64	63.4
 MYD88	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.4	1	NA	NA
 MYO1E	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.3	4	NA	NA
 NFKBIA	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.7	2	NA	NA
 NOTCH2	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	5	NA	NA
+OSBPL10	NA	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	2.1	3	NA	NA
+P2RY8	25274307	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	11	NA	NA	NA
+PABPC4L	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.3	3	1	1
+PCBP1	26173642	TRUE	FALSE	Confirmed by multiple studies	BL	12.3	11.9	5	5
+PCDHA11	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	1.3	3	4	4
+PDZRN3	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	2.1	9.9	4	4
+PHF6	36201743	TRUE	FALSE	Recently identified. Ideally this should be confirmed in more cohorts.	BL	5.5	5.9	NA	NA
+PIK3R1	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	2.5	4	1	1
+PLCG2	31558468	FALSE	FALSE	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.	NA	0.8	10.9	3	3
+PMAIP1	NA	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	3	5	NA	NA
 PRDM1	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.8	5.9	NA	NA
 PRKCD	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.3	5.9	NA	NA
+PTEN	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	4.7	4	6	5.9
+PXDNL	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	3	9.9	2	2
+RAC2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	DLBCL	0.4	NA	NA	NA
+RFX7	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	9.3	4	4	4
+RHOA	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	8.1	12.9	9	8.9
+RNF144B	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.4	NA	NA	NA
+RPL22	NA	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	3	2	NA	NA
+S1PR2	25274307	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	4	1	1
+SEPT10	NA	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	2.1	2	NA	NA
 SGK1	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	2.5	4	NA	NA
+SIN3A	30617194	TRUE	FALSE	Confirmed by multiple studies	BL	10.6	14.9	12	11.9
+SMARCA4	23143597	TRUE	FALSE	Confirmed by multiple studies	BL	17.8	18.8	20	19.8
+SNTB2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0	2	NA	NA
 SOCS1	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.7	3	NA	NA
+SP3	31558468	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	2.5	5	NA	NA
 STAT3	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	1	NA	NA
 STAT6	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.7	2	NA	NA
+SYNCRIP	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study	BL	2.5	5	NA	NA
 TBL1XR1	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	4.7	7.9	NA	NA
+TCF3	22885699	TRUE	FALSE	Confirmed by multiple studies	BL	11	9.9	5	5
+TCL1A	30617194	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	BL	5.9	4	5	5
+TET2	31558468	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	5.1	10.9	NA	NA
+TFAP4	30617194	TRUE	FALSE	Confirmed by multiple studies	BL	10.6	9.9	12	11.9
 TMEM30A	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	1.3	5	NA	NA
+TMSB4X	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	2	1	1
 TNFAIP3	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.8	2	NA	NA
 TNFRSF14	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.8	3	NA	NA
 TOX	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0.8	5.9	NA	NA
-UBE2A	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	3	NA	NA
-ZFP36L1	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	2.1	3	3	3
-BCL11A	NA	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	1.7	5.9	NA	NA
-EBF1	NA	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	1.3	5.9	NA	NA
-IGLL5	NA	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	25	23.8	27	26.7
-OSBPL10	NA	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	2.1	3	NA	NA
-KMT2D	30617194	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	DLBCL	14	15.8	13	12.9
-SP3	31558468	FALSE	FALSE	Low frequency in initial study. Awaiting confirmation from additional cohorts	BL	2.5	5	NA	NA
-MYC	TBD	TRUE	TRUE	Hot spots from aSHM can affect MYC protein stability	BL	60.2	49.5	64	63.4
-TET2	31558468	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	5.1	10.9	NA	NA
-BACH2	31558468	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	BL	0.4	5	3	3
-BCL6	30617194	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	3.4	7.9	18	17.8
-BCL7A	30617194	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	DLBCL	5.5	5	6	5.9
-TCL1A	30617194	FALSE	TRUE	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.	BL	5.9	4	5	5
-PTEN	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	4.7	4	6	5.9
-RFX7	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	9.3	4	4	4
-RHOA	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	8.1	12.9	9	8.9
-USP7	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	6.8	5.9	6	5.9
-LTB	NA	FALSE	TRUE	Borderline evidence to consider this also a BL gene	DLBCL	3	5.9	NA	NA
 TP53		TRUE	FALSE	Confirmed by multiple studies	BL	41.9	43.6	5	5
+UBE2A	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	0	3	NA	NA
+USP7	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	6.8	5.9	6	5.9
+WDR7	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.4	6.9	2	2
+WNK1	36201743	TRUE	FALSE	Confirmed by multiple studies	BL	6.8	11.9	NA	NA
+WNK2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.8	10.9	4	4
+ZFP36L1	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	2.1	3	3	3
