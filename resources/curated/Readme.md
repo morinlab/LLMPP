@@ -168,6 +168,8 @@ This file contains four additional columns, which respectively report the mutati
 | CXCR5     | TRUE    | FALSE | 29641966         |
 | TAP1      | TRUE    | FALSE | 29641966         |
 
+### Burkitt lymphoma
+
 The master curated list for BL including DLBCL genes that have been scrutinized within BL is can be found in `bl_genes.tsv` (or [here](bl_genes.tsv)). The earliest_support_BL column indicates the PubMed ID of the first study to nominate this gene as mutated in BL (or NA when not applicable). The frequency_BL_Thomas and frequency_BL_Panea columns report the percentage of patient samples with at least one non-silent mutation in this gene in the two studies. In the case of Panea et al, these numbers are based on the reanalysis of the exome data from this study by the Morin lab (as detailed in Dreval et al). The original frequencies based on the mutation calls from Panea et al are in the frequency_BL_Panea_original column.
 
 Similar to dlbcl_genes.tsv, this file contains a Curated_BL_driver column, which will be TRUE for the subset of genes that have made it to our core list. The current core list at the time this document was created is below. _This may not match the actual file, depending on whether this document is kept up to date. Please refer to the the file rather than this list._ 
@@ -203,7 +205,7 @@ Similar to dlbcl_genes.tsv, this file contains a Curated_BL_driver column, which
 | EIF4A1  | TRUE              | 5.1                 | 6.9                |
 | PTEN    | TRUE              | 4.7                 | 4                  |
 
-## aSHM regions
+### aSHM regions
 
 We provide two (somewhat redundant) files that each represent the coordinates of genomic regions we have identified as being targets of aberrant somatic hypermutation (aSHM) from our analysis of DLBCL genomes. Use the bed file if you need that format, otherwise refer to the txt file for more complete details about the regions. _Contributors willing to help fill in regions you think need to be added to this list are encouraged to submit a GitHub issue and we'll review the data we have to determine if this is warranted._ 
 
