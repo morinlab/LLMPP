@@ -10,7 +10,7 @@ If you want, you can simply peruse the GitHub repository using the web interface
 
 ### Resource files
 
-This repository contains a curated DLBCL gene list, which is maintained by the Morin lab. A few variants of this list can be found under `resources/curated` [here](resources/curated/Readme.md).
+This repository contains a curated DLBCL gene list, which is maintained by the Morin lab. A few variants of this list can be found under `resources/curated` [more information can be found here](resources/curated/Readme.md).
 
 ### Images
 
