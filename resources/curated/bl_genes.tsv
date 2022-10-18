@@ -1,4 +1,4 @@
-Gene	Initial_BL_citation	Curated_BL_driver	aSHM_target_DLBCL	Curator_comments	Enrichment_DLBCL_BL	frequency_BL_Thomas	frequency_BL_Panea	n_BL_Panea_original	frequency_BL_Panea_original
+Gene	earliest_support_BL	Curated_BL_driver	aSHM_target_DLBCL	Curator_comments	Enrichment_DLBCL_BL	frequency_BL_Thomas	frequency_BL_Panea	n_BL_Panea_original	frequency_BL_Panea_original
 ALPK2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	5.1	9.9	5	5
 ARID1A	23143597	TRUE	FALSE	Mutated at high frequency in both DLBCL and BL	BL	36	19.8	24	23.8
 B2M	NA	FALSE	FALSE	DLBCL gene with extremely low mutation rate in BL	DLBCL	2.5	3	NA	NA
