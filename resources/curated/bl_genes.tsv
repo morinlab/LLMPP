@@ -114,7 +114,7 @@ FBXO11	36201743	TRUE	FALSE	Confirmed by multiple studies	BL	21.6	15.8	12	11.9
 HNRNPU	31558468	TRUE	FALSE	Confirmed by multiple studies	BL	6.4	8.9	18	17.8
 ID3	23143595	TRUE	FALSE	Confirmed by multiple studies	BL	47	31.7	33	32.7
 PCBP1	26173642	TRUE	FALSE	Confirmed by multiple studies	BL	12.3	11.9	5	5
-PHF6	36201743	TRUE	FALSE	"Recently identified. Ideally this should be confirmed in more cohorts. "	BL	5.5	5.9	NA	NA
+PHF6	36201743	TRUE	FALSE	Recently identified. Ideally this should be confirmed in more cohorts.	BL	5.5	5.9	NA	NA
 PTEN	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	4.7	4	6	5.9
 RAC2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	DLBCL	0.4	NA	NA	NA
 RFX7	TBD	TRUE	FALSE	Confirmed by multiple studies	BL	9.3	4	4	4
