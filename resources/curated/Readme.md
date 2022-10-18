@@ -179,7 +179,7 @@ Similar to dlbcl_genes.tsv, this file contains a Curated_BL_driver column, which
 | MYC     | TRUE              | [60.2](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_panea/MYC.png)                 | [49.5](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_thomas/MYC.png)               |
 | DDX3X   | TRUE              | 48.7                | 39.6               |
 | ID3     | TRUE              | 47                  | 31.7               |
-| TP53    | TRUE              | 41.9                | 43.6               |
+| TP53    | TRUE              | [41.9](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_thomas/TP53.png)                 | [43.6](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_panea/TP53.png)                |
 | ARID1A  | TRUE              | 36                  | 19.8               |
 | CCND3   | TRUE              | 28                  | 17.8               |
 | FOXO1   | TRUE              | 28                  | 21.8               |
