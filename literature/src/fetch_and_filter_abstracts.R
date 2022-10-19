@@ -341,6 +341,7 @@ fetch_dlbcl_gene_abstracts = function(gene_list = "~/git/LLMPP/resources/curated
     write_tsv(full_df,file=complete_details,append=T)
   }
   print(head(dlbcl_genes_all))
+  dlbcl_genes_all = mutate(dlbcl_genes_all,earliest_support = as.character(earliest_support))
   gene_abstracts = read_tsv(complete_details,col_types="cccccccccc") %>% 
     left_join(dlbcl_genes_all,.,by=c("earliest_support"="pmid")) %>%
     dplyr::select(-abstract,-title)
@@ -422,11 +423,13 @@ full_gene_table = left_join(annotated,citation_counts_gene,by=c("Gene"="Hugo_Sym
 require(GAMBLR)
 Sys.setenv(R_CONFIG_ACTIVE= "remote")
 genome_meta = get_gambl_metadata() %>% dplyr::filter(pathology=="DLBCL")
+genome_meta$randomized_id = stringi::stri_rand_strings(nrow(genome_meta), 16, pattern = "[A-Za-z0-9]")
+
 
 cap_meta = get_gambl_metadata(seq_type_filter = "capture") %>% dplyr::filter(pathology=="DLBCL")
 
 #redact patient_id with a random number but keep cohort
-cap_meta$randomized_id = stri_rand_strings(nrow(cap_meta), 16, pattern = "[A-Za-z0-9]")
+cap_meta$randomized_id = stringi::stri_rand_strings(nrow(cap_meta), 16, pattern = "[A-Za-z0-9]")
 
 cap_coding = get_coding_ssm(these_samples_metadata = cap_meta,seq_type = "capture")
 
@@ -454,6 +457,16 @@ write_tsv(cap_coding_annotated,file="~/git/LLMPP/literature/mutation_patterns/da
 
 
 genome_coding = get_coding_ssm(these_samples_metadata = genome_meta)
+
+
+#create a patient-redacted MAF file for just the mutations in the full gene list
+genome_coding_annotated = left_join(genome_coding,dplyr::select(genome_meta,cohort,Tumor_Sample_Barcode,randomized_id)) %>%
+  mutate(Tumor_Sample_Barcode=randomized_id) %>%
+  dplyr::filter(Hugo_Symbol %in% full_gene_table$Gene) %>%
+  dplyr::select(-randomized_id,-Matched_Norm_Sample_Barcode)
+
+write_tsv(genome_coding_annotated,file="~/git/LLMPP/literature/mutation_patterns/data/dlbcl_genome_gambl.maf.gz")
+
 
 tallied_cap = gene_mutation_tally(maf_df = cap_coding,these_samples_metadata = cap_meta,grouping_variable = "cohort",these_genes = pull(full_gene_table,Gene)) %>% dplyr::filter(total>100)
 

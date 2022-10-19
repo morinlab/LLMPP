@@ -5,6 +5,9 @@ require(maftools)
 maf_capture = read_tsv("~/git/LLMPP/literature/mutation_patterns/data/dlbcl_capture_gambl.maf.gz")
 # cap_coding_reddy_gambl # this is created in fetch_and_filter_abstracts.R but not currently saved to the repository
 
+maf_genome = read_tsv("~/git/LLMPP/literature/mutation_patterns/data/dlbcl_genome_gambl.maf.gz")
+
+
 out_base = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_study/gambl_reanalysis/dlbcl/"
 
 cohorts = unique(maf_capture$cohort)
@@ -89,6 +92,40 @@ for(gene in these_genes){
   }
   dev.off()
 }
+
+out_seq_type = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_seq_type/genome/gambl_reanalysis/dlbcl/"
+
+this_maftools = read.maf(maf_genome)
+
+for(gene in these_genes){
+  #for(gene in "DUSP2"){
+  if(gene %in% c("TRAF3","JAK3","TIPARP","FAM5C")){
+    next;
+  }
+  outf = paste0(out_seq_type,gene,".png")
+  poscount = lollipopPlot(this_maftools,gene=gene,cBioPortal = T,printCount = T)
+  png(outf)
+  if(gene %in% c("CD83","CCND3","BTG2","BTG1","MYC","BCL7A","KMT2D",
+                 "CREBBP","HIST1H2AC","BCL2","B2M","HIST1H2AM",
+                 "SOCS1","IGLL5","HIST1H1E","CIITA","TMSB4X","PTPRD")){
+    lollipopPlot(this_maftools,gene=gene,cBioPortal = T
+    )
+  }else{
+    positions = dplyr::filter(poscount,count>1) %>% pull(pos)
+    if(length(positions)){
+      lollipopPlot(this_maftools,gene=gene,cBioPortal = T,repel = F,
+                   labelPos=positions,labPosAngle = 45,printCount = T
+      )
+    }else{
+      lollipopPlot(this_maftools,gene=gene,cBioPortal = T
+      )
+    }
+    
+  }
+  dev.off()
+}
+
+
 
 
 reddy_maftools=read.maf(reddy_maf_full)
