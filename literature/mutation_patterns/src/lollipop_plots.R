@@ -5,7 +5,7 @@ require(maftools)
 maf_capture = read_tsv("~/git/LLMPP/literature/mutation_patterns/data/dlbcl_capture_gambl.maf.gz")
 # cap_coding_reddy_gambl # this is created in fetch_and_filter_abstracts.R but not currently saved to the repository
 
-out_base = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_study/gambl_reanalysis/"
+out_base = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_study/gambl_reanalysis/dlbcl/"
 
 cohorts = unique(maf_capture$cohort)
 print("will process these cohorts:")
@@ -56,7 +56,7 @@ for (this_cohort in cohorts){
 # generate lollipop plot for all samples that have this seq_type
 
 
-out_seq_type = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_seq_type/capture/gambl_reanalysis/"
+out_seq_type = "/Users/rmorin/git/LLMPP/literature/mutation_patterns/lollipop/by_seq_type/capture/gambl_reanalysis/dlbcl/"
 
 
 this_maftools = read.maf(maf_capture)
@@ -66,7 +66,7 @@ for(gene in these_genes){
   if(gene %in% c("TRAF3","JAK3","TIPARP")){
     next;
   }
-  outf = paste0(out_seq_type,"/",gene,".png")
+  outf = paste0(out_seq_type,gene,".png")
   poscount = lollipopPlot(this_maftools,gene=gene,cBioPortal = T,printCount = T)
   png(outf)
   print(outf)
@@ -515,17 +515,20 @@ get_reddy = function(){
   write_tsv(reddy_maf_full,file="~/git/LLMPP/literature/data/supplements/dlbcl_reddy/mutations_reddy_reformatted.maf.gz")
 }
 
+thomas_bls = readxl::read_excel("~/git/LLMPP/literature/data/supplements/bl_thomas/SupplementalTables.xlsx",sheet=1) %>% pull(3) %>% unique() 
 
 outdir = "~/git/LLMPP/literature/mutation_patterns/lollipop/by_study/as_reported/bl_thomas/"
 bl_gene_df = read_tsv("~/git/LLMPP/resources/curated/bl_genes.tsv")
 bl_genes = pull(bl_gene_df,Gene)
-thomas_muts = readxl::read_excel("~/Dropbox/BLGSP_manuscript_2021/manuscript_Blood_accepted_final/SupplementalTables.xlsx",sheet=6) %>% 
-  dplyr::filter(Variant_Classification !="Silent") %>% rename("Tumor_Sample_Barcode"="tumor_biospecimen_id")
+thomas_muts = readxl::read_excel("~/git/LLMPP/literature/data/supplements/bl_thomas/SupplementalTables.xlsx",sheet=6) %>% 
+  dplyr::filter(Variant_Classification !="Silent") %>%
+  filter(tumor_biospecimen_id %in% thomas_bls) %>% 
+  rename("Tumor_Sample_Barcode"="tumor_biospecimen_id")
 
 thomas_maf = read.maf(thomas_muts)
-
-for(g in bl_genes){
-  if(g %in% c("FZD3")){
+bl_genes_mut = bl_genes[which(bl_genes %in% unique(thomas_muts$Hugo_Symbol))]
+for(g in bl_genes_mut){
+  if(g %in% c("FZD3","HIST1H3I","RNF144B","BACH2","PMAIP1")){
     next;
   }
   filen=paste0(outdir,g,".png")
@@ -539,4 +542,24 @@ for(g in bl_genes){
   
 }
 
+outdir = "~/git/LLMPP/literature/mutation_patterns/lollipop/by_study/as_reported/bl_panea/"
 
+panea_reported_muts = read_tsv("~/git/LLMPP/literature/data/supplements/bl_panea/S3_reported_Panea_mutations_hg38.maf") %>%
+  filter(!Variant_Classification %in% c("Intron","3'UTR","5'UTR","5'Flank","Silent","3'Flank","RNA"))
+panea_maf = read.maf(panea_reported_muts)
+bl_genes_mut = bl_genes[which(bl_genes %in% unique(panea_reported_muts$Hugo_Symbol))]
+
+for(g in bl_genes_mut){
+  if(g %in% c("TMSB4X","WDR7","ZFP36L1")){
+    next;
+  }
+  filen=paste0(outdir,g,".png")
+  png(filen)
+  lollipopPlot(panea_maf,gene=g,cBioPortal = T)
+  dev.off()
+  filen=paste0(outdir,g,".pdf")
+  pdf(filen)
+  lollipopPlot(panea_maf,gene=g,cBioPortal = T)
+  dev.off()
+  
+}
