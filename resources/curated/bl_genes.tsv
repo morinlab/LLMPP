@@ -126,3 +126,4 @@ WDR7	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts inclu
 WNK1	36201743	TRUE	FALSE	Confirmed by multiple studies	BL	6.8	11.9	NA	NA
 WNK2	31558468	FALSE	FALSE	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.	NA	0.8	10.9	4	4
 ZFP36L1	NA	FALSE	TRUE	DLBCL gene with extremely low mutation rate in BL	DLBCL	2.1	3	3	3
+ARHGEF1	25274307	FALSE	FALSE	Not recurrently mutated in other studies since initial report	NA	2	NA	NA	NA
