@@ -1,4 +1,4 @@
-chr_name	hg19_start	hg19_end	gene	name	DLBCL_cases_mutated	CLL_cases_mutated	total_DLBCL	total_CLL	percent_DLBCLs_mutated	percent_CLLs_mutated
+chr_name	hg19_start	hg19_end	gene	name	DLBCL_cases	CLL_cases	total_DLBCL	total_CLL	percent_DLBCLs_mut	percent_CLLs_mut
 chr3	187458526	187464632	BCL6	BCL6_TSS	256	34	304	179	84.21	18.99
 chr22	23229554	23232042	IGLL5	IGLL5_TSS	216	52	304	179	71.05	29.05
 chr3	187771678	187982852	LPP	LPP_TSS-1	214	27	304	179	70.39	15.08
