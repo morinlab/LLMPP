@@ -209,7 +209,11 @@ Similar to dlbcl_genes.tsv, this file contains a Curated_BL_driver column, which
 
 We provide two (somewhat redundant) files that each represent the coordinates of genomic regions we have identified as being targets of aberrant somatic hypermutation (aSHM) from our analysis of DLBCL genomes. Use the bed file if you need that format, otherwise refer to the txt file for more complete details about the regions. _Contributors willing to help fill in regions you think need to be added to this list are encouraged to submit a GitHub issue and we'll review the data we have to determine if this is warranted._ 
 
+The following three files are semi-redundant representations of the same information. This is the coordinates for regions of the genome commonly affected by aSHM in DLBCL. [This version](somatic_hypermutation_locations_with_DLBCL_frequencies.tsv) includes additional columns tracking the number and percentage of DLBCL genomes with mutations in each region based on our meta-analysis. 
+
 `somatic_hypermutation_locations_GRCh37.txt`
+
+`somatic_hypermutation_locations_with_DLBCL_frequencies.tsv`
 
 `somatic_hypermutation_locations_GRCh37.bed`
 
@@ -233,3 +237,5 @@ GENETIC SUBGROUPS INFORM ON PATHOBIOLOGY IN ADULT AND PEDIATRIC BURKITT LYMPHOMA
 ### SHM regions
 
 Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma. Arthur et al. Nat Commun. 2018 Oct 1;9(1):4001. doi: 10.1038/s41467-018-06354-3.
+
+Super-enhancer hypermutation alters oncogene expression in B cell lymphoma. Bal E et al. Nature. 2022 Jul;607(7920):808-815. doi: 10.1038/s41586-022-04906-8. Epub 2022 Jul 6.
