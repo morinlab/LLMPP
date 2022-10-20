@@ -13,14 +13,6 @@ visibility full
 type bigBed
 bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/somatic_hypermutation_locations_GRCh37.bb?raw=true
 
-track mutations_aSHM
-shortLabel aSHM mutations
-longLabel mutations at aSHM sites
-visibility squish
-type bigBed 9
-itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19.bb?raw=true
-
 track aSHM_CLL
 shortLabel CLL aSHM mutations
 longLabel mutations at aSHM sites in CLL genomes
@@ -36,6 +28,14 @@ visibility squish
 type bigBed 9
 itemRgb on
 bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_BL.bb?raw=true
+
+track aSHM_DLBCL
+shortLabel DLBCL aSHM mutations
+longLabel mutations at aSHM sites in DLBCL genomes
+visibility squish
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_DLBCL.bb?raw=true
 
 track CDS_mutations
 shortLabel coding space
