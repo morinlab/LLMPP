@@ -4,5 +4,5 @@
 
 ## How to visualize it
 
-!(ucsc_1.png)
+![screenshot](ucsc_1.png)
 
