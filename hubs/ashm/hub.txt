@@ -21,6 +21,14 @@ type bigBed 9
 itemRgb on
 bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19.bb?raw=true
 
+track aSHM_CLL
+shortLabel CLL aSHM mutations
+longLabel mutations at aSHM sites in CLL genomes
+visibility pack
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_CLL.bb?raw=true
+
 track CDS_mutations
 shortLabel coding space
 longLabel mutations in coding space
