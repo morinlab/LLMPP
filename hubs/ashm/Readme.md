@@ -15,7 +15,7 @@
 
 ## What data are available
 
-Currently, there is a single browser hub that provides access to the anonymized mutations from the genomes in GAMBL subset to the regions we identified as being recurrently affected by aSHM. There are separate tracks for CLL, Burkitt lymphoma (BL) and diffuse large B-cell lymphoma (DLBCL). Mutations are coloured according to the LymphGen class of that patient as determined from their genome-wide mutation profile. The colour key we use can be found [here](https://morinlab.github.io/LLMPP/colours.html).
+Currently, there is a single browser hub that provides access to the anonymized mutations from the genomes in GAMBL subset to the regions we identified as being recurrently affected by aSHM. There are separate tracks for CLL, Burkitt lymphoma (BL) and diffuse large B-cell lymphoma (DLBCL). Mutations are coloured according to the LymphGen class of that patient as determined from their genome-wide mutation profile. The colour key we use can be found [here](https://morinlab.github.io/LLMPP/colours.html). Additional hubs with more informative colour schemes for non-DLBCL entities are in the works. 
 
 ## How to visualize it
 
