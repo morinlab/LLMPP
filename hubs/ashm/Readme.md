@@ -30,7 +30,7 @@ Try pasting this region into the navigation box: `chr6:37,136,653-37,141,935` or
 
 ## How to visualize in IGV
 
-The repository contains bed files that can be loaded in IGV (in the `bed_format` directory). If you download or clone the repository, you can load those into IGV individually. You can also open the xml file as an IGV session. 
+The repository contains bed files that can be loaded in IGV (in the `bed_format` directory). If you download or clone the repository (via the links on the [main page](https://github.com/morinlab/LLMPP)), you can load those into IGV individually by navigating to that folder within IGV. You can also open the xml file as an IGV session. 
 
 ![screenshot_igv](etc/igv_screenshot.png)
 
