@@ -8,5 +8,8 @@ Navigate to the [UCSC genome browser](http://genome.ucsc.edu/cgi-bin/hgGateway) 
 
 ![screenshot](etc/ucsc_1.png)
 
-Copy [this url](https://raw.githubusercontent.com/morinlab/LLMPP/main/hubs/ashm/hub.txt) to your clipboard and paste it into the box to the right of *URL* and click _add hub_. This should bring you back to the browser with the custom tracks now shown. If you don't see anything you may need to navigate to a different region. Try pasting this region into the navigation box: `chr6:37,136,653-37,141,935`
+Copy [this url](https://raw.githubusercontent.com/morinlab/LLMPP/main/hubs/ashm/hub.txt) to your clipboard and paste it into the box to the right of *URL* and click _add hub_. This should bring you back to the browser with the custom tracks now shown. If you don't see anything you may need to navigate to a different region. 
+Try pasting this region into the navigation box: `chr6:37,136,653-37,141,935` or, to reproduce the image below, use `chrX:12,993,029-12,995,149`
+
+![screenshot2](etc/ucsc_2.png)
 
