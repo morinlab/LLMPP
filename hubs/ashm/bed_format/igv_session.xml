@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="hg19" locus="chr6:14112220-14126543" version="8">
+    <Resources>
+        <Resource path="https://raw.githubusercontent.com/morinlab/LLMPP/main/hubs/ashm/bed_format/ashm_hg19_DLBCL.bed" type="bed"/>
+        <Resource path="https://raw.githubusercontent.com/morinlab/LLMPP/main/hubs/ashm/bed_format/ashm_hg19_CLL.bed" type="bed"/>
+        <Resource path="https://raw.githubusercontent.com/morinlab/LLMPP/main/hubs/ashm/bed_format/ashm_hg19_BL.bed" type="bed"/>
+    </Resources>
+    <Panel height="1401" name="FeaturePanel" width="1133">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="POSITIVE" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="Refseq Genes" clazz="org.broad.igv.track.FeatureTrack" fontSize="10" groupByStrand="false" height="137" id="https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz" name="Refseq Genes" visible="true"/>
+        <Track attributeKey="ashm_hg19_CLL.bed" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;27.0;255,255,255;0,0,178" displayMode="SQUISHED" fontSize="10" groupByStrand="false" height="138" id="https://raw.githubusercontent.com/morinlab/LLMPP/main/hubs/ashm/bed_format/ashm_hg19_CLL.bed" name="ashm_hg19_CLL.bed" visible="true"/>
+        <Track attributeKey="ashm_hg19_DLBCL.bed" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;836.0;255,255,255;0,0,178" displayMode="SQUISHED" fontSize="10" groupByStrand="false" height="138" id="https://raw.githubusercontent.com/morinlab/LLMPP/main/hubs/ashm/bed_format/ashm_hg19_DLBCL.bed" name="ashm_hg19_DLBCL.bed" visible="true"/>
+        <Track attributeKey="ashm_hg19_BL.bed" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;340.0;255,255,255;0,0,178" displayMode="SQUISHED" fontSize="10" groupByStrand="false" height="138" id="https://raw.githubusercontent.com/morinlab/LLMPP/main/hubs/ashm/bed_format/ashm_hg19_BL.bed" name="ashm_hg19_BL.bed" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.010309278350515464"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
