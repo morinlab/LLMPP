@@ -50,11 +50,30 @@ type bigBed 9
 itemRgb on
 bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_DLBCL_exomes.bb?raw=true
 
+track aSHM_DLBCL_schmitz
+shortLabel Schmitz exomes
+longLabel mutations at aSHM sites in Schmitz exomes
+visibility squish
+priority 6
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_DLBCL_exomes_schmitz.bb?raw=true
+
+track aSHM_DLBCL_chapuy
+shortLabel Chapuy exomes
+longLabel mutations at aSHM sites in Chapuy exomes
+visibility squish
+priority 7
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_DLBCL_exomes_chapuy.bb?raw=true
+
+
 track aSHM_DLBCL_reddy
 shortLabel Reddy exomes
 longLabel mutations at aSHM sites in Reddy exomes
 visibility squish
-priority 6
+priority 8
 type bigBed 9
 itemRgb on
 bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_DLBCL_exomes_reddy.bb?raw=true
