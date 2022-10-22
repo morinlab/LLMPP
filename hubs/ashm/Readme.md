@@ -30,7 +30,8 @@ Try pasting this region into the navigation box: `chr6:37,136,653-37,141,935` or
 
 To view a region that is more abundantly mutated in BL, try perusing the BACH2 locus (example below). 
 
-![screenshot3](etc/ucsc_3.png)
+<img src="https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/etc/ucsc_3.png?raw=true"  width="800">
+
 
 ## How to visualize in IGV
 
