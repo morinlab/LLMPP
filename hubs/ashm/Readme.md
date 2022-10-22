@@ -15,7 +15,7 @@
 
 ## What data are available
 
-Currently, there is a single browser hub that provides access to the anonymized mutations from the genomes in GAMBL subset to the regions we identified as being recurrently affected by aSHM. There are separate tracks for CLL, Burkitt lymphoma (BL) and diffuse large B-cell lymphoma (DLBCL). Mutations are coloured according to the LymphGen class of that patient as determined from their genome-wide mutation profile. The colour key we use can be found [here](https://morinlab.github.io/LLMPP/colours.html). Additional hubs with more informative colour schemes for non-DLBCL entities are in the works. 
+Currently, there is a single browser hub that provides access to the anonymized mutations from the genomes in GAMBL subset to the regions we identified as being recurrently affected by aSHM. There are separate tracks for CLL, Burkitt lymphoma (BL) and diffuse large B-cell lymphoma (DLBCL). For DLBCLs, mutations are coloured according to the LymphGen class of that patient as determined from their genome-wide mutation profile. For BLs, we instead use the genetic subgroup described in Thomas et al. The colour key we use can be found [here](https://morinlab.github.io/LLMPP/colours.html). Additional hubs with more informative colour schemes for other entities are in the works. 
 
 ## How to visualize on UCSC
 
@@ -27,6 +27,10 @@ Copy [this url](https://raw.githubusercontent.com/morinlab/LLMPP/main/hubs/ashm/
 Try pasting this region into the navigation box: `chr6:37,136,653-37,141,935` or, to reproduce the image below, use `chrX:12,993,029-12,995,149`
 
 ![screenshot2](etc/ucsc_2.png)
+
+To view a region that is more abundantly mutated in BL, try perusing the BACH2 locus (example below). 
+
+![screenshot3](etc/ucsc_3.png)
 
 ## How to visualize in IGV
 
