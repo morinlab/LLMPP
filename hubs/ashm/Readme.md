@@ -36,5 +36,5 @@ To view a region that is more abundantly mutated in BL, try perusing the BACH2 l
 
 The repository contains bed files that can be loaded in IGV (in the `bed_format` directory). If you download or clone the repository (via the links on the [main page](https://github.com/morinlab/LLMPP)), you can load those into IGV individually by navigating to that folder within IGV. You can also open the xml file as an IGV session. 
 
-<img src="https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/etc/igv_screenshot.png?raw=true"  width="400" height="700">
+<img src="https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/etc/igv_screenshot.png?raw=true"  width="800">
 
