@@ -1,0 +1,60 @@
+hub aSHM sites in hg19
+shortLabel aSHM_hg19
+longLabel curated aSHM sites in hg19
+useOneFile on
+email rdmorin@sfu.ca
+
+genome hg19
+
+track aSHM_regions
+shortLabel aSHM regions
+longLabel curated aSHM sites
+visibility full
+priority 1
+type bigBed
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/somatic_hypermutation_locations_GRCh37.bb?raw=true
+
+track aSHM_CLL
+shortLabel CLL aSHM mutations
+longLabel mutations at aSHM sites in CLL genomes
+visibility squish
+priority 2
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_CLL.bb?raw=true
+
+track aSHM_BL
+shortLabel BL aSHM mutations
+longLabel mutations at aSHM sites in BL genomes
+visibility squish
+priority 3
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_BL.bb?raw=true
+
+track aSHM_DLBCL
+shortLabel DLBCL aSHM mutations
+longLabel mutations at aSHM sites in DLBCL genomes
+visibility squish
+priority 4
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_DLBCL.bb?raw=true
+
+track aSHM_DLBCL_exomes
+shortLabel DLBCL exomes
+longLabel mutations at aSHM sites in DLBCL exomes
+visibility squish
+priority 5
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_DLBCL_exomes.bb?raw=true
+
+track aSHM_DLBCL_reddy
+shortLabel Reddy exomes
+longLabel mutations at aSHM sites in Reddy exomes
+visibility squish
+priority 6
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm/ashm_hg19_DLBCL_exomes_reddy.bb?raw=true
