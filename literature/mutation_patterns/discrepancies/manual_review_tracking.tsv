@@ -2622,7 +2622,7 @@ file	likelihood_real (0=least;5=most)	reviewer (github_id)	brief_comment
 1:245027358-245027759--HNRNPU--Reddy_2246T--C----snapshot.png			
 1:245027380-245027781--HNRNPU--Reddy_3825T--C-G--snapshot.png			
 1:2487906-2488307--TNFRSF14--Reddy_2196T--G-T--snapshot.png			
-1:2487923-2488324--TNFRSF14--Reddy_2193T--G----snapshot.png			
+1:2487923-2488324--TNFRSF14--Reddy_2193T--G----snapshot.png	5	rdmorin	
 1:2487923-2488324--TNFRSF14--Reddy_2687T--G-C--snapshot.png			
 1:2487952-2488353--TNFRSF14--Reddy_3600T--A-T--snapshot.png			
 1:2488969-2489370--TNFRSF14--Reddy_2523T--T-C--snapshot.png			
@@ -2637,19 +2637,19 @@ file	likelihood_real (0=least;5=most)	reviewer (github_id)	brief_comment
 1:2489602-2490003--TNFRSF14--Reddy_2485T--T-A--snapshot.png			
 1:2489608-2490009--TNFRSF14--Reddy_3718T--G-T--snapshot.png			
 1:2489615-2490016--TNFRSF14--Reddy_3620T--C-T--snapshot.png			
-1:2489619-2490020--TNFRSF14--Reddy_2820T--CA----snapshot.png			
+1:2489619-2490020--TNFRSF14--Reddy_2820T--CA----snapshot.png	5	rdmorin	
 1:2489645-2490046--TNFRSF14--Reddy_2696T--G-T--snapshot.png			
 1:2489648-2490049--TNFRSF14--Reddy_2487T--C-T--snapshot.png			
 1:2489669-2490070--TNFRSF14--Reddy_2303T--G-C--snapshot.png			
 1:2489682-2490083--TNFRSF14--Reddy_2488T--T-A--snapshot.png			
-1:2489682-2490083--TNFRSF14--Reddy_2956T--TC----snapshot.png			
+1:2489682-2490083--TNFRSF14--Reddy_2956T--TC----snapshot.png	5	rdmorin	
 1:2491082-2491483--TNFRSF14--Reddy_2882T--C-T--snapshot.png			
 1:2491082-2491483--TNFRSF14--Reddy_3880T--C-T--snapshot.png			
 1:2491089-2491490--TNFRSF14--Reddy_3628T--G-A--snapshot.png			
 1:2491090-2491491--TNFRSF14--Reddy_2903T--C-G--snapshot.png			
 1:2491092-2491493--TNFRSF14--Reddy_2200T--C-T--snapshot.png			
 1:2491106-2491507--TNFRSF14--Reddy_2585T--G-C--snapshot.png			
-1:2491117-2491518--TNFRSF14--Reddy_2468T--C----snapshot.png			
+1:2491117-2491518--TNFRSF14--Reddy_2468T--C----snapshot.png	5	rdmorin	
 1:2491118-2491519--TNFRSF14--Reddy_3759T--T-C--snapshot.png			
 1:2491119-2491520--TNFRSF14--Reddy_1016T--G-T--snapshot.png			
 1:2491137-2491538--TNFRSF14--Reddy_2901T--G-C--snapshot.png			
