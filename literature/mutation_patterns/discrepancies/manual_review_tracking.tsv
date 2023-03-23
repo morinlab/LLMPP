@@ -2838,7 +2838,7 @@ file	likelihood_real (0=least;5=most)	reviewer (github_id)	brief_comment
 1:85733401-85733802--BCL10--Reddy_3892T--ATTTG----snapshot.png			
 1:85736274-85736675--BCL10--Reddy_2843T--C-T--snapshot.png			
 1:85741779-85742180--BCL10--Reddy_2227T--G-C--snapshot.png			
-1:9770314-9770715--PIK3CD--Reddy_2620T--AT----snapshot.png			
+1:9770314-9770715--PIK3CD--Reddy_2620T--AT----snapshot.png	4	rdmorin	
 1:9770317-9770718--PIK3CD--Reddy_2620T--CCCCC----snapshot.png			
 1:9775707-9776108--PIK3CD--Reddy_2909T--G-T--snapshot.png			
 1:9775737-9776138--PIK3CD--Reddy_3500T--C-T--snapshot.png			
