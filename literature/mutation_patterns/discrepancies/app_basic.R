@@ -36,6 +36,8 @@ save_data=function(data){
   colnames(data)=fields
   
   write_tsv(data,file=shiny_log,append = T)
+  review_results = read_tsv(shiny_log,col_names=fields)
+  return(review_results)
 }
 
 ui <- fluidPage(
@@ -121,7 +123,12 @@ server <- function(input, output, session) {
   }, deleteFile = FALSE)
   # When the Submit button is clicked, save the form data
   observeEvent(input$submit, {
-    save_data(formData())
+    saved = save_data(formData())
+    choices = g() %>% 
+      dplyr::filter(!basename %in% saved$mutation) %>%
+      pull(basename) %>%
+      unique()
+    updateSelectInput(inputId = "mutation", choices = choices) 
     updateRadioButtons(inputId="rb", 
                        label="Mutation quality:",
                  choiceNames = list(
