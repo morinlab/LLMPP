@@ -5,6 +5,15 @@ library(tidyverse)
 # Define the fields we want to save from the form
 fields <- c("mutation","rb","user","comment","tag")
 
+#try to get the git user ID
+get_user = function(){
+  user_res = system("git config --get user.email",intern=T)
+  user_res = str_remove(user_res,"@.+")
+  return(user_res)
+}
+
+
+
 base_dir = "./"
 test_df = data.frame(full=dir("./",recursive=T,pattern=".png")) %>% 
   mutate(base=basename(full)) %>%
@@ -31,27 +40,21 @@ save_data=function(data){
   if(class(data[["tag"]])=="list"){
     data[["tag"]] = unlist(data[["tag"]])
   }
-  #if(is.null(data$tag)){
-  #  data$tag = ""
-  #}else{
-  #  data[["tag"]] = unlist(data[["tag"]]) %>% paste0(.,collapse=",")
-  #}
+
   
   save(data, file = "dumped.RData")
-  #data <- as.data.frame(t(data))
   print(data)
   for (column in c("mutation","rb","user","comment","tag")){
     print(column)
     print(class(data[[column]]))
     print(length(data[[column]]))
   }
-  #data = data.frame(mutation=data$mutation,rb=data$rb,user=data$user,comment=data$comment,tag=data$tag)
-  data = as.data.frame(t(data))
+ 
+  data <- data.frame(t(sapply(data,c)))
   colnames(data)=fields
-  print(data)
   #auto-fill with the user-id from local config if missing?
   
-  write_tsv(data,file="shiny_responses.tsv",append = F)
+  write_tsv(data,file="shiny_responses.tsv",append = T)
 }
 
 ui <- fluidPage(
@@ -83,9 +86,10 @@ ui <- fluidPage(
     choiceValues = c("AI","AO","D","MV","MN","DN","TR","LVF",
                      "E","HDR","MM","LM","SIO","LCT","SSE",
                      "LCN","NCN","TN"),
-    selected = NULL,inline = T
+    selected = NULL
+    ,inline = T
   ),
-  textInput("user", "What's your Github user ID?"),
+  textInput("user", "What's your Github user ID?",value = get_user()),
   actionButton("submit", "Submit your rating!"),
   imageOutput("photo")
 )
