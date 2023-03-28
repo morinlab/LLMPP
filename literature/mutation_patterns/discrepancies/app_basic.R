@@ -1,9 +1,9 @@
 library(shiny)
-library(here)
 library(tidyverse)
 
 # Define the fields we want to save from the form
-fields <- c("mutation","rb","user","comment","tag")
+fields <- c("mutation","rb","user","tag","comment")
+shiny_log <- "shiny_responses.tsv"
 
 #try to get the git user ID
 get_user = function(){
@@ -12,53 +12,34 @@ get_user = function(){
   return(user_res)
 }
 
-
+review_results = read_tsv(shiny_log,col_names=fields)
 
 base_dir = "./"
-test_df = data.frame(full=dir("./",recursive=T,pattern=".png")) %>% 
+options_df = data.frame(full=dir("./",recursive=T,pattern=".png")) %>% 
   mutate(base=basename(full)) %>%
   mutate(basename=base) %>% 
   separate(base,into=c("Region","End","Gene","sample_id","Ref","Alt"),sep="-+") %>% 
   arrange(Gene)
 
 
-
-log_df = read_tsv("manual_review_tracking.tsv",col_names = c("file","rating","user_id","comment","tag"))
-
 save_data=function(data){
   #This function works well until the tag is introduced. A missing tag and a list of more than one tag both break it, causing a blank line instead of the contents of the data frame to write to the file
   #combine tags into one
-  print(names(data))
-  print("----")
-  print(class(data[["tag"]]))
-  print("....")
+ 
   if(class(data[["tag"]]) == "character"){
     data[["tag"]] = unlist(paste0(data[["tag"]],collapse=";"))
   }else{
     data[["tag"]] = ""
   }
-  if(class(data[["tag"]])=="list"){
-    data[["tag"]] = unlist(data[["tag"]])
-  }
 
-  
-  save(data, file = "dumped.RData")
-  print(data)
-  for (column in c("mutation","rb","user","comment","tag")){
-    print(column)
-    print(class(data[[column]]))
-    print(length(data[[column]]))
-  }
- 
   data <- data.frame(t(sapply(data,c)))
   colnames(data)=fields
-  #auto-fill with the user-id from local config if missing?
   
-  write_tsv(data,file="shiny_responses.tsv",append = T)
+  write_tsv(data,file=shiny_log,append = T)
 }
 
 ui <- fluidPage(
-  selectInput("gene", "Pick a Gene", choices = unique(test_df$Gene) ),
+  selectInput("gene", "Pick a Gene", choices = unique(options_df$Gene) ),
   radioButtons("status","Which variants do you want to review?", choiceNames=list("Unreviewed","Reviewed"),choiceValues=list("unreviewed","reviewed")),
   selectInput("mutation", "Pick a Mutation", choices = NULL),
   tableOutput("data"),
@@ -103,10 +84,11 @@ server <- function(input, output, session) {
   #radio button controlling how to subset the data
   subset = reactive({
     if(input$status=="reviewed"){
-      dplyr::filter(test_df,str_detect(full,"reviewed"))
+      dplyr::filter(options_df,str_detect(full,"reviewed"))
     }else{
-      
-      dplyr::filter(test_df,str_detect(full,"reviewed",negate=T))
+      print(head(review_results))
+      dplyr::filter(options_df,str_detect(full,"reviewed",negate=T)) %>%
+        dplyr::filter(!basename %in% review_results$mutation)
     }
   })
   observeEvent(subset(), {
@@ -140,6 +122,31 @@ server <- function(input, output, session) {
   # When the Submit button is clicked, save the form data
   observeEvent(input$submit, {
     save_data(formData())
+    updateRadioButtons(inputId="rb", 
+                       label="Mutation quality:",
+                 choiceNames = list(
+                   "0: Zero support for the variant in the reads",
+                   "1: Minimal support and/or severe confounders",
+                   "2: Low support (2-3 molecules) or other confounders",
+                   "3: Modest support but some uncertainty or a confounder",
+                   "4: Good support",
+                   "5: Excellent support, no ambiguity"
+                 ),
+                 choiceValues = list("0", "1", "2","3","4","5")
+    )
+    updateCheckboxGroupInput(inputId="tag",
+                             label="Select any tags that apply (Optional)",
+                             choiceNames = c("Adjacent indel","Ambiguous other","Directional",
+                                             "Multiple Variants","Mononucleotide repeat","Dinucleotide repeat","Tandem repeat","Low Variant Frequency",
+                                             "End of reads","High Discrepancy Region","Multiple Mismatches",
+                                             "Low Mapping quality","Short Inserts Only",
+                                             "Low Count Tumor","Same Start End",
+                                             "Low Count Normal","No Count Normal","Tumor in Normal"),
+                             choiceValues = c("AI","AO","D","MV","MN","DN","TR","LVF",
+                                              "E","HDR","MM","LM","SIO","LCT","SSE",
+                                              "LCN","NCN","TN"),
+                             selected = NULL
+                             ,inline = T)
   })
 }
 shinyApp(ui, server)
