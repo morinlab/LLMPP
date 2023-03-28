@@ -85,11 +85,9 @@ server <- function(input, output, session) {
   #radio button controlling how to subset the data
   subset = reactive({
     if(input$status=="reviewed"){
-      dplyr::filter(options_df,str_detect(full,"reviewed"))
+      dplyr::filter(options_df,basename %in% review_results$mutation)
     }else{
-      print(head(review_results))
-      dplyr::filter(options_df,str_detect(full,"reviewed",negate=T)) %>%
-        dplyr::filter(!basename %in% review_results$mutation)
+      dplyr::filter(options_df,!basename %in% review_results$mutation)
     }
   })
   observeEvent(subset(), {
@@ -122,9 +120,9 @@ server <- function(input, output, session) {
   }, deleteFile = FALSE)
   # randomly pick a gene for the user
   observeEvent(input$random, {
-    
-    
-    updateSelectInput(inputId = "gene", choices = sample(unique(options_df$Gene),1))
+    subset_df = subset()
+    #limit the choices to the genes with at least one qualifying variant available
+    updateSelectInput(inputId = "gene", choices = sample(unique(subset_df$Gene),1))
   })
   # When the Submit button is clicked, save the form data
   observeEvent(input$submit, {
