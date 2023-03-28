@@ -24,9 +24,12 @@ save_data=function(data){
   print(class(data[["tag"]]))
   print("....")
   if(class(data[["tag"]]) == "character"){
-    data[["tag"]] = paste0(data[["tag"]],collapse=";")
+    data[["tag"]] = unlist(paste0(data[["tag"]],collapse=";"))
   }else{
     data[["tag"]] = ""
+  }
+  if(class(data[["tag"]])=="list"){
+    data[["tag"]] = unlist(data[["tag"]])
   }
   #if(is.null(data$tag)){
   #  data$tag = ""
@@ -34,11 +37,20 @@ save_data=function(data){
   #  data[["tag"]] = unlist(data[["tag"]]) %>% paste0(.,collapse=",")
   #}
   
-  
-  data <- as.data.frame(t(data))
+  save(data, file = "dumped.RData")
+  #data <- as.data.frame(t(data))
+  print(data)
+  for (column in c("mutation","rb","user","comment","tag")){
+    print(column)
+    print(class(data[[column]]))
+    print(length(data[[column]]))
+  }
+  #data = data.frame(mutation=data$mutation,rb=data$rb,user=data$user,comment=data$comment,tag=data$tag)
+  data = as.data.frame(t(data))
   colnames(data)=fields
   print(data)
   #auto-fill with the user-id from local config if missing?
+  
   write_tsv(data,file="shiny_responses.tsv",append = F)
 }
 
