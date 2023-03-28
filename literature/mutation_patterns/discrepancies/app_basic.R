@@ -39,7 +39,8 @@ save_data=function(data){
 }
 
 ui <- fluidPage(
-  selectInput("gene", "Pick a Gene", choices = unique(options_df$Gene) ),
+  selectInput("gene", "Pick a Gene", choices = unique(options_df$Gene)),
+  actionButton("random", "Suggest a random gene"),
   radioButtons("status","Which variants do you want to review?", choiceNames=list("Unreviewed","Reviewed"),choiceValues=list("unreviewed","reviewed")),
   selectInput("mutation", "Pick a Mutation", choices = NULL),
   #tableOutput("data"),
@@ -119,6 +120,12 @@ server <- function(input, output, session) {
       height = 800
     )
   }, deleteFile = FALSE)
+  # randomly pick a gene for the user
+  observeEvent(input$random, {
+    
+    
+    updateSelectInput(inputId = "gene", choices = sample(unique(options_df$Gene),1))
+  })
   # When the Submit button is clicked, save the form data
   observeEvent(input$submit, {
     saved = save_data(formData())
