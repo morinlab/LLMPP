@@ -23,9 +23,7 @@ options_df = data.frame(full=dir(recursive=T,pattern=".png")) %>%
 
 
 save_data=function(data){
-  #This function works well until the tag is introduced. A missing tag and a list of more than one tag both break it, causing a blank line instead of the contents of the data frame to write to the file
-  #combine tags into one
- 
+
   if(class(data[["tag"]]) == "character"){
     data[["tag"]] = unlist(paste0(data[["tag"]],collapse=";"))
   }else{
