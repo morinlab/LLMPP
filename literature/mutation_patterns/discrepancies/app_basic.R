@@ -42,7 +42,7 @@ ui <- fluidPage(
   selectInput("gene", "Pick a Gene", choices = unique(options_df$Gene) ),
   radioButtons("status","Which variants do you want to review?", choiceNames=list("Unreviewed","Reviewed"),choiceValues=list("unreviewed","reviewed")),
   selectInput("mutation", "Pick a Mutation", choices = NULL),
-  tableOutput("data"),
+  #tableOutput("data"),
   radioButtons("rb", "Mutation quality:",width="100%",
                choiceNames = list(
                  "0: Zero support for the variant in the reads",
