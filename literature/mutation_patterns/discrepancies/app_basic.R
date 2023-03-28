@@ -14,8 +14,8 @@ get_user = function(){
 
 review_results = read_tsv(shiny_log,col_names=fields)
 
-base_dir = "./"
-options_df = data.frame(full=dir("./",recursive=T,pattern=".png")) %>% 
+
+options_df = data.frame(full=dir(recursive=T,pattern=".png")) %>% 
   mutate(base=basename(full)) %>%
   mutate(basename=base) %>% 
   separate(base,into=c("Region","End","Gene","sample_id","Ref","Alt"),sep="-+") %>% 

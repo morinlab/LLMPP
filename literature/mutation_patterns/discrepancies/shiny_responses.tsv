@@ -1,0 +1,32 @@
+7:5567779-5568180--ACTB--Reddy_2281T----C--snapshot.png	4	rdmorin	NCN	looks reasonable
+7:5568091-5568492--ACTB--Reddy_3873T--GGATAGCACAGCCT----snapshot.png	5	rdmorin	NCN	
+7:5568600-5569001--ACTB--Reddy_2604T--TCT----snapshot.png	3	rdmorin	LCT;NCN	
+7:5567247-5567648--ACTB--Reddy_3832T--G-C--snapshot.png	4	rdmorin	NCN	
+7:5567296-5567697--ACTB--Reddy_2225T--G-C--snapshot.png	5	rdmorin		
+7:5567488-5567889--ACTB--Reddy_2666T--C-T--snapshot.png	2	rdmorin	NCN	
+7:5567539-5567940--ACTB--Reddy_3820T--A-T--snapshot.png	1	rdmorin	NCN	
+7:5567798-5568199--ACTB--Reddy_2762T--C-T--snapshot.png	1	rdmorin	NCN	
+7:5567864-5568265--ACTB--Reddy_2654T--C-T--snapshot.png	3	rdmorin	LVF;NCN	
+11:108191849-108192250--ATM--Reddy_2865T--GTGTAA----snapshot.png	2	rdmorin	NCN	
+11:108198192-108198593--ATM--Reddy_2306T--TACA----snapshot.png	5	rdmorin	NCN	
+11:108235991-108236392--ATM--Reddy_2838T--A----snapshot.png	5	rdmorin	NCN	
+11:108117535-108117936--ATM--Reddy_2678T--T-C--snapshot.png	2	rdmorin	NCN	
+11:108121278-108121679--ATM--Reddy_3400T--A-G--snapshot.png	1	rdmorin	LVF;NCN	Appears to be amplicon contamination
+11:108121278-108121679--ATM--Reddy_3404T--A-G--snapshot.png	0	rdmorin	LVF;NCN	Appears to be amplicon contamination
+11:108121331-108121732--ATM--Reddy_2650T--C-G--snapshot.png	1	rdmorin	LVF;NCN	Appears to be amplicon contamination
+7:5568600-5569001--ACTB--Reddy_3664T--TCT----snapshot.png	4	rdmorin	NCN	
+7:5567900-5568301--ACTB--Reddy_3941T--T-A--snapshot.png	2	rdmorin	NCN	
+11:532516-532917--HRAS--Reddy_2253T--G-A--snapshot.png	3	rdmorin	LVF	
+11:532500-532901--HRAS--Reddy_2912T--C-T--snapshot.png	1	rdmorin	SIO;NCN	
+11:533269-533670--HRAS--Reddy_2777T--G-A--snapshot.png	1	rdmorin	NCN	
+11:533269-533670--HRAS--Reddy_3482T--G-A--snapshot.png	1	rdmorin	NCN	
+11:533269-533670--HRAS--Reddy_3537T--G-A--snapshot.png	1	rdmorin	NCN	
+11:533269-533670--HRAS--Reddy_3726T--G-A--snapshot.png	1	rdmorin	NCN	
+11:533735-534136--HRAS--Reddy_3580T--G-A--snapshot.png	1	rdmorin	NCN	
+11:108121331-108121732--ATM--Reddy_3454T--C-G--snapshot.png	2	rdmorin	AI	
+11:108121449-108121850--ATM--Reddy_2545T--A-C--snapshot.png	2	rdmorin	LVF;NCN	
+11:108122404-108122805--ATM--Reddy_3490T--A-G--snapshot.png	2	rdmorin	HDR;NCN	
+11:108122459-108122860--ATM--Reddy_3468T--G-T--snapshot.png	3	rdmorin	NCN	
+11:108123355-108123756--ATM--Reddy_3631T--A-G--snapshot.png	4	rdmorin		
+11:108138940-108139341--ATM--Reddy_2838T--C-T--snapshot.png	4	rdmorin		
+11:108141782-108142183--ATM--Reddy_3971T--G-T--snapshot.png	1	rdmorin	NCN	Evidence of amplicon
