@@ -12,7 +12,7 @@ get_user = function(){
   return(user_res)
 }
 
-review_results = read_tsv(shiny_log,col_names=fields)
+review_results = suppressMessages(read_tsv(shiny_log,col_names=fields))
 
 
 options_df = data.frame(full=dir(recursive=T,pattern=".png")) %>% 
@@ -33,8 +33,8 @@ save_data=function(data){
   data <- data.frame(t(sapply(data,c)))
   colnames(data)=fields
   
-  write_tsv(data,file=shiny_log,append = T)
-  review_results = read_tsv(shiny_log,col_names=fields)
+  suppressMessages(write_tsv(data,file=shiny_log,append = T))
+  review_results = suppressMessages(read_tsv(shiny_log,col_names=fields))
   return(review_results)
 }
 
@@ -104,25 +104,14 @@ server <- function(input, output, session) {
   })
 
   
-  output$photo <- renderImage({
-    req(input$mutation)
-    full_path = g() %>% 
-      filter(basename==input$mutation) %>%
-      pull(full)
-    
-    
-    list(
-      src = paste0("./", full_path),
-      contentType = "image/png",
-      width = 1000,
-      height = 800
-    )
-  }, deleteFile = FALSE)
+  
   # randomly pick a gene for the user
   observeEvent(input$random, {
     subset_df = subset()
     #limit the choices to the genes with at least one qualifying variant available
-    updateSelectInput(inputId = "gene", choices = sample(unique(subset_df$Gene),1))
+    this_gene = sample(unique(subset_df$Gene),1)
+    updateSelectInput(inputId = "gene", choices = this_gene)
+    
   })
   # When the Submit button is clicked, save the form data
   observeEvent(input$submit, {
@@ -158,5 +147,20 @@ server <- function(input, output, session) {
                              selected = NULL
                              ,inline = T)
   })
+  output$photo <- renderImage({
+    req(input$mutation)
+    full_path = g() %>% 
+      filter(basename==input$mutation) %>%
+      pull(full)
+    #this seems to be running even if input$mutation is not set
+    #causing this error:
+    #'raw = FALSE' but './' is not a regular file
+    list(
+      src = paste0("./", full_path),
+      contentType = "image/png",
+      width = 1000,
+      height = 800
+    )
+  }, deleteFile = FALSE)
 }
 shinyApp(ui, server)
