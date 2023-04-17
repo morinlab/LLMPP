@@ -16,6 +16,7 @@ review_results = suppressMessages(read_tsv(shiny_log,col_names=fields))
 
 
 options_df = data.frame(full=dir(recursive=T,pattern=".png")) %>% 
+  filter(!grepl("Panea",full)) %>%
   mutate(base=basename(full)) %>%
   mutate(basename=base) %>% 
   separate(base,into=c("Region","End","Gene","sample_id","Ref","Alt"),sep="-+") %>% 
