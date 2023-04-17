@@ -1179,4 +1179,38 @@ X:100611669-100612070--BTK--Reddy_2467T--A-G--snapshot.png	3	rdmorin
 9:21970990-21971391--CDKN2A--Reddy_3726T--G-A--snapshot.png	1	rdmorin		
 9:21994129-21994530--CDKN2A--Reddy_2241T--A-T--snapshot.png	4	rdmorin		
 9:21994130-21994531--CDKN2A--Reddy_3875T--T-C--snapshot.png	4	rdmorin		
-9:21994130-21994531--CDKN2A--Reddy_3876T--T-C--snapshot.png	4	rdmorin
+9:21994130-21994531--CDKN2A--Reddy_3876T--T-C--snapshot.png	4	rdmorin		
+10:98708710-98709111--LCOR--Reddy_2813T--C-G--snapshot.png	5	ninaliuta		
+17:29684127-29684528--NF1--Reddy_2124T--G-A--snapshot.png	2	ninaliuta	LVF	
+17:29422171-29422572--NF1--Reddy_2263T--G-A--snapshot.png	1	ninaliuta	LCT	
+17:29422171-29422572--NF1--Reddy_2543T--G-A--snapshot.png	1	ninaliuta		
+17:29482909-29483310--NF1--Reddy_3987T--G-A--snapshot.png	1	ninaliuta	LCT	
+20:57428130-57428531--GNAS--Reddy_3412T--C-T--snapshot.png	3	ninaliuta		
+17:7576892-7577293--TP53--Reddy_2685T----CGGCAAAGCGTAGTCCG--snapshot.png	3	ninaliuta	LCT	
+17:7577981-7578382--TP53--Reddy_3861T--GGCGGCTCATAG----snapshot.png	4	ninaliuta	LCT	
+22:23230068-23230469--IGLL5--Reddy_2229T--C----snapshot.png	4	ninaliuta	LCT	
+22:23230071-23230472--IGLL5--Reddy_2074T--CTGAGGAGCTGGG----snapshot.png	3	ninaliuta	LCT	
+22:23230165-23230566--IGLL5--Reddy_2816T----C--snapshot.png	3	ninaliuta	LCT	
+2:102472350-102472751--MAP4K4--Reddy_3873T--G-C--snapshot.png	2	ninaliuta	LCT	
+3:105459265-105459666--CBLB--Reddy_3846T--G-A--snapshot.png	2	ninaliuta	LCT	
+16:27353271-27353672--IL4R--Reddy_2233T--T-C--snapshot.png	5	ninaliuta		
+16:27353274-27353675--IL4R--Reddy_3977T--G-A--snapshot.png	4	ninaliuta		
+12:11802894-11803295--ETV6--Reddy_2867T--G----snapshot.png	4	ninaliuta		
+12:11991889-11992290--ETV6--Reddy_2643T--ACTGGAGCAG----snapshot.png	5	ninaliuta		
+12:12006270-12006671--ETV6--Reddy_2957T----AT--snapshot.png	5	ninaliuta		
+4:83891309-83891710--LIN54--Reddy_3458T--C-A--snapshot.png	2	ninaliuta	LCT	
+4:83891357-83891758--LIN54--Reddy_2274T--C-A--snapshot.png	3	ninaliuta	LVF	
+4:83899926-83900327--LIN54--Reddy_2705T--G-C--snapshot.png	4	ninaliuta		
+4:83905316-83905717--LIN54--Reddy_3444T--A-G--snapshot.png	4	ninaliuta		
+4:83905328-83905729--LIN54--Reddy_2307T--G-C--snapshot.png	4	ninaliuta		
+18:30349858-30350259--KLHL14--Reddy_2211T--A-C--snapshot.png	5	ninaliuta		
+6:26234401-26234802--HIST1H1D--Reddy_3637T--GGCAGCTTTTTTTGGCTGA----snapshot.png	4	ninaliuta		
+13:49026953-49027354--RB1--Reddy_2696T--A----snapshot.png	5	ninaliuta		
+3:176750652-176751053--TBL1XR1--Reddy_2767T--GTGTTT----snapshot.png	5	ninaliuta		
+1:190067063-190067464--FAM5C--Reddy_2087T--C-T--snapshot.png	2	ninaliuta	LCT	
+1:190067258-190067659--FAM5C--Reddy_2779T--T-C--snapshot.png	4	ninaliuta		
+18:30349858-30350259--KLHL14--Reddy_2211T--A-C--snapshot.png	5	ninaliuta		
+6:26234635-26235036--HIST1H1D--Reddy_2831T----TTGA--snapshot.png	4	ninaliuta		
+14:95556781-95557182--DICER1--Reddy_3999T--C-T--snapshot.png	1	ninaliuta	LCT	
+3:176750652-176751053--TBL1XR1--Reddy_2767T--GTGTTT----snapshot.png	5	ninaliuta		
+7:5568752-5569153--ACTB--Reddy_2153T--T-C--snapshot.png	3	ninaliuta		
