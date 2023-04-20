@@ -40,10 +40,12 @@ save_data=function(data){
 }
 
 ui <- fluidPage(
+  textOutput("todo"),
   selectInput("gene", "Pick a Gene", choices = unique(options_df$Gene)),
   actionButton("random", "Suggest a random gene"),
   radioButtons("status","Which variants do you want to review?", choiceNames=list("Unreviewed","Reviewed"),choiceValues=list("unreviewed","reviewed")),
   selectInput("mutation", "Pick a Mutation", choices = NULL),
+  
   #tableOutput("data"),
   radioButtons("rb", "Mutation quality:",width="100%",
                choiceNames = list(
@@ -91,6 +93,7 @@ server <- function(input, output, session) {
       dplyr::filter(options_df,!basename %in% review_results$mutation)
     }
   })
+
   observeEvent(subset(), {
     choices <- unique(subset()$Gene)
     updateSelectInput(inputId = "gene", choices = choices) 
@@ -150,6 +153,12 @@ server <- function(input, output, session) {
                              selected = NULL
                              ,inline = T)
   })
+  output$todo <- renderText({
+    numleft = subset() %>% nrow()
+    paste("Mutations unreviewed:",numleft)
+    
+  })
+  
   output$photo <- renderImage({
     req(input$mutation)
     full_path = g() %>% 
