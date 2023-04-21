@@ -1451,3 +1451,221 @@ X:100613206-100613607--BTK--Reddy_2764T--G-A--snapshot.png	1	ninaliuta
 1:23885465-23885866--ID3--Reddy_3513T--C-G--snapshot.png	3	ninaliuta		
 1:23885467-23885868--ID3--Reddy_2884T--A-C--snapshot.png	4	ninaliuta		
 1:23885477-23885878--ID3--Reddy_4000T--G-A--snapshot.png	2	ninaliuta		
+1:27101068-27101469--ARID1A--Reddy_3842T--C----snapshot.png	5	rdmorin		
+1:27106716-27107117--ARID1A--Reddy_3892T--AG----snapshot.png	3	rdmorin		
+1:27057845-27058246--ARID1A--Reddy_2669T--CAG----snapshot.png	5	rdmorin		
+1:27023247-27023648--ARID1A--Reddy_648T--C-T--snapshot.png	3	rdmorin		
+1:27023277-27023678--ARID1A--Reddy_2947T--T-A--snapshot.png	3	rdmorin	HDR	
+1:27023360-27023761--ARID1A--Reddy_2577T--C-A--snapshot.png	4	rdmorin		
+17:3627046-3627447--GSG2--Reddy_2806T--C-G--snapshot.png	3	rdmorin		
+17:3627187-3627588--GSG2--Reddy_3965T--G-A--snapshot.png	4	rdmorin	HDR	
+17:3627221-3627622--GSG2--Reddy_2581T--C-A--snapshot.png	4	rdmorin	HDR	
+17:3627334-3627735--GSG2--Reddy_3520T--A-G--snapshot.png	3	rdmorin		
+17:3627352-3627753--GSG2--Reddy_2819T--G-A--snapshot.png	3	rdmorin		
+17:3628027-3628428--GSG2--Reddy_2562T--G-A--snapshot.png	3	rdmorin	LVF	
+17:3628030-3628431--GSG2--Reddy_2302T--C-T--snapshot.png	3	rdmorin	LVF	
+5:158523877-158524278--EBF1--Reddy_3407T--T-C--snapshot.png	3	rdmorin	LVF	
+5:158523882-158524283--EBF1--Reddy_3691T--T-G--snapshot.png	3	rdmorin	LVF	
+5:158523883-158524284--EBF1--Reddy_2137T--T-G--snapshot.png	3	rdmorin	LVF	
+2:47656859-47657260--MSH2--Reddy_2956T--C-A--snapshot.png	4	rdmorin		
+2:47656859-47657260--MSH2--Reddy_3453T--C-A--snapshot.png	1	rdmorin		
+1:37941310-37941711--ZC3H12A--Reddy_2154T--TGGTCATCGA----snapshot.png	5	rdmorin		
+1:37947097-37947498--ZC3H12A--Reddy_3737T--AG----snapshot.png	5	rdmorin		
+1:37948728-37949129--ZC3H12A--Reddy_2278T--CCCCCTGCCTTTCCACCTCGAGAGTACTGGTCTGAACCATA----snapshot.png	5	rdmorin		
+1:37941091-37941492--ZC3H12A--Reddy_3861T--T-G--snapshot.png	4	rdmorin		
+1:37941105-37941506--ZC3H12A--Reddy_2538T--C-T--snapshot.png	5	rdmorin		
+1:37941120-37941521--ZC3H12A--Reddy_2542T--C-T--snapshot.png	4	rdmorin		
+X:48775659-48776060--PIM2--Reddy_2226T--CCCCCCTTACCC----snapshot.png	5	rdmorin		
+X:48772417-48772818--PIM2--Reddy_2936T--G-T--snapshot.png	5	rdmorin		
+X:48774866-48775267--PIM2--Reddy_2894T--A-C--snapshot.png	3	rdmorin		
+X:48771339-48771740--PIM2--Reddy_3603T--G-A--snapshot.png	2	rdmorin		
+X:48771570-48771971--PIM2--Reddy_3412T--C-T--snapshot.png	1	rdmorin		
+X:48775624-48776025--PIM2--Reddy_3944T--C-T--snapshot.png	3	rdmorin		
+X:48775668-48776069--PIM2--Reddy_2777T--C-T--snapshot.png	1	rdmorin		
+X:48775668-48776069--PIM2--Reddy_3985T--C-T--snapshot.png	2	rdmorin		
+X:48775705-48776106--PIM2--Reddy_3620T--C-T--snapshot.png	3	rdmorin	HDR	
+X:48775714-48776115--PIM2--Reddy_2784T--C-T--snapshot.png	1	rdmorin		
+21:36164634-36165035--RUNX1--Reddy_2241T--C-T--snapshot.png	4	rdmorin		
+21:36206548-36206949--RUNX1--Reddy_2928T--T-C--snapshot.png	3	rdmorin		
+21:36420941-36421342--RUNX1--Reddy_2784T--C-T--snapshot.png	4	rdmorin		
+21:36164245-36164646--RUNX1--Reddy_3532T--C-T--snapshot.png	1	rdmorin		
+21:36164264-36164665--RUNX1--Reddy_3636T--G-A--snapshot.png	1	rdmorin		
+21:36164275-36164676--RUNX1--Reddy_799T--G-A--snapshot.png	1	rdmorin		
+21:36164386-36164787--RUNX1--Reddy_2585T--G-A--snapshot.png	1	rdmorin		
+21:36164386-36164787--RUNX1--Reddy_3604T--G-A--snapshot.png	1	rdmorin		
+21:36164422-36164823--RUNX1--Reddy_2237T--A-C--snapshot.png	3	rdmorin		
+21:36164638-36165039--RUNX1--Reddy_830T--C-T--snapshot.png	0	rdmorin		rare example of variant with no supporting reads
+21:36164689-36165090--RUNX1--Reddy_2692T--G-A--snapshot.png	1	rdmorin		
+21:36164689-36165090--RUNX1--Reddy_2995T--G-A--snapshot.png	1	rdmorin		
+21:36171532-36171933--RUNX1--Reddy_2551T--G-A--snapshot.png	1	rdmorin		
+21:36171532-36171933--RUNX1--Reddy_3408T--G-A--snapshot.png	1	rdmorin		
+21:36259016-36259417--RUNX1--Reddy_2873T--G-A--snapshot.png	2	rdmorin		
+21:36259016-36259417--RUNX1--Reddy_3946T--G-A--snapshot.png	1	rdmorin		
+21:36259050-36259451--RUNX1--Reddy_2581T--C-T--snapshot.png	2	rdmorin	HDR	
+1:65325633-65326034--JAK1--Reddy_2775T--G----snapshot.png	3	rdmorin		
+1:65303445-65303846--JAK1--Reddy_3746T--A-G--snapshot.png	3	rdmorin	LVF	
+1:65303454-65303855--JAK1--Reddy_3531T--T-A--snapshot.png	3	rdmorin	LVF	
+1:65305185-65305586--JAK1--Reddy_3906T--C-T--snapshot.png	2	rdmorin	AI	
+1:65307073-65307474--JAK1--Reddy_3746T--G-T--snapshot.png	2	rdmorin		
+1:65310320-65310721--JAK1--Reddy_3936T--G-T--snapshot.png	2	rdmorin		
+1:65321005-65321406--JAK1--Reddy_2659T--C-A--snapshot.png	3	rdmorin		
+1:65334921-65335322--JAK1--Reddy_3898T--G-A--snapshot.png	3	rdmorin		
+1:65334929-65335330--JAK1--Reddy_3439T--G-A--snapshot.png	4	rdmorin		
+1:65338921-65339322--JAK1--Reddy_2567T--C-T--snapshot.png	4	rdmorin		
+1:65310254-65310655--JAK1--Reddy_2891T--G-A--snapshot.png	2	rdmorin		
+1:65310269-65310670--JAK1--Reddy_3632T--G-A--snapshot.png	1	rdmorin		
+1:65310269-65310670--JAK1--Reddy_3652T--G-A--snapshot.png	1	rdmorin		
+1:65310283-65310684--JAK1--Reddy_3485T--G-C--snapshot.png	1	rdmorin		
+1:65321124-65321525--JAK1--Reddy_3675T--G-A--snapshot.png	1	rdmorin		
+1:65325636-65326037--JAK1--Reddy_3998T--G-A--snapshot.png	2	rdmorin		
+1:65325679-65326080--JAK1--Reddy_3675T--G-A--snapshot.png	2	rdmorin		
+1:65332623-65333024--JAK1--Reddy_3434T--C-T--snapshot.png	1	rdmorin		
+1:65334815-65335216--JAK1--Reddy_2203T--G-A--snapshot.png	2	rdmorin		
+1:65344515-65344916--JAK1--Reddy_3661T--G-A--snapshot.png	2	rdmorin		
+1:65344515-65344916--JAK1--Reddy_3770T--G-A--snapshot.png	1	rdmorin		
+1:65344515-65344916--JAK1--Reddy_3907T--G-A--snapshot.png	1	rdmorin		
+1:65344527-65344928--JAK1--Reddy_2194T--G-A--snapshot.png	1	rdmorin		
+1:65344527-65344928--JAK1--Reddy_3386T--G-A--snapshot.png	1	rdmorin		
+1:65344527-65344928--JAK1--Reddy_3539T--G-A--snapshot.png	1	rdmorin		
+1:65344527-65344928--JAK1--Reddy_3775T--G-A--snapshot.png	1	rdmorin		
+1:65344527-65344928--JAK1--Reddy_3990T--G-A--snapshot.png	1	rdmorin		
+1:65344559-65344960--JAK1--Reddy_2714T--C-T--snapshot.png	1	rdmorin		
+2:32640567-32640968--BIRC6--Reddy_2688T--C-G--snapshot.png	3	rdmorin	LVF	
+2:32641017-32641418--BIRC6--Reddy_3649T--G-A--snapshot.png	2	rdmorin		
+2:32688079-32688480--BIRC6--Reddy_2212T--A-T--snapshot.png	3	rdmorin	HDR	
+2:32689546-32689947--BIRC6--Reddy_3429T--T-A--snapshot.png	5	rdmorin		
+X:24197470-24197871--ZFX--Reddy_3815T----GTTGGACAT--snapshot.png	4	rdmorin		
+X:24228871-24229272--ZFX--Reddy_3538T--AT----snapshot.png	4	rdmorin		
+X:24228933-24229334--ZFX--Reddy_2474T----A--snapshot.png	4	rdmorin		
+X:24228895-24229296--ZFX--Reddy_2766T--C-T--snapshot.png	3	rdmorin		
+X:24229154-24229555--ZFX--Reddy_3454T--C-T--snapshot.png	3	rdmorin		
+X:24229232-24229633--ZFX--Reddy_2524T--G-A--snapshot.png	3	rdmorin	LVF	
+X:24226176-24226577--ZFX--Reddy_3631T--G-A--snapshot.png	1	rdmorin		
+X:24228346-24228747--ZFX--Reddy_2571T--G-A--snapshot.png	1	rdmorin		
+X:24228554-24228955--ZFX--Reddy_2133T--C-T--snapshot.png	2	rdmorin		
+X:24228554-24228955--ZFX--Reddy_2776T--C-T--snapshot.png	2	rdmorin		
+X:24228554-24228955--ZFX--Reddy_3594T--C-T--snapshot.png	1	rdmorin		
+X:24228870-24229271--ZFX--Reddy_3538T--CAT-C--snapshot.png	5	rdmorin		
+X:24228870-24229271--ZFX--Reddy_3538T--CAT-C--snapshot.png	5	rdmorin		
+14:21869396-21869797--CHD8--Reddy_2838T--T----snapshot.png	4	rdmorin		
+14:21861617-21862018--CHD8--Reddy_3660T--G-T--snapshot.png	4	rdmorin		
+14:21861986-21862387--CHD8--Reddy_2794T--C-G--snapshot.png	4	rdmorin		
+14:21868028-21868429--CHD8--Reddy_3600T--C-T--snapshot.png	2	rdmorin		
+14:21868513-21868914--CHD8--Reddy_2453T--G-A--snapshot.png	2	rdmorin		
+14:21868536-21868937--CHD8--Reddy_3991T--C-T--snapshot.png	4	rdmorin		
+14:21871574-21871975--CHD8--Reddy_2680T--A-G--snapshot.png	4	rdmorin		
+14:21871601-21872002--CHD8--Reddy_3663T--G-A--snapshot.png	3	rdmorin		
+19:17945213-17945614--JAK3--Reddy_2113T--C-T--snapshot.png	3	rdmorin		
+6:157192557-157192958--ARID1B--Reddy_2689T--G-A--snapshot.png	4	rdmorin		
+6:157522129-157522530--ARID1B--Reddy_3982T--G-A--snapshot.png	4	rdmorin		
+6:157527209-157527610--ARID1B--Reddy_3834T--G-C--snapshot.png	3	rdmorin		
+6:157527329-157527730--ARID1B--Reddy_3901T--A-C--snapshot.png	3	rdmorin		
+6:157527632-157528033--ARID1B--Reddy_2213T--G-A--snapshot.png	1	rdmorin		
+6:157527780-157528181--ARID1B--Reddy_2688T--A-C--snapshot.png	3	rdmorin	LVF	
+6:157527818-157528219--ARID1B--Reddy_2597T--A-C--snapshot.png	5	rdmorin		
+6:157098952-157099353--ARID1B--Reddy_2220T--G-A--snapshot.png	2	rdmorin		
+6:157098952-157099353--ARID1B--Reddy_3486T--G-A--snapshot.png	1	rdmorin		
+6:157098952-157099353--ARID1B--Reddy_3732T--G-A--snapshot.png	1	rdmorin		
+6:157098979-157099380--ARID1B--Reddy_2217T--C-T--snapshot.png	1	rdmorin		
+6:157098979-157099380--ARID1B--Reddy_823T--C-T--snapshot.png	1	rdmorin		
+6:157098991-157099392--ARID1B--Reddy_2142T--C-T--snapshot.png	1	rdmorin		
+6:157098991-157099392--ARID1B--Reddy_3438T--C-T--snapshot.png	2	rdmorin		
+6:157098991-157099392--ARID1B--Reddy_3655T--C-T--snapshot.png	1	rdmorin		
+6:157098993-157099394--ARID1B--Reddy_3462T--G-A--snapshot.png	1	rdmorin		
+6:157098993-157099394--ARID1B--Reddy_3505T--G-A--snapshot.png	2	rdmorin		
+6:157098993-157099394--ARID1B--Reddy_3652T--G-A--snapshot.png	2	rdmorin		
+6:157098993-157099394--ARID1B--Reddy_3686T--G-A--snapshot.png	1	rdmorin		
+6:157098993-157099394--ARID1B--Reddy_3886T--G-A--snapshot.png	1	rdmorin		
+6:157098997-157099398--ARID1B--Reddy_3740T--C-T--snapshot.png	1	rdmorin		
+6:157099033-157099434--ARID1B--Reddy_2567T--C-T--snapshot.png	1	rdmorin		
+6:157099033-157099434--ARID1B--Reddy_3832T--C-T--snapshot.png	1	rdmorin		
+6:157099077-157099478--ARID1B--Reddy_2773T--G-A--snapshot.png	1	rdmorin		
+6:157099077-157099478--ARID1B--Reddy_3986T--G-A--snapshot.png	2	rdmorin		
+6:157099302-157099703--ARID1B--Reddy_2785T--G-A--snapshot.png	1	rdmorin		
+6:157099302-157099703--ARID1B--Reddy_3412T--G-A--snapshot.png	2	rdmorin		
+6:157099315-157099716--ARID1B--Reddy_2643T--G-A--snapshot.png	2	rdmorin		
+6:157099345-157099746--ARID1B--Reddy_3708T--G-A--snapshot.png	1	rdmorin		
+6:157099345-157099746--ARID1B--Reddy_3967T--G-A--snapshot.png	1	rdmorin		
+6:157099369-157099770--ARID1B--Reddy_2539T--G-A--snapshot.png	1	rdmorin		
+6:157099369-157099770--ARID1B--Reddy_2639T--G-A--snapshot.png	1	rdmorin		
+6:157099369-157099770--ARID1B--Reddy_3726T--G-A--snapshot.png	1	rdmorin		
+6:157099380-157099781--ARID1B--Reddy_2706T--C-T--snapshot.png	1	rdmorin		
+6:157099403-157099804--ARID1B--Reddy_2479T--C-A--snapshot.png	1	rdmorin		
+6:157099403-157099804--ARID1B--Reddy_3707T--C-A--snapshot.png	1	rdmorin		
+6:157099428-157099829--ARID1B--Reddy_3939T--C-T--snapshot.png	1	rdmorin		
+6:157099456-157099857--ARID1B--Reddy_2219T--G-A--snapshot.png	1	rdmorin		
+6:157099456-157099857--ARID1B--Reddy_3496T--G-A--snapshot.png	1	rdmorin		
+6:157099539-157099940--ARID1B--Reddy_2626T--G-A--snapshot.png	1	rdmorin		
+6:157099539-157099940--ARID1B--Reddy_3663T--G-A--snapshot.png	1	rdmorin	AI	
+6:157099560-157099961--ARID1B--Reddy_2262T--T-G--snapshot.png	2	rdmorin		
+6:157099642-157100043--ARID1B--Reddy_2533T--GCCCC-GCCC--snapshot.png	3	rdmorin		
+6:157099695-157100096--ARID1B--Reddy_3715T--G-A--snapshot.png	1	rdmorin		
+6:157100022-157100423--ARID1B--Reddy_3638T--G-A--snapshot.png	1	rdmorin		
+6:157100025-157100426--ARID1B--Reddy_2562T--G-A--snapshot.png	1	rdmorin		
+6:157100025-157100426--ARID1B--Reddy_3401T--G-A--snapshot.png	1	rdmorin		
+6:157100052-157100453--ARID1B--Reddy_2477T--tcggcggcggggggcTTCCAGCGCTTCGCCGGCC-tcggcggggggcTTCCAGCGCTTCGCCGGCC--snapshot.png	4	rdmorin		
+6:157100082-157100483--ARID1B--Reddy_3609T--G-A--snapshot.png	1	rdmorin		
+6:157100083-157100484--ARID1B--Reddy_2261T--G-A--snapshot.png	1	rdmorin		
+6:157100083-157100484--ARID1B--Reddy_816T--G-A--snapshot.png	1	rdmorin		
+6:157100148-157100549--ARID1B--Reddy_2461T--A-G--snapshot.png	3	rdmorin		
+6:157100148-157100549--ARID1B--Reddy_2581T--A-G--snapshot.png	4	rdmorin		
+6:157100148-157100549--ARID1B--Reddy_3616T--A-G--snapshot.png	4	rdmorin		
+6:157100272-157100673--ARID1B--Reddy_3764T--C-T--snapshot.png	1	rdmorin		
+6:157100326-157100727--ARID1B--Reddy_3979T--C-T--snapshot.png	2	rdmorin		
+6:157100374-157100775--ARID1B--Reddy_3504T--G-A--snapshot.png	1	rdmorin		
+17:37944409-37944810--IKZF3--Reddy_799T--C-A--snapshot.png	2	rdmorin		
+17:37944409-37944810--IKZF3--Reddy_799T--C-A--snapshot.png	2	rdmorin		
+10:128776026-128776427--DOCK1--Reddy_2217T--T-C--snapshot.png	3	rdmorin		
+10:128785644-128786045--DOCK1--Reddy_2137T--T-G--snapshot.png	3	rdmorin		
+10:128785647-128786048--DOCK1--Reddy_2685T--G-A--snapshot.png	4	rdmorin		
+10:128788582-128788983--DOCK1--Reddy_3963T--T-A--snapshot.png	4	rdmorin		
+10:128794883-128795284--DOCK1--Reddy_2838T--T-C--snapshot.png	4	rdmorin		
+10:128794886-128795287--DOCK1--Reddy_3843T--G-A--snapshot.png	4	rdmorin		
+10:128794942-128795343--DOCK1--Reddy_3448T--G-C--snapshot.png	4	rdmorin		
+10:128796167-128796568--DOCK1--Reddy_3728T--G-T--snapshot.png	3	rdmorin		
+10:128797476-128797877--DOCK1--Reddy_3520T--C-T--snapshot.png	4	rdmorin		
+10:128798303-128798704--DOCK1--Reddy_2705T--G-A--snapshot.png	2	rdmorin		
+10:128798318-128798719--DOCK1--Reddy_3872T--A-T--snapshot.png	3	rdmorin		
+10:128816779-128817180--DOCK1--Reddy_2688T--T-C--snapshot.png	3	rdmorin	LVF	
+10:128816827-128817228--DOCK1--Reddy_3450T--G-T--snapshot.png	5	rdmorin		
+10:128816867-128817268--DOCK1--Reddy_2933T--G-A--snapshot.png	3	rdmorin	LVF	
+19:4054406-4054807--ZBTB7A--Reddy_2194T--CGGCGGCCACAG----snapshot.png	4	rdmorin		
+19:4054614-4055015--ZBTB7A--Reddy_2781T--GTCGGCGCCCGCGTCGGCCGCCAGGATCTGCCGGTCCAGGAG----snapshot.png	4	rdmorin		
+19:4054717-4055118--ZBTB7A--Reddy_2612T----CCACG--snapshot.png	4	rdmorin		
+19:4048033-4048434--ZBTB7A--Reddy_3838T--C-G--snapshot.png	3	rdmorin		
+19:4053843-4054244--ZBTB7A--Reddy_3997T--C-G--snapshot.png	3	rdmorin		
+19:4054087-4054488--ZBTB7A--Reddy_3419T--G-A--snapshot.png	2	rdmorin	LVF;HDR	
+19:4054123-4054524--ZBTB7A--Reddy_3454T--C-G--snapshot.png	3	rdmorin		
+16:85946570-85946971--IRF8--Reddy_2945T--AGG----snapshot.png	5	rdmorin		
+16:85954565-85954966--IRF8--Reddy_2620T--A----snapshot.png	4	rdmorin		
+16:85954607-85955008--IRF8--Reddy_3924T--C----snapshot.png	4	rdmorin		
+16:85954644-85955045--IRF8--Reddy_2530T--C----snapshot.png	5	rdmorin		
+16:85954666-85955067--IRF8--Reddy_2826T--A----snapshot.png	4	rdmorin		
+16:27353298-27353699--IL4R--Reddy_3655T--A-G--snapshot.png	4	rdmorin		
+16:27353329-27353730--IL4R--Reddy_3483T--A-G--snapshot.png	4	rdmorin		
+16:27353364-27353765--IL4R--Reddy_2453T--G-T--snapshot.png	4	rdmorin		
+16:27357620-27358021--IL4R--Reddy_3438T--C-G--snapshot.png	4	rdmorin		
+16:27357701-27358102--IL4R--Reddy_3432T--T-G--snapshot.png	2	rdmorin	AO	possible amplicon contaminant
+16:27357702-27358103--IL4R--Reddy_2110T--A-G--snapshot.png	4	rdmorin		
+16:27357702-27358103--IL4R--Reddy_3969T--A-G--snapshot.png	3	rdmorin		
+16:27366973-27367374--IL4R--Reddy_2248T--G-A--snapshot.png	4	rdmorin		
+16:27366983-27367384--IL4R--Reddy_2286T--T-A--snapshot.png	3	rdmorin		
+16:27366983-27367384--IL4R--Reddy_2775T--T-A--snapshot.png	3	rdmorin		
+16:27366983-27367384--IL4R--Reddy_3474T--T-A--snapshot.png	4	rdmorin		
+16:27366983-27367384--IL4R--Reddy_3636T--T-A--snapshot.png	3	rdmorin		
+16:27366983-27367384--IL4R--Reddy_3704T--T-A--snapshot.png	2	rdmorin		
+16:27366983-27367384--IL4R--Reddy_3882T--T-A--snapshot.png	3	rdmorin		
+16:27370084-27370485--IL4R--Reddy_2224T--G-A--snapshot.png	4	rdmorin		
+16:27370084-27370485--IL4R--Reddy_2705T--G-A--snapshot.png	4	rdmorin		
+6:27860397-27860798--HIST1H2AM--Reddy_2561T--TAGGCAGAACACCGCCC----snapshot.png	4	rdmorin		
+6:27860424-27860825--HIST1H2AM--Reddy_3779T--TAAC----snapshot.png	4	rdmorin		
+6:27860508-27860909--HIST1H2AM--Reddy_2102T--TGTCGCGGGCTGCG----snapshot.png	4	rdmorin		
+6:27860342-27860743--HIST1H2AM--Reddy_3764T--C-T--snapshot.png	4	rdmorin		
+17:40353606-40354007--STAT5B--Reddy_3500T--G-A--snapshot.png	2	rdmorin		
+17:40354260-40354661--STAT5B--Reddy_3447T--A-T--snapshot.png	2	rdmorin	AO	possible amplicon contaminant
+1:117078461-117078862--CD58--Reddy_2838T----T--snapshot.png	4	rdmorin		
+1:117086838-117087239--CD58--Reddy_2643T--AC----snapshot.png	3	rdmorin		
+1:117086838-117087239--CD58--Reddy_3936T--AC----snapshot.png	3	rdmorin		
+1:117086853-117087254--CD58--Reddy_2820T--AAAC----snapshot.png	2	rdmorin		
+1:117086906-117087307--CD58--Reddy_3928T--GCAAC----snapshot.png	3	rdmorin		
+1:117086916-117087317--CD58--Reddy_2820T--C----snapshot.png	4	rdmorin		
