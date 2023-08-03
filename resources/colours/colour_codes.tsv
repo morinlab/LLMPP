@@ -89,9 +89,13 @@ subgroup	coo	U	#05631EFF
 subgroup	coo	UNC	#05631EFF	yes
 subgroup	coo	GCB	#F58F20FF	
 subgroup	coo	DHITsig-	#F58F20FF	
+subgroup	coo	DZsig-	#F58F20FF	
 subgroup	coo	DHITsigNeg	#F58F20FF	yes
-subgroup	coo	DHITsig-IND	#003049FF	
-subgroup	coo	DHITsig+	#D62828FF	
+subgroup	coo	DZsigNeg	#F58F20FF	yes
+subgroup	coo	DZsig-IND	#003049FF	
+subgroup	coo	DHITsig-IND	#003049FF	yes
+subgroup	coo	DHITsig+	#D62828FF	yes
+subgroup	coo	DZsig+	#D62828FF	
 subgroup	coo	DHITsigPos	#D62828FF	yes
 genetic_alteration	copy_number	nLOH	#E026D7FF	
 genetic_alteration	copy_number	14	#380015FF	
