@@ -88,7 +88,7 @@ subgroup	coo	Unclass	#05631EFF	yes
 subgroup	coo	U	#05631EFF	
 subgroup	coo	UNC	#05631EFF	yes
 subgroup	coo	GCB	#F58F20FF	
-subgroup	coo	DHITsig-	#F58F20FF	
+subgroup	coo	DHITsig-	#F58F20FF	yes
 subgroup	coo	DZsig-	#F58F20FF	
 subgroup	coo	DHITsigNeg	#F58F20FF	yes
 subgroup	coo	DZsigNeg	#F58F20FF	yes
