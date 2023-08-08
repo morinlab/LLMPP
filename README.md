@@ -1,4 +1,4 @@
-![](https://github.com/morinlab/LLMPP/blob/main/docs/images/LLMPP_static_logo.jpeg?raw=true)
+![](https://github.com/morinlab/LLMPP/blob/main/docs/images/LLMPP_static_logo.png?raw=true)
 
 # Lymphoma/Leukemia Molecular Profiling Project
 
