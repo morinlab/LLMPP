@@ -1,0 +1,133 @@
+---
+title: "Creating UCSC track hubs"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Create bigBed files (.bb) with SSMs from aSHM regions separeted by pathologies
+
+## Define variables
+
+R variables.
+
+```{r}
+projection <- "hg38"      # grch37 hg38
+this_pathology <- "fl"    # bl comfl dlbcl fl
+output_dir <- "/projects/rmorin/projects/gambl-repos/gambl-vsouza/vlad_results/ucsc_track_hubs/ashm"
+```
+
+Bash variables.
+
+```{bash}
+projection=hg38
+this_pathology=fl
+output_dir=/projects/rmorin/projects/gambl-repos/gambl-vsouza/vlad_results/ucsc_track_hubs/ashm
+```
+
+
+## Code in R
+
+Load libraries
+
+```{r}
+library(GAMBLR.data)
+library(GAMBLR.utils)
+library(dplyr)
+```
+
+Create sub-directories.
+
+```{r}
+dir.create(output_dir, showWarnings = FALSE)
+dir.create( file.path(output_dir, projection, "bed"), showWarnings = FALSE )
+dir.create( file.path(output_dir, projection, "bb"), showWarnings = FALSE )
+```
+
+Create MAF with aSHMs from all pathologies --- DON'T RUN.
+
+```{r}
+if(projection == "grch37"){
+  region_all_ashm <- GAMBLR.data::grch37_ashm_regions
+}else if(projection == "hg38"){
+  region_all_ashm <- GAMBLR.data::hg38_ashm_regions
+}else{
+  region_all_ashm <- NA
+}
+maf_ashm <- get_ssm_by_regions(regions_bed = region_all_ashm, projection = projection, 
+                               streamlined = FALSE, basic_columns = TRUE)
+
+# add pathology column
+# my_meta <- get_gambl_metadata()
+my_meta <- sample_data$meta
+maf_ashm <- select(my_meta, sample_id, pathology) %>% 
+  left_join(maf_ashm, ., by = join_by(Tumor_Sample_Barcode == sample_id)) 
+```
+
+Subset MAF to a pathology.
+
+```{r}
+maf_ashm_pathology <- filter(maf_ashm, pathology == toupper(this_pathology))
+```
+
+Convert MAF to custom track (BED file) and save to a file.
+
+```{r}
+file.path( output_dir, projection, "bed", paste0(this_pathology, ".bed") ) %>% 
+  maf_to_custom_track(
+    maf_data = maf_ashm_pathology,
+    these_samples_metadata = my_meta,
+    output_file = .
+  )
+```
+
+
+## Code in bash
+
+Get shell env ready.
+
+```{bash}
+bed_file=${output_dir}/${projection}/bed/${this_pathology}.bed
+bb_file=${output_dir}/${projection}/bb/${this_pathology}.bb
+
+if [ $projection == "grch37" ] ; then
+  chrm_size=${output_dir}/hg19.chrom.sizes
+elif [ $projection == "hg38" ] ; then
+  chrm_size=${output_dir}/hg38.chrom.sizes
+else
+  chrm_size=""
+fi
+
+cd ${output_dir}
+```
+
+Get bedToBigBed --- don't run.
+
+```{bash}
+wget http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/bedToBigBed
+wget https://genome.ucsc.edu/goldenPath/help/hg19.chrom.sizes
+wget https://genome.ucsc.edu/goldenPath/help/hg38.chrom.sizes
+chmod a+x bedToBigBed
+```
+
+sort bed file. headers must be removed (sort-bed does that)
+
+```{bash}
+# cd dirname ${bed_file}
+# head -n 1 ashm_bl.bed > ashm_bl_sorted.bed
+# sed '1d' ashm_bl.bed > tempfile
+# sort -k1,1 -k2,2n tempfile >> ashm_bl_sorted.bed
+~/software/bedops/bin/sort-bed ${bed_file} > ${bed_file%.bed}_sorted.bed
+```
+
+convert bed to bb
+
+```{bash}
+./bedToBigBed ${bed_file%.bed}_sorted.bed $chrm_size $bb_file
+```
+
