@@ -1,0 +1,51 @@
+hub gamblr_ashm
+shortLabel gamblr ashm
+longLabel GAMBLR public aSHM mutations from hg38 projection
+useOneFile on
+email rdmorin@sfu.ca
+
+genome hg38
+
+track gamblr_ashm_regions
+shortLabel gamblr_ashm regions
+longLabel Regions where mutations were taken to hub gamblr_ashm
+visibility squish
+priority 1
+type bigBed
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/hg38/regions.bb?raw=true
+
+track gamblr_ashm_genome_BL
+shortLabel gamblr_ashm genome_BL
+longLabel gamblr_ashm genome_BL
+visibility squish
+priority 2
+type bigBed
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/hg38/genome_BL.bb?raw=true
+
+track gamblr_ashm_genome_DLBCL
+shortLabel gamblr_ashm genome_DLBCL
+longLabel gamblr_ashm genome_DLBCL
+visibility squish
+priority 3
+type bigBed
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/hg38/genome_DLBCL.bb?raw=true
+
+track gamblr_ashm_genome_FL
+shortLabel gamblr_ashm genome_FL
+longLabel gamblr_ashm genome_FL
+visibility squish
+priority 4
+type bigBed
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/hg38/genome_FL.bb?raw=true
+
+track gamblr_ashm_capture_DLBCL
+shortLabel gamblr_ashm capture_DLBCL
+longLabel gamblr_ashm capture_DLBCL
+visibility squish
+priority 5
+type bigBed
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/hg38/capture_DLBCL.bb?raw=true
