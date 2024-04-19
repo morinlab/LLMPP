@@ -21,8 +21,7 @@ visibility squish
 priority 2
 type bigBed
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/blob/vsouza-add_ashm_20240304/hubs/ashm_hubs/grch37/genome_BL.bb?raw=true
-
+bigDataUrl https://github.com/morinlab/LLMPP/raw/main/hubs/ashm_hubs/grch37/genome_BL.bb
 track gamblr_ashm_genome_DLBCL
 shortLabel gamblr_ashm genome_DLBCL
 longLabel gamblr_ashm genome_DLBCL
@@ -30,7 +29,7 @@ visibility squish
 priority 3
 type bigBed
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/blob/vsouza-add_ashm_20240304/hubs/ashm_hubs/grch37/genome_DLBCL.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/main/hubs/ashm_hubs/grch37/genome_DLBCL.bb
 
 track gamblr_ashm_genome_FL
 shortLabel gamblr_ashm genome_FL
