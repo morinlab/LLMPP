@@ -12,7 +12,7 @@ longLabel Regions where mutations were taken to hub gamblr_ashm
 visibility squish
 priority 1
 type bigBed
-bigDataUrl https://github.com/morinlab/LLMPP/blob/vsouza-add_ashm_20240304/hubs/ashm_hubs/grch37/regions.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/main/hubs/ashm_hubs/grch37/regions.bb
 
 track gamblr_ashm_genome_BL
 shortLabel gamblr_ashm genome_BL
