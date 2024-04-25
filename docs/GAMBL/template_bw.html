@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="utf-8">
+</head>
+<body>
+
+<script src="https://proteinpaint.stjude.org/bin/proteinpaint.js" charset="utf-8"></script>
+
+<div id=aaa style="margin:10px"></div>
+
+<script>
+runproteinpaint({
+  host:'https://proteinpaint.stjude.org',
+  holder:document.getElementById('aaa'),
+  genome:'hg19',
+  block:1,
+  positionbygene:'GENE_NAME',
+  tracks:[
+    {
+            type:"bigwig",
+            url:"https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/DLBCL_genome.10.bw",
+               	name:"mutation density",
+               	height:200
+    },
+    {
+      type:'vcf',
+      name:'GAMBL DLBCL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/DLBCL_genomes.vep.sort.vcf.gz'
+    },
+    {
+      type:'vcf',
+      name:'GAMBL FL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/FL_genomes.vep.sort.vcf.gz'
+    },
+    {
+      type:'vcf',
+      name:'GAMBL BL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/BL_genomes.vep.sort.vcf.gz'
+    },
+    {
+      type:'vcf',
+      name:'GAMBL MCL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/MCL_genomes.vep.sort.vcf.gz'
+    }
+  ],
+  nativetracks:	'RefGene',
+  noheader:true,
+  nobox:true
+})
+</script>
+</body>
+</html>

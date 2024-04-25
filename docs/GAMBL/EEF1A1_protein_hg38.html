@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="utf-8">
+</head>
+<body>
+
+<script src="https://proteinpaint.stjude.org/bin/proteinpaint.js" charset="utf-8"></script>
+
+<div id=aaa style="margin:10px"></div>
+
+<script>
+runproteinpaint({
+  host:'https://proteinpaint.stjude.org',
+  holder:document.getElementById('aaa'),
+  gene: 'EEF1A1',
+  genome:'hg38',
+  block:0,
+  positionbygene:'EEF1A1',
+  tracks:[
+    {
+      type:'vcf',
+      name:'GAMBL DLBCL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/DLBCL_genomes.hg38.coding.2.vcf.gz'
+    },
+    {
+      type:'vcf',
+      name:'GAMBL FL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/FL_genomes.hg38.coding.2.vcf.gz'
+    },
+    {
+      type:'vcf',
+      name:'GAMBL BL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/BL_genomes.hg38.coding.2.vcf.gz'
+    },
+    {
+      type:'vcf',
+      name:'GAMBL MCL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/MCL_genomes.hg38.coding.2.vcf.gz'
+    }
+  ],
+  nativetracks:	'RefGene',
+  noheader:true,
+  nobox:true,
+  hlaachange: 'p.Tyr646Phe,p.Tyr646Ser,Tyr646Phe,Y646H'
+})
+</script>
+</body>
+</html>
