@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="utf-8">
+</head>
+<body>
+
+<script src="https://proteinpaint.stjude.org/bin/proteinpaint.js" charset="utf-8"></script>
+
+<div id=aaa style="margin:10px"></div>
+
+<script>
+runproteinpaint({
+  host:'https://proteinpaint.stjude.org',
+  holder:document.getElementById('aaa'),
+  genome:'hg19',
+  block:1,
+  positionbygene:'KMT2D',
+  tracks:[
+    {
+            type:"bigwig",
+            url:"https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/DLBCL_genome.10.bw",
+               	name:"DLBCL mutation density",
+               	height:50,
+                pcolor: "#479450"
+    },
+    {
+            type:"bigwig",
+            url:"https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/BL_genome.10.bw",
+                name:"BL mutation density",
+                height:50,
+                pcolor: "#926CAD"
+    },
+    {
+            type:"bigwig",
+            url:"https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/FL_genome.10.bw",
+                name:"FL mutation density",
+                height:50,
+                pcolor: "#EA8368"
+    },
+    {
+            type:"bigwig",
+            url:"https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/MCL_genome.10.bw",
+                name:"MCL mutation density",
+                height:50,
+                pcolor: "#40E0D0"
+    },
+    {
+      type:'vcf',
+      name:'GAMBL DLBCL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/DLBCL_genomes.22-04-24.vcf.gz'
+    },
+    {
+      type:'vcf',
+      name:'GAMBL FL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/FL_genomes.22-04-24.vcf.gz'
+    },
+    {
+      type:'vcf',
+      name:'GAMBL BL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/BL_genomes.22-04-24.vcf.gz'
+    },
+    {
+      type:'vcf',
+      name:'GAMBL MCL',
+      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/MCL_genomes.22-04-24.vcf.gz'
+    }
+  ],
+  nativetracks:	'RefGene',
+  noheader:true,
+  nobox:true
+})
+</script>
+</body>
+</html>
