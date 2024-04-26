@@ -1,4 +1,4 @@
-Gene	Curated	PMBL_De_Leval	MGZL_De_Leval	CHL_De_Leval	CHL_Wienand	CHL_Gomez	CHL_Alig	CHL_Desch	CHL_earliest_description	freq_PMBCL_Mottok
+Gene	Curated	PMBL_De_Leval	MGZL_De_Leval	CHL_De_Leval	CHL_Wienand	CHL_Gomez	CHL_Alig	CHL_Desch	earliest_description	freq_PMBCL_Mottok
 ACTB	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	NA	27.08
 ACTG1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	31431735	16.67
 GPR126	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	NA	3.12
