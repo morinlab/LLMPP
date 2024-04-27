@@ -72,6 +72,7 @@ KMT2D	30617194	TRUE	DLBCL	14	15.8	13	12.9	TRUE	FALSE	11.316397228637413	Mutated 
 LTB	NA	FALSE	DLBCL	3	5.9	NA	NA	FALSE	TRUE	3.0023094688221708	Borderline evidence to consider this also a BL gene
 MCL1	31558468	FALSE	NA	2.1	2	4	4	FALSE	FALSE	1.8475750577367205	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 MEF2B	NA	FALSE	DLBCL	0.8	3	NA	NA	FALSE	TRUE	1.3856812933025404	DLBCL gene with extremely low mutation rate in BL
+MIR142	30617194	FALSE	NA	NA	NA	NA	NA	FALSE	TRUE	NA	
 MME	31558468	FALSE	NA	0.8	5.9	2	2	FALSE	FALSE	1.8475750577367205	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 MTOR	31558468	FALSE	NA	3.4	10.9	5	5	FALSE	FALSE	4.618937644341801	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
 MYC	TBD	TRUE	BL	60.2	49.5	64	63.4	FALSE	TRUE	61.89376443418014	Hot spots from aSHM can affect MYC protein stability
