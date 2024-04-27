@@ -112,7 +112,7 @@ STAT6	NA	FALSE	DLBCL	1.7	2	NA	NA	FALSE	FALSE	1.6166281755196306	DLBCL gene with 
 SYNCRIP	31558468	FALSE	BL	2.5	5	NA	NA	FALSE	FALSE	3.0023094688221708	Low frequency of coding mutations in all cohorts including initial study
 TBL1XR1	NA	FALSE	DLBCL	4.7	7.9	NA	NA	FALSE	TRUE	6.0046189376443415	DLBCL gene with extremely low mutation rate in BL
 TCF3	22885699	TRUE	BL	11	9.9	5	5	TRUE	FALSE	11.547344110854503	Confirmed by multiple studies
-TCL1A	30617194	FALSE	BL	5.9	4	5	5	FALSE	TRUE	4.157043879907621	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+TCL1A	30617194	TRUE	BL	5.9	4	5	5	FALSE	TRUE	4.157043879907621	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
 TET2	31558468	FALSE	DLBCL	5.1	10.9	NA	NA	FALSE	FALSE	5.311778290993072	DLBCL gene with extremely low mutation rate in BL
 TFAP4	30617194	TRUE	BL	10.6	9.9	12	11.9	TRUE	FALSE	10.161662817551964	Confirmed by multiple studies
 TMEM30A	NA	FALSE	DLBCL	1.3	5	NA	NA	FALSE	FALSE	1.8475750577367205	DLBCL gene with extremely low mutation rate in BL
