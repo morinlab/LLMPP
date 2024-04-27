@@ -13,7 +13,7 @@ BCR	31558468	FALSE	NA	6.4	10.9	7	6.9	FALSE	TRUE	6.0046189376443415	aSHM target g
 BIRC6	NA	FALSE	DLBCL	3.8	14.9	NA	NA	FALSE	FALSE	6.0046189376443415	DLBCL gene with extremely low mutation rate in BL
 BMP7	31558468	TRUE	NA	8.9	5	9	8.9	TRUE	FALSE	6.466512702078522	Confirmed by multiple studies
 BTG2	31558468	FALSE	NA	4.2	9.9	16	15.8	FALSE	TRUE	4.849884526558891	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-C10orf12	NA	FALSE	DLBCL	0	NA	NA	NA	FALSE	FALSE	3.464203233256351	DLBCL gene with extremely low mutation rate in BL
+LCOR	NA	FALSE	DLBCL	0	NA	NA	NA	FALSE	FALSE	3.464203233256351	DLBCL gene with extremely low mutation rate in BL
 CARD11	NA	FALSE	DLBCL	1.7	10.9	NA	NA	FALSE	FALSE	4.157043879907621	DLBCL gene with extremely low mutation rate in BL
 CCND3	22885699	TRUE	BL	28	17.8	19	18.8	TRUE	FALSE	27.48267898383372	Mutated at high frequency in both DLBCL and BL
 CCNF	26468873	FALSE	NA	NA	NA	NA	NA	FALSE	FALSE	1.6166281755196306	Hot spot reported in this study is a rare germline variant in African populations
