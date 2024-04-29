@@ -67,6 +67,8 @@ chr6	159237903	159240216	EZR	TSS	NA
 chr7	5568297	5570856	ACTB	TSS	active_promoter
 chr8	11347723	11355318	BLK	TSS	strong_enhancer
 chr8	128748352	128749427	MYC	TSS	active_promoter
+chr8	128807171	128810888	PVT1	TSS	active_promoter
+chr8	129183021	129186210	PVT1	distal-enhancer-1	enhancer
 chr9	37023396	37027663	PAX5	intron-1	intron
 chr9	37029849	37037154	PAX5	TSS-1	active_promoter
 chr9	37192080	37207549	ZCCHC7	intron-4	intron
