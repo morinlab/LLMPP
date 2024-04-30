@@ -1,0 +1,58 @@
+hub gamblr_ashm_test
+shortLabel gamblr ashm
+longLabel GAMBLR public aSHM mutations from grch37 projection
+useOneFile on
+email rdmorin@sfu.ca
+
+genome hg19
+
+track genome_BL
+shortLabel genome_BL
+longLabel genome_BL
+visibility squish
+priority 5
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/grch37/genome_BL.bb?raw=true
+
+track density_BL
+shortLabel density_BL
+longLabel density_BL
+visibility pack
+priority 6
+type bigWig
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/grch37/genome_BL.bw?raw=true
+
+track genome_FL
+shortLabel genome_FL
+longLabel genome_FL
+visibility squish
+priority 1
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/grch37/genome_FL.bb?raw=true
+
+track density_FL
+shortLabel density_FL
+longLabel density_FL
+visibility pack
+priority 2
+type bigWig
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/grch37/genome_FL.bw?raw=true
+
+track genome_DLBCL
+shortLabel genome_DLBCL
+longLabel genome_DLBCL
+visibility squish
+priority 3
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/grch37/genome_DLBCL.bb?raw=true
+
+track density_DLBCL
+shortLabel density_DLBCL
+longLabel density_DLBCL
+visibility pack
+priority 4
+type bigWig
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/grch37/genome_DLBCL.bw?raw=true
