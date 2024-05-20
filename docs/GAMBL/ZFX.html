@@ -13,6 +13,7 @@
 runproteinpaint({
   host:'https://proteinpaint.stjude.org',
   holder:document.getElementById('aaa'),
+  gene: 'ZFX',
   genome:'hg19',
   block:1,
   positionbygene:'ZFX',
@@ -20,50 +21,58 @@ runproteinpaint({
     {
             type:"bigwig",
             url:"https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/DLBCL_genome.10.bw",
-               	name:"DLBCL mutation density",
-               	height:50,
-                pcolor: "#479450"
+            name:"DLBCL mutation density",
+            height:50,
+            pcolor: "#479450"
     },
     {
             type:"bigwig",
             url:"https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/BL_genome.10.bw",
-                name:"BL mutation density",
-                height:50,
-                pcolor: "#926CAD"
+            name:"BL mutation density",
+            height:50,
+            pcolor: "#926CAD"
     },
     {
             type:"bigwig",
             url:"https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/FL_genome.10.bw",
-                name:"FL mutation density",
-                height:50,
-                pcolor: "#EA8368"
+            name:"FL mutation density",
+            height:50,
+            pcolor: "#EA8368"
     },
     {
             type:"bigwig",
             url:"https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/MCL_genome.10.bw",
-                name:"MCL mutation density",
-                height:50,
-                pcolor: "#40E0D0"
+            name:"MCL mutation density",
+            height:50,
+            pcolor: "#40E0D0"
     },
     {
-      type:'vcf',
+      type:'mds3',
       name:'GAMBL DLBCL',
-      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/DLBCL_genomes.22-04-24.vcf.gz'
+      bcf: {
+        url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/DLBCL_genomes.22-04-24.vcf.gz'
+      }
     },
     {
-      type:'vcf',
-      name:'GAMBL FL',
-      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/FL_genomes.22-04-24.vcf.gz'
+      type:'mds3',
+      name:'GAMBL FLs',
+      bcf: {
+        url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/grch37/20-05-24/FL_genomes.vcf.gz'
+      }
     },
     {
-      type:'vcf',
-      name:'GAMBL BL',
-      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/BL_genomes.22-04-24.vcf.gz'
+      type:'mds3',
+      name:'GAMBL BLs',
+      bcf: {
+        url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/grch37/20-05-24/BL_genomes.vcf.gz'
+      }
     },
     {
-      type:'vcf',
-      name:'GAMBL MCL',
-      url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/MCL_genomes.22-04-24.vcf.gz'
+      type:'mds3',
+      name:'GAMBL MCLs',
+      bcf: {
+        url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/grch37/20-05-24/MCL_genomes.vcf.gz'
+      }
     }
   ],
   nativetracks:	'RefGene',

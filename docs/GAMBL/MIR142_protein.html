@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="utf-8">
+</head>
+<body>
+
+<script src="https://proteinpaint.stjude.org/bin/proteinpaint.js" charset="utf-8"></script>
+
+<div id=aaa style="margin:10px"></div>
+
+<script>
+runproteinpaint({
+  host:'https://proteinpaint.stjude.org',
+  holder:document.getElementById('aaa'),
+  gene: 'MIR142',
+  genome:'hg19',
+  block:0,
+  positionbygene:'MIR142',
+  tracks:[
+    {
+      type:'mds3',
+      name:'GAMBL DLBCLs',
+      bcf: {
+        url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/grch37/20-05-24/DLBCL_genomes.vcf.gz'
+      }
+    },
+    {
+      type:'mds3',
+      name:'GAMBL FLs',
+      bcf: {
+        url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/grch37/20-05-24/FL_genomes.vcf.gz'
+      }
+    },
+    {
+      type:'mds3',
+      name:'GAMBL BLs',
+      bcf: {
+        url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/grch37/20-05-24/BL_genomes.vcf.gz'
+      }
+    },
+    {
+      type:'mds3',
+      name:'GAMBL MCLs',
+      bcf: {
+        url: 'https://github.com/morinlab/LLMPP/raw/main/hubs/proteinpaint/data/grch37/20-05-24/MCL_genomes.vcf.gz'
+      }
+    }
+  ],
+  nativetracks:	'RefGene',
+  noheader:true,
+  nobox:true,
+  hlaachange: 'p.Tyr646Phe,p.Tyr646Ser,Tyr646Phe,Y646H'
+})
+</script>
+</body>
+</html>
