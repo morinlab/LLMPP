@@ -1,4 +1,6 @@
 Gene	Year	Citekey	Entity	Tier
+ABCA3	2013	beaLandscapeSomaticMutations2013	MCL	2
+ABCC9	2013	beaLandscapeSomaticMutations2013	MCL	2
 ABI3BP	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
 ABL2	2023	russler-germainMutationsAssociatedProgression2023a	FL	2
 ACAD9	2012	loveGeneticLandscapeMutations2012	BL	2
@@ -79,6 +81,7 @@ CDKN2C	2023	thomasGeneticSubgroupsInform2023	BL	2
 CHD1	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 CHD4	2022	burkhardtClinicalRelevanceMolecular2022b	BL	2
 CHD8	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
+CHMP4C	2013	beaLandscapeSomaticMutations2013	MCL	2
 CHST2	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 CIITA	2011	morinFrequentMutationHistonemodifying2011	DLBCL	1
 CILP	2023	russler-germainMutationsAssociatedProgression2023a	FL	2
@@ -92,6 +95,7 @@ CPNE8	2021	hubschmannMutationalMechanismsShaping2021b	FL	2
 CPXM2	2022	burkhardtClinicalRelevanceMolecular2022b	BL	2
 CREBBP	2011	pasqualucciInactivatingMutationsAcetyltransferase2011a	DLBCL	1
 CRIP1	2018	chapuyMolecularSubtypesDiffuse2018b	DLBCL	2
+CRYBG3	2013	beaLandscapeSomaticMutations2013	MCL	2
 CTCF	2019	paneaWholeGenomeLandscape2019	BL	2
 CTNNA2	2014	zhangGenomicLandscapeMantle2014	MCL	2
 CTSS	NA	Unknown	FL	1
@@ -102,6 +106,7 @@ CYP2A6	2023	russler-germainMutationsAssociatedProgression2023a	FL	2
 CYP4F22	2012	loveGeneticLandscapeMutations2012	BL	2
 DAZAP1	2020	pararajalingamCodingNoncodingDrivers2020	DLBCL	1
 DCAF6	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
+DCP1B	2013	beaLandscapeSomaticMutations2013	MCL	2
 DDX10	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 DDX3X	2012	schmitzBurkittLymphomaPathogenesis2012	BL	1
 DHCR7	2012	schmitzBurkittLymphomaPathogenesis2012	BL	2
@@ -111,7 +116,9 @@ DHX16	2021	hubschmannMutationalMechanismsShaping2021b	DLBCL	2
 DICER1	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 DLC1	2014	zhangGenomicLandscapeMantle2014	MCL	2
 DLGAP1	2012	loveGeneticLandscapeMutations2012	BL	2
+DLGAP2	2013	beaLandscapeSomaticMutations2013	MCL	2
 DNAH5	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
+DNAJC6	2013	beaLandscapeSomaticMutations2013	MCL	2
 DNM2	2021	hubschmannMutationalMechanismsShaping2021b	DLBCL	2
 DNMT1	2019	paneaWholeGenomeLandscape2019	BL	2
 DNMT3A	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
@@ -239,7 +246,9 @@ JUNB	2017	reddyGeneticFunctionalDrivers2017	DLBCL	1
 JUP	2021	hubschmannMutationalMechanismsShaping2021b	FL	2
 KANK2	2012	schmitzBurkittLymphomaPathogenesis2012	BL	2
 KCMF1	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
+KCNC2	2013	beaLandscapeSomaticMutations2013	MCL	2
 KCNK10	2019	paneaWholeGenomeLandscape2019	BL	2
+KIAA1671	2013	beaLandscapeSomaticMutations2013	MCL	2
 KIFC3	2012	loveGeneticLandscapeMutations2012	BL	2
 KIR3DL1	2023	russler-germainMutationsAssociatedProgression2023a	FL	2
 KLF2	2011	pasqualucciAnalysisCodingGenome2011	DLBCL	1
@@ -258,6 +267,7 @@ LPP	2018	arthurGenomewideDiscoverySomatic2018	DLBCL	2
 LRP12	2021	hubschmannMutationalMechanismsShaping2021b	DLBCL	2
 LRRN3	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
 LTB	2018	chapuyMolecularSubtypesDiffuse2018b	DLBCL	1
+LUZP4	2013	beaLandscapeSomaticMutations2013	MCL	2
 LYN	2018	chapuyMolecularSubtypesDiffuse2018b	DLBCL	1
 MAGEC1	2023	russler-germainMutationsAssociatedProgression2023a	FL	2
 MAGT1	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
@@ -335,8 +345,10 @@ PCDHA11	2019	paneaWholeGenomeLandscape2019	BL	2
 PCDHB11	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
 PCDHB2	2014	zhangGenomicLandscapeMantle2014	MCL	2
 PCLO	2012	lohrDiscoveryPrioritizationSomatic2012a	DLBCL	2
+PCSK2	2013	beaLandscapeSomaticMutations2013	MCL	2
 PDCD11	2012	schmitzBurkittLymphomaPathogenesis2012	BL	2
 PDE4DIP	2018	chapuyMolecularSubtypesDiffuse2018b	DLBCL	2
+PDLIM3	2013	beaLandscapeSomaticMutations2013	MCL	2
 PDS5B	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
 PDZRN3	2019	paneaWholeGenomeLandscape2019	BL	2
 PHF6	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
@@ -388,6 +400,7 @@ REV3L	2022	burkhardtClinicalRelevanceMolecular2022b	BL	2
 RFTN1	2018	arthurGenomewideDiscoverySomatic2018	DLBCL	2
 RFX7	2019	grandeGenomewideDiscoverySomatic2019	BL	1
 RFXAP	NA	Unknown	DLBCL	1
+RGS4	2013	beaLandscapeSomaticMutations2013	MCL	2
 RHEX	NA	Unknown	DLBCL	2
 RHOA	2001	pasqualucciHypermutationMultipleProtooncogenes2001a	DLBCL	1
 RHOH	NA	Unknown	DLBCL	2
@@ -421,6 +434,7 @@ SHROOM3	2023	russler-germainMutationsAssociatedProgression2023a	FL	2
 SI	2014	zhangGenomicLandscapeMantle2014	MCL	2
 SIAH2	2021	hubschmannMutationalMechanismsShaping2021b	DLBCL	2
 SIN3A	2019	grandeGenomewideDiscoverySomatic2019	BL	1
+SLC17A6	2013	beaLandscapeSomaticMutations2013	MCL	2
 SLC29A2	2012	loveGeneticLandscapeMutations2012	BL	2
 SLC34A2	2021	hubschmannMutationalMechanismsShaping2021b	DLBCL	2
 SMARCA4	2012	loveGeneticLandscapeMutations2012	BL	1
@@ -429,7 +443,7 @@ SMC1A	2014	zhangGenomicLandscapeMantle2014	MCL	2
 SMEK1	2018	chapuyMolecularSubtypesDiffuse2018b	DLBCL	2
 SNTB2	2019	paneaWholeGenomeLandscape2019	BL	2
 SOCS1	2011	morinFrequentMutationHistonemodifying2011	DLBCL	1
-SP140	2020	pararajalingamCodingNoncodingDrivers2020	MCL	1
+SP140	2013	beaLandscapeSomaticMutations2013	MCL	1
 SP3	2019	paneaWholeGenomeLandscape2019	BL	2
 SPEN	2012	rossiCodingGenomeSplenic2012c	DLBCL	1
 SRRM2	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
@@ -462,6 +476,7 @@ TMEM30A	2011	morinFrequentMutationHistonemodifying2011	DLBCL	1
 TMSB4X	2017	albuquerqueEnhancingKnowledgeDiscovery2017a	DLBCL	1
 TNFAIP3	2009	compagnoMutationsMultipleGenes2009a	DLBCL	1
 TNFRSF14	2010	cheungAcquiredTNFRSF14Mutations2010a	DLBCL	1
+TNRC6B	2013	beaLandscapeSomaticMutations2013	MCL	2
 TOP2A	2012	schmitzBurkittLymphomaPathogenesis2012	BL	2
 TOX	2017	reddyGeneticFunctionalDrivers2017	DLBCL	1
 TP53	2011	morinFrequentMutationHistonemodifying2011	FL	1
@@ -470,6 +485,7 @@ TPST2	2012	loveGeneticLandscapeMutations2012	BL	2
 TRAF3	2011	pasqualucciAnalysisCodingGenome2011	DLBCL	2
 TRAF6	2021	hubschmannMutationalMechanismsShaping2021b	DLBCL	2
 TRIP12	NA	Unknown	DLBCL	1
+TRPM6	2013	beaLandscapeSomaticMutations2013	MCL	2
 TRRAP	NA	Unknown	DLBCL	1
 TTN	2022	burkhardtClinicalRelevanceMolecular2022b	BL	2
 UBE2A	2017	reddyGeneticFunctionalDrivers2017	DLBCL	1
