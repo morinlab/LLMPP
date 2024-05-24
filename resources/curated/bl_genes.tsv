@@ -1,90 +1,113 @@
 Gene	earliest_support_BL	Curated_BL_driver	citekey	Enrichment_DLBCL_BL	frequency_BL_Thomas	frequency_BL_Panea	n_BL_Panea_original	frequency_BL_Panea_original	CIViC	aSHM_target_DLBCL	freq_all_GAMBL	Curator_comments
+C16orf48	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012									
+CCND3	22885699	TRUE	schmitzBurkittLymphomaPathogenesis2012	BL	28	17.8	19	18.8	TRUE	FALSE	27.48267898383372	Mutated at high frequency in both DLBCL and BL
+DDX3X	22885699	TRUE	schmitzBurkittLymphomaPathogenesis2012	BL	48.7	39.6	48	47.5	TRUE	FALSE	44.34180138568129	Mutated at high frequency in both DLBCL and BL
+DHCR7	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012									
+ELP2	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012									
+EXOSC6	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	0.4618937644341801	NA
+FLYWCH1	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
+FOXO1	22885699	TRUE	schmitzBurkittLymphomaPathogenesis2012	DLBCL	28	21.8	22	21.8	TRUE	FALSE	23.325635103926096	Mutated at high frequency in both DLBCL and BL
+GTSE1	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
+KANK2	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012									
+MKI67	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	6.0046189376443415	NA
+MYO18A	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	4.618937644341801	NA
+NCOR2	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	6.235565819861431	NA
+PCBP1	22885699	TRUE	schmitzBurkittLymphomaPathogenesis2012	BL	12.3	11.9	5	5	TRUE	FALSE	12.240184757505773	Confirmed by multiple studies
+PDCD11	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	3.464203233256351	NA
+TCF3	22885699	TRUE	schmitzBurkittLymphomaPathogenesis2012	BL	11	9.9	5	5	TRUE	FALSE	11.547344110854503	Confirmed by multiple studies
+TOP2A	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
+WDR90	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
+WHAMM	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
+YY1AP1	22885699	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
+ID3	23143595	TRUE	loveGeneticLandscapeMutations2012	BL	47	31.7	33	32.7	TRUE	FALSE	45.49653579676674	Confirmed by multiple studies
 ACAD9	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
 ACE	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.387990762124711	NA
-ADAMTS5	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	2.771362586605081	NA
-ADNP	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
-AGO4	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
-ALPK2	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	5.1	9.9	5	5	FALSE	FALSE	3.9260969976905313	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-ARHGEF1	25274307	FALSE	chapuyMolecularSubtypesDiffuse2018b	NA	2	NA	NA	NA	FALSE	FALSE	3.9260969976905313	Not recurrently mutated in other studies since initial report
 ARID1A	23143597	TRUE	loveGeneticLandscapeMutations2012	BL	36	19.8	24	23.8	TRUE	FALSE	28.637413394919168	Mutated at high frequency in both DLBCL and BL
 ATP2C2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	3.695150115473441	NA
-B2M	NA	FALSE		DLBCL	2.5	3	NA	NA	FALSE	FALSE	2.3094688221709005	DLBCL gene with extremely low mutation rate in BL
-BACH2	30617194	FALSE	grandeGenomewideDiscoverySomatic2019	BL	0.4	5	3	3	FALSE	TRUE	1.8475750577367205	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-BCL10	NA	FALSE		DLBCL	0.4	NA	NA	NA	FALSE	FALSE	0.23094688221709006	DLBCL gene with extremely low mutation rate in BL
-BCL11A	NA	FALSE		DLBCL	1.7	5.9	NA	NA	FALSE	TRUE	2.540415704387991	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-BCL2	NA	FALSE	loveGeneticLandscapeMutations2012	DLBCL	0	1	NA	NA	FALSE	TRUE	0.4618937644341801	DLBCL gene with extremely low mutation rate in BL
-BCL2L11	NA	FALSE		DLBCL	2.1	1	NA	NA	FALSE	FALSE	1.6166281755196306	DLBCL gene with extremely low mutation rate in BL
-BCL6	30617194	FALSE	loveGeneticLandscapeMutations2012	DLBCL	3.4	7.9	18	17.8	FALSE	TRUE	5.080831408775982	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-BCL7A	30617194	FALSE	grandeGenomewideDiscoverySomatic2019	DLBCL	5.5	5	6	5.9	TRUE	TRUE	5.311778290993072	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-BCR		FALSE		NA	6.4	10.9	7	6.9	FALSE	TRUE	6.0046189376443415	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-BIRC6	NA	FALSE		DLBCL	3.8	14.9	NA	NA	FALSE	FALSE	6.0046189376443415	DLBCL gene with extremely low mutation rate in BL
-BMP7	31558468	TRUE	paneaWholeGenomeLandscape2019	NA	8.9	5	9	8.9	TRUE	FALSE	6.466512702078522	Confirmed by multiple studies
 BRAF	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.771362586605081	NA
 BRD4	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
-BTG1	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	TRUE	0.4618937644341801	NA
-BTG2	31558468	FALSE	loveGeneticLandscapeMutations2012	NA	4.2	9.9	16	15.8	FALSE	TRUE	4.849884526558891	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
 C6orf27	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
 CAD	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	3.9260969976905313	NA
-CARD11	NA	FALSE		DLBCL	1.7	10.9	NA	NA	FALSE	FALSE	4.157043879907621	DLBCL gene with extremely low mutation rate in BL
 CARD4	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
-CCND3	22885699	TRUE	schmitzBurkittLymphomaPathogenesis2012	BL	28	17.8	19	18.8	TRUE	FALSE	27.48267898383372	Mutated at high frequency in both DLBCL and BL
-CCNF	26468873	FALSE	abateDistinctViralMutational2015a	NA	NA	NA	NA	NA	FALSE	FALSE	1.6166281755196306	Hot spot reported in this study is a rare germline variant in African populations
 CCT6B	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
-CD58	NA	FALSE		DLBCL	0.8	2	NA	NA	FALSE	FALSE	0.9237875288683602	DLBCL gene with extremely low mutation rate in BL
-CD70	NA	FALSE		DLBCL	0.4	3	5	5	FALSE	FALSE	0.9237875288683602	DLBCL gene with extremely low mutation rate in BL
-CD79A	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	0.23094688221709006	NA
-CD79B	NA	FALSE		DLBCL	0	4	6	5.9	FALSE	FALSE	1.3856812933025404	DLBCL gene with extremely low mutation rate in BL
-CD83	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.7	NA	NA	NA	FALSE	TRUE	1.1547344110854503	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 CDC73	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.540415704387991	NA
 CDH17	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
-CDKN2A	NA	FALSE		DLBCL	3	3	NA	NA	TRUE	FALSE	1.8475750577367205	DLBCL gene with extremely low mutation rate in BL
-CDKN2C	36201743	FALSE		BL	3.4	3	NA	NA	FALSE	FALSE	2.540415704387991	Low frequency in initial study. Awaiting confirmation from additional cohorts
-CHD4	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	3.9260969976905313	NA
-CHD8	36201743	TRUE	grandeGenomewideDiscoverySomatic2019	BL	8.5	16.8	10	9.9	TRUE	FALSE	8.775981524249422	Confirmed by multiple studies
 COL4A2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.157043879907621	NA
-CPXM2	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
 CREBBP	23143597	FALSE	loveGeneticLandscapeMutations2012	DLBCL	3	12.9	11	10.9	FALSE	FALSE	6.0046189376443415	DLBCL gene with extremely low mutation rate in BL in most studies. Nominating study is an outlier.
-CTCF	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.7	6.9	7	6.9	FALSE	FALSE	3.0023094688221708	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-CXCR4	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	2.1	2	9	8.9	FALSE	TRUE	2.0785219399538106	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
 CYB5D1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.23094688221709006	NA
 CYP4F22	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
-DDX3X	22885699	TRUE	schmitzBurkittLymphomaPathogenesis2012	BL	48.7	39.6	48	47.5	TRUE	FALSE	44.34180138568129	Mutated at high frequency in both DLBCL and BL
 DLGAP1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
-DNMT1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.7	5	15	14.9	FALSE	FALSE	2.0785219399538106	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-DTX1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	5.9	8.9	16	15.8	FALSE	TRUE	5.542725173210162	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-E2F2	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
-EBF1	NA	FALSE		DLBCL	1.3	5.9	NA	NA	FALSE	TRUE	2.0785219399538106	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-EDNRB	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
-EHD1	NA	FALSE		DLBCL	0	5.9	NA	NA	FALSE	FALSE	1.3856812933025404	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 EIF2C4	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
-EIF4A1	31558468	TRUE	paneaWholeGenomeLandscape2019	NA	5.1	6.9	12	11.9	TRUE	FALSE	4.849884526558891	Confirmed by multiple studies
 EML2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
 ENTPD3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
-EP300	NA	FALSE		DLBCL	4.2	7.9	NA	NA	FALSE	FALSE	4.618937644341801	DLBCL gene with extremely low mutation rate in BL
 EPHB2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
-EPPK1	31558468	TRUE	paneaWholeGenomeLandscape2019	NA	7.6	15.8	5	5	FALSE	FALSE	6.466512702078522	Mutation pattern and MutSig results etc require further scrutiny.
-ERAP1	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
-ETS1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	7.6	11.9	2	2	FALSE	TRUE	7.621247113163972	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-EXOSC6	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	0.4618937644341801	NA
 EZH2	23143597	FALSE	loveGeneticLandscapeMutations2012	DLBCL	1.3	10.9	NA	NA	FALSE	FALSE	3.464203233256351	DLBCL gene with extremely low mutation rate in BL in most studies. Nominating study is an outlier.
 FAM129B	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
-FAS	NA	FALSE		DLBCL	1.7	4	NA	NA	FALSE	FALSE	2.0785219399538106	DLBCL gene with extremely low mutation rate in BL
-FBXO11	36201743	TRUE		BL	21.6	15.8	12	11.9	TRUE	FALSE	23.787528868360276	Confirmed by multiple studies
 FGFR3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
-FIP1L1	NA	FALSE		BL	2.5	2	NA	NA	FALSE	FALSE	5.311778290993072	Low frequency in initial study. Awaiting confirmation from additional cohorts
-FLYWCH1	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
-FOXO1	22885699	TRUE	schmitzBurkittLymphomaPathogenesis2012	DLBCL	28	21.8	22	21.8	TRUE	FALSE	23.325635103926096	Mutated at high frequency in both DLBCL and BL
 FTCD	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	3.233256351039261	NA
-FZD3	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0	1	NA	NA	FALSE	FALSE	0.23094688221709006	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
 GGTLA4	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
 GNA13	23143597	TRUE	loveGeneticLandscapeMutations2012	BL	21.6	20.8	27	26.7	TRUE	FALSE	21.016166281755197	Mutated at high frequency in both DLBCL and BL
-GNAI2	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	9.7	8.9	20	19.8	TRUE	FALSE	11.316397228637413	Mutated at high frequency in both DLBCL and BL
-GRB2	31558468	FALSE	paneaWholeGenomeLandscape2019	DLBCL	0.4	1	NA	NA	FALSE	FALSE	0.4618937644341801	Low frequency of coding mutations in all cohorts including initial study
 GRIK5	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.9237875288683602	NA
-GTSE1	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
-HIST1H1B	NA	FALSE		DLBCL	5.5	4	NA	NA	FALSE	TRUE	4.618937644341801	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+ICK	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
+ITPR3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.387990762124711	NA
+KIFC3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
+MAP3K6	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.540415704387991	NA
+MYH10	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
+NBEAL1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	3.464203233256351	NA
+NOTCH1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.157043879907621	NA
+NRXN2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.771362586605081	NA
+P2RY2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
+PC	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.540415704387991	NA
+POLRMT	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
+POR	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.540415704387991	NA
+PRSS22	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
+PTEN	23143597	TRUE	loveGeneticLandscapeMutations2012	BL	4.7	4	6	5.9	TRUE	FALSE	4.157043879907621	Confirmed by multiple studies
+PTPRN	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
+RANBP6	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
+RBP3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
+RET	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.3094688221709005	NA
+SALL3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.157043879907621	NA
+SAPS2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
+SBF1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.849884526558891	NA
+SF3B1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	3.0023094688221708	NA
+SHANK1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.771362586605081	NA
+SLC29A2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.4618937644341801	NA
+SMARCA4	23143597	TRUE	loveGeneticLandscapeMutations2012	BL	17.8	18.8	20	19.8	TRUE	FALSE	22.632794457274827	Confirmed by multiple studies
+SYNGAP1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
+TBC1D9B	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
+TIGD6	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
+TPST2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.9237875288683602	NA
+ZNF229	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
+ARHGEF1	25274307	FALSE	muppidiLossSignalingGa132014b	NA	2	NA	NA	NA	FALSE	FALSE	3.9260969976905313	Not recurrently mutated in other studies since initial report
+P2RY8	25274307	TRUE	muppidiLossSignalingGa132014b	BL	11	NA	NA	NA	TRUE	FALSE	6.928406466512702	Mutated at high frequency in both DLBCL and BL
+S1PR2	25274307	FALSE	muppidiLossSignalingGa132014b	DLBCL	0	4	1	1	FALSE	TRUE	1.1547344110854503	DLBCL gene with extremely low mutation rate in BL
+CCNF	26468873	FALSE	abateDistinctViralMutational2015a	NA	NA	NA	NA	NA	FALSE	FALSE	1.6166281755196306	Hot spot reported in this study is a rare germline variant in African populations
+BACH2	30617194	FALSE	grandeGenomewideDiscoverySomatic2019	BL	0.4	5	3	3	FALSE	TRUE	1.8475750577367205	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+BCL6	30617194	FALSE	loveGeneticLandscapeMutations2012	DLBCL	3.4	7.9	18	17.8	FALSE	TRUE	5.080831408775982	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+BCL7A	30617194	FALSE	grandeGenomewideDiscoverySomatic2019	DLBCL	5.5	5	6	5.9	TRUE	TRUE	5.311778290993072	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+GNAI2	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	9.7	8.9	20	19.8	TRUE	FALSE	11.316397228637413	Mutated at high frequency in both DLBCL and BL
+KMT2D	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	DLBCL	14	15.8	13	12.9	TRUE	FALSE	11.316397228637413	Mutated at high frequency in both DLBCL and BL
+MIR142	30617194	FALSE	grandeGenomewideDiscoverySomatic2019	NA	NA	NA	NA	NA	FALSE	TRUE	NA	
+RFX7	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	9.3	4	4	4	TRUE	FALSE	9.468822170900692	Confirmed by multiple studies
+SIN3A	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	10.6	14.9	12	11.9	TRUE	FALSE	11.085450346420323	Confirmed by multiple studies
+TCL1A	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	5.9	4	5	5	FALSE	TRUE	4.157043879907621	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+TFAP4	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	10.6	9.9	12	11.9	TRUE	FALSE	10.161662817551964	Confirmed by multiple studies
+USP7	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	6.8	5.9	6	5.9	TRUE	FALSE	6.466512702078522	Confirmed by multiple studies
+KMT2C	31300419	FALSE	zhouSporadicEndemicBurkitt2019	NA	NA	NA	NA	NA	NA	FALSE	6.466512702078522	NA
+ALPK2	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	5.1	9.9	5	5	FALSE	FALSE	3.9260969976905313	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+BMP7	31558468	TRUE	paneaWholeGenomeLandscape2019	NA	8.9	5	9	8.9	TRUE	FALSE	6.466512702078522	Confirmed by multiple studies
+BTG2	31558468	FALSE	loveGeneticLandscapeMutations2012	NA	4.2	9.9	16	15.8	FALSE	TRUE	4.849884526558891	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+CD83	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.7	NA	NA	NA	FALSE	TRUE	1.1547344110854503	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+CTCF	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.7	6.9	7	6.9	FALSE	FALSE	3.0023094688221708	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+CXCR4	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	2.1	2	9	8.9	FALSE	TRUE	2.0785219399538106	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
+DNMT1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.7	5	15	14.9	FALSE	FALSE	2.0785219399538106	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+DTX1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	5.9	8.9	16	15.8	FALSE	TRUE	5.542725173210162	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+EIF4A1	31558468	TRUE	paneaWholeGenomeLandscape2019	NA	5.1	6.9	12	11.9	TRUE	FALSE	4.849884526558891	Confirmed by multiple studies
+EPPK1	31558468	TRUE	paneaWholeGenomeLandscape2019	NA	7.6	15.8	5	5	FALSE	FALSE	6.466512702078522	Mutation pattern and MutSig results etc require further scrutiny.
+ETS1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	7.6	11.9	2	2	FALSE	TRUE	7.621247113163972	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+FZD3	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0	1	NA	NA	FALSE	FALSE	0.23094688221709006	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
+GRB2	31558468	FALSE	paneaWholeGenomeLandscape2019	DLBCL	0.4	1	NA	NA	FALSE	FALSE	0.4618937644341801	Low frequency of coding mutations in all cohorts including initial study
 HIST1H1C	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	3.8	9.9	19	18.8	FALSE	TRUE	4.849884526558891	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-HIST1H1D	NA	FALSE		DLBCL	4.7	4	NA	NA	FALSE	TRUE	3.233256351039261	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 HIST1H1E	31558468	FALSE	grandeGenomewideDiscoverySomatic2019	NA	7.6	19.8	42	41.6	FALSE	TRUE	9.699769053117782	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 HIST1H2AG	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	2.5	1	3	3	FALSE	TRUE	1.3856812933025404	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 HIST1H2AM	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.7	3	NA	NA	FALSE	TRUE	1.8475750577367205	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
@@ -94,125 +117,106 @@ HIST1H3H	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.3	5.9	26	25.7	FALSE	T
 HIST1H3I	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0	2	NA	NA	FALSE	TRUE	0.4618937644341801	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 HIST1H3J	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.7	5	13	12.9	FALSE	TRUE	2.3094688221709005	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 HIST1H4J	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.4	NA	NA	NA	FALSE	TRUE	0.4618937644341801	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+HNRNPU	31558468	TRUE	paneaWholeGenomeLandscape2019	BL	6.4	8.9	18	17.8	TRUE	FALSE	5.773672055427252	Confirmed by multiple studies
+IKZF3	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	3	5	5	FALSE	FALSE	1.6166281755196306	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
+KCNK10	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	1	NA	NA	FALSE	FALSE	0.9237875288683602	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+MCL1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	2.1	2	4	4	FALSE	FALSE	1.8475750577367205	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+MME	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	5.9	2	2	FALSE	FALSE	1.8475750577367205	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+MTOR	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	3.4	10.9	5	5	FALSE	FALSE	4.618937644341801	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
+PABPC4L	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.3	3	1	1	FALSE	FALSE	1.6166281755196306	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+PCDHA11	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.3	3	4	4	FALSE	FALSE	1.3856812933025404	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+PDZRN3	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	2.1	9.9	4	4	FALSE	FALSE	3.464203233256351	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
+PIK3R1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	2.5	4	1	1	FALSE	FALSE	3.0023094688221708	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+PLCG2	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	10.9	3	3	FALSE	FALSE	3.0023094688221708	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
+PXDNL	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	3	9.9	2	2	FALSE	FALSE	4.618937644341801	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+RAC2	31558468	FALSE	paneaWholeGenomeLandscape2019	DLBCL	0.4	NA	NA	NA	FALSE	FALSE	0.6928406466512702	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+RNF144B	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.4	NA	NA	NA	FALSE	FALSE	0.23094688221709006	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+SNTB2	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0	2	NA	NA	FALSE	FALSE	0.6928406466512702	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+SP3	31558468	FALSE	paneaWholeGenomeLandscape2019	BL	2.5	5	NA	NA	FALSE	FALSE	3.0023094688221708	Low frequency in initial study. Awaiting confirmation from additional cohorts
+SYNCRIP	31558468	FALSE	paneaWholeGenomeLandscape2019	BL	2.5	5	NA	NA	FALSE	FALSE	3.0023094688221708	Low frequency of coding mutations in all cohorts including initial study
+TET2	31558468	FALSE	paneaWholeGenomeLandscape2019	DLBCL	5.1	10.9	NA	NA	FALSE	FALSE	5.311778290993072	DLBCL gene with extremely low mutation rate in BL
+WDR7	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.4	6.9	2	2	FALSE	FALSE	2.0785219399538106	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+WNK2	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	10.9	4	4	FALSE	FALSE	3.233256351039261	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+ADAMTS5	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	2.771362586605081	NA
+ADNP	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
+AGO4	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
+BTG1	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	TRUE	0.4618937644341801	NA
+CD79A	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	0.23094688221709006	NA
+CHD4	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	3.9260969976905313	NA
+CPXM2	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
+E2F2	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
+EDNRB	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
+ERAP1	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
+HLA-DQB1	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
+KLHL26	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	0.4618937644341801	NA
+NOA1	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	2.3094688221709005	NA
+PIM1	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	TRUE	2.3094688221709005	NA
+PPP6R2	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
+PREX1	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
+REV3L	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	4.849884526558891	NA
+RPL10	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	13.625866050808314	NA
+SAL3	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
+TTN	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	28.637413394919168	NA
+VWA7	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
+ZAN	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	5.773672055427252	NA
+ZBTB7A	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	3.0023094688221708	NA
+ZNF85	35794096	FALSE	burkhardtClinicalRelevanceMolecular2022b	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
+CDKN2C	36201743	FALSE	thomasGeneticSubgroupsInform2023	BL	3.4	3	NA	NA	FALSE	FALSE	2.540415704387991	Low frequency in initial study. Awaiting confirmation from additional cohorts
+CHD8	36201743	TRUE	grandeGenomewideDiscoverySomatic2019	BL	8.5	16.8	10	9.9	TRUE	FALSE	8.775981524249422	Confirmed by multiple studies
+FBXO11	36201743	TRUE	thomasGeneticSubgroupsInform2023	BL	21.6	15.8	12	11.9	TRUE	FALSE	23.787528868360276	Confirmed by multiple studies
+PHF6	36201743	TRUE	thomasGeneticSubgroupsInform2023	BL	5.5	5.9	NA	NA	FALSE	FALSE	7.159353348729792	Recently identified. Ideally this should be confirmed in more cohorts.
+WNK1	36201743	TRUE	thomasGeneticSubgroupsInform2023	BL	6.8	11.9	NA	NA	TRUE	FALSE	6.697459584295612	Confirmed by multiple studies
+B2M	NA	FALSE		DLBCL	2.5	3	NA	NA	FALSE	FALSE	2.3094688221709005	DLBCL gene with extremely low mutation rate in BL
+BCL10	NA	FALSE		DLBCL	0.4	NA	NA	NA	FALSE	FALSE	0.23094688221709006	DLBCL gene with extremely low mutation rate in BL
+BCL11A	NA	FALSE		DLBCL	1.7	5.9	NA	NA	FALSE	TRUE	2.540415704387991	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+BCL2	NA	FALSE	loveGeneticLandscapeMutations2012	DLBCL	0	1	NA	NA	FALSE	TRUE	0.4618937644341801	DLBCL gene with extremely low mutation rate in BL
+BCL2L11	NA	FALSE		DLBCL	2.1	1	NA	NA	FALSE	FALSE	1.6166281755196306	DLBCL gene with extremely low mutation rate in BL
+BIRC6	NA	FALSE		DLBCL	3.8	14.9	NA	NA	FALSE	FALSE	6.0046189376443415	DLBCL gene with extremely low mutation rate in BL
+CARD11	NA	FALSE		DLBCL	1.7	10.9	NA	NA	FALSE	FALSE	4.157043879907621	DLBCL gene with extremely low mutation rate in BL
+CD58	NA	FALSE		DLBCL	0.8	2	NA	NA	FALSE	FALSE	0.9237875288683602	DLBCL gene with extremely low mutation rate in BL
+CD70	NA	FALSE		DLBCL	0.4	3	5	5	FALSE	FALSE	0.9237875288683602	DLBCL gene with extremely low mutation rate in BL
+CD79B	NA	FALSE		DLBCL	0	4	6	5.9	FALSE	FALSE	1.3856812933025404	DLBCL gene with extremely low mutation rate in BL
+CDKN2A	NA	FALSE		DLBCL	3	3	NA	NA	TRUE	FALSE	1.8475750577367205	DLBCL gene with extremely low mutation rate in BL
+EBF1	NA	FALSE		DLBCL	1.3	5.9	NA	NA	FALSE	TRUE	2.0785219399538106	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
+EHD1	NA	FALSE		DLBCL	0	5.9	NA	NA	FALSE	FALSE	1.3856812933025404	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+EP300	NA	FALSE		DLBCL	4.2	7.9	NA	NA	FALSE	FALSE	4.618937644341801	DLBCL gene with extremely low mutation rate in BL
+FAS	NA	FALSE		DLBCL	1.7	4	NA	NA	FALSE	FALSE	2.0785219399538106	DLBCL gene with extremely low mutation rate in BL
+FIP1L1	NA	FALSE		BL	2.5	2	NA	NA	FALSE	FALSE	5.311778290993072	Low frequency in initial study. Awaiting confirmation from additional cohorts
+HIST1H1B	NA	FALSE		DLBCL	5.5	4	NA	NA	FALSE	TRUE	4.618937644341801	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
+HIST1H1D	NA	FALSE		DLBCL	4.7	4	NA	NA	FALSE	TRUE	3.233256351039261	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 HLA-A	NA	FALSE		DLBCL	1.3	NA	NA	NA	FALSE	FALSE	1.3856812933025404	DLBCL gene with extremely low mutation rate in BL
 HLA-B	NA	FALSE		DLBCL	3.8	5	NA	NA	FALSE	FALSE	3.464203233256351	DLBCL gene with extremely low mutation rate in BL
 HLA-DMB	NA	FALSE		DLBCL	0	NA	NA	NA	FALSE	FALSE	NA	DLBCL gene with extremely low mutation rate in BL
-HLA-DQB1	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
-HNRNPU	31558468	TRUE	paneaWholeGenomeLandscape2019	BL	6.4	8.9	18	17.8	TRUE	FALSE	5.773672055427252	Confirmed by multiple studies
 HVCN1	NA	FALSE		DLBCL	0.8	2	NA	NA	FALSE	FALSE	0.9237875288683602	DLBCL gene with extremely low mutation rate in BL
-ICK	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
-ID3	23143595	TRUE	loveGeneticLandscapeMutations2012	BL	47	31.7	33	32.7	TRUE	FALSE	45.49653579676674	Confirmed by multiple studies
 IGLL5	NA	FALSE		DLBCL	25	23.8	27	26.7	FALSE	TRUE	26.32794457274827	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-IKZF3	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	3	5	5	FALSE	FALSE	1.6166281755196306	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
 IRF8	NA	FALSE		DLBCL	1.3	6.9	7	6.9	FALSE	TRUE	2.3094688221709005	DLBCL gene with extremely low mutation rate in BL
-ITPR3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.387990762124711	NA
-KCNK10	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	1	NA	NA	FALSE	FALSE	0.9237875288683602	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-KIFC3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
-KLHL26	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	0.4618937644341801	NA
 KLHL6	NA	FALSE		DLBCL	3	6.9	NA	NA	FALSE	FALSE	3.9260969976905313	DLBCL gene with extremely low mutation rate in BL
-KMT2C	31300419	FALSE		NA	NA	NA	NA	NA	NA	FALSE	6.466512702078522	NA
-KMT2D	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	DLBCL	14	15.8	13	12.9	TRUE	FALSE	11.316397228637413	Mutated at high frequency in both DLBCL and BL
 LCOR	NA	FALSE		DLBCL	0	NA	NA	NA	FALSE	FALSE	3.464203233256351	DLBCL gene with extremely low mutation rate in BL
 LTB	NA	FALSE		DLBCL	3	5.9	NA	NA	FALSE	TRUE	3.0023094688221708	Borderline evidence to consider this also a BL gene
-MAP3K6	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.540415704387991	NA
-MCL1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	2.1	2	4	4	FALSE	FALSE	1.8475750577367205	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 MEF2B	NA	FALSE		DLBCL	0.8	3	NA	NA	FALSE	TRUE	1.3856812933025404	DLBCL gene with extremely low mutation rate in BL
-MIR142	30617194	FALSE	grandeGenomewideDiscoverySomatic2019	NA	NA	NA	NA	NA	FALSE	TRUE	NA	
-MKI67	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	6.0046189376443415	NA
-MME	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	5.9	2	2	FALSE	FALSE	1.8475750577367205	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-MTOR	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	3.4	10.9	5	5	FALSE	FALSE	4.618937644341801	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
-MYC	TBD	TRUE		BL	60.2	49.5	64	63.4	FALSE	TRUE	61.89376443418014	Hot spots from aSHM can affect MYC protein stability
 MYD88	NA	FALSE		DLBCL	0.4	1	NA	NA	FALSE	FALSE	0.4618937644341801	DLBCL gene with extremely low mutation rate in BL
-MYH10	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
-MYO18A	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	4.618937644341801	NA
 MYO1E	NA	FALSE		DLBCL	1.3	4	NA	NA	FALSE	FALSE	2.0785219399538106	DLBCL gene with extremely low mutation rate in BL
-NBEAL1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	3.464203233256351	NA
-NCOR2	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	6.235565819861431	NA
 NFKBIA	NA	FALSE		DLBCL	1.7	2	NA	NA	FALSE	FALSE	1.3856812933025404	DLBCL gene with extremely low mutation rate in BL
-NOA1	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	2.3094688221709005	NA
-NOTCH1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.157043879907621	NA
 NOTCH2	NA	FALSE		DLBCL	0	5	NA	NA	FALSE	FALSE	1.1547344110854503	DLBCL gene with extremely low mutation rate in BL
-NRXN2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.771362586605081	NA
 OSBPL10	NA	FALSE		DLBCL	2.1	3	NA	NA	FALSE	TRUE	2.0785219399538106	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-P2RY2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
-P2RY8	25274307	TRUE	chapuyMolecularSubtypesDiffuse2018b	BL	11	NA	NA	NA	TRUE	FALSE	6.928406466512702	Mutated at high frequency in both DLBCL and BL
-PABPC4L	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.3	3	1	1	FALSE	FALSE	1.6166281755196306	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-PC	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.540415704387991	NA
-PCBP1	26173642	TRUE		BL	12.3	11.9	5	5	TRUE	FALSE	12.240184757505773	Confirmed by multiple studies
-PCDHA11	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	1.3	3	4	4	FALSE	FALSE	1.3856812933025404	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-PDCD11	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	3.464203233256351	NA
-PDZRN3	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	2.1	9.9	4	4	FALSE	FALSE	3.464203233256351	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
-PHF6	36201743	TRUE		BL	5.5	5.9	NA	NA	FALSE	FALSE	7.159353348729792	Recently identified. Ideally this should be confirmed in more cohorts.
-PIK3R1	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	2.5	4	1	1	FALSE	FALSE	3.0023094688221708	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-PIM1	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	TRUE	2.3094688221709005	NA
-PLCG2	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	10.9	3	3	FALSE	FALSE	3.0023094688221708	Mutation frequencies are inconsistent between studies. Nominating study is an outlier.
 PMAIP1	NA	FALSE		BL	3	5	NA	NA	FALSE	FALSE	3.233256351039261	Low frequency in initial study. Awaiting confirmation from additional cohorts
-POLRMT	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
-POR	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.540415704387991	NA
-PPP6R2	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
 PRDM1	NA	FALSE		DLBCL	0.8	5.9	NA	NA	FALSE	FALSE	2.3094688221709005	DLBCL gene with extremely low mutation rate in BL
-PREX1	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	2.0785219399538106	NA
 PRKCD	NA	FALSE		DLBCL	1.3	5.9	NA	NA	FALSE	FALSE	2.3094688221709005	DLBCL gene with extremely low mutation rate in BL
-PRSS22	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
-PTEN	23143597	TRUE	loveGeneticLandscapeMutations2012	BL	4.7	4	6	5.9	TRUE	FALSE	4.157043879907621	Confirmed by multiple studies
-PTPRN	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
-PXDNL	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	3	9.9	2	2	FALSE	FALSE	4.618937644341801	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-RAC2	31558468	FALSE	paneaWholeGenomeLandscape2019	DLBCL	0.4	NA	NA	NA	FALSE	FALSE	0.6928406466512702	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-RANBP6	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
-RBP3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
-RET	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.3094688221709005	NA
-REV3L	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	4.849884526558891	NA
-RFX7	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	9.3	4	4	4	TRUE	FALSE	9.468822170900692	Confirmed by multiple studies
-RHOA	TBD	TRUE		BL	8.1	12.9	9	8.9	TRUE	FALSE	9.468822170900692	Confirmed by multiple studies
-RNF144B	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.4	NA	NA	NA	FALSE	FALSE	0.23094688221709006	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-RPL10	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	13.625866050808314	NA
 RPL22	NA	FALSE		BL	3	2	NA	NA	FALSE	FALSE	2.3094688221709005	Low frequency in initial study. Awaiting confirmation from additional cohorts
-S1PR2	25274307	FALSE	chapuyMolecularSubtypesDiffuse2018b	DLBCL	0	4	1	1	FALSE	TRUE	1.1547344110854503	DLBCL gene with extremely low mutation rate in BL
-SAL3	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
-SALL3	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.157043879907621	NA
-SAPS2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	NA	NA
-SBF1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	4.849884526558891	NA
 SEPT10	NA	FALSE		BL	2.1	2	NA	NA	FALSE	FALSE	0.9237875288683602	Low frequency in initial study. Awaiting confirmation from additional cohorts
-SF3B1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	3.0023094688221708	NA
 SGK1	NA	FALSE		DLBCL	2.5	4	NA	NA	FALSE	TRUE	2.0785219399538106	DLBCL gene with extremely low mutation rate in BL
-SHANK1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	2.771362586605081	NA
-SIN3A	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	10.6	14.9	12	11.9	TRUE	FALSE	11.085450346420323	Confirmed by multiple studies
-SLC29A2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.4618937644341801	NA
-SMARCA4	23143597	TRUE	loveGeneticLandscapeMutations2012	BL	17.8	18.8	20	19.8	TRUE	FALSE	22.632794457274827	Confirmed by multiple studies
-SNTB2	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0	2	NA	NA	FALSE	FALSE	0.6928406466512702	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
 SOCS1	NA	FALSE		DLBCL	1.7	3	NA	NA	FALSE	TRUE	1.8475750577367205	DLBCL gene with extremely low mutation rate in BL
-SP3	31558468	FALSE	paneaWholeGenomeLandscape2019	BL	2.5	5	NA	NA	FALSE	FALSE	3.0023094688221708	Low frequency in initial study. Awaiting confirmation from additional cohorts
 STAT3	NA	FALSE		DLBCL	0	1	NA	NA	FALSE	FALSE	0.9237875288683602	DLBCL gene with extremely low mutation rate in BL
 STAT6	NA	FALSE		DLBCL	1.7	2	NA	NA	FALSE	FALSE	1.6166281755196306	DLBCL gene with extremely low mutation rate in BL
-SYNCRIP	31558468	FALSE	paneaWholeGenomeLandscape2019	BL	2.5	5	NA	NA	FALSE	FALSE	3.0023094688221708	Low frequency of coding mutations in all cohorts including initial study
-SYNGAP1	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.3856812933025404	NA
-TBC1D9B	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
 TBL1XR1	NA	FALSE		DLBCL	4.7	7.9	NA	NA	FALSE	TRUE	6.0046189376443415	DLBCL gene with extremely low mutation rate in BL
-TCF3	22885699	TRUE	schmitzBurkittLymphomaPathogenesis2012	BL	11	9.9	5	5	TRUE	FALSE	11.547344110854503	Confirmed by multiple studies
-TCL1A	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	5.9	4	5	5	FALSE	TRUE	4.157043879907621	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
-TET2	31558468	FALSE	paneaWholeGenomeLandscape2019	DLBCL	5.1	10.9	NA	NA	FALSE	FALSE	5.311778290993072	DLBCL gene with extremely low mutation rate in BL
-TFAP4	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	10.6	9.9	12	11.9	TRUE	FALSE	10.161662817551964	Confirmed by multiple studies
-TIGD6	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
 TMEM30A	NA	FALSE		DLBCL	1.3	5	NA	NA	FALSE	FALSE	1.8475750577367205	DLBCL gene with extremely low mutation rate in BL
 TMSB4X	NA	FALSE		DLBCL	0	2	1	1	FALSE	TRUE	0.6928406466512702	DLBCL gene with extremely low mutation rate in BL
 TNFAIP3	NA	FALSE		DLBCL	0.8	2	NA	NA	FALSE	FALSE	1.3856812933025404	DLBCL gene with extremely low mutation rate in BL
 TNFRSF14	NA	FALSE		DLBCL	0.8	3	NA	NA	FALSE	FALSE	1.3856812933025404	DLBCL gene with extremely low mutation rate in BL
-TOP2A	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
 TOX	NA	FALSE		DLBCL	0.8	5.9	NA	NA	FALSE	FALSE	2.0785219399538106	DLBCL gene with extremely low mutation rate in BL
 TP53	NA	TRUE		BL	41.9	43.6	5	5	TRUE	FALSE	45.49653579676674	Confirmed by multiple studies
-TPST2	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.9237875288683602	NA
-TTN	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	28.637413394919168	NA
 UBE2A	NA	FALSE		DLBCL	0	3	NA	NA	FALSE	FALSE	0.9237875288683602	DLBCL gene with extremely low mutation rate in BL
-USP7	30617194	TRUE	grandeGenomewideDiscoverySomatic2019	BL	6.8	5.9	6	5.9	TRUE	FALSE	6.466512702078522	Confirmed by multiple studies
-VWA7	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
-WDR7	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.4	6.9	2	2	FALSE	FALSE	2.0785219399538106	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-WDR90	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.6166281755196306	NA
-WHAMM	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.1547344110854503	NA
-WNK1	36201743	TRUE		BL	6.8	11.9	NA	NA	TRUE	FALSE	6.697459584295612	Confirmed by multiple studies
-WNK2	31558468	FALSE	paneaWholeGenomeLandscape2019	NA	0.8	10.9	4	4	FALSE	FALSE	3.233256351039261	Low frequency of coding mutations in all cohorts including initial study after reanalysis of raw data. Mutations in this gene reported by Panea et al were not well supported by the data in that study.
-YY1AP1	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	1.8475750577367205	NA
-ZAN	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	5.773672055427252	NA
-ZBTB7A	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	3.0023094688221708	NA
 ZFP36L1	NA	FALSE		DLBCL	2.1	3	3	3	FALSE	TRUE	2.0785219399538106	DLBCL gene with extremely low mutation rate in BL
-ZNF229	23143597	FALSE	loveGeneticLandscapeMutations2012	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
-ZNF85	35794096	FALSE	schmitzBurkittLymphomaPathogenesis2012	NA	NA	NA	NA	NA	NA	FALSE	0.6928406466512702	NA
+MYC	TBD	TRUE		BL	60.2	49.5	64	63.4	FALSE	TRUE	61.89376443418014	Hot spots from aSHM can affect MYC protein stability
+RHOA	TBD	TRUE		BL	8.1	12.9	9	8.9	TRUE	FALSE	9.468822170900692	Confirmed by multiple studies
+BCR		FALSE		NA	6.4	10.9	7	6.9	FALSE	TRUE	6.0046189376443415	aSHM target genes have elevated mutation rate but the mutations may not represent drivers. More evidence is needed.
