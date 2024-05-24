@@ -29,7 +29,7 @@ B2M	2011	morinFrequentMutationHistonemodifying2011	DLBCL	1
 BACH2	2019	grandeGenomewideDiscoverySomatic2019	BL	2
 BCL10	2011	morinFrequentMutationHistonemodifying2011	DLBCL	1
 BCL11A	NA	Unknown	DLBCL	1
-BCL2	2011	morinFrequentMutationHistonemodifying2011	FL	1
+BCL2	1992	tanakaFrequentIncidenceSomatic1992	DLBCL	1
 BCL2L11	NA	Unknown	BL	2
 BCL6	2011	morinFrequentMutationHistonemodifying2011	DLBCL	1
 BCL7A	2018	arthurGenomewideDiscoverySomatic2018	DLBCL	1
@@ -50,7 +50,7 @@ C16orf48	2012	schmitzBurkittLymphomaPathogenesis2012	BL	2
 C6orf27	2012	loveGeneticLandscapeMutations2012	BL	2
 CAD	2012	loveGeneticLandscapeMutations2012	BL	2
 CADPS2	2021	hubschmannMutationalMechanismsShaping2021b	DLBCL	2
-CARD11	2011	morinFrequentMutationHistonemodifying2011	DLBCL	1
+CARD11	2008	lenzOncogenicCARD11Mutations2008	DLBCL	1
 CARD4	2012	loveGeneticLandscapeMutations2012	BL	2
 CASP8	2017	reddyGeneticFunctionalDrivers2017	DLBCL	1
 CBLB	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
@@ -212,7 +212,7 @@ HLA-DQB1	2022	burkhardtClinicalRelevanceMolecular2022b	BL	2
 HNF1B	2011	pasqualucciAnalysisCodingGenome2011	DLBCL	2
 HNRNPD	NA	Unknown	DLBCL	1
 HNRNPH1	2020	pararajalingamCodingNoncodingDrivers2020	DLBCL	1
-HNRNPU	2019	paneaWholeGenomeLandscape2019	BL	1
+HNRNPU	2017	reddyGeneticFunctionalDrivers2017	DLBCL	1
 HRAS	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 HVCN1	NA	Unknown	DLBCL	1
 ICK	2012	loveGeneticLandscapeMutations2012	BL	2
@@ -257,12 +257,12 @@ LIN54	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 LPP	2018	arthurGenomewideDiscoverySomatic2018	DLBCL	2
 LRP12	2021	hubschmannMutationalMechanismsShaping2021b	DLBCL	2
 LRRN3	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
-LTB	NA	Unknown	DLBCL	1
-LYN	NA	Unknown	DLBCL	1
+LTB	2018	chapuyMolecularSubtypesDiffuse2018b	DLBCL	1
+LYN	2018	chapuyMolecularSubtypesDiffuse2018b	DLBCL	1
 MAGEC1	2023	russler-germainMutationsAssociatedProgression2023a	FL	2
 MAGT1	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 MALAT1	2018	arthurGenomewideDiscoverySomatic2018	DLBCL	2
-MAP2K1	NA	Unknown	DLBCL	2
+MAP2K1	2015	shinBRAFV600EMAP2K12015	DLBCL	2
 MAP3K6	2012	loveGeneticLandscapeMutations2012	BL	2
 MAP4K4	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 MAP7D1	2023	russler-germainMutationsAssociatedProgression2023a	FL	2
@@ -287,7 +287,7 @@ MSH6	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 MTOR	2013	zhangGeneticHeterogeneityDiffuse2013	DLBCL	1
 MYB	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 MYBPC2	2018	schmitzGeneticsPathogenesisDiffuse2018a	DLBCL	2
-MYC	NA	Unknown	DLBCL	1
+MYC	2001	pasqualucciHypermutationMultipleProtooncogenes2001a	DLBCL	1
 MYCBP2	2021	hubschmannMutationalMechanismsShaping2021b	FL	2
 MYD88	2011	ngoOncogenicallyActiveMYD882011a	DLBCL	1
 MYH10	2012	loveGeneticLandscapeMutations2012	BL	2
@@ -437,7 +437,7 @@ ST6GAL1	2018	arthurGenomewideDiscoverySomatic2018	DLBCL	2
 STAB2	2023	russler-germainMutationsAssociatedProgression2023a	FL	2
 STAT3	2014	ohgamiSTAT3MutationsAre2014	DLBCL	1
 STAT5B	2013	zhangGeneticHeterogeneityDiffuse2013	DLBCL	2
-STAT6	2016	morinGeneticLandscapesRelapsed2016	DLBCL	1
+STAT6	2015	yildizActivatingSTAT6Mutations2015c	DLBCL	1
 SYK	2017	reddyGeneticFunctionalDrivers2017	DLBCL	2
 SYNCRIP	2019	paneaWholeGenomeLandscape2019	BL	2
 SYNE1	2020	nadeuGenomicEpigenomicInsights2020a	MCL	1
