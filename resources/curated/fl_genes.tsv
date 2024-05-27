@@ -1,4 +1,4 @@
-gene	curated	Tier	Dreval	Hubschmann	Crouch	Kalmbach	Russler-Germain	First_description	citekey	Comment	frequency_GAMBL
+Gene	curated	Tier	Dreval	Hubschmann	Crouch	Kalmbach	Russler-Germain	First_description	citekey	Comment	frequency_GAMBL
 ABL2	FALSE	2	FALSE	FALSE	FALSE	TRUE	FALSE	37563306	russler-germainMutationsAssociatedProgression2023a	NA	0.32
 ACTB	TRUE	1	TRUE	TRUE	FALSE	FALSE	FALSE	NA	NA	aSHM	3.8
 ACTG1	FALSE	2	FALSE	TRUE	FALSE	FALSE	FALSE	33953289	hubschmannMutationalMechanismsShaping2021b	NA	2.22

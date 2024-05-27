@@ -193,7 +193,6 @@ FBXO11	2013	parryWholeExomeSequencing2013	MZL	2
 FBXW7	2013	zhangGeneticHeterogeneityDiffuse2013	DLBCL	1
 FCRL3	NA	Unknown	DLBCL	2
 FGFR3	2012	loveGeneticLandscapeMutations2012	BL	2
-FIP1L1	NA	Unknown	BL	2
 FLYWCH1	2012	schmitzBurkittLymphomaPathogenesis2012	BL	2
 FNBP1	NA	Unknown	DLBCL	2
 FNDC1	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
@@ -273,7 +272,7 @@ ICK	2012	loveGeneticLandscapeMutations2012	BL	2
 ID3	2012	schmitzBurkittLymphomaPathogenesis2012	DLBCL	2
 IER2	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
 IFNGR1	2013	morinMutationalStructuralAnalysis2013	DLBCL	2
-IGLL5	2020	deschGenotypingCirculatingTumor2020	PMBL	2
+IGLL5	2019	paneaWholeGenomeLandscape2019	BL	2
 IKBKB	2011	rossiAlterationBIRC3Multiple2011a	MZL	2
 IKBKE	2021	hubschmannMutationalMechanismsShaping2021b	DLBCL	2
 IKZF3	2013	morinMutationalStructuralAnalysis2013	DLBCL	1
