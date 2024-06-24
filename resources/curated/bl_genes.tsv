@@ -86,9 +86,6 @@ HIST1H3H	31558468	a	2	paneaWholeGenomeLandscape2019	FAIL
 HIST1H3I	31558468	a	2	paneaWholeGenomeLandscape2019	PASS
 HIST1H3J	31558468	a	2	paneaWholeGenomeLandscape2019	FAIL
 HIST1H4J	31558468	a	2	paneaWholeGenomeLandscape2019	PASS
-HLA-A	NA		2		
-HLA-B	NA		2		
-HLA-DMB	NA		2		
 HLA-DQB1	35794096		2	burkhardtClinicalRelevanceMolecular2022b	
 HNRNPU	31558468	a	1	paneaWholeGenomeLandscape2019	
 ICK	23143597		2	loveGeneticLandscapeMutations2012	FAIL
