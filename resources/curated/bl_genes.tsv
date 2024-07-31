@@ -35,7 +35,7 @@ CHD4	2				burkhardtClinicalRelevanceMolecular2022b	35794096
 CHD8	1				grandeGenomewideDiscoverySomatic2019	36201743
 COL4A2	3		FAIL	1	loveGeneticLandscapeMutations2012	23143597
 CPXM2	2				burkhardtClinicalRelevanceMolecular2022b	35794096
-CREBBP	2		PASS	4	loveGeneticLandscapeMutations2012	23143597
+CREBBP	1		PASS	4	loveGeneticLandscapeMutations2012	23143597
 CTCF	3		FAIL	1	paneaWholeGenomeLandscape2019	31558468
 CXCR4	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468
 CYB5D1	3		FAIL	2	loveGeneticLandscapeMutations2012	23143597
