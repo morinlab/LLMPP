@@ -1,692 +1,692 @@
-Gene	Tier	aSHM	QC	Mean variant quality	citekey	LymphGen	PMID	MutationEffect
-ABCA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ABCA4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ABCB1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-ABI3BP	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-ACE	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ACSM3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ACSS2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ACSS3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ACTB	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	
-ACTG1	1	TRUE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-ACTN1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ADAM2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ADAMTS1	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-ADAMTS15	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ADH7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-AFAP1L2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-AGA	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-AHR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-AICDA	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-AKAP9	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ALAS1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ALDH1L2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-AMAC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-AMIGO3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-AMPH	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ANK2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ANKRD12	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-ANKRD17	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ANKRD44	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ANTXR1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-AP1G2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-APBB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-APC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-APMAP	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-APOA5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-APP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ARID1A	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	
-ARID1B	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-ARID5B	2	FALSE	PASS	4	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-ASXL3	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945	
-ATIC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ATM	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-ATP10A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ATP1A2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ATP2A3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ATP6V0A1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-ATR	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-B2M	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-B4GALNT2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BAZ1A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BCAT2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BCL10	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-BCL11A	2	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-BCL2	1	TRUE	NA		tanakaFrequentIncidenceSomatic1992	TRUE	1339299	
-BCL6	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-BCL7A	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-BCOR	2	FALSE	NA	NA	NA	FALSE	NA	
-BCR	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-BIRC3	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-BIRC6	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-BLK	2	TRUE	NA	NA	NA	FALSE	NA	
-BLM	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BMPR1A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BRAF	1	FALSE	NA		tiacciBRAFMutationsHairycell2011a	FALSE	22343534	
-BRCA1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-BRCA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BRD4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BRINP3	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-BSCL2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BTAF1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BTBD3	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-BTG1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-BTG2	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-BTK	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945	
-C9	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CAD	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CADPS2	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-CAPN5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CAPN7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CARD11	1	FALSE	NA		lenzOncogenicCARD11Mutations2008	FALSE	18323416	
-CASP8	2	FALSE	NA	4	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-CBLB	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-CBX3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-CCDC132	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CCDC46	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CCDC97	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CCL4	3	FALSE	FAIL	0	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-CCND3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-CCNF	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CD22	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-CD274	2	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-CD36	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550	
-CD44	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-CD58	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-CD70	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-CD74	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-CD79B	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-CD83	1	TRUE	NA		morinMutationalStructuralAnalysis2013	TRUE	23699601	
-CDC123	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CDC73	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-CDH10	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CDH7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CDH8	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-CDH9	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-CDK3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CDKN1A	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-CDKN2A	1	FALSE	NA		morinMutationalStructuralAnalysis2013	TRUE	23699601	
-CECR1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CELSR2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CEP164	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945	
-CGN	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-CHD1	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-CHD3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CHEK2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-CHRM5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CHST2	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-CIC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CIITA	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-CNGA4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CNOT2	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-CNOT6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CNP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CNTN6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CNTNAP5	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-COL5A2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-COQ7	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-CORO2A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CORO7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CPS1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-CREBBP	1	FALSE	NA		pasqualucciInactivatingMutationsAcetyltransferase2011a	TRUE	21390126	
-CRELD2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CRIP1	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-CRTC3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CSNK1A1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-CSNK2A1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-CST7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CTNNA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CXCR4	1	TRUE	NA		khodabakhshiRecurrentTargetsAberrant2012	FALSE	23131835	
-CXCR5	1	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966	
-CYP24A1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CYP2C18	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-CYYR1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-DAZAP1	2	FALSE	NA		pararajalingamCodingNoncodingDrivers2020	FALSE	32160292	
-DCAF6	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-DDB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DDX10	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DDX3X	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	TRUE		
-DGCR8	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-DHX16	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-DHX33	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-DIAPH3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DICER1	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-DIP2B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DLGAP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DMXL1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DNAH5	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-DNM2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-DNMT3A	3	FALSE	FAIL	1	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-DNMT3B	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945	
-DOCK1	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-DOCK2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DOCK5	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-DOLK	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DSC2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DSCAML1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DSG2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DSG4	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-DSP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DTX1	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	
-DUOXA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DUPD1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DUSP2	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	
-DYNC1H1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-DYNC1I1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-EBF1	1	TRUE	NA		bohleRoleEarlyBcell2013	FALSE	23174882	
-ECGF1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ECT2L	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-EEF1A1	1	FALSE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-EGFR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-EIF2AK3	2	TRUE	NA	NA	NA	FALSE	NA	
-EP300	1	FALSE	NA		pasqualucciInactivatingMutationsAcetyltransferase2011a	TRUE	21390126	
-EPHA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-EPHA5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-EPHA7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ERAP2	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945	
-ERBB3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ERN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ETNPPL	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ETS1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-ETV6	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	
-EXTL3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-EZH2	1	FALSE	NA	NA	morinSomaticMutationsAltering2010a	TRUE	20081860	GOF
-EZR	2	TRUE	NA	NA	NA	FALSE	NA	
-FAIM	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-FAM102A	2	TRUE	NA	NA	NA	FALSE	NA	
-FAM161A	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-FAM38B	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-FAM62C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-FANCD2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-FANK1	2	TRUE	NA	NA	NA	FALSE	NA	
-FAS	1	FALSE	NA		schollMutationsRegionFAS2007	FALSE	17487740	
-FAT2	2	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-FAT4	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-FBXO11	1	FALSE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-FBXW7	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-FCRL3	2	TRUE	NA	NA	NA	FALSE	NA	
-FGD3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-FGFR1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-FIGN	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-FLNA	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-FLNC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-FLT1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-FMO2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-FN1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-FNBP1	2	TRUE	NA	NA	NA	FALSE	NA	
-FNDC1	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-FOXC1	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966	
-FOXO1	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-FOXP1	2	TRUE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-FRMPD1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-FUBP1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-FUT5	3	FALSE	FAIL	1	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-FZD1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-GABRA1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-GABRA2	2	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-GABRG1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GAK	3	FALSE	FAIL	2	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-GATA2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-GATA3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-GCN1L1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GJA8	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GJB4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GNA13	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-GNAI2	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	
-GNAS	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-GOLGA5	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-GOPC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GPC5	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966	
-GPD2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GPR133	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GPR15	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GRB2	1	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550	
-GREM2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GRHPR	1	TRUE	NA		arthurGenomewideDiscoverySomatic2018	TRUE	30275490	
-GRIA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GRM5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-GSG2	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966	
-H1FOO	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-H6PD	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-HACE1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-HCK	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-HDAC7	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-HFE	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-HIPK3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-HIST1H1B	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-HIST1H1C	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-HIST1H1D	1	TRUE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	
-HIST1H1E	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-HIST1H2AC	1	TRUE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	
-HIST1H2AG	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-HIST1H2AL	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-HIST1H2AM	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-HIST1H2BC	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-HIST1H2BK	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-HIST1H2BO	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-HIST1H3B	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-HIST1H4I	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-HIST2H2BE	1	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966	
-HK3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-HLA-A	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	
-HLA-B	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	
-HLA-C	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-HLA-DMA	2	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-HLA-DMB	1	FALSE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-HLA-DQA1	3	FALSE	FAIL	2	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-HLA-DRB1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-HNF1B	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550	
-HNRNPD	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE		
-HNRNPH1	2	FALSE	NA		pararajalingamCodingNoncodingDrivers2020	FALSE	32160292	
-HNRNPR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-HNRNPU	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-HRAS	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-HSF2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-HVCN1	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-ID3	2	FALSE	NA		schmitzBurkittLymphomaPathogenesis2012	TRUE	22885699	
-IDH1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-IER2	3	FALSE	FAIL	1	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-IFNGR1	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-IGLL5	2	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-IKBKB	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-IKBKE	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-IKZF3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-IL16	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE		
-IL4R	1	TRUE	NA		dunsCharacterizationDLBCLPMBL2021b	FALSE	33684939	
-IL6	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-IL6ST	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-INO80	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-INSC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-INTS6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-IQGAP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-IQUB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-IRF1	2	TRUE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-IRF4	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-IRF8	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-ITGA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ITGA8	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ITGB3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ITGB4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-ITPKB	1	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966	
-ITPR1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-JAG1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-JAK1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-JAK3	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-JAKMIP2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-JUNB	1	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	TRUE	28985567	
-KCMF1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-KCNA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KCNAB3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KCNJ6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KCNT2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KDR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KIF21B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KIT	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KITLG	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-KLB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KLC3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KLF2	1	TRUE	NA		pasqualucciAnalysisCodingGenome2011	TRUE	21804550	
-KLF4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KLHL14	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	
-KLHL21	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966	
-KLHL6	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-KLRC4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-KMT2C	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KMT2D	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-KRAS	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-KRT6A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-KRTAP5-5	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-LAMA5	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966	
-LAPTM5	2	TRUE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-LCOR	1	FALSE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-LEPR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-LEPREL1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LIFR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LILRA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LIN54	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-LIN7C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LPHN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LPP	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-LRAP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LRIG3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LRP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LRP10	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LRP12	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-LRP1B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LRP3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LRRN3	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-LTB	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-LYN	2	FALSE	PASS	4	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-LYST	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MAGT1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-MALAT1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-MAP2K1	2	FALSE	NA		shinBRAFV600EMAP2K12015	FALSE	25729732	
-MAP2K3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-MAP4K4	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-MARCHF7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MARK1	3	FALSE	FAIL	1	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-MBL2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MCL1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-MCM8	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-MECOM	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-MED13L	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MEF2B	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-MEF2C	1	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-MET	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-MGA	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937	
-MIB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MIR142	1	TRUE	NA		kwanhianMicroRNA142Mutated202012b	FALSE	23342264	
-MIR155HG	2	TRUE	NA	NA	NA	FALSE	NA	
-MLH1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-MMEL1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-MN1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MORC2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MPDZ	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-MPEG1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	TRUE	23699601	
-MPL	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MS4A1	1	TRUE	NA		rushtonGeneticEvolutionaryPatterns2020	FALSE	32589730	
-MSH2	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-MSH6	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-MSN	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-MTMR3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MTOR	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MYB	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-MYBPC2	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966	
-MYC	1	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	NA	
-MYD88	1	FALSE	NA		ngoOncogenicallyActiveMYD882011a	TRUE	21179087	
-MYL7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MYO1E	2	TRUE	NA	NA	NA	FALSE	NA	
-MYO5C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-MYOM2	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550	
-MYRIP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NANOG	3	FALSE	FAIL	0	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-NAV1	2	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-NCOA3	2	TRUE	NA	NA	NA	FALSE	NA	
-NCOR1	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-NCOR2	2	FALSE	NA	NA	NA	FALSE	NA	
-NDUFS1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NEAT1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-NELL2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NF1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	28985567	
-NFIB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NFKB1	2	FALSE	NA	NA	NA	FALSE	NA	
-NFKB2	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-NFKBIA	1	FALSE	NA		thomasMutationalAnalysisIkappaBalpha2004	TRUE	15198731	
-NFKBIE	1	FALSE	NA		morinGeneticLandscapesRelapsed2016	FALSE	26647218	
-NFKBIZ	1	TRUE	NA		morinGeneticLandscapesRelapsed2016	FALSE	26647218	
-NFX1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NGFR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NIPBL	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NLGN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NLRC5	2	FALSE	NA	NA	NA	FALSE	NA	
-NLRP5	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-NLRP7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NLRP8	3	FALSE	FAIL	2	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-NOL9	1	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966	
-NOTCH1	1	FALSE	NA		pasqualucciAnalysisCodingGenome2011	TRUE	21804550	
-NOTCH2	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	
-NOTCH3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-NPHP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NPY2R	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NR2F2	3	FALSE	FAIL	2	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-NRXN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NSD1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NSD2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-NUP153	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-ODZ3	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-ONECUT1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-OR6K3	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-OSBPL10	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	
-P2RX5	2	TRUE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-P2RY8	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-PABPC1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-PADI1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PAPOLG	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966	
-PAPPA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PASD1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-PASK	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-PAX5	2	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	11460166	
-PBX1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PCBP1	2	FALSE	NA	NA	NA	FALSE	NA	
-PCCB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PCDE1C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PCDH7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PCDHB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PCDHB11	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-PCDHB15	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PCDHB3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PCDHB5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PCDHB6	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-PCDHGA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PCLO	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-PDE1C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PDE4DIP	3	FALSE	FAIL	2	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-PDGFC	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-PDGFRA	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PDGFRB	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-PDIA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PDS5B	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-PDZRN3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PDZRN4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PFN1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-PGR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-PHF6	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-PIK3CD	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PIK3R1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PIM1	1	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	TRUE	11460166	
-PIM2	1	TRUE	NA		arthurGenomewideDiscoverySomatic2018	TRUE	30275490	
-PKD1	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-PLA2G4B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PLCB4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-PLCG2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-PLEKHA7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PNLIPRP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PNPO	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-PNPT1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-POGZ	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-POLD3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-POLE	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-POLQ	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-POU2AF1	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-POU2F2	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-PPARGC1A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PPP1R9B	2	FALSE	NA	NA	NA	FALSE	NA	
-PPP2R2B	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-PPWD1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PRDM1	1	FALSE	NA		pasqualucciInactivationPRDM1BLIMP12006a	TRUE	NA	
-PRDM16	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PRKCB	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-PRKCB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PRKCQ	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PRKDC	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966	
-PROS1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PRPS1	2	FALSE	PASS	4	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-PRSS7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PTCH1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-PTEN	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE		
-PTMA	2	TRUE	NA	NA	NA	FALSE	NA	
-PTPN1	2	TRUE	NA	NA	NA	FALSE	NA	
-PTPN14	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PTPN23	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-PTPN6	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-PTPRD	2	FALSE	NA	NA	NA	FALSE	NA	
-PTPRF	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PTPRK	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-PTPRT	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-PXK	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RAB3GAP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RAC2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-RAD9A	3	FALSE	FAIL	0	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-RAF1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-RAPGEF1	2	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	
-RAPGEF2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RAPGEF3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-RARA	3	FALSE	FAIL	1	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-RB1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	
-RBM15B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RCC	2	TRUE	NA	NA	NA	FALSE	NA	
-RECQL4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-RELN	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RET	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-RFC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RFTN1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-RFX7	1	FALSE	NA	NA	arthurGenomewideDiscoverySomatic2018	FALSE	NA	
-RFXAP	2	FALSE	NA	NA	NA	FALSE	NA	
-RGS1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RHEX	2	TRUE	NA	NA	NA	FALSE	NA	
-RHOA	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RHOH	2	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	NA	
-RHPN2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-RIF1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-RIMS4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-ROR2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RPTOR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-RRAGC	1	FALSE	NA		okosunRecurrentMTORC1activatingRRAGC2016a	FALSE	26691987	
-RSL1D1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RUBCNL	2	TRUE	NA	NA	NA	FALSE	NA	
-RUNDC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-RUNX1	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-RYR1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-S1PR1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-S1PR2	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-SAMD9L	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-SAPS3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SARM1	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-SCYL1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SEL1L3	2	TRUE	NA	NA	NA	FALSE	NA	
-SEMA3A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SEMA3D	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SEMA5A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SEPTIN9	2	TRUE	NA	NA	NA	FALSE	NA	
-SERINC2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SERPINA9	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-SETD1B	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	TRUE	28327945	
-SETD2	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SETD5	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-SF3B1	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE		
-SGK1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-SH3PXD2B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SHMT2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SIAH2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-SIGLEC10	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SIN3A	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-SLC16A7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SLC16A8	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-SLC34A2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-SLC38A8	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-SLC4A8	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SLC5A1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SLC9A5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SLITRK6	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-SMARCA4	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	22343534	
-SMEK1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SMO	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-SOCS1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-SOS2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-SOX6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SPEG	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SPEN	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	TRUE	28327945	
-SPTBN1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SRPX	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-SRRM2	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-ST6GAL1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-ST8SIA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-STAT3	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	
-STAT5B	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-STAT6	1	FALSE	NA		yildizActivatingSTAT6Mutations2015c	TRUE	25428220	
-SULF2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-SYK	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-SYN2	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-SYPL1	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-TAF1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	
-TAF1L	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TAF4B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TAP1	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966	
-TBC1D4	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-TBL1XR1	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	
-TCL1A	2	TRUE	NA		reddyGeneticFunctionalDrivers2017	FALSE		
-TECRL	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-TET2	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	TRUE	28327945	
-TGFBR2	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-THBS4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TIMM50	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TIPARP	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-TLN1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-TLN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TLR2	2	FALSE	PASS	4	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-TLR4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-TMC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TMEM161A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TMEM16E	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TMEM30A	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-TMEM63A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TMSB4X	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TMSL3	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-TNF	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-TNFAIP3	1	FALSE	NA		compagnoMutationsMultipleGenes2009a	TRUE	19412164	
-TNFRSF14	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-TNPO1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-TOX	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	TRUE	28985567	
-TP53	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF
-TPR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-TPRKB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TRAF3	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550	
-TRAF6	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-TRIM37	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TRIP11	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TRIP12	2	FALSE	NA	NA	NA	FALSE	NA	
-TRRAP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TSC2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TSHZ2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-TYRO3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-UBE2A	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	
-UBE2J1	2	TRUE	NA		NA	FALSE	NA	
-UBR5	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-UBXN11	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-UBXN2B	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-UHRF1BP1	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945	
-UHRF1BP1L	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-UNC13B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-UNC5B	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-UNC5C	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-UNC5D	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	
-UQCRC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-USP7	2	FALSE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-VANGL1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-VPS13A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-WAC	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-WDFY3	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601	
-WDR65	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-WDR66	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-WDR67	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-WEE1	1	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966	
-WIF1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-WNK1	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-WNK4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-WT1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-XBP1	2	TRUE	NA		NA	FALSE	NA	
-XDH	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-XPO1	1	FALSE	NA		mareschalWholeExomeSequencing2016	FALSE	26608593	
-YY1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-ZBTB7A	3	FALSE	FAIL	1	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-ZC3H12A	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-ZCCHC7	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	
-ZEB2	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ZFAT	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-ZFP36L1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	
-ZFX	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	
-ZIC4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ZMYM4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-ZNF217	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	
-ZNF292	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937	
-ZNF354A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ZNF366	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ZNF423	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	
-ZNF439	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ZNF474	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ZNF608	1	FALSE	NA	NA	morinMutationalStructuralAnalysis2013	FALSE	23292937	
-ZNF700	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ZNF790	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ZNF814	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964	
-ZNF91	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
-ZP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	
+Gene	Tier	aSHM	QC	Mean variant quality	citekey	LymphGen	PMID	MutationEffect	Mutation-PMID
+ACTB	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534		
+ACTG1	1	TRUE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+ARID1A	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	LOF	38458187
+ATM	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	LOF	11756177
+B2M	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	22137796
+BCL10	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	GOF	35658124
+BCL2	1	TRUE	NA		tanakaFrequentIncidenceSomatic1992	TRUE	1339299		
+BCL6	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	12504096
+BCL7A	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	32576963
+BIRC6	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+BRAF	1	FALSE	NA		tiacciBRAFMutationsHairycell2011a	FALSE	22343534	LOF	15035987
+BTG1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	33021411
+BTG2	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119		
+BTK	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945	LOF	33419778
+CARD11	1	FALSE	NA		lenzOncogenicCARD11Mutations2008	FALSE	18323416	GOF	18323416
+CCND3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	GOF	22885699
+CD58	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	Ê22137796
+CD70	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	36471481
+CD79B	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	GOF	29669863
+CD83	1	TRUE	NA		morinMutationalStructuralAnalysis2013	TRUE	23699601		
+CDKN2A	1	FALSE	NA		morinMutationalStructuralAnalysis2013	TRUE	23699601	LOF	19260062
+CIITA	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	26549456
+CREBBP	1	FALSE	NA		pasqualucciInactivatingMutationsAcetyltransferase2011a	TRUE	21390126	LOF	33431788
+CXCR4	1	TRUE	NA		khodabakhshiRecurrentTargetsAberrant2012	FALSE	23131835	LOF	36089616
+CXCR5	1	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+DDX3X	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	TRUE		LOF	34437837
+DTX1	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	LOF	28183850
+DUSP2	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534		
+EBF1	1	TRUE	NA		bohleRoleEarlyBcell2013	FALSE	23174882	LOF	28692033
+EEF1A1	1	FALSE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+EP300	1	FALSE	NA		pasqualucciInactivatingMutationsAcetyltransferase2011a	TRUE	21390126	LOF	10700188
+ETS1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119		
+ETV6	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	24997145
+EZH2	1	FALSE	NA	NA	morinSomaticMutationsAltering2010a	TRUE	20081860	GOF	21078963
+FAS	1	FALSE	NA		schollMutationsRegionFAS2007	FALSE	17487740	LOF	20935634
+FBXO11	1	FALSE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	LOF	22113614
+FBXW7	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	LOF	32350066
+FOXO1	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	GOF	23460611
+GNA13	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	26616858
+GNAI2	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	GOF	23699601
+GRB2	1	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+GRHPR	1	TRUE	NA		arthurGenomewideDiscoverySomatic2018	TRUE	30275490		
+HIST1H1B	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	33299181
+HIST1H1C	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	33299181
+HIST1H1D	1	TRUE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	LOF	33299181
+HIST1H1E	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	LOF	33299181
+HIST1H2AC	1	TRUE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	LOF	33299181
+HIST1H2AM	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	33299181
+HIST1H2BC	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	LOF	33299181
+HIST1H2BK	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	LOF	33299181
+HIST1H3B	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+HIST2H2BE	1	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+HLA-A	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	34050029
+HLA-B	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	34050029
+HLA-C	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	34050029
+HLA-DMB	1	FALSE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	33953289	LOF	7528727
+HNRNPU	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	LOF	36201743
+HVCN1	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+IKZF3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	GOF	33689703
+IL4R	1	TRUE	NA		dunsCharacterizationDLBCLPMBL2021b	FALSE	33684939	GOF	29467182
+IRF4	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119		
+IRF8	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	38996030
+ITPKB	1	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966	LOF	29650799
+JUNB	1	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	TRUE	28985567		
+KLF2	1	TRUE	NA		pasqualucciAnalysisCodingGenome2011	TRUE	21804550		
+KLHL14	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	LOF	32127472
+KLHL6	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	29695787
+KMT2C	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KMT2D	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	26366712
+KRAS	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	GOF	9219684
+LCOR	1	FALSE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+LRRN3	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LTB	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+MEF2B	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	NEO	23974956; 26245647
+MEF2C	1	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+MGA	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937	LOF	23039309
+MIR142	1	TRUE	NA		kwanhianMicroRNA142Mutated202012b	FALSE	23342264	LOF	29724719
+MPEG1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	TRUE	23699601		
+MS4A1	1	TRUE	NA		rushtonGeneticEvolutionaryPatterns2020	FALSE	32589730	LOF	32589730
+MTOR	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	GOF	24631838
+MYC	1	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	NA	GOF	38565249
+MYD88	1	FALSE	NA		ngoOncogenicallyActiveMYD882011a	TRUE	21179087	GOF	21179087
+NFKBIA	1	FALSE	NA		thomasMutationalAnalysisIkappaBalpha2004	TRUE	15198731	LOF	10637284
+NFKBIE	1	FALSE	NA		morinGeneticLandscapesRelapsed2016	FALSE	26647218	LOF	25987724
+NFKBIZ	1	TRUE	NA		morinGeneticLandscapesRelapsed2016	FALSE	26647218	GOF	30275490
+NOL9	1	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966		
+NOTCH1	1	FALSE	NA		pasqualucciAnalysisCodingGenome2011	TRUE	21804550	GOF	Ê29045844
+NOTCH2	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	GOF	19445024
+OSBPL10	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937		
+P2RY8	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	LOF	25274307
+PIM1	1	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	TRUE	11460166	GOF	27904766
+PIM2	1	TRUE	NA		arthurGenomewideDiscoverySomatic2018	TRUE	30275490		
+POU2AF1	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	30802265
+POU2F2	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	LOF	26993806
+PRDM1	1	FALSE	NA		pasqualucciInactivationPRDM1BLIMP12006a	TRUE	NA	LOF	16492805
+PTEN	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE		LOF	23840064
+RB1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	LOF	17332242
+RFX7	1	FALSE	NA	NA	arthurGenomewideDiscoverySomatic2018	FALSE	NA	LOF	30926791
+RHOA	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	LOF	26616858
+RRAGC	1	FALSE	NA		okosunRecurrentMTORC1activatingRRAGC2016a	FALSE	26691987	GOF	26691987
+S1PR2	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	25274307
+SETD1B	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	TRUE	28327945	LOF	21796119
+SF3B1	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE		NEO	23160465
+SGK1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	GOF	33988691
+SIN3A	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+SMARCA4	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	22343534	LOF	33144586
+SOCS1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	15572583
+SPEN	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	TRUE	28327945		
+STAT3	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	GOF	31861597
+STAT6	1	FALSE	NA		yildizActivatingSTAT6Mutations2015c	TRUE	25428220	GOF	35851155
+TAF1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601		
+TBL1XR1	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	32619424
+TET2	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	TRUE	28327945	LOF	23831920
+TMEM30A	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	32094924
+TMSB4X	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TNFAIP3	1	FALSE	NA		compagnoMutationsMultipleGenes2009a	TRUE	19412164	LOF	19412164
+TNFRSF14	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	21796119
+TOX	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	TRUE	28985567		
+TP53	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	12826609
+UBE2A	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534		
+WEE1	1	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966		
+XPO1	1	FALSE	NA		mareschalWholeExomeSequencing2016	FALSE	26608593	NEO	33007990
+ZC3H12A	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	19747262
+ZFP36L1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119		
+ZNF292	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937		
+ZNF608	1	FALSE	NA	NA	morinMutationalStructuralAnalysis2013	FALSE	23292937		
+ABI3BP	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+ADAMTS1	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+AICDA	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+ANKRD12	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+ANKRD17	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ARID5B	2	FALSE	PASS	4	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+ASXL3	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
+ATR	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+BCL11A	2	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+BCOR	2	FALSE	NA	NA	NA	FALSE	NA		
+BCR	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+BIRC3	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+BLK	2	TRUE	NA	NA	NA	FALSE	NA		
+BRINP3	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+BTBD3	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CADPS2	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+CASP8	2	FALSE	NA	4	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+CD22	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+CD274	2	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119		
+CD36	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+CD44	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+CD74	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+CDH9	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+CEP164	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
+CNOT2	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+CNTNAP5	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+COQ7	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+CPS1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+CRIP1	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+DAZAP1	2	FALSE	NA		pararajalingamCodingNoncodingDrivers2020	FALSE	32160292		
+DDX10	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DHX16	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+DNAH5	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+DNM2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+DNMT3B	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
+DOCK1	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+DSG4	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+EIF2AK3	2	TRUE	NA	NA	NA	FALSE	NA		
+ERAP2	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
+EZR	2	TRUE	NA	NA	NA	FALSE	NA		
+FAM102A	2	TRUE	NA	NA	NA	FALSE	NA		
+FANK1	2	TRUE	NA	NA	NA	FALSE	NA		
+FAT2	2	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119		
+FAT4	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+FCRL3	2	TRUE	NA	NA	NA	FALSE	NA		
+FNBP1	2	TRUE	NA	NA	NA	FALSE	NA		
+FOXC1	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966		
+FOXP1	2	TRUE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+FUBP1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+GABRA1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+GABRA2	2	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+GOLGA5	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+GPC5	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+GSG2	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+H1FOO	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+HDAC7	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+HIST1H2AG	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+HIST1H2AL	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+HIST1H2BO	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+HLA-DMA	2	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+HNF1B	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+HNRNPD	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE			
+HNRNPH1	2	FALSE	NA		pararajalingamCodingNoncodingDrivers2020	FALSE	32160292		
+ID3	2	FALSE	NA		schmitzBurkittLymphomaPathogenesis2012	TRUE	22885699		
+IFNGR1	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+IGLL5	2	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+IKBKB	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+IKBKE	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+IL16	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE			
+IL6	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+INO80	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+IRF1	2	TRUE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+JAK1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+JAK3	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KCMF1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+KLHL21	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+KRTAP5-5	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+LAMA5	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+LAPTM5	2	TRUE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+LPP	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+LRP12	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+LYN	2	FALSE	PASS	4	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+MAGT1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+MALAT1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+MAP2K1	2	FALSE	NA		shinBRAFV600EMAP2K12015	FALSE	25729732		
+MCL1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+MECOM	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+MET	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+MIR155HG	2	TRUE	NA	NA	NA	FALSE	NA		
+MPDZ	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+MSH6	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+MYBPC2	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+MYO1E	2	TRUE	NA	NA	NA	FALSE	NA		
+MYOM2	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+NAV1	2	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+NCOA3	2	TRUE	NA	NA	NA	FALSE	NA		
+NCOR2	2	FALSE	NA	NA	NA	FALSE	NA		
+NEAT1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+NF1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	28985567		
+NFKB1	2	FALSE	NA	NA	NA	FALSE	NA		
+NLRC5	2	FALSE	NA	NA	NA	FALSE	NA		
+NLRP5	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+ODZ3	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+OR6K3	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+P2RX5	2	TRUE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+PAPOLG	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+PASD1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+PASK	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+PAX5	2	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	11460166		
+PCBP1	2	FALSE	NA	NA	NA	FALSE	NA		
+PCDHB11	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+PCDHB6	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+PCLO	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+PDGFC	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+PDS5B	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+PIK3CD	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PIK3R1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PNPO	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+PPP1R9B	2	FALSE	NA	NA	NA	FALSE	NA		
+PRKCB	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+PRKDC	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966		
+PRPS1	2	FALSE	PASS	4	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+PTMA	2	TRUE	NA	NA	NA	FALSE	NA		
+PTPN1	2	TRUE	NA	NA	NA	FALSE	NA		
+PTPN6	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+PTPRD	2	FALSE	NA	NA	NA	FALSE	NA		
+RAC2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+RAPGEF1	2	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119		
+RCC	2	TRUE	NA	NA	NA	FALSE	NA		
+RFTN1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+RFXAP	2	FALSE	NA	NA	NA	FALSE	NA		
+RHEX	2	TRUE	NA	NA	NA	FALSE	NA		
+RHOH	2	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	NA		
+RUBCNL	2	TRUE	NA	NA	NA	FALSE	NA		
+S1PR1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+SAMD9L	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+SEL1L3	2	TRUE	NA	NA	NA	FALSE	NA		
+SEPTIN9	2	TRUE	NA	NA	NA	FALSE	NA		
+SERPINA9	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+SETD2	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SETD5	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+SIAH2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+SLC34A2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+SLC38A8	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+SLITRK6	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+SMEK1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SRPX	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+SRRM2	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+ST6GAL1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+STAT5B	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SYN2	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+SYPL1	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+TAP1	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+TBC1D4	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+TCL1A	2	TRUE	NA		reddyGeneticFunctionalDrivers2017	FALSE			
+TGFBR2	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+TIPARP	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+TLR2	2	FALSE	PASS	4	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+TMSL3	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+TNF	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+TRAF3	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+TRAF6	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+TRIP12	2	FALSE	NA	NA	NA	FALSE	NA		
+UBE2J1	2	TRUE	NA		NA	FALSE	NA		
+UBR5	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+UHRF1BP1	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
+UNC5B	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+UNC5C	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+UNC5D	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+USP7	2	FALSE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+WDFY3	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+WNK1	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+XBP1	2	TRUE	NA		NA	FALSE	NA		
+YY1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+ZCCHC7	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+ZEB2	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZFX	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+ZNF217	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+ZNF423	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+ABCA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ABCA4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ABCB1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+ACE	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ACSM3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ACSS2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ACSS3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ACTN1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ADAM2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ADAMTS15	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ADH7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+AFAP1L2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+AGA	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+AHR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+AKAP9	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ALAS1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ALDH1L2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+AMAC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+AMIGO3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+AMPH	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ANK2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ANKRD44	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ANTXR1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+AP1G2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+APBB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+APC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+APMAP	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+APOA5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+APP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ARID1B	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+ATIC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ATP10A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ATP1A2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ATP2A3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ATP6V0A1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+B4GALNT2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+BAZ1A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+BCAT2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+BLM	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+BMPR1A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+BRCA1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+BRCA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+BRD4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+BSCL2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+BTAF1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+C9	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CAD	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CAPN5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CAPN7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CBLB	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+CBX3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+CCDC132	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CCDC46	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CCDC97	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CCL4	3	FALSE	FAIL	0	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+CCNF	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CDC123	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CDC73	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+CDH10	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CDH7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CDH8	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+CDK3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CDKN1A	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+CECR1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CELSR2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CGN	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+CHD1	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+CHD3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CHEK2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+CHRM5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CHST2	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+CIC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CNGA4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CNOT6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CNP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CNTN6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+COL5A2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CORO2A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CORO7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CRELD2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CRTC3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CSNK1A1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+CSNK2A1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+CST7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CTNNA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CYP24A1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CYP2C18	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+CYYR1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+DCAF6	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+DDB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DGCR8	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+DHX33	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+DIAPH3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DICER1	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+DIP2B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DLGAP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DMXL1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DNMT3A	3	FALSE	FAIL	1	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+DOCK2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DOCK5	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+DOLK	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DSC2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DSCAML1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DSG2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DSP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DUOXA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DUPD1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DYNC1H1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+DYNC1I1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ECGF1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ECT2L	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+EGFR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+EPHA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+EPHA5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+EPHA7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ERBB3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ERN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ETNPPL	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+EXTL3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+FAIM	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+FAM161A	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+FAM38B	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+FAM62C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+FANCD2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+FGD3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+FGFR1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+FIGN	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+FLNA	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+FLNC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+FLT1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+FMO2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+FN1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+FNDC1	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+FRMPD1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+FUT5	3	FALSE	FAIL	1	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+FZD1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+GABRG1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GAK	3	FALSE	FAIL	2	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+GATA2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+GATA3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+GCN1L1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GJA8	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GJB4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GNAS	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+GOPC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GPD2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GPR133	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GPR15	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GREM2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GRIA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+GRM5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+H6PD	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+HACE1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+HCK	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+HFE	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+HIPK3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+HIST1H4I	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+HK3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+HLA-DQA1	3	FALSE	FAIL	2	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+HLA-DRB1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+HNRNPR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+HRAS	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+HSF2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+IDH1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+IER2	3	FALSE	FAIL	1	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+IL6ST	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+INSC	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+INTS6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+IQGAP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+IQUB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ITGA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ITGA8	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ITGB3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ITGB4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+ITPR1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+JAG1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+JAKMIP2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KCNA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KCNAB3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KCNJ6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KCNT2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KDR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KIF21B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KIT	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KITLG	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+KLB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KLC3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KLF4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+KLRC4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+KRT6A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LEPR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+LEPREL1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LIFR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LILRA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LIN54	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+LIN7C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LPHN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LRAP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LRIG3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LRP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LRP10	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LRP1B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LRP3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+LYST	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MAP2K3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+MAP4K4	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+MARCHF7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MARK1	3	FALSE	FAIL	1	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+MBL2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MCM8	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+MED13L	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MIB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MLH1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+MMEL1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+MN1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MORC2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MPL	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MSH2	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+MSN	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+MTMR3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MYB	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+MYL7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MYO5C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+MYRIP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NANOG	3	FALSE	FAIL	0	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+NCOR1	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+NDUFS1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NELL2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NFIB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NFKB2	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+NFX1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NGFR	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NIPBL	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NLGN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NLRP7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NLRP8	3	FALSE	FAIL	2	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+NOTCH3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+NPHP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NPY2R	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NR2F2	3	FALSE	FAIL	2	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+NRXN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NSD1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NSD2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+NUP153	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+ONECUT1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PABPC1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+PADI1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PAPPA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PBX1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PCCB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PCDE1C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PCDH7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PCDHB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PCDHB15	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PCDHB3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PCDHB5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PCDHGA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PDE1C	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PDE4DIP	3	FALSE	FAIL	2	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+PDGFRA	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PDGFRB	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+PDIA2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PDZRN3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PDZRN4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PFN1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+PGR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+PHF6	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+PKD1	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+PLA2G4B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PLCB4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+PLCG2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+PLEKHA7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PNLIPRP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PNPT1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+POGZ	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+POLD3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+POLE	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+POLQ	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+PPARGC1A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PPP2R2B	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+PPWD1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PRDM16	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PRKCB1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PRKCQ	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PROS1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PRSS7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PTCH1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+PTPN14	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PTPN23	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+PTPRF	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PTPRK	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+PTPRT	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+PXK	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RAB3GAP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RAD9A	3	FALSE	FAIL	0	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+RAF1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+RAPGEF2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RAPGEF3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+RARA	3	FALSE	FAIL	1	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+RBM15B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RECQL4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+RELN	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RET	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+RFC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RGS1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RHPN2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+RIF1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+RIMS4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+ROR2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RPTOR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+RSL1D1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RUNDC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+RUNX1	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+RYR1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SAPS3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SARM1	3	FALSE	FAIL	2	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+SCYL1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SEMA3A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SEMA3D	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SEMA5A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SERINC2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SH3PXD2B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SHMT2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SIGLEC10	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SLC16A7	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SLC16A8	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+SLC4A8	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SLC5A1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SLC9A5	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SMO	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+SOS2	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+SOX6	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SPEG	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SPTBN1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ST8SIA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SULF2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+SYK	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+TAF1L	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TAF4B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TECRL	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+THBS4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TIMM50	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TLN1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+TLN2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TLR4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+TMC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TMEM161A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TMEM16E	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TMEM63A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TNPO1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+TPR	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+TPRKB	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TRIM37	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TRIP11	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TRRAP	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TSC2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TSHZ2	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+TYRO3	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+UBXN11	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+UBXN2B	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+UHRF1BP1L	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+UNC13B	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+UQCRC1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+VANGL1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+VPS13A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+WAC	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+WDR65	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+WDR66	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+WDR67	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+WIF1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+WNK4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+WT1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+XDH	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZBTB7A	3	FALSE	FAIL	1	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+ZFAT	3	FALSE	FAIL	2	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+ZIC4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZMYM4	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+ZNF354A	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZNF366	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZNF439	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZNF474	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZNF700	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZNF790	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZNF814	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
+ZNF91	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
+ZP1	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
