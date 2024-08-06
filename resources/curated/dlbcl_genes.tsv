@@ -41,14 +41,14 @@ GNA13	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	2
 GNAI2	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	GOF	23699601
 GRB2	1	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 GRHPR	1	TRUE	NA		arthurGenomewideDiscoverySomatic2018	TRUE	30275490		
-HIST1H1B	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	33299181
-HIST1H1C	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	33299181
-HIST1H1D	1	TRUE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	LOF	33299181
-HIST1H1E	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	LOF	33299181
-HIST1H2AC	1	TRUE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	LOF	33299181
-HIST1H2AM	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	33299181
-HIST1H2BC	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	LOF	33299181
-HIST1H2BK	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	LOF	33299181
+HIST1H1B	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+HIST1H1C	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119		
+HIST1H1D	1	TRUE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601		
+HIST1H1E	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+HIST1H2AC	1	TRUE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601		
+HIST1H2AM	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+HIST1H2BC	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
+HIST1H2BK	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
 HIST1H3B	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
 HIST2H2BE	1	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
 HLA-A	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	34050029
