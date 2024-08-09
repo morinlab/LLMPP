@@ -127,10 +127,15 @@ ZNF608	1	FALSE	NA	NA	morinMutationalStructuralAnalysis2013	FALSE	23292937
 ADAMTSL3	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 AKAP8	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 ANKLE2	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+HIST1H3A	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
 BCL2L10	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 BRSK1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 C12orf35	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 CAMTA1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+PTPN21	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
+RBP3	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
+TBP	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
+VAX1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
 ABI3BP	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 ADAMTS1	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
 AICDA	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
@@ -324,6 +329,7 @@ SERPINA1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550
 SMARCA1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 TLL2	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 TSC22D1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+ZNF385B	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
 ZNF521	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 ZWILCH	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 ABCA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
