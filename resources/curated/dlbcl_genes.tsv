@@ -175,10 +175,12 @@ DNAH5	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601
 DNM2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
 DNMT3B	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
 DOCK1	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
+DSEL	2	FALSE			morinMutationalStructuralAnalysis2013				
 DSG4	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 DPYD	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 EIF2AK3	2	TRUE	NA	NA	schmitzGeneticsPathogenesisDiffuse2018a	FALSE	NA		
 DSC3	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+DSEL	2	FALSE	NA		morinMutationalStructuralAnalysis2013				
 ERAP2	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
 EZR	2	TRUE	NA	NA	NA	FALSE	NA		
 FAM102A	2	TRUE	NA	NA	NA	FALSE	NA		
@@ -243,7 +245,7 @@ NCOA3	2	TRUE	NA	NA	NA	FALSE	NA
 NEAT1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
 NF1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	28985567		
 NLRP5	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
-ODZ3	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+ODZ2	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 OR6K3	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
 P2RX5	2	TRUE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 PAPOLG	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
