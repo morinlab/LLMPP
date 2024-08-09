@@ -124,6 +124,7 @@ ZC3H12A	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	19747
 ZFP36L1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119		
 ZNF292	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937		
 ZNF608	1	FALSE	NA	NA	morinMutationalStructuralAnalysis2013	FALSE	23292937		
+ARAP2	2	FALSE	NA		morinMutationalStructuralAnalysis2013				
 ADAMTSL3	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 AKAP8	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 ANKLE2	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
@@ -151,7 +152,7 @@ BLK	2	TRUE	NA	NA	NA	FALSE	NA
 BRINP3	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 BTBD3	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
 CADPS2	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
-CYTS5B	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+CYTSB	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 CASP8	2	FALSE	NA	4	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 CD22	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 CD274	2	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119		
@@ -332,6 +333,7 @@ TSC22D1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550
 ZNF385B	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
 ZNF521	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 ZWILCH	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
+CDH1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b				
 ABCA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
 ABCA4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
 ABCB1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
