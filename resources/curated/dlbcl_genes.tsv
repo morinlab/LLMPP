@@ -266,7 +266,7 @@ RAPGEF1	2	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119
 RCC	2	TRUE	NA	NA	NA	FALSE	NA		
 RFTN1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
 RFXAP	2	FALSE	NA	NA	NA	FALSE	NA		
-RHEX	2	TRUE	NA	NA	NA	FALSE	NA		
+RHEX	2	TRUE	NA	NA	arthurGenomewideDiscoverySomatic2018	FALSE	NA		
 RHOH	2	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	NA		
 RUBCNL	2	TRUE	NA	NA	NA	FALSE	NA		
 S1PR1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
