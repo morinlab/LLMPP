@@ -1,6 +1,6 @@
 Gene	Tier	aSHM	QC	Mean variant quality	citekey	LymphGen	PMID	MutationEffect	Mutation-PMID
 ACTB	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534		
-ACTG1	1	TRUE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	33953289		
+ACTG1	1	TRUE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
 ARID1A	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	LOF	38458187
 ATM	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	LOF	11756177
 B2M	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	22137796
@@ -17,29 +17,29 @@ CARD11	1	FALSE	NA		lenzOncogenicCARD11Mutations2008	FALSE	18323416	GOF	18323416
 CCND3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	GOF	22885699
 CD58	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	22137796
 CD70	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	36471481
-CD79B	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	GOF	29669863
+CD79B	1	FALSE	NA		davisChronicActiveBcellreceptor2010	TRUE	21796119	GOF	29669863
 CD83	1	TRUE	NA		morinMutationalStructuralAnalysis2013	TRUE	23699601		
 CDKN2A	1	FALSE	NA		morinMutationalStructuralAnalysis2013	TRUE	23699601	LOF	19260062
 CIITA	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	26549456
 CREBBP	1	FALSE	NA		pasqualucciInactivatingMutationsAcetyltransferase2011a	TRUE	21390126	LOF	33431788
 CXCR4	1	TRUE	NA		khodabakhshiRecurrentTargetsAberrant2012	FALSE	23131835	LOF	36089616
-DDX3X	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	TRUE		LOF	34437837
+DDX3X	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	TRUE	28985567	LOF	34437837
 DTX1	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	LOF	28183850
 DUSP2	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534		
 EBF1	1	TRUE	NA		bohleRoleEarlyBcell2013	FALSE	23174882	LOF	28692033
-EEF1A1	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	33953289		
+EEF1A1	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
 EP300	1	FALSE	NA		pasqualucciInactivatingMutationsAcetyltransferase2011a	TRUE	21390126	LOF	10700188
 ETS1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119		
 ETV6	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	24997145
 EZH2	1	FALSE	NA	NA	morinSomaticMutationsAltering2010a	TRUE	20081860	GOF	21078963
 FAS	1	FALSE	NA		schollMutationsRegionFAS2007	FALSE	17487740	LOF	20935634
-FBXO11	1	FALSE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	33953289	LOF	22113614
+FBXO11	1	FALSE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490	LOF	22113614
 FBXW7	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	LOF	32350066
 FOXO1	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	GOF	23460611
 GNA13	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	26616858
 GNAI2	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	GOF	23699601
 GRB2	1	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
-GRHPR	1	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	30275490		
+GRHPR	1	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966		
 HIST1H1B	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
 HIST1H1C	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119		
 HIST1H1D	1	TRUE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601		
@@ -49,7 +49,7 @@ HIST1H2AM	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087
 HIST1H2BC	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
 HIST1H2BK	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
 HIST1H3B	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
-HIST2H2BE	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29641966		
+HIST2H2BE	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
 HLA-A	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	34050029
 HLA-B	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	34050029
 HLA-C	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	34050029
@@ -61,7 +61,7 @@ IL4R	1	TRUE	NA		dunsCharacterizationDLBCLPMBL2021b	FALSE	33684939	GOF	29467182
 IRF4	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119		
 IRF8	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	38996030
 ITPKB	1	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966	LOF	29650799
-JUNB	1	FALSE	PASS	3	lohrDiscoveryPrioritizationSomatic2012a	TRUE	28985567		
+JUNB	1	FALSE	PASS	3	lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534		
 KLF2	1	TRUE	NA		pasqualucciAnalysisCodingGenome2011	TRUE	21804550		
 KLHL14	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	LOF	32127472
 KLHL6	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119	LOF	29695787
@@ -71,13 +71,13 @@ KRAS	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	GOF	9219
 LRRN3	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
 LTB	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
 MEF2B	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	NEO	23974956; 26245647
-MEF2C	1	TRUE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	30275490		
-MGA	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937	LOF	23039309
+MEF2C	1	TRUE	NA		hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
+MGA	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	LOF	23039309
 MIR142	1	TRUE	NA		kwanhianMicroRNA142Mutated202012b	FALSE	23342264	LOF	29724719
 MPEG1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	TRUE	23699601		
 MS4A1	1	TRUE	NA		rushtonGeneticEvolutionaryPatterns2020	FALSE	32589730	LOF	32589730
 MTOR	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	GOF	24631838
-MYC	1	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	NA	GOF	38565249
+MYC	1	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	11460166	GOF	38565249
 MYD88	1	FALSE	NA		ngoOncogenicallyActiveMYD882011a	TRUE	21179087	GOF	21179087
 NFKBIA	1	FALSE	NA		thomasMutationalAnalysisIkappaBalpha2004	TRUE	15198731	LOF	10637284
 NFKBIE	1	FALSE	NA		morinGeneticLandscapesRelapsed2016	FALSE	26647218	LOF	25987724
@@ -88,55 +88,55 @@ NOTCH2	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937	GOF	194450
 OSBPL10	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	TRUE	23292937		
 P2RY8	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	LOF	25274307
 PIM1	1	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	TRUE	11460166	GOF	27904766
-PIM2	1	TRUE	NA		reddyGeneticFunctionalDrivers2017	TRUE	30275490		
+PIM2	1	TRUE	NA		reddyGeneticFunctionalDrivers2017	TRUE	28985567		
 POU2AF1	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	30802265
 POU2F2	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534	LOF	26993806
 PRDM1	1	FALSE	NA		pasqualucciInactivationPRDM1BLIMP12006a	TRUE	NA	LOF	16492805
-PTEN	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE		LOF	23840064
+PTEN	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	LOF	23840064
 PTPN6	1	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567	LOF	26565811
 RB1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601	LOF	17332242
-RFX7	1	FALSE	NA	NA	arthurGenomewideDiscoverySomatic2018	FALSE	NA	LOF	30926791
+RFX7	1	FALSE	NA	NA	arthurGenomewideDiscoverySomatic2018	FALSE	30275490	LOF	30926791
 RHOA	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937	LOF	26616858
 RRAGC	1	FALSE	NA		okosunRecurrentMTORC1activatingRRAGC2016a	FALSE	26691987	GOF	26691987
 S1PR2	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	25274307
 SETD1B	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	TRUE	28327945	LOF	21796119
-SF3B1	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE		NEO	23160465
+SF3B1	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	NEO	23160465
 SGK1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	GOF	33988691
 SIN3A	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
-SMARCA4	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	22343534	LOF	33144586
+SMARCA4	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567	LOF	33144586
 SOCS1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	15572583
 SPEN	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	TRUE	28327945		
-STAT3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	22343534	GOF	31861597
+STAT3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	GOF	31861597
 STAT6	1	FALSE	NA		yildizActivatingSTAT6Mutations2015c	TRUE	25428220	GOF	35851155
 TAF1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	FALSE	23699601		
 TBL1XR1	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534	LOF	32619424
 TET2	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	TRUE	28327945	LOF	23831920
 TMEM30A	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	32094924
-TMSB4X	1	TRUE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937		
+TMSB4X	1	TRUE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 TNFAIP3	1	FALSE	NA		compagnoMutationsMultipleGenes2009a	TRUE	19412164	LOF	19412164
 TNFRSF14	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	21796119
 TOX	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	TRUE	28985567		
-TP53	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	22343534	LOF	12826609
+TP53	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119	LOF	12826609
 UBE2A	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	TRUE	22343534		
 WEE1	1	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966		
 XPO1	1	FALSE	NA		mareschalWholeExomeSequencing2016	FALSE	26608593	NEO	33007990
 ZC3H12A	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087	LOF	19747262
 ZFP36L1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	TRUE	21796119		
-ZNF292	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937		
-ZNF608	1	FALSE	NA	NA	morinMutationalStructuralAnalysis2013	FALSE	23292937		
-ARAP2	2	FALSE	NA		morinMutationalStructuralAnalysis2013				
+ZNF292	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+ZNF608	1	FALSE	NA	NA	morinMutationalStructuralAnalysis2013	FALSE	23699601		
+ARAP2	2	FALSE	NA		morinMutationalStructuralAnalysis2013		23699601		
 ADAMTSL3	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 AKAP8	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 ANKLE2	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
-HIST1H3A	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
+HIST1H3A	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a		22343534		
 BCL2L10	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 BRSK1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 C12orf35	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 CAMTA1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
-PTPN21	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
-RBP3	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
-TBP	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
-VAX1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
+PTPN21	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a		22343534		
+RBP3	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a		22343534		
+TBP	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a		22343534		
+VAX1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a		22343534		
 ABI3BP	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 ADAMTS1	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
 AICDA	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
@@ -175,12 +175,11 @@ DNAH5	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601
 DNM2	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
 DNMT3B	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
 DOCK1	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
-DSEL	2	FALSE			morinMutationalStructuralAnalysis2013				
 DSG4	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 DPYD	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
-EIF2AK3	2	TRUE	NA	NA	schmitzGeneticsPathogenesisDiffuse2018a	FALSE	NA		
+EIF2AK3	2	TRUE	NA	NA	schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
 DSC3	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
-DSEL	2	FALSE	NA		morinMutationalStructuralAnalysis2013				
+DSEL	2	FALSE	NA		morinMutationalStructuralAnalysis2013		23699601		
 ERAP2	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
 EZR	2	TRUE	NA	NA	NA	FALSE	NA		
 FAM102A	2	TRUE	NA	NA	NA	FALSE	NA		
@@ -206,19 +205,19 @@ HIST1H2AL	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534
 HIST1H2BO	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
 HLA-DMA	2	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
 HNF1B	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
-HNRNPD	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE			
+HNRNPD	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 HNRNPH1	2	FALSE	NA		pararajalingamCodingNoncodingDrivers2020	FALSE	32160292		
-ID3	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	22885699		
+ID3	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	TRUE	29641966		
 IFNGR1	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 IGLL5	2	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
 IKBKB	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 IKBKE	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
-IL16	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE			
+IL16	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 IL6	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
-INO80	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937		
+INO80	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 IRF1	2	TRUE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
-JAK1	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937		
-JAK3	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937		
+JAK1	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
+JAK3	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 KCMF1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 KLHL21	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
 KRTAP5-5	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
@@ -243,7 +242,7 @@ MYOM2	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550
 NAV1	2	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
 NCOA3	2	TRUE	NA	NA	NA	FALSE	NA		
 NEAT1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
-NF1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	28985567		
+NF1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
 NLRP5	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 ODZ2	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 OR6K3	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
@@ -269,12 +268,12 @@ RAPGEF1	2	FALSE	NA		morinFrequentMutationHistonemodifying2011	FALSE	21796119
 RCC	2	TRUE	NA	NA	NA	FALSE	NA		
 RFTN1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
 RFXAP	2	FALSE	NA	NA	NA	FALSE	NA		
-RHEX	2	TRUE	NA	NA	arthurGenomewideDiscoverySomatic2018	FALSE	NA		
-RHOH	2	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	NA		
+RHEX	2	TRUE	NA	NA	arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
+RHOH	2	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	FALSE	11460166		
 RUBCNL	2	TRUE	NA	NA	NA	FALSE	NA		
 S1PR1	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
 SAMD9L	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
-SEL1L3	2	TRUE	NA	NA	schmitzGeneticsPathogenesisDiffuse2018a	FALSE	NA		
+SEL1L3	2	TRUE	NA	NA	schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
 SEPTIN9	2	TRUE	NA	NA	NA	FALSE	NA		
 SERPINA9	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
 SETD2	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
@@ -287,13 +286,13 @@ SMEK1	2	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937
 SRPX	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
 SRRM2	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 ST6GAL1	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
-STAT5B	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937		
+STAT5B	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 HMGB1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 SYN2	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
 SYPL1	2	FALSE	PASS	3	morinMutationalStructuralAnalysis2013	FALSE	23699601		
 TAP1	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
 TBC1D4	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
-TCL1A	2	TRUE	NA		reddyGeneticFunctionalDrivers2017	FALSE			
+TCL1A	2	TRUE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 TGFBR2	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 TIPARP	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 TLR2	2	FALSE	PASS	4	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
@@ -302,8 +301,8 @@ TNF	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534
 TRAF3	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 TRAF6	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
 TRIP12	2	FALSE	NA	NA	NA	FALSE	NA		
-UBE2J1	2	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	NA		
-UBR5	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	23292937		
+UBE2J1	2	TRUE	NA		schmitzGeneticsPathogenesisDiffuse2018a	FALSE	29641966		
+UBR5	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
 UHRF1BP1	2	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	FALSE	28327945		
 UNC5B	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
 UNC5C	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	FALSE	22343534		
@@ -314,7 +313,7 @@ WNK1	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289
 XBP1	2	TRUE	NA		NA	FALSE	NA		
 YY1	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 ZCCHC7	2	TRUE	NA		arthurGenomewideDiscoverySomatic2018	FALSE	30275490		
-ZEB2	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	23292937		
+ZEB2	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 ZFX	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	FALSE	28985567		
 ZNF217	2	FALSE	PASS	3	hubschmannMutationalMechanismsShaping2021b	FALSE	33953289		
 ZNF423	2	FALSE	PASS	3	chapuyMolecularSubtypesDiffuse2018b	FALSE	29713087		
@@ -332,10 +331,10 @@ SERPINA1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550
 SMARCA1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 TLL2	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 TSC22D1	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
-ZNF385B	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a				
+ZNF385B	2	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a		22343534		
 ZNF521	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
 ZWILCH	2	FALSE	NA		pasqualucciAnalysisCodingGenome2011	FALSE	21804550		
-CDH1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b				
+CDH1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b		32565964		
 ABCA3	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
 ABCA4	3	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	FALSE	23292937		
 ABCB1	3	FALSE	NA		fanComprehensiveCharacterizationDriver2020b	FALSE	32565964		
