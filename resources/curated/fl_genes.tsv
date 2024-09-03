@@ -21,7 +21,7 @@ EZH2	1				morinSomaticMutationsAltering2010a	20081860	GOF	21078963
 FAS	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	20935634
 FOXO1	1				morinFrequentMutationHistonemodifying2011	21796119	GOF	23460611
 GNA13	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	26616858
-GNAI2	1				drevalGeneticSubdivisionsFollicular2023	37084389	GOF	23699601
+GNAI2	1				drevalGeneticSubdivisionsFollicular2023	37084389		
 HIST1H1B	1	TRUE			krysiakRecurrentSomaticMutations2017b	28064239		
 HIST1H1C	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119		
 HIST1H1D	1	TRUE			krysiakRecurrentSomaticMutations2017b	28064239		
@@ -40,7 +40,7 @@ MAP2K1	1				louissaintPediatrictypeNodalFollicular2016a	27325104	GOF	28533310
 MEF2B	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119	NEO	23974956; 26245647
 MYC	1	TRUE			NA	NA	GOF	38565249
 PIM1	1	TRUE			drevalGeneticSubdivisionsFollicular2023	NA	GOF	27904766
-POU2AF1	1				krysiakRecurrentSomaticMutations2017b	28064239	LOF	30802265
+POU2AF1	1				krysiakRecurrentSomaticMutations2017b	28064239		
 POU2F2	1				krysiakRecurrentSomaticMutations2017b	28064239	LOF	26993806
 RRAGC	1				okosunRecurrentMTORC1activatingRRAGC2016a	NA	GOF	26691987
 SGK1	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119	GOF	33988691
@@ -50,7 +50,7 @@ STAT6	1				yildizActivatingSTAT6Mutations2015c	25428220	GOF	35851155
 TBL1XR1	1				drevalGeneticSubdivisionsFollicular2023	37084389	LOF	32619424
 TMSB4X	1	TRUE			drevalGeneticSubdivisionsFollicular2023	37084389		
 TNFAIP3	1				drevalGeneticSubdivisionsFollicular2023	37084389	LOF	19412164
-TNFRSF14	1				cheungAcquiredTNFRSF14Mutations2010a	21796119	LOF	21796119
+TNFRSF14	1				cheungAcquiredTNFRSF14Mutations2010a	21796119		
 TP53	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	12826609
 VMA21	1				hubschmannMutationalMechanismsShaping2021b	33953289	LOF	35287545
 ABL2	2				russler-germainMutationsAssociatedProgression2023b	37563306		

@@ -24,7 +24,7 @@ CIITA	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	21796119	LOF	26549456
 CREBBP	1	FALSE	NA		pasqualucciInactivatingMutationsAcetyltransferase2011a	21390126	LOF	21390126	pasqualucciInactivatingMutationsAcetyltransferase2011	TRUE
 CXCR4	1	TRUE	NA		khodabakhshiRecurrentTargetsAberrant2012	23131835	LOF	36089616	zmajkovicovaGenotypephenotypeCorrelationsWHIM2022	FALSE
 DDX3X	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	28985567	LOF	34437837	gongSequentialInverseDysregulation2021	TRUE
-DTX1	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	23292937	LOF	28183850	merirantaDeltex1MutationsPredict2017	TRUE
+DTX1	1	TRUE	NA		zhangGeneticHeterogeneityDiffuse2013	23292937				TRUE
 DUSP2	1	TRUE	NA		lohrDiscoveryPrioritizationSomatic2012a	22343534				TRUE
 EBF1	1	TRUE	NA		bohleRoleEarlyBcell2013	23174882	LOF	28692033	ramirez-komoSpontaneousLossLineage2017	FALSE
 EEF1A1	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	29713087				FALSE
@@ -53,7 +53,7 @@ HIST2H2BE	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018b	29713087				FALSE
 HLA-A	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	22343534	LOF	34050029	fangazioGeneticMechanismsHLAI2021	TRUE
 HLA-B	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	22343534	LOF	34050029	fangazioGeneticMechanismsHLAI2021	TRUE
 HLA-C	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	29713087	LOF	34050029	fangazioGeneticMechanismsHLAI2021	FALSE
-HLA-DMB	1	FALSE	NA		hubschmannMutationalMechanismsShaping2021b	33953289	LOF	7528727	shamanAnalysisHLADMBMutants1995	FALSE
+HLA-DMB	1	FALSE	NA		hubschmannMutationalMechanismsShaping2021b	33953289				FALSE
 HNRNPU	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	28985567				FALSE
 HVCN1	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	29713087				FALSE
 IKZF3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	21796119	GOF	33689703	lazarianHotspotMutationTranscription2021	FALSE
@@ -81,7 +81,7 @@ MYC	1	TRUE	NA		pasqualucciHypermutationMultipleProtooncogenes2001a	11460166	GOF	
 MYD88	1	FALSE	NA		ngoOncogenicallyActiveMYD882011a	21179087	GOF	21179087	ngoOncogenicallyActiveMYD882011	TRUE
 NFKBIA	1	FALSE	NA		thomasMutationalAnalysisIkappaBalpha2004	15198731	LOF	10637284	jungnickelClonalDeleteriousMutations2000	TRUE
 NFKBIE	1	FALSE	NA		morinGeneticLandscapesRelapsed2016	26647218	LOF	25987724	mansouriFunctionalLossIkBe2015	FALSE
-NFKBIZ	1	TRUE	NA		morinGeneticLandscapesRelapsed2016	26647218	GOF	30275490	arthurGenomewideDiscoverySomatic2018	FALSE
+NFKBIZ	1	TRUE	NA		morinGeneticLandscapesRelapsed2016	26647218	GOF	302754900	arthurGenomewideDiscoverySomatic2018	FALSE
 NOL9	1	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018a	29641966				TRUE
 NOTCH1	1	FALSE	NA		pasqualucciAnalysisCodingGenome2011	21804550	GOF	29045844	ryanCellRegulomeLinks2017	TRUE
 NOTCH2	1	FALSE	NA		zhangGeneticHeterogeneityDiffuse2013	23292937	GOF	19445024	leeGainoffunctionMutationsCopy2009	TRUE
@@ -106,7 +106,7 @@ SIN3A	1	FALSE	NA		chapuyMolecularSubtypesDiffuse2018b	29713087				FALSE
 SMARCA4	1	FALSE	NA		reddyGeneticFunctionalDrivers2017	28985567	LOF	33144586	fernandoFunctionalCharacterizationSMARCA42020	FALSE
 SOCS1	1	TRUE	NA		morinFrequentMutationHistonemodifying2011	21796119	LOF	15572583	melznerBiallelicMutationSOCS12005	TRUE
 SPEN	1	FALSE	NA		albuquerqueEnhancingKnowledgeDiscovery2017a	28327945				TRUE
-STAT3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	21796119	GOF	31861597	zhuSTAT3ActivationOncogenesis2019	TRUE
+STAT3	1	FALSE	NA		morinFrequentMutationHistonemodifying2011	21796119	GOF	23861822	huNovelMissenseM206K2013a	TRUE
 STAT6	1	FALSE	NA		yildizActivatingSTAT6Mutations2015c	25428220	GOF	35851155	mentzPARP14NovelTarget2022	TRUE
 TAF1	1	FALSE	NA		morinMutationalStructuralAnalysis2013	23699601				FALSE
 TBL1XR1	1	FALSE	NA		lohrDiscoveryPrioritizationSomatic2012a	22343534	LOF	32619424	venturuttiTBL1XR1MutationsDrive2020	TRUE
