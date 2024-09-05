@@ -1,7 +1,8 @@
 Gene	citekey	Tier	QC	Novel
 CD58	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 CDKN2A	morinMutationalStructuralAnalysis2013	1	NA	TRUE
-DSEL	NA	NA	NA	NA
+DSEL	morinMutationalStructuralAnalysis2013	2	NA	TRUE
+DSEL	morinMutationalStructuralAnalysis2013	2	NA	TRUE
 HIST1H1E	lohrDiscoveryPrioritizationSomatic2012a	1	NA	FALSE
 HIST1H2AC	morinMutationalStructuralAnalysis2013	1	NA	TRUE
 HIST1H2AG	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
@@ -16,11 +17,11 @@ SAMD9L	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
 SGK1	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 SOCS1	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 TMEM30A	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
-TP53	lohrDiscoveryPrioritizationSomatic2012a	1	NA	FALSE
+TP53	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 SYPL1	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
 EBF1	bohleRoleEarlyBcell2013	1	NA	FALSE
 CREBBP	pasqualucciInactivatingMutationsAcetyltransferase2011a	1	NA	FALSE
-MLL2	NA	NA	NA	NA
+KMT2D	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 BCL2	tanakaFrequentIncidenceSomatic1992	1	NA	FALSE
 DNAH5	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
 BCL10	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
@@ -68,10 +69,10 @@ CNTNAP5	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
 ABI3BP	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
 PKD1	morinMutationalStructuralAnalysis2013	3	FAIL	TRUE
 NLRP5	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
-ODZ2	NA	NA	NA	NA
+ODZ2	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
 PTPN23	morinMutationalStructuralAnalysis2013	3	FAIL	TRUE
 PASK	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
 TAF1	morinMutationalStructuralAnalysis2013	1	NA	TRUE
 ZNF608	morinMutationalStructuralAnalysis2013	1	NA	TRUE
 PDS5B	morinMutationalStructuralAnalysis2013	2	PASS	TRUE
-ARAP2	NA	NA	NA	NA
+ARAP2	morinMutationalStructuralAnalysis2013	2	NA	TRUE

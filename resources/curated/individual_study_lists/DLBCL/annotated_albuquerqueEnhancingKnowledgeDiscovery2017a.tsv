@@ -1,6 +1,6 @@
 Gene	citekey	Tier	QC	Novel
 KMT2D	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
-TP53	lohrDiscoveryPrioritizationSomatic2012a	1	NA	FALSE
+TP53	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 CD79B	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 GNA13	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 TNFRSF14	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
@@ -17,7 +17,7 @@ ACTB	lohrDiscoveryPrioritizationSomatic2012a	1	NA	FALSE
 STAT6	yildizActivatingSTAT6Mutations2015c	1	NA	FALSE
 TMEM30A	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 TNFAIP3	compagnoMutationsMultipleGenes2009a	1	NA	FALSE
-UBR5	zhangGeneticHeterogeneityDiffuse2013	2	NA	FALSE
+UBR5	albuquerqueEnhancingKnowledgeDiscovery2017a	2	NA	TRUE
 MEF2B	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 CD58	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 NFKBIE	morinGeneticLandscapesRelapsed2016	1	NA	FALSE
@@ -33,7 +33,7 @@ UBE2A	lohrDiscoveryPrioritizationSomatic2012a	1	NA	FALSE
 KLHL6	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 EBF1	bohleRoleEarlyBcell2013	1	NA	FALSE
 ZFP36L1	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
-CIITA	morinFrequentMutationHistonemodifying2011	2	NA	FALSE
+CIITA	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 KMT2C	zhangGeneticHeterogeneityDiffuse2013	1	NA	FALSE
 ASXL3	albuquerqueEnhancingKnowledgeDiscovery2017a	2	NA	TRUE
 B2M	morinFrequentMutationHistonemodifying2011	1	NA	FALSE

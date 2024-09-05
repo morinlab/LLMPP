@@ -11,7 +11,7 @@ CD274	morinFrequentMutationHistonemodifying2011	2	NA	TRUE
 CD58	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 CD70	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 CD79B	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
-CIITA	morinFrequentMutationHistonemodifying2011	2	NA	TRUE
+CIITA	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 CREBBP	pasqualucciInactivatingMutationsAcetyltransferase2011a	1	NA	FALSE
 ETS1	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 EZH2	morinSomaticMutationsAltering2010a	1	NA	FALSE
@@ -31,10 +31,10 @@ MEF2B	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 MYD88	ngoOncogenicallyActiveMYD882011a	1	NA	FALSE
 S1PR2	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 SGK1	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
-STAT3	lohrDiscoveryPrioritizationSomatic2012a	1	NA	FALSE
+STAT3	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 SOCS1	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 RAPGEF1	morinFrequentMutationHistonemodifying2011	2	NA	TRUE
 TMEM30A	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 TNFRSF14	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
-TP53	lohrDiscoveryPrioritizationSomatic2012a	1	NA	FALSE
+TP53	morinFrequentMutationHistonemodifying2011	1	NA	TRUE
 ZFP36L1	morinFrequentMutationHistonemodifying2011	1	NA	TRUE

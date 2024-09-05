@@ -289,11 +289,11 @@ TMEM30A	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 TMEM63A	zhangGeneticHeterogeneityDiffuse2013	3	NA	TRUE
 TNFAIP3	compagnoMutationsMultipleGenes2009a	1	NA	FALSE
 TNFRSF14	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
-TP53	lohrDiscoveryPrioritizationSomatic2012a	1	NA	FALSE
+TP53	morinFrequentMutationHistonemodifying2011	1	NA	FALSE
 TPRKB	zhangGeneticHeterogeneityDiffuse2013	3	NA	TRUE
 TRIM37	zhangGeneticHeterogeneityDiffuse2013	3	NA	TRUE
 TRIP11	zhangGeneticHeterogeneityDiffuse2013	3	NA	TRUE
-TRRAP	zhangGeneticHeterogeneityDiffuse2013	1	NA	TRUE
+TRRAP	zhangGeneticHeterogeneityDiffuse2013	3	NA	TRUE
 TSC2	zhangGeneticHeterogeneityDiffuse2013	3	NA	TRUE
 TSHZ2	zhangGeneticHeterogeneityDiffuse2013	3	NA	TRUE
 UHRF1BP1L	zhangGeneticHeterogeneityDiffuse2013	3	NA	TRUE
