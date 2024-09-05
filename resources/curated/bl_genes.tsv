@@ -11,10 +11,10 @@ DDX3X	1				schmitzBurkittLymphomaPathogenesis2012	22885699	LOF	34437837
 FBXO11	1				richterRecurrentMutationID32012a	23143595	LOF	22113614
 FOXO1	1				schmitzBurkittLymphomaPathogenesis2012	22885699	GOF	23460611
 GNA13	1				loveGeneticLandscapeMutations2012	23143597	LOF	26616858
-GNAI2	1				grandeGenomewideDiscoverySomatic2019	30617194	GOF	23699601
+GNAI2	1				grandeGenomewideDiscoverySomatic2019	30617194		
 HIST1H1E	1	TRUE			grandeGenomewideDiscoverySomatic2019	31558468		
-HNRNPU	1	TRUE			paneaWholeGenomeLandscape2019	31558468	LOF	36201743
-ID3	1				richterRecurrentMutationID32012a	23143595	LOF	23143595
+HNRNPU	1	TRUE			paneaWholeGenomeLandscape2019	31558468		
+ID3	1				richterRecurrentMutationID32012a	23143595		
 KMT2D	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	26366712
 MYC	1	TRUE			johnstonCmycHypermutationBurkitt1992	1297477	GOF	38565249
 P2RY8	1				muppidiLossSignalingGa132014b	25274307	LOF	25274307
