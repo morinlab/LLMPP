@@ -4,73 +4,78 @@ BACH2	1	TRUE			grandeGenomewideDiscoverySomatic2019	30617194
 BCL6	1	TRUE	PASS	4	loveGeneticLandscapeMutations2012	30617194	LOF	12504096
 BCL7A	1	TRUE			grandeGenomewideDiscoverySomatic2019	30617194	LOF	32576963
 BMP7	1				paneaWholeGenomeLandscape2019	31558468		
-CCND3	1				richterRecurrentMutationID32012a	23143595	GOF	22885699
+CCND3	1				richterRecurrentMutationID32012	23143595	GOF	22885699
 CHD8	1				grandeGenomewideDiscoverySomatic2019	36201743		
 CREBBP	1		PASS	4	loveGeneticLandscapeMutations2012	23143597	LOF	33431788
 DDX3X	1				schmitzBurkittLymphomaPathogenesis2012	22885699	LOF	34437837
-FBXO11	1				richterRecurrentMutationID32012a	23143595	LOF	22113614
+FBXO11	1				richterRecurrentMutationID32012	23143595	LOF	22113614
 FOXO1	1				schmitzBurkittLymphomaPathogenesis2012	22885699	GOF	23460611
 GNA13	1				loveGeneticLandscapeMutations2012	23143597	LOF	26616858
 GNAI2	1				grandeGenomewideDiscoverySomatic2019	30617194		
 HIST1H1E	1	TRUE			grandeGenomewideDiscoverySomatic2019	31558468		
 HNRNPU	1	TRUE			paneaWholeGenomeLandscape2019	31558468		
-ID3	1				richterRecurrentMutationID32012a	23143595		
+ID3	1				richterRecurrentMutationID32012	23143595		
 KMT2D	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	26366712
 MYC	1	TRUE			johnstonCmycHypermutationBurkitt1992	1297477	GOF	38565249
-P2RY8	1				muppidiLossSignalingGa132014b	25274307	LOF	25274307
+P2RY8	1				muppidiLossSignalingGa132014	25274307	LOF	25274307
 PCBP1	1				schmitzBurkittLymphomaPathogenesis2012	22885699		
 PHF6	1				thomasGeneticSubgroupsInform2023	36201743		
 PTEN	1				loveGeneticLandscapeMutations2012	23143597	LOF	23840064
 RFX7	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	30926791
-RHOA	1				richterRecurrentMutationID32012a	23143595	LOF	26616858
+RHOA	1				richterRecurrentMutationID32012	23143595	LOF	26616858
 SIN3A	1				grandeGenomewideDiscoverySomatic2019	30617194		
-SMARCA4	1				richterRecurrentMutationID32012a	23143595	LOF	33144586
+SMARCA4	1				richterRecurrentMutationID32012	23143595	LOF	33144586
 TCF3	1				schmitzBurkittLymphomaPathogenesis2012	22885699	GOF	22885699
 TCL1A	1	TRUE			grandeGenomewideDiscoverySomatic2019	30617194		
 TFAP4	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	34283887
 TP53	1				wildaInactivationARFMDM2p53Pathway2004	14712292	LOF	12826609
 USP7	1				grandeGenomewideDiscoverySomatic2019	30617194		
 WNK1	1				thomasGeneticSubgroupsInform2023	36201743		
-ADAMTS5	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
-ADNP	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
-AGO4	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
-ARHGEF1	2				muppidiLossSignalingGa132014b	25274307		
-BCL2	2	TRUE			burkhardtClinicalRelevanceMolecular2022b	35794096		
-BTG1	2	TRUE			burkhardtClinicalRelevanceMolecular2022b	35794096		
+TBL1XR1	2				maSubtypespecificCooccurringGenetic2022	33792219		
+B2M	2				maSubtypespecificCooccurringGenetic2022	33792219		
+ADAMTS5	2				burkhardtClinicalRelevanceMolecular2022	35794096		
+ADNP	2				burkhardtClinicalRelevanceMolecular2022	35794096		
+AGO4	2				burkhardtClinicalRelevanceMolecular2022	35794096		
+ARHGEF1	2				muppidiLossSignalingGa132014	25274307		
+BCL2	2	TRUE			burkhardtClinicalRelevanceMolecular2022	35794096		
+BTG1	2	TRUE			burkhardtClinicalRelevanceMolecular2022	35794096		
 C16orf48	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
+CARD11	2				maSubtypespecificCooccurringGenetic2022	33792219		
 CARD4	2		PASS	4	loveGeneticLandscapeMutations2012	23143597		
-CCNF	2				abateDistinctViralMutational2015a	26468873		
-CD79A	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+CCNF	2				abateDistinctViralMutational2015	26468873		
+CD79A	2				burkhardtClinicalRelevanceMolecular2022	35794096		
+CDC27	2				maSubtypespecificCooccurringGenetic2022	33792219		
 CD83	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468		
 CDC73	2		PASS	3	loveGeneticLandscapeMutations2012	23143597		
+HIST1H1B	2				maSubtypespecificCooccurringGenetic2022	33792219		
 CDKN2A	2				grandeGenomewideDiscoverySomatic2019	30617194		
 CDKN2C	2				thomasGeneticSubgroupsInform2023	36201743		
-CHD4	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
-CPXM2	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+CHD4	2				burkhardtClinicalRelevanceMolecular2022	35794096		
+CPXM2	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 CXCR4	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468		
 DHCR7	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
-E2F2	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+E2F2	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 EBF1	2	TRUE			thomasGeneticSubgroupsInform2023	NA		
-EDNRB	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+EDNRB	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 EHD1	2				thomasGeneticSubgroupsInform2023	NA		
 EIF4A1	2				paneaWholeGenomeLandscape2019	31558468		
 ELP2	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
 EPPK1	2				paneaWholeGenomeLandscape2019	31558468		
-ERAP1	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+ERAP1	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 EXOSC6	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
-EZH2	2		PASS	5	loveGeneticLandscapeMutations2012	23143597		
+EZH2	1		PASS	5	loveGeneticLandscapeMutations2012	23143597		
 FLYWCH1	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
 GGTLA4	2		PASS	4	loveGeneticLandscapeMutations2012	23143597		
 GTSE1	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
 HIST1H3D	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468		
 HIST1H3I	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468		
 HIST1H4J	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468		
-HLA-DQB1	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+HLA-DQB1	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 IGLL5	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468		
 IKZF3	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468		
 IRF8	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468		
 KANK2	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
-KLHL26	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+KLHL26	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 KMT2C	2				zhouSporadicEndemicBurkitt2019	31300419		
 MCL1	2		PASS	4	paneaWholeGenomeLandscape2019	31558468		
 MIR142	2	TRUE			grandeGenomewideDiscoverySomatic2019	30617194		
@@ -78,31 +83,33 @@ MKI67	2				schmitzBurkittLymphomaPathogenesis2012	22885699
 MYO18A	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
 NBEAL1	2		PASS	4	loveGeneticLandscapeMutations2012	23143597		
 NCOR2	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
-NOA1	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+NOA1	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 P2RY2	2		PASS	4	loveGeneticLandscapeMutations2012	23143597		
 PDCD11	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
-PIM1	2	TRUE			burkhardtClinicalRelevanceMolecular2022b	35794096		
+PIM1	2	TRUE			burkhardtClinicalRelevanceMolecular2022	35794096		
 PLCG2	2		PASS	3	paneaWholeGenomeLandscape2019	31558468		
-PPP6R2	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
-PREX1	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+TNFRSF14	2				maSubtypespecificCooccurringGenetic2022	33792219		
+PPP6R2	2				burkhardtClinicalRelevanceMolecular2022	35794096		
+PREX1	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 RANBP6	2		PASS	5	loveGeneticLandscapeMutations2012	23143597		
-REV3L	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+REV3L	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 RNF144B	2		PASS	3	paneaWholeGenomeLandscape2019	31558468		
-RPL10	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
-S1PR2	2	TRUE			muppidiLossSignalingGa132014b	25274307		
-SAL3	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+RPL10	2				burkhardtClinicalRelevanceMolecular2022	35794096		
+S1PR2	2	TRUE			muppidiLossSignalingGa132014	25274307		
+SAL3	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 TET2	2				thomasGeneticSubgroupsInform2023	36201743		
 TOP2A	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
-TTN	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
-VWA7	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+TTN	2				burkhardtClinicalRelevanceMolecular2022	35794096		
+VWA7	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 WDR90	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
 WHAMM	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
 WNK2	2		PASS	4	paneaWholeGenomeLandscape2019	31558468		
+PRDM1	2				maSubtypespecificCooccurringGenetic2022	33792219		
 YY1AP1	2				schmitzBurkittLymphomaPathogenesis2012	22885699		
-ZAN	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
-ZBTB7A	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+ZAN	2				burkhardtClinicalRelevanceMolecular2022	35794096		
+ZBTB7A	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 ZFP36L1	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468		
-ZNF85	2				burkhardtClinicalRelevanceMolecular2022b	35794096		
+ZNF85	2				burkhardtClinicalRelevanceMolecular2022	35794096		
 ACAD9	3		FAIL	1	loveGeneticLandscapeMutations2012	23143597		
 ACE	3		FAIL	1	loveGeneticLandscapeMutations2012	23143597		
 ALPK2	3		FAIL	1	paneaWholeGenomeLandscape2019	31558468		
