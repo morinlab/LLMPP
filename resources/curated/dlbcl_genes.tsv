@@ -209,7 +209,7 @@ HNRNPD	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	28985567				FALSE
 HNRNPH1	2	FALSE	NA		pararajalingamCodingNoncodingDrivers2020	32160292				FALSE
 ID3	2	FALSE	NA		schmitzGeneticsPathogenesisDiffuse2018	29641966				TRUE
 IFNGR1	2	FALSE	PASS	4	morinMutationalStructuralAnalysis2013	23699601				FALSE
-IGLL5	2	TRUE	NA		chapuyMolecularSubtypesDiffuse2018	29713087				FALSE
+IGLL5	1	TRUE	NA		chapuyMolecularSubtypesDiffuse2018	29713087				FALSE
 IKBKB	2	FALSE	PASS	3	reddyGeneticFunctionalDrivers2017	28985567				FALSE
 IKBKE	2	FALSE	PASS	4	hubschmannMutationalMechanismsShaping2021	33953289				FALSE
 IL16	2	FALSE	NA		reddyGeneticFunctionalDrivers2017	28985567				FALSE
