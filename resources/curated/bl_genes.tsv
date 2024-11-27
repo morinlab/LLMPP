@@ -1,35 +1,35 @@
 Gene	Tier	aSHM	QC	Mean Variant Quality	citekey	PMID	MutationEffect	Mutation-PMID	Additional_Support
-ARID1A	1				loveGeneticLandscapeMutations2012	23143597	LOF	38458187	
-BACH2	1	TRUE			grandeGenomewideDiscoverySomatic2019	30617194			
-BCL6	1	TRUE	PASS	4	loveGeneticLandscapeMutations2012	30617194	LOF	12504096	
-BCL7A	1	TRUE			grandeGenomewideDiscoverySomatic2019	30617194	LOF	32576963	
-BMP7	1				paneaWholeGenomeLandscape2019	31558468			
-CCND3	1				richterRecurrentMutationID32012	23143595	GOF	22885699	
-CHD8	1				grandeGenomewideDiscoverySomatic2019	36201743			
-CREBBP	1		PASS	4	loveGeneticLandscapeMutations2012	23143597	LOF	33431788	
-DDX3X	1				schmitzBurkittLymphomaPathogenesis2012	22885699	LOF	34437837	
-FBXO11	1				richterRecurrentMutationID32012	23143595	LOF	22113614	
-FOXO1	1				schmitzBurkittLymphomaPathogenesis2012	22885699	GOF	23460611	
-GNA13	1				loveGeneticLandscapeMutations2012	23143597	LOF	26616858	
-GNAI2	1				grandeGenomewideDiscoverySomatic2019	30617194			
-HIST1H1E	1	TRUE			grandeGenomewideDiscoverySomatic2019	31558468			
-HNRNPU	1	TRUE			paneaWholeGenomeLandscape2019	31558468			
-ID3	1				richterRecurrentMutationID32012	23143595			
-KMT2D	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	26366712	
-MYC	1	TRUE			johnstonCmycHypermutationBurkitt1992	1297477	GOF	38565249	
-P2RY8	1				muppidiLossSignalingGa132014	25274307	LOF	25274307	
-PCBP1	1				schmitzBurkittLymphomaPathogenesis2012	22885699			
+ARID1A	1				loveGeneticLandscapeMutations2012	23143597	LOF	38458187	giulino-rothTargetedGenomicSequencing2012
+BACH2	1	TRUE			grandeGenomewideDiscoverySomatic2019	30617194	LOF	26522720	paneaWholeGenomeLandscape2019
+BCL6	1	TRUE	PASS	4	loveGeneticLandscapeMutations2012	30617194	LOF	12504096	grandeGenomewideDiscoverySomatic2019
+BCL7A	1	TRUE			grandeGenomewideDiscoverySomatic2019	30617194	LOF	32576963	thomasGeneticSubgroupsInform2023
+BMP7	1				paneaWholeGenomeLandscape2019	31558468			thomasGeneticSubgroupsInform2023
+CCND3	1				richterRecurrentMutationID32012	23143595	GOF	22885699	abateDistinctViralMutational2015
+CHD8	1				grandeGenomewideDiscoverySomatic2019	36201743			paneaWholeGenomeLandscape2019
+CREBBP	1		PASS	4	loveGeneticLandscapeMutations2012	23143597	LOF	33431788	grandeGenomewideDiscoverySomatic2019
+DDX3X	1				schmitzBurkittLymphomaPathogenesis2012	22885699	LOF	34437837	abateDistinctViralMutational2015
+FBXO11	1				richterRecurrentMutationID32012	23143595	LOF	22113614	grandeGenomewideDiscoverySomatic2019
+FOXO1	1				schmitzBurkittLymphomaPathogenesis2012	22885699	GOF	23460611	grandeGenomewideDiscoverySomatic2019
+GNA13	1				schmitzBurkittLymphomaPathogenesis2012	22885699	LOF	26616858	loveGeneticLandscapeMutations2012
+GNAI2	1				grandeGenomewideDiscoverySomatic2019	30617194			thomasGeneticSubgroupsInform2023
+HIST1H1E	1	TRUE			grandeGenomewideDiscoverySomatic2019	31558468			paneaWholeGenomeLandscape2019
+HNRNPU	1	TRUE			paneaWholeGenomeLandscape2019	31558468			thomasGeneticSubgroupsInform2023
+ID3	1				richterRecurrentMutationID32012	23143595			loveGeneticLandscapeMutations2012
+KMT2D	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	26366712	paneaWholeGenomeLandscape2019
+MYC	1	TRUE			johnstonCmycHypermutationBurkitt1992	1297477	GOF	38565249	loveGeneticLandscapeMutations2012
+P2RY8	1				muppidiLossSignalingGa132014	25274307	LOF	25274307	grandeGenomewideDiscoverySomatic2019
+PCBP1	1				schmitzBurkittLymphomaPathogenesis2012	22885699			wagenerPCBP1GeneEncoding2015
 PHF6	1				thomasGeneticSubgroupsInform2023	36201743			zhouSporadicEndemicBurkitt2019
-PTEN	1				loveGeneticLandscapeMutations2012	23143597	LOF	23840064	
-RFX7	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	30926791	
-RHOA	1				richterRecurrentMutationID32012	23143595	LOF	26616858	
-SIN3A	1				grandeGenomewideDiscoverySomatic2019	30617194			
-SMARCA4	1				richterRecurrentMutationID32012	23143595	LOF	33144586	
-TCF3	1				schmitzBurkittLymphomaPathogenesis2012	22885699	GOF	22885699	
-TCL1A	1	TRUE			grandeGenomewideDiscoverySomatic2019	30617194			
-TFAP4	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	34283887	
-TP53	1				wildaInactivationARFMDM2p53Pathway2004	14712292	LOF	12826609	
-USP7	1				grandeGenomewideDiscoverySomatic2019	30617194			
+PTEN	1				loveGeneticLandscapeMutations2012	23143597	LOF	23840064	paneaWholeGenomeLandscape2019
+RFX7	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	30926791	paneaWholeGenomeLandscape2019
+RHOA	1				richterRecurrentMutationID32012	23143595	LOF	26616858	grandeGenomewideDiscoverySomatic2019
+SIN3A	1				grandeGenomewideDiscoverySomatic2019	30617194			paneaWholeGenomeLandscape2019
+SMARCA4	1				richterRecurrentMutationID32012	23143595	LOF	33144586	grandeGenomewideDiscoverySomatic2019
+TCF3	1				schmitzBurkittLymphomaPathogenesis2012	22885699	GOF	22885699	abateDistinctViralMutational2015
+TCL1A	1	TRUE			grandeGenomewideDiscoverySomatic2019	30617194			thomasGeneticSubgroupsInform2023
+TFAP4	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	34283887	paneaWholeGenomeLandscape2019
+TP53	1				wildaInactivationARFMDM2p53Pathway2004	14712292	LOF	12826609	schmitzBurkittLymphomaPathogenesis2012
+USP7	1				grandeGenomewideDiscoverySomatic2019	30617194			paneaWholeGenomeLandscape2019
 WNK1	1				thomasGeneticSubgroupsInform2023	36201743			paneaWholeGenomeLandscape2019
 TBL1XR1	2				maSubtypespecificCooccurringGenetic2022	33792219			
 B2M	2				maSubtypespecificCooccurringGenetic2022	33792219			
@@ -71,7 +71,7 @@ HIST1H3D	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468
 HIST1H3I	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468			
 HIST1H4J	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468			
 HLA-DQB1	2				burkhardtClinicalRelevanceMolecular2022	35794096			
-IGLL5	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468			
+IGLL5	1	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468			thomasGeneticSubgroupsInform2023
 IKZF3	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468			
 IRF8	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468			
 KANK2	2				schmitzBurkittLymphomaPathogenesis2012	22885699			
