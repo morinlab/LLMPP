@@ -1,8 +1,8 @@
 Gene	Tier	aSHM	QC	Mean Variant Quality	citekey	PMID	MutationEffect	Mutation-PMID	Additional_Support
 ACTB	1	TRUE			drevalGeneticSubdivisionsFollicular2023	37084389			kalmbachNovelInsightsPathogenesis2023
 ARID1A	1				krysiakRecurrentSomaticMutations2017	28064239	LOF	38458187	crouchMolecularSubclustersFollicular2022
-ATP6AP1	1				okosunRecurrentMTORC1activatingRRAGC2016	26691987			drevalGeneticSubdivisionsFollicular2023
-ATP6V1B2	1				okosunRecurrentMTORC1activatingRRAGC2016	26691987	LOF	28064239	drevalGeneticSubdivisionsFollicular2023
+ATP6AP1	1				greenMutationsEarlyFollicular2015	25713363			okosunRecurrentMTORC1activatingRRAGC2016
+ATP6V1B2	1				greenMutationsEarlyFollicular2015	25713363	LOF	28064239	okosunRecurrentMTORC1activatingRRAGC2016
 B2M	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	22137796	crouchMolecularSubclustersFollicular2022
 BCL10	1				russler-germainMutationsAssociatedProgression2023	37493986	GOF	35658124	crouchMolecularSubclustersFollicular2022
 BCL2	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119			schuetzBCL2MutationsDiffuse2012
@@ -15,7 +15,7 @@ CD83	1	TRUE			russler-germainMutationsAssociatedProgression2023	37493986			crouc
 CREBBP	1				pasqualucciInactivatingMutationsAcetyltransferase2011	21390126	LOF	21390126	morinFrequentMutationHistonemodifying2011
 CTSS	1				barariaCathepsinAlterationsInduce2020	32330423	GOF	32330455	drevalGeneticSubdivisionsFollicular2023
 EBF1	1	TRUE			drevalGeneticSubdivisionsFollicular2023	37084389	LOF	28692033	crouchMolecularSubclustersFollicular2022
-EEF1A1	1				hubschmannMutationalMechanismsShaping2021	33953289			kalmbachNovelInsightsPathogenesis2023
+EEF1A1	1				greenMutationsEarlyFollicular2015	25713363			hubschmannMutationalMechanismsShaping2021
 EP300	1				pasqualucciInactivatingMutationsAcetyltransferase2011	21390126	LOF	21390126	morinFrequentMutationHistonemodifying2011
 EZH2	1				morinSomaticMutationsAltering2010	20081860	GOF	21078963	drevalGeneticSubdivisionsFollicular2023
 FAS	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	20935634	crouchMolecularSubclustersFollicular2022
@@ -43,7 +43,7 @@ POU2AF1	1				krysiakRecurrentSomaticMutations2017	28064239			crouchMolecularSubc
 POU2F2	1				krysiakRecurrentSomaticMutations2017	28064239	LOF	26993806	crouchMolecularSubclustersFollicular2022
 RRAGC	1				okosunRecurrentMTORC1activatingRRAGC2016	26691987	GOF	26691987	drevalGeneticSubdivisionsFollicular2023
 SGK1	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119	GOF	33988691	crouchMolecularSubclustersFollicular2022
-SMARCA4	1				krysiakRecurrentSomaticMutations2017	28064239	LOF	33144586	crouchMolecularSubclustersFollicular2022
+SMARCA4	1				greenMutationsEarlyFollicular2015	25713363	LOF	33144586	krysiakRecurrentSomaticMutations2017
 SOCS1	1	TRUE			drevalGeneticSubdivisionsFollicular2023	37084389	LOF	15572583	crouchMolecularSubclustersFollicular2022
 STAT6	1				yildizActivatingSTAT6Mutations2015	25428220	GOF	35851155	crouchMolecularSubclustersFollicular2022
 TBL1XR1	1				drevalGeneticSubdivisionsFollicular2023	37084389	LOF	32619424	crouchMolecularSubclustersFollicular2022
