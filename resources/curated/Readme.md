@@ -291,43 +291,13 @@ The core gene list at the time this document was prepared is shown below. _This 
 |ZNF608|1|FALSE|NA||morinMutationalStructuralAnalysis2013|23699601||||FALSE
 |LCOR|1|FALSE|NA||novakWholeexomeAnalysisReveals2015|26314988||||FALSE
 
-
 ### Burkitt lymphoma
 
-The master curated list for BL including DLBCL genes that have been scrutinized within BL is can be found in `bl_genes.tsv` (or [here](bl_genes.tsv)). The earliest_support_BL column indicates the PubMed ID of the first study to nominate this gene as mutated in BL (or NA when not applicable). The frequency_BL_Thomas and frequency_BL_Panea columns report the percentage of patient samples with at least one non-silent mutation in this gene in the two studies. In the case of Panea et al, these numbers are based on the reanalysis of the exome data from this study by the Morin lab (as detailed in Dreval et al). The original frequencies based on the mutation calls from Panea et al are in the frequency_BL_Panea_original column.
+The master curated list for BL including DLBCL genes that have been scrutinized within BL is can be found in `bl_genes.tsv` (or [here](bl_genes.tsv)). 
 
-Similar to dlbcl_genes.tsv, this file contains a Curated_BL_driver column, which will be TRUE for the subset of genes that have made it to our core list. The current core list at the time this document was created is below. _This may not match the actual file, depending on whether this document is kept up to date. Please refer to the the file rather than this list._ The links in the table below are not exhaustive but instead are there to show some examples of the mutations underlying this analysis. *Important:* The mutation frequency from our reanalysis of the data from Panea et al is reported under frequency_BL_Panea point whereas the lollipop plots are derived from the mutations originally reported by Panea. The different patterns in the mutations reported by that study and observed in our analysis has not been addressed by the authors. 
+### Follicular lymphoma
 
-| Gene    | Curated_BL_driver | frequency_BL_Thomas | frequency_BL_Panea |
-|---------|-------------------|---------------------|--------------------|
-| MYC     | TRUE              | [60.2](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_panea/MYC.png)                 | [49.5](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_thomas/MYC.png)               |
-| DDX3X   | TRUE              | 48.7                | 39.6               |
-| ID3     | TRUE              | 47                  | 31.7               |
-| TP53    | TRUE              | [41.9](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_thomas/TP53.png)                 | [43.6](../../literature/mutation_patterns/lollipop/by_study/as_reported/bl_panea/TP53.png)                |
-| ARID1A  | TRUE              | 36                  | 19.8               |
-| CCND3   | TRUE              | 28                  | 17.8               |
-| FOXO1   | TRUE              | 28                  | 21.8               |
-| FBXO11  | TRUE              | 21.6                | 15.8               |
-| GNA13   | TRUE              | 21.6                | 20.8               |
-| SMARCA4 | TRUE              | 17.8                | 18.8               |
-| KMT2D   | TRUE              | 14                  | 15.8               |
-| PCBP1   | TRUE              | 12.3                | 11.9               |
-| P2RY8   | TRUE              | 11                  | NA                 |
-| TCF3    | TRUE              | 11                  | 9.9                |
-| SIN3A   | TRUE              | 10.6                | 14.9               |
-| TFAP4   | TRUE              | 10.6                | 9.9                |
-| GNAI2   | TRUE              | 9.7                 | 8.9                |
-| RFX7    | TRUE              | 9.3                 | 4                  |
-| BMP7    | TRUE              | 8.9                 | 5                  |
-| CHD8    | TRUE              | 8.5                 | 16.8               |
-| RHOA    | TRUE              | 8.1                 | 12.9               |
-| EPPK1   | TRUE              | 7.6                 | 15.8               |
-| USP7    | TRUE              | 6.8                 | 5.9                |
-| WNK1    | TRUE              | 6.8                 | 11.9               |
-| HNRNPU  | TRUE              | 6.4                 | 8.9                |
-| PHF6    | TRUE              | 5.5                 | 5.9                |
-| EIF4A1  | TRUE              | 5.1                 | 6.9                |
-| PTEN    | TRUE              | 4.7                 | 4                  |
+The master curated list for FL including DLBCL genes that have been scrutinized within BL is can be found in `fl_genes.tsv` (or [here](fl_genes.tsv)).
 
 ### aSHM regions
 
