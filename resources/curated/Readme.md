@@ -47,7 +47,7 @@ This file contains four additional columns, which respectively report the mutati
 |EP300|1|FALSE|NA||pasqualucciInactivatingMutationsAcetyltransferase2011|21390126|LOF|21390126|pasqualucciInactivatingMutationsAcetyltransferase2011|TRUE
 |ETS1|1|TRUE|NA||morinFrequentMutationHistonemodifying2011|21796119||||TRUE
 |ETV6|1|TRUE|NA||lohrDiscoveryPrioritizationSomatic2012|22343534|LOF|24997145|wangETV6MutationCohort2014|TRUE
-|EZH2|1|FALSE|NA|NA|morinSomaticMutationsAltering2010|20081860|GOF|21078963|sneeringerCoordinatedActivitiesWildtype2010|TRUE
+|EZH2|1|FALSE|NA||morinSomaticMutationsAltering2010|20081860|GOF|21078963|sneeringerCoordinatedActivitiesWildtype2010|TRUE
 |FAS|1|FALSE|NA||schollMutationsRegionFAS2007|17487740|LOF|20935634|wangFasFADDDeathDomain2010|FALSE
 |FBXO11|1|FALSE|NA||arthurGenomewideDiscoverySomatic2018|30275490|LOF|22113614|duanFBXO11TargetsBCL62011|FALSE
 |FBXW7|1|FALSE|NA||zhangGeneticHeterogeneityDiffuse2013|23292937|LOF|32350066|saffieFBXW7TriggersDegradation2020|FALSE
