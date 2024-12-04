@@ -13,7 +13,7 @@ This file contains four additional columns, which respectively report the mutati
 
 
 
-|Gene|Tier|aSHM|QC|Mean|variant|quality|citekey|PMID|MutationEffect|Mutation-PMID|MutationEffect-citekey|LymphGen|
+|Gene|Tier|aSHM|QC|Mean variant quality|citekey|PMID|MutationEffect|Mutation-PMID|MutationEffect-citekey|LymphGen|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |ACTB|1|TRUE|NA|lohrDiscoveryPrioritizationSomatic2012|22343534|TRUE|
 |ACTG1|1|TRUE|NA|fanComprehensiveCharacterizationDriver2020|32565964|FALSE|
