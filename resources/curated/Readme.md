@@ -8,7 +8,9 @@ These lists are meant to be comprehensive lists of genes that are (reportedly) e
 
 ### DLBCL
 
-The master curated gene list for DLBCL including all genes nominated by any exome/genome-wide study can be found in this directory in `dlbcl_genes.tsv` or [here](dlbcl_genes.tsv). Most of the columns in this file are self-explanatory. The citekey and PMID columns respectively refer to the BibTex citekey and PubMed ID of the first study that nominated that gene as a significantly mutated gene in DLBCL. 
+The master curated gene list for DLBCL including all genes nominated by any exome/genome-wide study can be found in this directory in `dlbcl_genes.tsv` or [here](dlbcl_genes.tsv). Most of the columns in this file are self-explanatory. The second column (Tier) refers to our confidence in the gene. Each gene is assigned to one of three based on the extent of data supporting its role in that entity, with Tier 1 and Tier 2 respectively representing the high- and moderate-confidence genes. Genes of particularly low confidence can also be assigned to a third tier, though not all lists contain Tier 3 genes. 
+![image](https://github.com/user-attachments/assets/1c82000d-73c1-41a1-8259-912e575a93c8)
+ The citekey and PMID columns respectively refer to the BibTex citekey and PubMed ID of the first study that nominated that gene as a significantly mutated gene in DLBCL. 
 The core gene list at the time this document was prepared is shown below. _This may not match the actual file, depending on whether this document is kept up to date. Please refer to [this file](dlbcl_genes.tsv) rather than the table you see below._ 
 
 
