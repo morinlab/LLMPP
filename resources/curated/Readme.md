@@ -111,7 +111,7 @@ This file contains four additional columns, which respectively report the mutati
 |PTEN|1|FALSE|NA||reddyGeneticFunctionalDrivers2017|28985567|LOF|23840064|pfeiferPTENLossDefines2013|FALSE
 |PTPN6|1|FALSE|PASS|3|reddyGeneticFunctionalDrivers2017|28985567|LOF|26565811|demosthenousLossFunctionMutations2015|FALSE
 |RB1|1|FALSE|NA||morinMutationalStructuralAnalysis2013|23699601|LOF|17332242|pinyolInactivationRB1Mantlecell2007|FALSE
-|RFX7|1|FALSE|NA|NA|arthurGenomewideDiscoverySomatic2018|30275490|LOF|30926791|weberPiggyBacTransposonTools2019|FALSE
+|RFX7|1|FALSE|NA||arthurGenomewideDiscoverySomatic2018|30275490|LOF|30926791|weberPiggyBacTransposonTools2019|FALSE
 |RHOA|1|FALSE|NA||zhangGeneticHeterogeneityDiffuse2013|23292937|LOF|26616858|ohayreInactivatingMutationsGNA132016|FALSE
 |RRAGC|1|FALSE|NA||okosunRecurrentMTORC1activatingRRAGC2016|26691987|GOF|26691987|okosunRecurrentMTORC1activatingRRAGC2016|FALSE
 |S1PR2|1|TRUE|NA||morinFrequentMutationHistonemodifying2011|21796119|LOF|25274307|muppidiLossSignalingGa132014|TRUE
@@ -139,7 +139,7 @@ This file contains four additional columns, which respectively report the mutati
 |ZC3H12A|1|FALSE|NA||chapuyMolecularSubtypesDiffuse2018|29713087|LOF|19747262|skalniakRegulatoryFeedbackLoop2009|FALSE
 |ZFP36L1|1|TRUE|NA||morinFrequentMutationHistonemodifying2011|21796119||||TRUE
 |ZNF292|1|FALSE|NA||reddyGeneticFunctionalDrivers2017|28985567||||FALSE
-|ZNF608|1|FALSE|NA|NA|morinMutationalStructuralAnalysis2013|23699601||||FALSE
+|ZNF608|1|FALSE|NA||morinMutationalStructuralAnalysis2013|23699601||||FALSE
 |LCOR|1|FALSE|NA||novakWholeexomeAnalysisReveals2015|26314988||||FALSE
 
 
