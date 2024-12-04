@@ -9,7 +9,7 @@ These lists are meant to be comprehensive lists of genes that are (reportedly) e
 ### DLBCL, FL and BL combined list
 
 |Gene|DLBCL Tier|FL Tier|BL Tier|
-|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |ARID1A|1|1|1|
 |BCL6|1|1|1|
 |BCL7A|1|1|1|
