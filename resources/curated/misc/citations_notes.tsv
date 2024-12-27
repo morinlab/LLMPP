@@ -1,0 +1,55 @@
+citekey	methodology	date	tumor-normal pairs	unpaired-tumors	cell lines	notes
+tanakaFrequentIncidenceSomatic1992	Sanger	1992-01-01	0	5	0	
+johnstonCmycHypermutationBurkitt1992	Sanger	1992-12-01	0	0	9	
+pasqualucciHypermutationMultipleProtooncogenes2001	Sanger	2001-07-19	11	28	0	
+wildaInactivationARFMDM2p53Pathway2004	Sanger	2004-03-01	0	24	0	
+pasqualucciInactivationPRDM1BLIMP12006	Sanger	2006-02-02	134	0	20	
+schollMutationsRegionFAS2007	Sanger	2007-05-01				
+lenzOncogenicCARD11Mutations2008	Sanger	2008-03-03	6	217	21	
+compagnoMutationsMultipleGenes2009	Sanger	2009-06-04	0	101	Unclear	
+morinSomaticMutationsAltering2010	RNA-seq/WGS	2010-02-02	1	31	7	
+cheungAcquiredTNFRSF14Mutations2010	Sanger	2010-11-15	11	251	0	
+ngoOncogenicallyActiveMYD882011	Sanger	2011-02-03	0	382	20	
+pasqualucciInactivatingMutationsAcetyltransferase2011	exome/Sanger	2011-03-10	7	134	0	
+tiacciBRAFMutationsHairycell2011	exome/Sanger	2011-06-16				
+morinFrequentMutationHistonemodifying2011	WGS/RNA-seq	2011-07-27	14	103	10	
+pasqualucciAnalysisCodingGenome2011	exome/Sanger	2011-07-31	6	92	23	
+lohrDiscoveryPrioritizationSomatic2012	exome	2012-03-06	55	0	0	
+bohleRoleEarlyBcell2013	Sanger	2012-10-01	0	0	6	
+schmitzBurkittLymphomaPathogenesis2012	RNA-seq	2012-10-04	0	41	0	
+kwanhianMicroRNA142Mutated202012	Sanger	2012-10-1	unclear	56	0	
+richterRecurrentMutationID32012	RNA-seq/WGS/exome	2012-11-11	unclear	53		
+khodabakhshiRecurrentTargetsAberrant2012	WGS	2012-11-12	40	0	0	
+loveGeneticLandscapeMutations2012	exome	2012-12-01	14	37	8	
+zhangGeneticHeterogeneityDiffuse2013	exome	2013-01-01	34	39	21	
+morinMutationalStructuralAnalysis2013	WGS	2013-08-15	40	0	13	
+muppidiLossSignalingGa132014	Sanger	2014-12-11	unclear	unclear		
+yildizActivatingSTAT6Mutations2015	exome	2015-01-22	24	0	0	
+novakWholeexomeAnalysisReveals2015	exome	2015-08-01	51	0		
+shinBRAFV600EMAP2K12015	Sanger	2015-03-01	unclear	unclear	unclear	
+abateDistinctViralMutational2015	RNA-seq	2015-10-15	0	20	0	
+okosunRecurrentMTORC1activatingRRAGC2016	exome	2016-02-02	5			
+mareschalWholeExomeSequencing2016	exome	2016-03-01	14	0	0	
+morinGeneticLandscapesRelapsed2016	exome	2016-05-01	38	0	0	
+louissaintPediatrictypeNodalFollicular2016	exome/panel	2016-08-25	22	0	0	
+krysiakRecurrentSomaticMutations2017	exome/panel	2017-01-26	61	69	0	1716 gene panel described in Supplemental Table S4 from the study
+albuquerqueEnhancingKnowledgeDiscovery2017	exome	2017-05-01	96	0	0	Exomes are from TCGA and Lohr et al
+reddyGeneticFunctionalDrivers2017	exome	2017-10-10	400	601	0	Although normals were sequenced, the paired exomes were not analyzed as pairs and the identity of paired exomes was not included in the study
+schmitzGeneticsPathogenesisDiffuse2018	exome	2018-04-12	48	526		
+chapuyMolecularSubtypesDiffuse2018	exome	2018-05-01	137	167		
+arthurGenomewideDiscoverySomatic2018	WGS	2018-10-01	153	0	0	
+grandeGenomewideDiscoverySomatic2019	WGS	2019-03-21	106	0	0	Combination of endemic and sporadic BL and EBV+/EBV- BL
+zhouSporadicEndemicBurkitt2019	Sanger	2019-07-23	0	74	0	All patients were sporadic BL
+paneaWholeGenomeLandscape2019	RNA-seq/exome	2019-09-26	101	0	0	As per the errata, the study relied on a combination of RNA-seq and exome data https://doi.org/10.1182/blood.2023021419
+barariaCathepsinAlterationsInduce2020	panel	2020-05-05	0	305		Targeted sequencing panel covered all CTSS exons. Unclear if panel covered additional genes.
+fanComprehensiveCharacterizationDriver2020	exome	2020-07-01	48	0		TCGA exomes
+rushtonGeneticEvolutionaryPatterns2020	exome/panel	2020-07-14	135	0	0	63-gene panel
+pararajalingamCodingNoncodingDrivers2020	exome/WGS	2020-07-30	85	0	0	
+hubschmannMutationalMechanismsShaping2021	WGS	2021-05-05	179	2	0	ICGC MALY-DE
+dunsCharacterizationDLBCLPMBL2021	exome	2021-07-15	7	8	0	
+maSubtypespecificCooccurringGenetic2022	panel	2022-03-01	0	685	0	380-gene panel includes 79 Tier 1 genes
+burkhardtClinicalRelevanceMolecular2022	panel	2022-07-06	0	298	10	134-gene panel includes 42 Tier 1 genes
+crouchMolecularSubclustersFollicular2022	panel	2022-11-02	0	548	0	293-gene panel includes 97 Tier 1 genes
+thomasGeneticSubgroupsInform2023	WGS	2023-02-03	193	82	22	Includes pediatric and adult BL cases as well as HIV+ DLBCLs
+russler-germainMutationsAssociatedProgression2023	exome	2023-07-26	0	370	0	2595-gene panel covers 132 Tier 1 genes
+drevalGeneticSubdivisionsFollicular2023	WGS	2023-08-10	423	0	0	
