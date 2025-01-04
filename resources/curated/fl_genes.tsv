@@ -16,7 +16,7 @@ CREBBP	1				pasqualucciInactivatingMutationsAcetyltransferase2011	21390126	LOF	2
 CTSS	1				barariaCathepsinAlterationsInduce2020	32330423	GOF	32330455	drevalGeneticSubdivisionsFollicular2023
 EBF1	1	TRUE			drevalGeneticSubdivisionsFollicular2023	37084389	LOF	28692033	crouchMolecularSubclustersFollicular2022
 EEF1A1	1				greenMutationsEarlyFollicular2015	25713363			hubschmannMutationalMechanismsShaping2021
-EP300	1				pasqualucciInactivatingMutationsAcetyltransferase2011	21390126	LOF	21390126	morinFrequentMutationHistonemodifying2011
+EP300	1				pasqualucciInactivatingMutationsAcetyltransferase2011	21390126	LOF	21390126	pasqualucciInactivatingMutationsAcetyltransferase2011
 EZH2	1				morinSomaticMutationsAltering2010	20081860	GOF	21078963	drevalGeneticSubdivisionsFollicular2023
 FAS	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	20935634	crouchMolecularSubclustersFollicular2022
 FOXO1	1				morinFrequentMutationHistonemodifying2011	21796119	GOF	23460611	crouchMolecularSubclustersFollicular2022
