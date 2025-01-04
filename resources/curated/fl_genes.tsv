@@ -18,9 +18,9 @@ EBF1	1	TRUE			drevalGeneticSubdivisionsFollicular2023	37084389	LOF	28692033	rami
 EEF1A1	1				greenMutationsEarlyFollicular2015	25713363				hubschmannMutationalMechanismsShaping2021	
 EP300	1				pasqualucciInactivatingMutationsAcetyltransferase2011	21390126	LOF	21390126	pasqualucciInactivatingMutationsAcetyltransferase2011	morinFrequentMutationHistonemodifying2011	
 EZH2	1				morinSomaticMutationsAltering2010	20081860	GOF	21078963	sneeringerCoordinatedActivitiesWildtype2010	drevalGeneticSubdivisionsFollicular2023	
-FAS	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	20935634		crouchMolecularSubclustersFollicular2022	
-FOXO1	1				morinFrequentMutationHistonemodifying2011	21796119	GOF	23460611		crouchMolecularSubclustersFollicular2022	
-GNA13	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	26616858		crouchMolecularSubclustersFollicular2022	
+FAS	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	20935634	wangFasFADDDeathDomain2010	crouchMolecularSubclustersFollicular2022	
+FOXO1	1				morinFrequentMutationHistonemodifying2011	21796119	GOF	23460611	trinhAnalysisFOXO1Mutations	crouchMolecularSubclustersFollicular2022	
+GNA13	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	26616858	ohayreInactivatingMutationsGNA132016	crouchMolecularSubclustersFollicular2022	
 GNAI2	1				drevalGeneticSubdivisionsFollicular2023	37084389				kalmbachNovelInsightsPathogenesis2023	
 HIST1H1B	1	TRUE			krysiakRecurrentSomaticMutations2017	28064239				crouchMolecularSubclustersFollicular2022	
 HIST1H1C	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119				crouchMolecularSubclustersFollicular2022	
@@ -32,13 +32,13 @@ HIST1H2AM	1	TRUE			krysiakRecurrentSomaticMutations2017	28064239				crouchMolecu
 HIST1H2BC	1	TRUE			krysiakRecurrentSomaticMutations2017	28064239				crouchMolecularSubclustersFollicular2022	
 HIST1H2BG	1	TRUE			krysiakRecurrentSomaticMutations2017	28064239				crouchMolecularSubclustersFollicular2022	
 HVCN1	1				krysiakRecurrentSomaticMutations2017	28064239				crouchMolecularSubclustersFollicular2022	
-IRF8	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119	LOF	38996030		crouchMolecularSubclustersFollicular2022	
-KLHL6	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119	LOF	29695787		crouchMolecularSubclustersFollicular2022	
-KMT2D	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	26366712		crouchMolecularSubclustersFollicular2022	
-MAP2K1	1				louissaintPediatrictypeNodalFollicular2016	27325104	GOF	28533310		schmidtMutationsMAP2K1Are2017	
-MEF2B	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119	NEO	23974956; 26245647		crouchMolecularSubclustersFollicular2022	
-MYC	1	TRUE			rossiAberrantSomaticHypermutation2006	17018394	GOF	38565249		crouchMolecularSubclustersFollicular2022	
-PIM1	1	TRUE			drevalGeneticSubdivisionsFollicular2023	37084389	GOF	27904766		crouchMolecularSubclustersFollicular2022	
+IRF8	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119	LOF	38996030	qiuIRF8mutantCellLymphoma2024	crouchMolecularSubclustersFollicular2022	
+KLHL6	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119	LOF	29695787	choiLossKLHL6Promotes2018	crouchMolecularSubclustersFollicular2022	
+KMT2D	1				morinFrequentMutationHistonemodifying2011	21796119	LOF	26366712	zhangDisruptionKMT2DPerturbs2015	crouchMolecularSubclustersFollicular2022	
+MAP2K1	1				louissaintPediatrictypeNodalFollicular2016	27325104	GOF	28533310	schmidtMutationsMAP2K1Are2017	schmidtMutationsMAP2K1Are2017	
+MEF2B	1	TRUE			morinFrequentMutationHistonemodifying2011	21796119	NEO	23974956; 26245647	yingMEF2BMutationsLead2013	crouchMolecularSubclustersFollicular2022	
+MYC	1	TRUE			rossiAberrantSomaticHypermutation2006	17018394	GOF	38565249	freieGermlinePointMutation2024	crouchMolecularSubclustersFollicular2022	
+PIM1	1	TRUE			drevalGeneticSubdivisionsFollicular2023	37084389	GOF	27904766	kuoRolePIM1Ibrutinibresistant2016	crouchMolecularSubclustersFollicular2022	
 POU2AF1	1				krysiakRecurrentSomaticMutations2017	28064239				crouchMolecularSubclustersFollicular2022	
 POU2F2	1				krysiakRecurrentSomaticMutations2017	28064239	LOF	26993806		crouchMolecularSubclustersFollicular2022	
 RRAGC	1				okosunRecurrentMTORC1activatingRRAGC2016	26691987	GOF	26691987		drevalGeneticSubdivisionsFollicular2023	
