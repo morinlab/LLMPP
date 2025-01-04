@@ -1,1 +1,0 @@
-curated % cat <(cut -f 12 dlbcl_genes_with_mutation_frequencies.tsv) <(cut -f 5 bl_genes.tsv) <(cut -f 10 fl_genes.tsv) <(cut -f 16 mcl_genes.tsv) <(cut -f 8 mzl_genes.tsv) <(cut -f 4 PMBL_HL_MGZL.tsv) | sort -u | egrep -v "citekey|NA$"

@@ -8,6 +8,7 @@ CCND3	1				richterRecurrentMutationID32012	23143595	GOF	22885699	abateDistinctVi
 CHD8	1				grandeGenomewideDiscoverySomatic2019	36201743			paneaWholeGenomeLandscape2019
 CREBBP	1		PASS	4	loveGeneticLandscapeMutations2012	23143597	LOF	33431788	grandeGenomewideDiscoverySomatic2019
 DDX3X	1				schmitzBurkittLymphomaPathogenesis2012	22885699	LOF	34437837	abateDistinctViralMutational2015
+EZH2	1		PASS	5	loveGeneticLandscapeMutations2012	23143597			
 FBXO11	1				richterRecurrentMutationID32012	23143595	LOF	22113614	grandeGenomewideDiscoverySomatic2019
 FOXO1	1				schmitzBurkittLymphomaPathogenesis2012	22885699	GOF	23460611	grandeGenomewideDiscoverySomatic2019
 GNA13	1				schmitzBurkittLymphomaPathogenesis2012	22885699	LOF	26616858	loveGeneticLandscapeMutations2012
@@ -31,6 +32,7 @@ TFAP4	1				grandeGenomewideDiscoverySomatic2019	30617194	LOF	34283887	paneaWhole
 TP53	1				wildaInactivationARFMDM2p53Pathway2004	14712292	LOF	12826609	schmitzBurkittLymphomaPathogenesis2012
 USP7	1				grandeGenomewideDiscoverySomatic2019	30617194			paneaWholeGenomeLandscape2019
 WNK1	1				thomasGeneticSubgroupsInform2023	36201743			paneaWholeGenomeLandscape2019
+IGLL5	1	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468			thomasGeneticSubgroupsInform2023
 TBL1XR1	2				maSubtypespecificCooccurringGenetic2022	33792219			
 B2M	2				maSubtypespecificCooccurringGenetic2022	33792219			
 ADAMTS5	2				burkhardtClinicalRelevanceMolecular2022	35794096			
@@ -63,7 +65,6 @@ ELP2	2				schmitzBurkittLymphomaPathogenesis2012	22885699
 EPPK1	2				paneaWholeGenomeLandscape2019	31558468			
 ERAP1	2				burkhardtClinicalRelevanceMolecular2022	35794096			
 EXOSC6	2				schmitzBurkittLymphomaPathogenesis2012	22885699			
-EZH2	1		PASS	5	loveGeneticLandscapeMutations2012	23143597			
 FLYWCH1	2				schmitzBurkittLymphomaPathogenesis2012	22885699			
 GGTLA4	2		PASS	4	loveGeneticLandscapeMutations2012	23143597			
 GTSE1	2				schmitzBurkittLymphomaPathogenesis2012	22885699			
@@ -71,7 +72,6 @@ HIST1H3D	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468
 HIST1H3I	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468			
 HIST1H4J	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468			
 HLA-DQB1	2				burkhardtClinicalRelevanceMolecular2022	35794096			
-IGLL5	1	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468			thomasGeneticSubgroupsInform2023
 IKZF3	2	TRUE	PASS	3	paneaWholeGenomeLandscape2019	31558468			
 IRF8	2	TRUE	PASS	4	paneaWholeGenomeLandscape2019	31558468			
 KANK2	2				schmitzBurkittLymphomaPathogenesis2012	22885699			
