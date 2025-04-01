@@ -1,0 +1,114 @@
+hub gamblr_fishhook
+shortLabel gamblr fishhook
+longLabel GAMBLR mutations from hg38 projection
+useOneFile on
+email rdmorin@sfu.ca
+
+genome hg38
+
+track aSHM_regions
+shortLabel aSHM regions
+longLabel Regions of aSHM from GAMBLR
+visibility squish
+priority 1
+type bigBed
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/ashm.bb?raw=true
+
+track genome_BL
+shortLabel genome_BL
+longLabel genome_BL SSMs coloured by lymphgen
+visibility dense
+priority 2
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/genome_BL.bb?raw=true
+
+track genome_CLL
+shortLabel genome_CLL
+longLabel genome_CLL SSMs coloured by lymphgen
+visibility dense
+priority 3
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/genome_CLL.bb?raw=true
+
+track genome_DLBCL
+shortLabel genome_DLBCL
+longLabel genome_DLBCL SSMs coloured by lymphgen
+visibility dense
+priority 4
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/genome_DLBCL.bb?raw=true
+
+track genome_FL
+shortLabel genome_FL
+longLabel genome_FL SSMs coloured by lymphgen
+visibility dense
+priority 5
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/genome_FL.bb?raw=true
+
+track genome_MCL
+shortLabel genome_MCL
+longLabel genome_MCL SSMs coloured by lymphgen
+visibility dense
+priority 6
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/genome_MCL.bb?raw=true
+
+track BL_fishhook_test
+shortLabel BL_fishhook_test
+longLabel BL_fishhook_test--2025-03 significant regions
+visibility dense
+priority 7
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/BL_fishhook_test_signif.bb?raw=true
+
+track CLL_fishhook_test
+shortLabel CLL_fishhook_test
+longLabel CLL_fishhook_test--2025-03 significant regions
+visibility dense
+priority 8
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/CLL_fishhook_test_signif.bb?raw=true
+
+track DLBCL_fishhook_test
+shortLabel DLBCL_fishhook_test
+longLabel DLBCL_fishhook_test--2025-03 significant regions
+visibility dense
+priority 9
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/DLBCL_fishhook_test_signif.bb?raw=true
+
+track DLBCL_FL_fishhook_test
+shortLabel DLBCL_FL_fishhook_test
+longLabel DLBCL_FL_fishhook_test--2025-03 significant regions
+visibility dense
+priority 10
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/DLBCL_FL_fishhook_test_signif.bb?raw=true
+
+track FL_fishhook_test
+shortLabel FL_fishhook_test
+longLabel FL_fishhook_test--2025-03 significant regions
+visibility dense
+priority 11
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/FL_fishhook_test_signif.bb?raw=true
+
+track MCL_fishhook_test
+shortLabel MCL_fishhook_test
+longLabel MCL_fishhook_test--2025-03 significant regions
+visibility dense
+priority 12
+type bigBed 9
+itemRgb on
+bigDataUrl https://https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/MCL_fishhook_test_signif.bb?raw=true
