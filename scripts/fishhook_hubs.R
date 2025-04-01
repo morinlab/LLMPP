@@ -23,7 +23,7 @@ dir.create(hub_dir_full_path, showWarnings = FALSE)
 track_dir <- file.path(hub_dir_full_path, projection)
 dir.create(track_dir, showWarnings = FALSE)
 
-bigDataUrl_base <- "https://https://github.com/morinlab/LLMPP/tree/sg_hubs"
+bigDataUrl_base <- "https://github.com/morinlab/LLMPP/tree/sg_hubs"
 
 bedToBigBed_path = tryCatch(
 	GAMBLR.helpers::check_config_value(config::get("dependencies")$bedToBigBed),
