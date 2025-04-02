@@ -166,7 +166,7 @@ for(i in seq_along(track_names)){
 	cat( paste0("longLabel ", track_names[i], " SSMs coloured by lymphgen\n") )
 	cat( paste0("visibility dense\n") )
 	cat( paste0("priority ", i+1, "\n") )
-	cat( paste0("type bigBed 9\n") )
+	cat( paste0("type bigBed\n") )
 	cat( "itemRgb on\n" )
 	file.path(bigDataUrl_base, hub_dir, projection, track_file_names[i]) %>% 
 		{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
@@ -181,7 +181,7 @@ for(i in seq_along(sample_subsets)){
 	cat( paste0("longLabel ", sample_subsets[i], "--", date, " significant regions\n") )
 	cat( paste0("visibility dense\n") )
 	cat( paste0("priority ", track_count+i+1, "\n") )
-	cat( paste0("type bigBed 9\n") )
+	cat( paste0("type bigBed\n") )
 	cat( "itemRgb on\n" )
 	file.path(bigDataUrl_base, hub_dir, projection, sample_track_files[i]) %>% 
 		{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
