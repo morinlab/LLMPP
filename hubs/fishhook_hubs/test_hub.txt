@@ -12,4 +12,4 @@ longLabel Regions of aSHM from GAMBLR
 visibility squish
 priority 1
 type bigBed
-bigDataUrl https://github.com/morinlab/LLMPP/tree/sg_hubs/hubs/fishhook_hubs/hg38/test_ashm.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/test_ashm.bb?raw=true
