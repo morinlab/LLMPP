@@ -156,7 +156,7 @@ visibility dense
 priority 17
 type bigBed 9
 useScore 1
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/gc.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/mappability.bb?raw=true
 
 track reptime
 shortLabel Replication Timing covariate
@@ -165,4 +165,4 @@ visibility dense
 priority 18
 type bigBed 9
 useScore 1
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/gc.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/reptime.bb?raw=true

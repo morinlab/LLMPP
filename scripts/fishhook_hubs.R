@@ -227,7 +227,7 @@ mappability <- covariates %>%
 
 temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
 write.table(mappability, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
-mappability_bb_file = file.path(track_dir, paste0("gc.bb"))
+mappability_bb_file = file.path(track_dir, paste0("mappability.bb"))
 bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, mappability_bb_file)
 system(bigbed_conversion)
 unlink(temp_bed)
@@ -241,7 +241,7 @@ reptime <- covariates %>%
 
 temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
 write.table(reptime, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
-reptime_bb_file = file.path(track_dir, paste0("gc.bb"))
+reptime_bb_file = file.path(track_dir, paste0("reptime.bb"))
 bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, reptime_bb_file)
 system(bigbed_conversion)
 unlink(temp_bed)
