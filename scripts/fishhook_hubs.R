@@ -3,7 +3,11 @@
 
 # To be ran from inside the scripts/ directory
 
-library(GAMBLR.data)
+# # Loading my dev version of GAMBLR to use updated functions - can't do this until build_browser_hub is fixed
+# Sys.setenv(RENV_PROJECT = "/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev")
+# setwd("/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev")
+# renv::load()
+
 library(GAMBLR.results)
 library(purrr)
 library(tidyr)
@@ -100,6 +104,148 @@ full_signif_hg38 %>%
 	group_by(subset) %>%
 	group_walk(~ make_bigBed(.x, .y))
 
+# Covariate Tracks
+# Want to get one track but for all regions in full_signif_hg38
+# Need to make sure they match across the sample_sets
+# full_signif_hg38 %>%
+# 	select(-c(subset,projection,date,tsv,seqnames,start,end,width,strand,tile.id, nearest.gene, Hugo_Symbol, Variant_Classification, Variant_Type,
+# 		p,fdr,effectsize,count,count.pred,count.density,count.pred.density,query.id,p.neg,fdr.neg,theta)) %>%
+# 	unique() %>%
+# 	group_by(region) %>%
+# 	arrange(region) %>%
+# 	filter(n()>1)
+# none, so check passed
+covariates <- full_signif_hg38 %>%
+	select(-c(subset,projection,date,tsv,width,tile.id, nearest.gene, Hugo_Symbol, Variant_Classification, Variant_Type,
+		p,fdr,effectsize,count,count.pred,count.density,count.pred.density,query.id,p.neg,fdr.neg,theta)) %>%
+	unique()
+
+# Need to coerce the character cols back into one col with RBG 
+
+# Making the 'name' be the type and amount overlap, then the score = 0, bc score is expected to be interger
+chromHmm <- covariates %>%
+	select(seqnames,start,end,strand,Quies,Enh,TxWk,ReprPCWk,Het,ReprPC,EnhBiv,TssAFlnk,BivFlnk,TssA,ZNF_Rpts,Tx,EnhG,TxFlnk,TssBiv) %>%
+	pivot_longer(!c(seqnames,start,end,strand), names_to = "chromHMM", values_to = "overlap") %>%
+	filter(!overlap == 0) %>% # otherwise each region has 15, whether a state is present in it or not
+	mutate(rgb = case_when(
+		chromHMM %in% "TssA" ~ "255,0,0",
+		chromHMM %in% "TssAFlnk" ~ "255,69,0",
+		chromHMM %in% "TxFlnk" ~ "50,205,50",
+		chromHMM %in% "Tx" ~ "0,128,0",
+		chromHMM %in% "TxWk" ~ "0,100,0",
+		chromHMM %in% "EnhG" ~ "194,225,5",
+		chromHMM %in% "Enh" ~ "255,255,0",
+		chromHMM %in% "ZNF_Rpts" ~ "102,205,170",
+		chromHMM %in% "Het" ~ "138,145,208",
+		chromHMM %in% "TssBiv" ~ "205,92,92",
+		chromHMM %in% "BivFlnk" ~ "233,150,122",
+		chromHMM %in% "EnhBiv" ~ "189,183,107",
+		chromHMM %in% "ReprPC" ~ "128,128,128",
+		chromHMM %in% "ReprPCWk" ~ "192,192,192",
+		chromHMM %in% "Quies" ~ "255,255,255" # might want to change this?
+	)) %>%
+	mutate(thickStart = start, thickEnd = start, score = 0, name = paste0(chromHMM, "_", round(overlap, 2))) %>%
+	select(seqnames, start, end, name, score, strand, thickStart, thickEnd, rgb) %>%
+	arrange(seqnames, start)
+
+temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
+write.table(chromHmm, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+chromHmm_bb_file = file.path(track_dir, paste0("chromHmm.bb"))
+bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, chromHmm_bb_file)
+system(bigbed_conversion)
+unlink(temp_bed)
+
+repeats <- covariates %>%
+	select(seqnames, start, end, strand, SINE, LINE, LTR) %>%
+	pivot_longer(!c(seqnames,start,end,strand), names_to = "repeat_type", values_to = "overlap") %>%
+	filter(!overlap == 0) %>% # otherwise each region has 15, whether a state is present in it or not
+	mutate(rgb = case_when(
+		repeat_type %in% "SINE" ~ "255,255,0", # yellow
+		repeat_type %in% "LINE" ~ "0,128,0", # green
+		repeat_type %in% "LTR" ~ "0,0,205" # medium blue
+	)) %>%
+	mutate(thickStart = start, thickEnd = start, score = 0, name = paste0(repeat_type, "_", round(overlap, 2))) %>%
+	select(seqnames, start, end, name, score, strand, thickStart, thickEnd, rgb) %>%
+	arrange(seqnames, start)
+
+temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
+write.table(repeats, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+repeats_bb_file = file.path(track_dir, paste0("repeats.bb"))
+bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, repeats_bb_file)
+system(bigbed_conversion)
+unlink(temp_bed)
+
+cCREs <- covariates %>%
+	select(seqnames, start, end, strand, PLS, pELS, dELS, CA_H3K4me3, CA_CTCF, CA_TF, CA_only, Low_DNase) %>%
+	pivot_longer(!c(seqnames,start,end,strand), names_to = "cCRE", values_to = "overlap") %>%
+	filter(!overlap == 0) %>%
+	mutate(rgb = case_when(
+		cCRE %in% "CA_CTCF" ~ "0,128,225", # light-ish blue
+		cCRE %in% "CA_H3K4me3" ~ "225,153,153", #light pink
+		cCRE %in% "CA_TF" ~ "153,51,225", # purple
+		cCRE %in% "CA_only" ~ "0,204,204", # aqua
+		cCRE %in% "Low_DNase" ~ "224,224,224", # light grey
+		cCRE %in% "PLS" ~ "255,0,0", # red
+		cCRE %in% "dELS" ~ "255,255,0", # yellow
+		cCRE %in% "pELS" ~ "225,128,0", # orange
+	)) %>%
+	mutate(thickStart = start, thickEnd = start, score = 0, name = paste0(cCRE, "_", round(overlap, 2))) %>%
+	select(seqnames, start, end, name, score, strand, thickStart, thickEnd, rgb) %>%
+	arrange(seqnames, start)
+
+temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
+write.table(cCREs, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+cCREs_bb_file = file.path(track_dir, paste0("cCREs.bb"))
+bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, cCREs_bb_file)
+system(bigbed_conversion)
+unlink(temp_bed)
+
+# GC and Mappability shoud be able to be coloured by score?
+# Multiply the values by 10 so that 100=1000, so vlaues are between 0 and 1000
+# and they will be coloured when useScore=1
+# keep the name as the actual %
+# placeholder of 0 for itemRgb
+gc <- covariates %>%
+	select(seqnames, start, end, strand, GC) %>%
+	mutate(thickStart = start, thickEnd = start, score = GC*10, rgb = 0) %>%
+	select(seqnames, start, end, GC, score, strand, thickStart, thickEnd, rgb) %>%
+	arrange(seqnames, start)
+
+temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
+write.table(gc, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+gc_bb_file = file.path(track_dir, paste0("gc.bb"))
+bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, gc_bb_file)
+system(bigbed_conversion)
+unlink(temp_bed)
+
+# is a proportion, not % so multiply by 1000
+mappability <- covariates %>%
+	select(seqnames, start, end, strand, Mappability) %>%
+	mutate(thickStart = start, thickEnd = start, score = round(Mappability,3)*1000, rgb = 0) %>%
+	select(seqnames, start, end, Mappability, score, strand, thickStart, thickEnd, rgb) %>%
+	arrange(seqnames, start)
+
+temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
+write.table(mappability, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+mappability_bb_file = file.path(track_dir, paste0("gc.bb"))
+bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, mappability_bb_file)
+system(bigbed_conversion)
+unlink(temp_bed)
+
+# not sure how to get replication timing score into a colour, so instead using the value as the name
+reptime <- covariates %>%
+	select(seqnames, start, end, strand, ReplicationTiming) %>%
+	mutate(thickStart = start, thickEnd = start, score = 0, rgb = 0) %>%
+	select(seqnames, start, end, ReplicationTiming, score, strand, thickStart, thickEnd, rgb) %>%
+	arrange(seqnames, start)
+
+temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
+write.table(reptime, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+reptime_bb_file = file.path(track_dir, paste0("gc.bb"))
+bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, reptime_bb_file)
+system(bigbed_conversion)
+unlink(temp_bed)
+
 unlink(temp_chr_sizes)
 
 # Get mutations for all regions and build the hub
@@ -116,7 +262,7 @@ full_regions <- rbind(
 build_browser_hub(
   regions_bed = full_regions,
   these_samples_metadata = meta,
-  these_seq_types = c("genome"),
+  these_seq_types = "genome",
   projection = projection,
   local_web_host_dir = local_web_host_dir,
   hub_dir = hub_dir,
@@ -186,5 +332,76 @@ for(i in seq_along(sample_subsets)){
 	file.path(bigDataUrl_base, hub_dir, projection, sample_track_files[i]) %>% 
 		{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 }
+
+# covariate tracks
+# NOTE: chromHMM, cCREs, and repeats needs to be named in a way that shows it's names are "type_overlap"
+track_count <- length(track_names) + length(sample_subsets)+1
+
+cat( "\n" )
+cat( paste0("track chromHMM\n") )
+cat( paste0("shortLabel chromHMM covariate\n") )
+cat( paste0("longLabel chromHMM covariate type_overlap\n") )
+cat( paste0("visibility dense\n") )
+cat( paste0("priority ", track_count+1, "\n") )
+cat( paste0("type bigBed 9\n") )
+cat( "itemRgb on\n" )
+file.path(bigDataUrl_base, hub_dir, projection, basename(chromHmm_bb_file)) %>% 
+	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
+
+cat( "\n" )
+cat( paste0("track cCREs\n") )
+cat( paste0("shortLabel cCREs covariate\n") )
+cat( paste0("longLabel cCREs covariate type_overlap\n") )
+cat( paste0("visibility dense\n") )
+cat( paste0("priority ", track_count+2, "\n") )
+cat( paste0("type bigBed 9\n") )
+cat( "itemRgb on\n" )
+file.path(bigDataUrl_base, hub_dir, projection, basename(cCREs_bb_file)) %>% 
+	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
+
+cat( "\n" )
+cat( paste0("track Repeats\n") )
+cat( paste0("shortLabel RepeatMasker covariate\n") )
+cat( paste0("longLabel RepeatMasker covariate type_overlap\n") )
+cat( paste0("visibility dense\n") )
+cat( paste0("priority ", track_count+3, "\n") )
+cat( paste0("type bigBed 9\n") )
+cat( "itemRgb on\n" )
+file.path(bigDataUrl_base, hub_dir, projection, basename(repeats_bb_file)) %>% 
+	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
+
+cat( "\n" )
+cat( paste0("track GC\n") )
+cat( paste0("shortLabel GC % covariate\n") )
+cat( paste0("longLabel GC % covariate\n") )
+cat( paste0("visibility dense\n") )
+cat( paste0("priority ", track_count+4, "\n") )
+cat( paste0("type bigBed 9\n") )
+cat( "useScore 1\n" )
+file.path(bigDataUrl_base, hub_dir, projection, basename(gc_bb_file)) %>% 
+	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
+
+cat( "\n" )
+cat( paste0("track mappability\n") )
+cat( paste0("shortLabel Mappability covariate\n") )
+cat( paste0("longLabel Mappability covariate\n") )
+cat( paste0("visibility dense\n") )
+cat( paste0("priority ", track_count+5, "\n") )
+cat( paste0("type bigBed 9\n") )
+cat( "useScore 1\n" )
+file.path(bigDataUrl_base, hub_dir, projection, basename(mappability_bb_file)) %>% 
+	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
+
+cat( "\n" )
+cat( paste0("track reptime\n") )
+cat( paste0("shortLabel Replication Timing covariate\n") )
+cat( paste0("longLabel Replication Timing covariate\n") )
+cat( paste0("visibility dense\n") )
+cat( paste0("priority ", track_count+6, "\n") )
+cat( paste0("type bigBed 9\n") )
+cat( "useScore 1\n" )
+file.path(bigDataUrl_base, hub_dir, projection, basename(reptime_bb_file)) %>% 
+	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
+
 # close file
 sink()

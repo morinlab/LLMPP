@@ -112,3 +112,57 @@ priority 12
 type bigBed 9
 itemRgb on
 bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/MCL_fishhook_test_signif.bb?raw=true
+
+track chromHMM
+shortLabel chromHMM covariate
+longLabel chromHMM covariate type_overlap
+visibility dense
+priority 13
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/chromHmm.bb?raw=true
+
+track cCREs
+shortLabel cCREs covariate
+longLabel cCREs covariate type_overlap
+visibility dense
+priority 14
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/cCREs.bb?raw=true
+
+track Repeats
+shortLabel RepeatMasker covariate
+longLabel RepeatMasker covariate type_overlap
+visibility dense
+priority 15
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/repeats.bb?raw=true
+
+track GC
+shortLabel GC % covariate
+longLabel GC % covariate
+visibility dense
+priority 16
+type bigBed 9
+useScore 1
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/gc.bb?raw=true
+
+track mappability
+shortLabel Mappability covariate
+longLabel Mappability covariate
+visibility dense
+priority 17
+type bigBed 9
+useScore 1
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/gc.bb?raw=true
+
+track reptime
+shortLabel Replication Timing covariate
+longLabel Replication Timing covariate
+visibility dense
+priority 18
+type bigBed 9
+useScore 1
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/gc.bb?raw=true
