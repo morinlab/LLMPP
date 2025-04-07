@@ -11,10 +11,10 @@
 library(GAMBLR.results)
 library(purrr)
 library(tidyr)
-library(dplyr)
 library(readr)
 library(stringr)
 library(gUtils)
+library(dplyr)
 
 options(scipen=999)
 
@@ -106,17 +106,12 @@ full_signif_hg38 %>%
 	group_walk(~ make_bigBed(.x, .y))
 
 # Covariate Tracks
-# Want to get one track but for all regions in full_signif_hg38
-# Need to make sure they match across the sample_sets
-# full_signif_hg38 %>%
-# 	select(-c(subset,projection,date,tsv,seqnames,start,end,width,strand,tile.id, nearest.gene, Hugo_Symbol, Variant_Classification, Variant_Type,
-# 		p,fdr,effectsize,count,count.pred,count.density,count.pred.density,query.id,p.neg,fdr.neg,theta)) %>%
-# 	unique() %>%
-# 	group_by(region) %>%
-# 	arrange(region) %>%
-# 	filter(n()>1)
-# none, so check passed
-covariates <- full_signif_hg38 %>%
+# Want to get one track but for all regions, not just those that are signif
+# in order to check the covariant values in the model
+# Need to make sure they match across the sample_sets, but it would take too
+# long to read them all in here, so instead just reading in one
+
+covariates <- read_tsv(dir(paste0(output_high_level_dir, "BL_fishhook_test--", projection, "--", date, "/tilesize_1000_overlap_0/"), ".*_regions\\.tsv", full.names=TRUE))
 	select(-c(subset,projection,date,tsv,width,tile.id, nearest.gene, Hugo_Symbol, Variant_Classification, Variant_Type,
 		p,fdr,effectsize,count,count.pred,count.density,count.pred.density,query.id,p.neg,fdr.neg,theta)) %>%
 	unique()
@@ -208,7 +203,7 @@ unlink(temp_bed)
 # placeholder of 0 for itemRgb
 gc <- covariates %>%
 	select(seqnames, start, end, strand, GC) %>%
-	mutate(thickStart = start, thickEnd = start, score = GC*10, rgb = 0) %>%
+	mutate(thickStart = start, thickEnd = start, score = trunc(GC*10), rgb = 0) %>%
 	select(seqnames, start, end, GC, score, strand, thickStart, thickEnd, rgb) %>%
 	arrange(seqnames, start)
 
