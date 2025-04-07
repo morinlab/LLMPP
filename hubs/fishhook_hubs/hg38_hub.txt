@@ -166,3 +166,12 @@ priority 18
 type bigBed 9
 useScore 1
 bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/reptime.bb?raw=true
+
+track eligible
+shortLabel Eligible Territory
+longLabel Eligible Territory
+visibility dense
+priority 19
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/hg38/eligible.bb?raw=true

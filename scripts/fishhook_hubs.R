@@ -1,4 +1,4 @@
-# Build track hubs of GABMLR SSMs data from aSHM regions, and 
+# Build track hubs of GABMLR SSMs data from aSHM regions, and
 # significant regions called by FishHook for current sample_sets
 
 # To be ran from inside the scripts/ directory
@@ -14,6 +14,7 @@ library(tidyr)
 library(dplyr)
 library(readr)
 library(stringr)
+library(gUtils)
 
 options(scipen=999)
 
@@ -59,19 +60,19 @@ ashm_bed <- GAMBLR.data::hg38_ashm_regions %>%
 	select(1,2,3) %>%
     arrange( .[[1]], .[[2]] )
 temp_bed <- tempfile(pattern = "regionsBed_", fileext = ".bed")
-write.table(ashm_bed, temp_bed, quote = FALSE, sep = "\t", row.names = FALSE, 
+write.table(ashm_bed, temp_bed, quote = FALSE, sep = "\t", row.names = FALSE,
 	col.names = FALSE)
 
 chr_arms <- GAMBLR.data::chromosome_arms_hg38
 chr_sizes <- chr_arms %>%
 	filter(arm == "q") %>%
 	select(chromosome, end) %>%
-	rename(size = "end")
+	dplyr::rename(size = "end")
 temp_chr_sizes <- tempfile(pattern = "chrom.sizes_")
-write.table(chr_sizes, temp_chr_sizes, quote = FALSE, sep = "\t", row.names = FALSE, 
+write.table(chr_sizes, temp_chr_sizes, quote = FALSE, sep = "\t", row.names = FALSE,
 			col.names = FALSE)
 ashm_bb_file <- file.path(track_dir, "ashm.bb")
-bigbed_conversion = gettextf("%s %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, 
+bigbed_conversion = gettextf("%s %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes,
 							ashm_bb_file)
 
 system(bigbed_conversion)
@@ -85,7 +86,7 @@ make_bigBed <- function(df, subset){
 		df <- df %>% mutate(seqnames = paste0("chr", seqnames))
 	}
 	bed9 <- df %>%
-		mutate(thickStart = start, thickEnd = start, 
+		mutate(thickStart = start, thickEnd = start,
 			score = 0,
 			itemRgb = ifelse(fdr == 0, "0,0,0", "169,169,169"),
 			subset = subset) %>%
@@ -120,7 +121,7 @@ covariates <- full_signif_hg38 %>%
 		p,fdr,effectsize,count,count.pred,count.density,count.pred.density,query.id,p.neg,fdr.neg,theta)) %>%
 	unique()
 
-# Need to coerce the character cols back into one col with RBG 
+# Need to coerce the character cols back into one col with RBG
 
 # Making the 'name' be the type and amount overlap, then the score = 0, bc score is expected to be interger
 chromHmm <- covariates %>%
@@ -246,6 +247,23 @@ bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_
 system(bigbed_conversion)
 unlink(temp_bed)
 
+# track for eligible territory
+eligible_hg38 <- readRDS("/projects/rmorin_scratch/sgillis_temp/test_fishhook/fishhook-1.2_with_covariates/02-eligible_territory/ucsc_eligible_hg38_deblacklist_deV2_deIG.rds")
+eligible_hg38_fg <- eligible_hg38 %>%
+	gr2dt() %>%
+	as_tibble() %>%
+	mutate(name = "eligible", score = 0, strand = ".", thickStart = start, thickEnd = start, rgb = "50,205,50") %>%
+	select(seqnames, start, end, name, score, strand, thickStart, thickEnd, rgb) %>%
+	arrange(seqnames, start)
+
+temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
+write.table(eligible_hg38_fg, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+eligible_bb_file = file.path(track_dir, paste0("eligible.bb"))
+bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, eligible_bb_file)
+system(bigbed_conversion)
+unlink(temp_bed)
+
+
 unlink(temp_chr_sizes)
 
 # Get mutations for all regions and build the hub
@@ -267,8 +285,8 @@ build_browser_hub(
   local_web_host_dir = local_web_host_dir,
   hub_dir = hub_dir,
   splitColumnName = "pathology",
-  hub_name = "gamblr_fishhook", 
-  shortLabel = "gamblr fishhook", 
+  hub_name = "gamblr_fishhook",
+  shortLabel = "gamblr fishhook",
   longLabel = "GAMBLR mutations from hg38 projection",
   contact_email = "rdmorin@sfu.ca",
   bigDataUrl_base = bigDataUrl_base
@@ -298,7 +316,7 @@ cat( "longLabel Regions of aSHM from GAMBLR\n" )
 cat( "visibility squish\n")
 cat( "priority 1\n" )
 cat( paste0("type bigBed\n") )
-file.path(bigDataUrl_base, hub_dir, projection, basename(ashm_bb_file)) %>% 
+file.path(bigDataUrl_base, hub_dir, projection, basename(ashm_bb_file)) %>%
 { cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
 # write info of the tracks that store ssms split by splitColumnName
@@ -314,7 +332,7 @@ for(i in seq_along(track_names)){
 	cat( paste0("priority ", i+1, "\n") )
 	cat( paste0("type bigBed 9\n") )
 	cat( "itemRgb on\n" )
-	file.path(bigDataUrl_base, hub_dir, projection, track_file_names[i]) %>% 
+	file.path(bigDataUrl_base, hub_dir, projection, track_file_names[i]) %>%
 		{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 }
 
@@ -329,7 +347,7 @@ for(i in seq_along(sample_subsets)){
 	cat( paste0("priority ", track_count+i+1, "\n") )
 	cat( paste0("type bigBed 9\n") )
 	cat( "itemRgb on\n" )
-	file.path(bigDataUrl_base, hub_dir, projection, sample_track_files[i]) %>% 
+	file.path(bigDataUrl_base, hub_dir, projection, sample_track_files[i]) %>%
 		{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 }
 
@@ -345,7 +363,7 @@ cat( paste0("visibility dense\n") )
 cat( paste0("priority ", track_count+1, "\n") )
 cat( paste0("type bigBed 9\n") )
 cat( "itemRgb on\n" )
-file.path(bigDataUrl_base, hub_dir, projection, basename(chromHmm_bb_file)) %>% 
+file.path(bigDataUrl_base, hub_dir, projection, basename(chromHmm_bb_file)) %>%
 	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
 cat( "\n" )
@@ -356,7 +374,7 @@ cat( paste0("visibility dense\n") )
 cat( paste0("priority ", track_count+2, "\n") )
 cat( paste0("type bigBed 9\n") )
 cat( "itemRgb on\n" )
-file.path(bigDataUrl_base, hub_dir, projection, basename(cCREs_bb_file)) %>% 
+file.path(bigDataUrl_base, hub_dir, projection, basename(cCREs_bb_file)) %>%
 	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
 cat( "\n" )
@@ -367,7 +385,7 @@ cat( paste0("visibility dense\n") )
 cat( paste0("priority ", track_count+3, "\n") )
 cat( paste0("type bigBed 9\n") )
 cat( "itemRgb on\n" )
-file.path(bigDataUrl_base, hub_dir, projection, basename(repeats_bb_file)) %>% 
+file.path(bigDataUrl_base, hub_dir, projection, basename(repeats_bb_file)) %>%
 	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
 cat( "\n" )
@@ -378,7 +396,7 @@ cat( paste0("visibility dense\n") )
 cat( paste0("priority ", track_count+4, "\n") )
 cat( paste0("type bigBed 9\n") )
 cat( "useScore 1\n" )
-file.path(bigDataUrl_base, hub_dir, projection, basename(gc_bb_file)) %>% 
+file.path(bigDataUrl_base, hub_dir, projection, basename(gc_bb_file)) %>%
 	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
 cat( "\n" )
@@ -389,7 +407,7 @@ cat( paste0("visibility dense\n") )
 cat( paste0("priority ", track_count+5, "\n") )
 cat( paste0("type bigBed 9\n") )
 cat( "useScore 1\n" )
-file.path(bigDataUrl_base, hub_dir, projection, basename(mappability_bb_file)) %>% 
+file.path(bigDataUrl_base, hub_dir, projection, basename(mappability_bb_file)) %>%
 	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
 cat( "\n" )
@@ -400,7 +418,18 @@ cat( paste0("visibility dense\n") )
 cat( paste0("priority ", track_count+6, "\n") )
 cat( paste0("type bigBed 9\n") )
 cat( "useScore 1\n" )
-file.path(bigDataUrl_base, hub_dir, projection, basename(reptime_bb_file)) %>% 
+file.path(bigDataUrl_base, hub_dir, projection, basename(reptime_bb_file)) %>%
+	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
+
+cat( "\n" )
+cat( paste0("track eligible\n") )
+cat( paste0("shortLabel Eligible Territory\n") )
+cat( paste0("longLabel Eligible Territory\n") )
+cat( paste0("visibility dense\n") )
+cat( paste0("priority ", track_count+7, "\n") )
+cat( paste0("type bigBed 9\n") )
+cat( "itemRgb on\n" )
+file.path(bigDataUrl_base, hub_dir, projection, basename(eligible_bb_file)) %>%
 	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
 # close file
