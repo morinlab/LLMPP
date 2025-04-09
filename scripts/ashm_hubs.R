@@ -74,4 +74,5 @@ build_browser_hub(
   bigDataUrl_base = "https://github.com/morinlab/LLMPP/raw/refs/heads/test_hub_fn"
 )
 
-
+# Example hub URL to input into UCSC: 
+# https://raw.githubusercontent.com/morinlab/LLMPP/refs/heads/test_hub_fn/hubs/ashm_hubs/colored_by_lymphgen/grch37_hub.txt

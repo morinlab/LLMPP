@@ -12,7 +12,7 @@ longLabel Regions of interest from where mutations were retrieved
 visibility squish
 priority 1
 type bigBed
-bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_genome_build/grch37/regions.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/test_hub_fn/hubs/ashm_hubs/colored_by_genome_build/grch37/regions.bb?raw=true
 
 track genome_BL
 shortLabel genome_BL
@@ -21,7 +21,7 @@ visibility squish
 priority 2
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_genome_build/grch37/genome_BL.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/test_hub_fn/hubs/ashm_hubs/colored_by_genome_build/grch37/genome_BL.bb?raw=true
 
 track genome_DLBCL
 shortLabel genome_DLBCL
@@ -30,7 +30,7 @@ visibility squish
 priority 3
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_genome_build/grch37/genome_DLBCL.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/test_hub_fn/hubs/ashm_hubs/colored_by_genome_build/grch37/genome_DLBCL.bb?raw=true
 
 track genome_FL
 shortLabel genome_FL
@@ -39,7 +39,7 @@ visibility squish
 priority 4
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_genome_build/grch37/genome_FL.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/test_hub_fn/hubs/ashm_hubs/colored_by_genome_build/grch37/genome_FL.bb?raw=true
 
 track capture_BL
 shortLabel capture_BL
@@ -48,7 +48,7 @@ visibility squish
 priority 5
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_genome_build/grch37/capture_BL.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/test_hub_fn/hubs/ashm_hubs/colored_by_genome_build/grch37/capture_BL.bb?raw=true
 
 track capture_DLBCL
 shortLabel capture_DLBCL
@@ -57,7 +57,7 @@ visibility squish
 priority 6
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_genome_build/grch37/capture_DLBCL.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/test_hub_fn/hubs/ashm_hubs/colored_by_genome_build/grch37/capture_DLBCL.bb?raw=true
 
 track capture_FL
 shortLabel capture_FL
@@ -66,4 +66,4 @@ visibility squish
 priority 7
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_genome_build/grch37/capture_FL.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/test_hub_fn/hubs/ashm_hubs/colored_by_genome_build/grch37/capture_FL.bb?raw=true
