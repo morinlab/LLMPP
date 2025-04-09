@@ -1,0 +1,69 @@
+hub ashm_lymphgen
+shortLabel ashm coloured by lymphgen
+longLabel GAMBLR public aSHM coloured by lymphgen
+useOneFile on
+email rdmorin@sfu.ca
+
+genome hg19
+
+track regions
+shortLabel regions
+longLabel Regions of interest from where mutations were retrieved
+visibility squish
+priority 1
+type bigBed
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_lymphgen/grch37/regions.bb?raw=true
+
+track genome_BL
+shortLabel genome_BL
+longLabel genome_BL
+visibility squish
+priority 2
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_lymphgen/grch37/genome_BL.bb?raw=true
+
+track genome_DLBCL
+shortLabel genome_DLBCL
+longLabel genome_DLBCL
+visibility squish
+priority 3
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_lymphgen/grch37/genome_DLBCL.bb?raw=true
+
+track genome_FL
+shortLabel genome_FL
+longLabel genome_FL
+visibility squish
+priority 4
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_lymphgen/grch37/genome_FL.bb?raw=true
+
+track capture_BL
+shortLabel capture_BL
+longLabel capture_BL
+visibility squish
+priority 5
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_lymphgen/grch37/capture_BL.bb?raw=true
+
+track capture_DLBCL
+shortLabel capture_DLBCL
+longLabel capture_DLBCL
+visibility squish
+priority 6
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_lymphgen/grch37/capture_DLBCL.bb?raw=true
+
+track capture_FL
+shortLabel capture_FL
+longLabel capture_FL
+visibility squish
+priority 7
+type bigBed 9
+itemRgb on
+bigDataUrl https://github.com/morinlab/LLMPP/blob/main/hubs/ashm_hubs/colored_by_lymphgen/grch37/capture_FL.bb?raw=true
