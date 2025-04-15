@@ -3,10 +3,10 @@
 
 # To be ran from inside the scripts/ directory
 
-# # Loading my dev version of GAMBLR to use updated functions - can't do this until build_browser_hub is fixed
-# Sys.setenv(RENV_PROJECT = "/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev")
-# setwd("/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev")
-# renv::load()
+# # Loading my dev version of GAMBLR to use updated functions
+Sys.setenv(RENV_PROJECT = "/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev")
+setwd("/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev")
+renv::load()
 
 library(GAMBLR.results)
 library(purrr)
@@ -111,10 +111,14 @@ full_signif_hg38 %>%
 # Need to make sure they match across the sample_sets, but it would take too
 # long to read them all in here, so instead just reading in one
 
-covariates <- read_tsv(dir(paste0(output_high_level_dir, "BL_fishhook_test--", projection, "--", date, "/tilesize_1000_overlap_0/"), ".*_regions\\.tsv", full.names=TRUE))
-	select(-c(subset,projection,date,tsv,width,tile.id, nearest.gene, Hugo_Symbol, Variant_Classification, Variant_Type,
-		p,fdr,effectsize,count,count.pred,count.density,count.pred.density,query.id,p.neg,fdr.neg,theta)) %>%
-	unique()
+# covariates <- read_tsv(dir(paste0(output_high_level_dir, "BL_fishhook_test--", projection, "--", date, "/tilesize_1000_overlap_0/"), ".*_regions\\.tsv", full.names=TRUE)) %>%
+# check passed so using the above
+
+covariates <- full_signif_hg38 %>%
+	dplyr::select(-c("subset", "projection","date","tsv","width","tile.id", "nearest.gene", "Hugo_Symbol", "Variant_Classification", "Variant_Type","p","fdr","effectsize","count","count.pred","count.density","count.pred.density","query.id","p.neg","fdr.neg","theta")) %>%
+	group_by(region) %>%
+	unique() %>%
+	ungroup()
 
 # Need to coerce the character cols back into one col with RBG
 
@@ -279,6 +283,7 @@ build_browser_hub(
   projection = projection,
   local_web_host_dir = local_web_host_dir,
   hub_dir = hub_dir,
+  colour_column = "genome_build",
   splitColumnName = "pathology",
   hub_name = "gamblr_fishhook",
   shortLabel = "gamblr fishhook",
