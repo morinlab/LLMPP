@@ -30,6 +30,9 @@ dir.create(track_dir, showWarnings = FALSE)
 
 bigDataUrl_base <- "https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs"
 
+colour_column_value <- "genome_build"
+splitColumnName_value <- "pathology"
+
 bedToBigBed_path = tryCatch(
 	GAMBLR.helpers::check_config_value(config::get("dependencies")$bedToBigBed),
 	error=function(e){
@@ -283,8 +286,8 @@ build_browser_hub(
   projection = projection,
   local_web_host_dir = local_web_host_dir,
   hub_dir = hub_dir,
-  colour_column = "genome_build",
-  splitColumnName = "pathology",
+  colour_column = colour_column_value,
+  splitColumnName = splitColumnName_value,
   hub_name = "gamblr_fishhook",
   shortLabel = "gamblr fishhook",
   longLabel = "GAMBLR mutations from hg38 projection",
@@ -327,7 +330,7 @@ for(i in seq_along(track_names)){
 	cat( "\n" )
 	cat( paste0("track ", track_names[i], "\n") )
 	cat( paste0("shortLabel ", track_names[i], "\n") )
-	cat( paste0("longLabel ", track_names[i], " SSMs coloured by lymphgen\n") )
+	cat( paste0("longLabel ", track_names[i], " SSMs coloured by ", colour_column_value, "\n") )
 	cat( paste0("visibility dense\n") )
 	cat( paste0("priority ", i+1, "\n") )
 	cat( paste0("type bigBed 9\n") )

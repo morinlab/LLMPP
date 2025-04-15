@@ -16,7 +16,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track genome_BL
 shortLabel genome_BL
-longLabel genome_BL SSMs coloured by lymphgen
+longLabel genome_BL SSMs coloured by genome_build
 visibility dense
 priority 2
 type bigBed 9
@@ -25,7 +25,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track genome_CLL
 shortLabel genome_CLL
-longLabel genome_CLL SSMs coloured by lymphgen
+longLabel genome_CLL SSMs coloured by genome_build
 visibility dense
 priority 3
 type bigBed 9
@@ -34,7 +34,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track genome_DLBCL
 shortLabel genome_DLBCL
-longLabel genome_DLBCL SSMs coloured by lymphgen
+longLabel genome_DLBCL SSMs coloured by genome_build
 visibility dense
 priority 4
 type bigBed 9
@@ -43,7 +43,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track genome_FL
 shortLabel genome_FL
-longLabel genome_FL SSMs coloured by lymphgen
+longLabel genome_FL SSMs coloured by genome_build
 visibility dense
 priority 5
 type bigBed 9
@@ -52,7 +52,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track genome_MCL
 shortLabel genome_MCL
-longLabel genome_MCL SSMs coloured by lymphgen
+longLabel genome_MCL SSMs coloured by genome_build
 visibility dense
 priority 6
 type bigBed 9
