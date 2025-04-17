@@ -347,9 +347,9 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	sink(hub_file)
 
 	# write header
-	cat( "hub gamblr_fishhook\n")
-	cat( "shortLabel gamblr fishhook\n")
-	cat( paste("longLabel GAMBLR mutations from", projection, "\n"))
+	cat( paste0("hub gamblr_fishhook_tiles_", tilesize, "\n"))
+	cat( paste0("shortLabel gamblr fishhook tiles ", tilesize, "\n"))
+	cat( paste("longLabel GAMBLR fishhook tiles of ", tilesize, "bp\n"))
 	cat( "useOneFile on\n" )
 	cat( "email rdmorin@sfu.ca\n")
 	cat( "\n" )

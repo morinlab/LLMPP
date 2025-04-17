@@ -1,6 +1,6 @@
-hub gamblr_fishhook
-shortLabel gamblr fishhook
-longLabel GAMBLR mutations from hg38 
+hub gamblr_fishhook_tiles_10000
+shortLabel gamblr fishhook tiles 10000
+longLabel GAMBLR fishhook tiles of  10000 bp
 useOneFile on
 email rdmorin@sfu.ca
 
