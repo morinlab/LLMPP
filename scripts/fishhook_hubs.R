@@ -30,7 +30,7 @@ options(scipen=999)
 output_high_level_dir <- "/projects/rmorin_scratch/sgillis_temp/test_fishhook/fishhook-1.2_with_covariates/04-fishhook/"
 date <- "2025-03"
 tilesizes <- c("1000", "10000", "50000")
-overlaps <- "0.5"
+overlaps <- c("0.5", "0")
 projection <- "hg38"
 sample_subsets <- c("BL_fishhook_test", "CLL_fishhook_test", "DLBCL_fishhook_test", "DLBCL_FL_fishhook_test", "FL_fishhook_test",
 	"MCL_fishhook_test")
