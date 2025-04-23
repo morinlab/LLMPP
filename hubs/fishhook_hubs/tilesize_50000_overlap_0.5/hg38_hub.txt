@@ -1,6 +1,6 @@
-hub gamblr_fishhook_tiles_50000
-shortLabel gamblr fishhook tiles 50000
-longLabel GAMBLR fishhook tiles of  50000 bp
+hub gamblr_fishhook_tiles_50000_overlap_0.5
+shortLabel gamblr fishhook tiles 50000overlap0.5
+longLabel GAMBLR fishhook tiles of  50000 overlap 0.5 
 useOneFile on
 email rdmorin@sfu.ca
 
@@ -61,7 +61,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track BL_fishhook_test
 shortLabel BL_fishhook_test
-longLabel BL_fishhook_test--2025-03 significant regions
+longLabel BL_fishhook_test tiles 50000 overlap 0.5
 visibility dense
 priority 7
 type bigBed 9
@@ -70,7 +70,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track CLL_fishhook_test
 shortLabel CLL_fishhook_test
-longLabel CLL_fishhook_test--2025-03 significant regions
+longLabel CLL_fishhook_test tiles 50000 overlap 0.5
 visibility dense
 priority 8
 type bigBed 9
@@ -79,7 +79,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track DLBCL_fishhook_test
 shortLabel DLBCL_fishhook_test
-longLabel DLBCL_fishhook_test--2025-03 significant regions
+longLabel DLBCL_fishhook_test tiles 50000 overlap 0.5
 visibility dense
 priority 9
 type bigBed 9
@@ -88,7 +88,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track DLBCL_FL_fishhook_test
 shortLabel DLBCL_FL_fishhook_test
-longLabel DLBCL_FL_fishhook_test--2025-03 significant regions
+longLabel DLBCL_FL_fishhook_test tiles 50000 overlap 0.5
 visibility dense
 priority 10
 type bigBed 9
@@ -97,7 +97,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track FL_fishhook_test
 shortLabel FL_fishhook_test
-longLabel FL_fishhook_test--2025-03 significant regions
+longLabel FL_fishhook_test tiles 50000 overlap 0.5
 visibility dense
 priority 11
 type bigBed 9
@@ -106,7 +106,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track MCL_fishhook_test
 shortLabel MCL_fishhook_test
-longLabel MCL_fishhook_test--2025-03 significant regions
+longLabel MCL_fishhook_test tiles 50000 overlap 0.5
 visibility dense
 priority 12
 type bigBed 9
@@ -115,7 +115,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track chromHMM
 shortLabel chromHMM covariate
-longLabel chromHMM covariate type_overlap
+longLabel chromHMM covariate type_overlap, tiles 50000 overlap 0.5
 visibility dense
 priority 13
 type bigBed 9
@@ -124,7 +124,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track cCREs
 shortLabel cCREs covariate
-longLabel cCREs covariate type_overlap
+longLabel cCREs covariate type_overlap, tiles 50000 overlap 0.5
 visibility dense
 priority 14
 type bigBed 9
@@ -133,7 +133,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track Repeats
 shortLabel RepeatMasker covariate
-longLabel RepeatMasker covariate type_overlap
+longLabel RepeatMasker covariate type_overlap, tiles 50000 overlap 0.5
 visibility dense
 priority 15
 type bigBed 9
@@ -142,7 +142,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track GC
 shortLabel GC % covariate
-longLabel GC % covariate
+longLabel GC % covariate, tiles 50000 overlap 0.5
 visibility dense
 priority 16
 type bigBed 9
@@ -151,7 +151,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track mappability
 shortLabel Mappability covariate
-longLabel Mappability covariate
+longLabel Mappability covariate, tiles 50000 overlap 0.5
 visibility dense
 priority 17
 type bigBed 9
@@ -160,7 +160,7 @@ bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhoo
 
 track reptime
 shortLabel Replication Timing covariate
-longLabel Replication Timing covariate
+longLabel Replication Timing covariate, tiles 50000 overlap 0.5
 visibility dense
 priority 18
 type bigBed 9
