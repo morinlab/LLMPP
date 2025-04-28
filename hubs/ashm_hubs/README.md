@@ -15,7 +15,7 @@
 
 ## What data are available
 
-Currently, there three different browser hubs that provide visualization of the anonymized mutations from the genome and capture data in GAMBL, subset to the regions we identified as being recurrently affected by aSHM.
+Currently, there three different browser hubs that provide visualization of the anonymized mutations from the genome data in GAMBL, subset to the regions we identified as being recurrently affected by aSHM.
 
 - `coloured_by_genome_build` has the mutations coloured according to the genome build used for alignment of the sample it came from.
 - `coloured_by_lymphgen` has the mutations coloured according to the LymphGen class of that patient as determined from their genome-wide mutation profile.
