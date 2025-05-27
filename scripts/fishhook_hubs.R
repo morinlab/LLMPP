@@ -91,14 +91,22 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	if (projection %in% "hg38"){
 		ashm_bed <- GAMBLR.data::hg38_ashm_regions %>%
 			arrange(chr_name, hg38_start) %>%
-			mutate(name = paste0(gene, "_", region)) %>%
-			select(chr_name, hg38_start, hg38_end, name)
+			mutate(name = paste0(gene, "_", region),
+				thickStart = hg38_start, thickEnd = hg38_start,
+				score = 0,
+				itemRgb = "0,0,0",
+				strand = ".") %>%
+			select(chr_name, hg38_start, hg38_end, name, score, strand, thickStart, thickEnd, itemRgb)
 		chr_arms <- GAMBLR.data::chromosome_arms_hg38
 	} else if (projection %in% "grch37"){
 		ashm_bed <- GAMBLR.data::grch37_ashm_regions %>%
-			arrange(chr_name, hg19_start) %>%
-			mutate(name = paste0(gene, "_", region)) %>%
-			select(chr_name, hg19_start, hg19_end, name)
+			arrange(chr_name, hg19_start)  %>%
+			mutate(name = paste0(gene, "_", region),
+				thickStart = hg19_start, thickEnd = hg19_start,
+				score = 0,
+				itemRgb = "0,0,0",
+				strand = ".") %>%
+			select(chr_name, hg19_start, hg19_end, name, score, strand, thickStart, thickEnd, itemRgb)
 		chr_arms <- GAMBLR.data::chromosome_arms_grch37 %>%
 			mutate(chromosome = paste0("chr", chromosome))
 	} else{
@@ -117,7 +125,7 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	write.table(chr_sizes, temp_chr_sizes, quote = FALSE, sep = "\t", row.names = FALSE,
 				col.names = FALSE)
 	ashm_bb_file <- file.path(".", "ashm.bb")
-	bigbed_conversion = gettextf("%s -type=bed4 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes,
+	bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes,
 								ashm_bb_file)
 
 	system(bigbed_conversion)
@@ -368,7 +376,7 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	cat( "longLabel Regions of aSHM from GAMBLR\n" )
 	cat( "visibility squish\n")
 	cat( "priority 1\n" )
-	cat( paste0("type bigBed\n") )
+	cat( paste0("type bigBed 9\n") )
 	file.path(bigDataUrl_base, hub_dir, projection, basename(ashm_bb_file)) %>%
 	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
