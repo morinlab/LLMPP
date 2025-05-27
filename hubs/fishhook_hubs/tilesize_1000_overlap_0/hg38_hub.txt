@@ -11,7 +11,7 @@ shortLabel aSHM regions
 longLabel Regions of aSHM from GAMBLR
 visibility squish
 priority 1
-type bigBed 3+1
+type bigBed +
 bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_1000_overlap_0/hg38/ashm.bb?raw=true
 
 track genome_BL
