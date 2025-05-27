@@ -32,8 +32,8 @@ date <- "2025-03"
 tilesizes <- c("1000", "10000", "50000")
 overlaps <- c("0.5", "0")
 projection <- "hg38"
-sample_subsets <- c("BL_fishhook_test", "CLL_fishhook_test", "DLBCL_fishhook_test", "DLBCL_FL_fishhook_test", "FL_fishhook_test",
-	"MCL_fishhook_test")
+sample_subsets <- c("BL_nochromtincovars", "CLL_nochromtincovars", "DLBCL_nochromtincovars", "DLBCL_FL_nochromtincovars", "FL_nochromtincovars",
+	"MCL_nochromtincovars")
 
 subsets_df <- expand.grid(subset = sample_subsets, projection = projection, date = date, tilesize = tilesizes, overlap = overlaps, stringsAsFactors = FALSE) %>%
 	rowwise() %>%
@@ -90,13 +90,15 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	# Make bigBed for aSHM regions
 	if (projection %in% "hg38"){
 		ashm_bed <- GAMBLR.data::hg38_ashm_regions %>%
-			select(1,2,3) %>%
-			arrange( .[[1]], .[[2]] )
+			arrange(chr_name, hg38_start) %>%
+			mutate(name = paste0(gene, "_", region)) %>%
+			select(chr_name, hg38_start, hg38_end, name)
 		chr_arms <- GAMBLR.data::chromosome_arms_hg38
 	} else if (projection %in% "grch37"){
 		ashm_bed <- GAMBLR.data::grch37_ashm_regions %>%
-			select(1,2,3) %>%
-			arrange( .[[1]], .[[2]] )
+			arrange(chr_name, hg19_start) %>%
+			mutate(name = paste0(gene, "_", region)) %>%
+			select(chr_name, hg19_start, hg19_end, name)
 		chr_arms <- GAMBLR.data::chromosome_arms_grch37 %>%
 			mutate(chromosome = paste0("chr", chromosome))
 	} else{
@@ -114,8 +116,8 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	temp_chr_sizes <- tempfile(pattern = "chrom.sizes_")
 	write.table(chr_sizes, temp_chr_sizes, quote = FALSE, sep = "\t", row.names = FALSE,
 				col.names = FALSE)
-	ashm_bb_file <- file.path(track_dir, "ashm.bb")
-	bigbed_conversion = gettextf("%s %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes,
+	ashm_bb_file <- file.path(".", "ashm.bb")
+	bigbed_conversion = gettextf("%s -type=bed4 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes,
 								ashm_bb_file)
 
 	system(bigbed_conversion)
@@ -154,6 +156,8 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	# covariates <- read_tsv(dir(paste0(output_high_level_dir, "BL_fishhook_test--", projection, "--", date, "/tilesize_1000_overlap_0/"), ".*_regions\\.tsv", full.names=TRUE)) %>%
 	# check passed so using the above
 
+
+
 	covariates <- full_signif %>%
 		dplyr::select(-c("subset","date","tsv","width","tile.id", "nearest.gene", "Hugo_Symbol", "Variant_Classification", "Variant_Type","p","fdr","effectsize","count","count.pred","count.density","count.pred.density","query.id","p.neg","fdr.neg","theta")) %>%
 		group_by(region) %>%
@@ -162,38 +166,39 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 
 	# Need to coerce the character cols back into one col with RBG
 
+	##### chromHmm is not a covar in the lastest run
 	# Making the 'name' be the type and amount overlap, then the score = 0, bc score is expected to be interger
-	chromHmm <- covariates %>%
-		select(seqnames,start,end,strand,Quies,Enh,TxWk,ReprPCWk,Het,ReprPC,EnhBiv,TssAFlnk,BivFlnk,TssA,ZNF_Rpts,Tx,EnhG,TxFlnk,TssBiv) %>%
-		pivot_longer(!c(seqnames,start,end,strand), names_to = "chromHMM", values_to = "elig_overlap") %>%
-		filter(!elig_overlap == 0) %>% # otherwise each region has 15, whether a state is present in it or not
-		mutate(rgb = case_when(
-			chromHMM %in% "TssA" ~ "255,0,0",
-			chromHMM %in% "TssAFlnk" ~ "255,69,0",
-			chromHMM %in% "TxFlnk" ~ "50,205,50",
-			chromHMM %in% "Tx" ~ "0,128,0",
-			chromHMM %in% "TxWk" ~ "0,100,0",
-			chromHMM %in% "EnhG" ~ "194,225,5",
-			chromHMM %in% "Enh" ~ "255,255,0",
-			chromHMM %in% "ZNF_Rpts" ~ "102,205,170",
-			chromHMM %in% "Het" ~ "138,145,208",
-			chromHMM %in% "TssBiv" ~ "205,92,92",
-			chromHMM %in% "BivFlnk" ~ "233,150,122",
-			chromHMM %in% "EnhBiv" ~ "189,183,107",
-			chromHMM %in% "ReprPC" ~ "128,128,128",
-			chromHMM %in% "ReprPCWk" ~ "192,192,192",
-			chromHMM %in% "Quies" ~ "255,255,255" # might want to change this?
-		)) %>%
-		mutate(thickStart = start, thickEnd = start, score = 0, name = paste0(chromHMM, "_", round(elig_overlap, 2))) %>%
-		select(seqnames, start, end, name, score, strand, thickStart, thickEnd, rgb) %>%
-		arrange(seqnames, start)
+	# chromHmm <- covariates %>%
+	# 	select(seqnames,start,end,strand,Quies,Enh,TxWk,ReprPCWk,Het,ReprPC,EnhBiv,TssAFlnk,BivFlnk,TssA,ZNF_Rpts,Tx,EnhG,TxFlnk,TssBiv) %>%
+	# 	pivot_longer(!c(seqnames,start,end,strand), names_to = "chromHMM", values_to = "elig_overlap") %>%
+	# 	filter(!elig_overlap == 0) %>% # otherwise each region has 15, whether a state is present in it or not
+	# 	mutate(rgb = case_when(
+	# 		chromHMM %in% "TssA" ~ "255,0,0",
+	# 		chromHMM %in% "TssAFlnk" ~ "255,69,0",
+	# 		chromHMM %in% "TxFlnk" ~ "50,205,50",
+	# 		chromHMM %in% "Tx" ~ "0,128,0",
+	# 		chromHMM %in% "TxWk" ~ "0,100,0",
+	# 		chromHMM %in% "EnhG" ~ "194,225,5",
+	# 		chromHMM %in% "Enh" ~ "255,255,0",
+	# 		chromHMM %in% "ZNF_Rpts" ~ "102,205,170",
+	# 		chromHMM %in% "Het" ~ "138,145,208",
+	# 		chromHMM %in% "TssBiv" ~ "205,92,92",
+	# 		chromHMM %in% "BivFlnk" ~ "233,150,122",
+	# 		chromHMM %in% "EnhBiv" ~ "189,183,107",
+	# 		chromHMM %in% "ReprPC" ~ "128,128,128",
+	# 		chromHMM %in% "ReprPCWk" ~ "192,192,192",
+	# 		chromHMM %in% "Quies" ~ "255,255,255" # might want to change this?
+	# 	)) %>%
+	# 	mutate(thickStart = start, thickEnd = start, score = 0, name = paste0(chromHMM, "_", round(elig_overlap, 2))) %>%
+	# 	select(seqnames, start, end, name, score, strand, thickStart, thickEnd, rgb) %>%
+	# 	arrange(seqnames, start)
 
-	temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
-	write.table(chromHmm, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
-	chromHmm_bb_file = file.path(track_dir, paste0("chromHmm.bb"))
-	bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, chromHmm_bb_file)
-	system(bigbed_conversion)
-	unlink(temp_bed)
+	# temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
+	# write.table(chromHmm, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+	# chromHmm_bb_file = file.path(track_dir, paste0("chromHmm.bb"))
+	# bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, chromHmm_bb_file)
+	# system(bigbed_conversion)
+	# unlink(temp_bed)
 
 	repeats <- covariates %>%
 		select(seqnames, start, end, strand, SINE, LINE, LTR) %>%
@@ -215,30 +220,31 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	system(bigbed_conversion)
 	unlink(temp_bed)
 
-	cCREs <- covariates %>%
-		select(seqnames, start, end, strand, PLS, pELS, dELS, CA_H3K4me3, CA_CTCF, CA_TF, CA_only, Low_DNase) %>%
-		pivot_longer(!c(seqnames,start,end,strand), names_to = "cCRE", values_to = "elig_overlap") %>%
-		filter(!elig_overlap == 0) %>%
-		mutate(rgb = case_when(
-			cCRE %in% "CA_CTCF" ~ "0,128,225", # light-ish blue
-			cCRE %in% "CA_H3K4me3" ~ "225,153,153", #light pink
-			cCRE %in% "CA_TF" ~ "153,51,225", # purple
-			cCRE %in% "CA_only" ~ "0,204,204", # aqua
-			cCRE %in% "Low_DNase" ~ "224,224,224", # light grey
-			cCRE %in% "PLS" ~ "255,0,0", # red
-			cCRE %in% "dELS" ~ "255,255,0", # yellow
-			cCRE %in% "pELS" ~ "225,128,0", # orange
-		)) %>%
-		mutate(thickStart = start, thickEnd = start, score = 0, name = paste0(cCRE, "_", round(elig_overlap, 2))) %>%
-		select(seqnames, start, end, name, score, strand, thickStart, thickEnd, rgb) %>%
-		arrange(seqnames, start)
+	##### Not a covariate in the latest run
+	# cCREs <- covariates %>%
+	# 	select(seqnames, start, end, strand, PLS, pELS, dELS, CA_H3K4me3, CA_CTCF, CA_TF, CA_only, Low_DNase) %>%
+	# 	pivot_longer(!c(seqnames,start,end,strand), names_to = "cCRE", values_to = "elig_overlap") %>%
+	# 	filter(!elig_overlap == 0) %>%
+	# 	mutate(rgb = case_when(
+	# 		cCRE %in% "CA_CTCF" ~ "0,128,225", # light-ish blue
+	# 		cCRE %in% "CA_H3K4me3" ~ "225,153,153", #light pink
+	# 		cCRE %in% "CA_TF" ~ "153,51,225", # purple
+	# 		cCRE %in% "CA_only" ~ "0,204,204", # aqua
+	# 		cCRE %in% "Low_DNase" ~ "224,224,224", # light grey
+	# 		cCRE %in% "PLS" ~ "255,0,0", # red
+	# 		cCRE %in% "dELS" ~ "255,255,0", # yellow
+	# 		cCRE %in% "pELS" ~ "225,128,0", # orange
+	# 	)) %>%
+	# 	mutate(thickStart = start, thickEnd = start, score = 0, name = paste0(cCRE, "_", round(elig_overlap, 2))) %>%
+	# 	select(seqnames, start, end, name, score, strand, thickStart, thickEnd, rgb) %>%
+	# 	arrange(seqnames, start)
 
-	temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
-	write.table(cCREs, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
-	cCREs_bb_file = file.path(track_dir, paste0("cCREs.bb"))
-	bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, cCREs_bb_file)
-	system(bigbed_conversion)
-	unlink(temp_bed)
+	# temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
+	# write.table(cCREs, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+	# cCREs_bb_file = file.path(track_dir, paste0("cCREs.bb"))
+	# bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, cCREs_bb_file)
+	# system(bigbed_conversion)
+	# unlink(temp_bed)
 
 	# GC and Mappability shoud be able to be coloured by score?
 	# Multiply the values by 10 so that 100=1000, so vlaues are between 0 and 1000
@@ -402,27 +408,29 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	# NOTE: chromHMM, cCREs, and repeats needs to be named in a way that shows it's names are "type_overlap"
 	track_count <- length(track_names) + length(sample_subsets)+1
 
-	cat( "\n" )
-	cat( paste0("track chromHMM\n") )
-	cat( paste0("shortLabel chromHMM covariate\n") )
-	cat( paste0("longLabel chromHMM covariate type_overlap, tiles ", tilesize, " overlap ", overlap, "\n") )
-	cat( paste0("visibility dense\n") )
-	cat( paste0("priority ", track_count+1, "\n") )
-	cat( paste0("type bigBed 9\n") )
-	cat( "itemRgb on\n" )
-	file.path(bigDataUrl_base, hub_dir, projection, basename(chromHmm_bb_file)) %>%
-		{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
+	#### Not used in the latest run
+	# cat( "\n" )
+	# cat( paste0("track chromHMM\n") )
+	# cat( paste0("shortLabel chromHMM covariate\n") )
+	# cat( paste0("longLabel chromHMM covariate type_overlap, tiles ", tilesize, " overlap ", overlap, "\n") )
+	# cat( paste0("visibility dense\n") )
+	# cat( paste0("priority ", track_count+1, "\n") )
+	# cat( paste0("type bigBed 9\n") )
+	# cat( "itemRgb on\n" )
+	# file.path(bigDataUrl_base, hub_dir, projection, basename(chromHmm_bb_file)) %>%
+	# 	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
-	cat( "\n" )
-	cat( paste0("track cCREs\n") )
-	cat( paste0("shortLabel cCREs covariate\n") )
-	cat( paste0("longLabel cCREs covariate type_overlap, tiles ", tilesize, " overlap ", overlap, "\n") )
-	cat( paste0("visibility dense\n") )
-	cat( paste0("priority ", track_count+2, "\n") )
-	cat( paste0("type bigBed 9\n") )
-	cat( "itemRgb on\n" )
-	file.path(bigDataUrl_base, hub_dir, projection, basename(cCREs_bb_file)) %>%
-		{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
+	#### Not used in the latest run
+	# cat( "\n" )
+	# cat( paste0("track cCREs\n") )
+	# cat( paste0("shortLabel cCREs covariate\n") )
+	# cat( paste0("longLabel cCREs covariate type_overlap, tiles ", tilesize, " overlap ", overlap, "\n") )
+	# cat( paste0("visibility dense\n") )
+	# cat( paste0("priority ", track_count+2, "\n") )
+	# cat( paste0("type bigBed 9\n") )
+	# cat( "itemRgb on\n" )
+	# file.path(bigDataUrl_base, hub_dir, projection, basename(cCREs_bb_file)) %>%
+	# 	{ cat( paste0("bigDataUrl ", ., "?raw=true\n") ) }
 
 	cat( "\n" )
 	cat( paste0("track Repeats\n") )

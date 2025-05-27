@@ -59,77 +59,59 @@ type bigBed 9
 itemRgb on
 bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/genome_MCL.bb?raw=true
 
-track BL_fishhook_test
-shortLabel BL_fishhook_test
-longLabel BL_fishhook_test tiles 10000 overlap 0.5
+track BL_nochromtincovars
+shortLabel BL_nochromtincovars
+longLabel BL_nochromtincovars tiles 10000 overlap 0.5
 visibility dense
 priority 7
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/BL_fishhook_test_signif.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/BL_nochromtincovars_signif.bb?raw=true
 
-track CLL_fishhook_test
-shortLabel CLL_fishhook_test
-longLabel CLL_fishhook_test tiles 10000 overlap 0.5
+track CLL_nochromtincovars
+shortLabel CLL_nochromtincovars
+longLabel CLL_nochromtincovars tiles 10000 overlap 0.5
 visibility dense
 priority 8
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/CLL_fishhook_test_signif.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/CLL_nochromtincovars_signif.bb?raw=true
 
-track DLBCL_fishhook_test
-shortLabel DLBCL_fishhook_test
-longLabel DLBCL_fishhook_test tiles 10000 overlap 0.5
+track DLBCL_nochromtincovars
+shortLabel DLBCL_nochromtincovars
+longLabel DLBCL_nochromtincovars tiles 10000 overlap 0.5
 visibility dense
 priority 9
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/DLBCL_fishhook_test_signif.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/DLBCL_nochromtincovars_signif.bb?raw=true
 
-track DLBCL_FL_fishhook_test
-shortLabel DLBCL_FL_fishhook_test
-longLabel DLBCL_FL_fishhook_test tiles 10000 overlap 0.5
+track DLBCL_FL_nochromtincovars
+shortLabel DLBCL_FL_nochromtincovars
+longLabel DLBCL_FL_nochromtincovars tiles 10000 overlap 0.5
 visibility dense
 priority 10
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/DLBCL_FL_fishhook_test_signif.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/DLBCL_FL_nochromtincovars_signif.bb?raw=true
 
-track FL_fishhook_test
-shortLabel FL_fishhook_test
-longLabel FL_fishhook_test tiles 10000 overlap 0.5
+track FL_nochromtincovars
+shortLabel FL_nochromtincovars
+longLabel FL_nochromtincovars tiles 10000 overlap 0.5
 visibility dense
 priority 11
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/FL_fishhook_test_signif.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/FL_nochromtincovars_signif.bb?raw=true
 
-track MCL_fishhook_test
-shortLabel MCL_fishhook_test
-longLabel MCL_fishhook_test tiles 10000 overlap 0.5
+track MCL_nochromtincovars
+shortLabel MCL_nochromtincovars
+longLabel MCL_nochromtincovars tiles 10000 overlap 0.5
 visibility dense
 priority 12
 type bigBed 9
 itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/MCL_fishhook_test_signif.bb?raw=true
-
-track chromHMM
-shortLabel chromHMM covariate
-longLabel chromHMM covariate type_overlap, tiles 10000 overlap 0.5
-visibility dense
-priority 13
-type bigBed 9
-itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/chromHmm.bb?raw=true
-
-track cCREs
-shortLabel cCREs covariate
-longLabel cCREs covariate type_overlap, tiles 10000 overlap 0.5
-visibility dense
-priority 14
-type bigBed 9
-itemRgb on
-bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/cCREs.bb?raw=true
+bigDataUrl https://github.com/morinlab/LLMPP/raw/refs/heads/sg_hubs/hubs/fishhook_hubs/tilesize_10000_overlap_0.5/hg38/MCL_nochromtincovars_signif.bb?raw=true
 
 track Repeats
 shortLabel RepeatMasker covariate
