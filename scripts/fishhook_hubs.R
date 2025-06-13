@@ -23,8 +23,6 @@ library(stringr)
 library(gUtils)
 library(dplyr)
 
-options(scipen=999)
-
 # Set FishHook related values and
 # Read in significant region tsvs
 output_high_level_dir <- "/projects/rmorin_scratch/sgillis_temp/test_fishhook/fishhook-1.2_with_covariates/04-fishhook/"
@@ -106,16 +104,14 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	}
 
 	temp_bed <- tempfile(pattern = "regionsBed_", fileext = ".bed")
-	write.table(ashm_bed, temp_bed, quote = FALSE, sep = "\t", row.names = FALSE,
-		col.names = FALSE)
+	write_tsv(ashm_bed, temp_bed, col_names = FALSE)
 
 	chr_sizes <- chr_arms %>%
 		filter(arm == "q") %>%
 		select(chromosome, end) %>%
 		dplyr::rename(size = "end")
 	temp_chr_sizes <- tempfile(pattern = "chrom.sizes_")
-	write.table(chr_sizes, temp_chr_sizes, quote = FALSE, sep = "\t", row.names = FALSE,
-				col.names = FALSE)
+	write_tsv(chr_sizes, temp_chr_sizes, col_names = FALSE)
 	ashm_bb_file <- file.path(track_dir, "ashm.bb")
 	bigbed_conversion = gettextf("%s -type=bed4 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes,
 								ashm_bb_file)
@@ -136,7 +132,7 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 			arrange(seqnames, start)
 
 		temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
-		write.table(bed9, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+		write_tsv(bed9, temp_bed, col_names = FALSE)
 		regions_bb_file = file.path(track_dir, paste0(subset, "_signif.bb"))
 		bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, regions_bb_file)
 		system(bigbed_conversion)
@@ -214,7 +210,7 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 		arrange(seqnames, start)
 
 	temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
-	write.table(repeats, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+	write_tsv(repeats, temp_bed, col_names = FALSE)
 	repeats_bb_file = file.path(track_dir, paste0("repeats.bb"))
 	bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, repeats_bb_file)
 	system(bigbed_conversion)
@@ -258,7 +254,7 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 		arrange(seqnames, start)
 
 	temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
-	write.table(gc, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+	write_tsv(gc, temp_bed, col_names = FALSE)
 	gc_bb_file = file.path(track_dir, paste0("gc.bb"))
 	bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, gc_bb_file)
 	system(bigbed_conversion)
@@ -272,7 +268,7 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 		arrange(seqnames, start)
 
 	temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
-	write.table(mappability, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+	write_tsv(mappability, temp_bed, col_names = FALSE)
 	mappability_bb_file = file.path(track_dir, paste0("mappability.bb"))
 	bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, mappability_bb_file)
 	system(bigbed_conversion)
@@ -286,7 +282,7 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 		arrange(seqnames, start)
 
 	temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
-	write.table(reptime, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+	write_tsv(reptime, temp_bed, col_names = FALSE)
 	reptime_bb_file = file.path(track_dir, paste0("reptime.bb"))
 	bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, reptime_bb_file)
 	system(bigbed_conversion)
@@ -303,7 +299,7 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 		arrange(seqnames, start)
 
 	temp_bed = tempfile(pattern = "regionsBed_", fileext = ".bed")
-	write.table(eligible_fg, temp_bed, quote = FALSE, col.names = FALSE, row.names = FALSE, sep = "\t")
+	write_tsv(eligible_fg, temp_bed, col_names = FALSE)
 	eligible_bb_file = file.path(track_dir, paste0("eligible.bb"))
 	bigbed_conversion = gettextf("%s -type=bed6+3 %s %s %s", bedToBigBed_path, temp_bed, temp_chr_sizes, eligible_bb_file)
 	system(bigbed_conversion)
@@ -329,18 +325,9 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 	) %>%
 		arrange(seqnames, start)
 
-	# I think this will be faster if supplied maf data
-	# Using get_ssm_by_samples and not subsetting from merge?
-	maf = get_ssm_by_samples(
-			projection = projection,
-			these_samples_metadata = meta,
-			augmented = FALSE)
-
 	build_browser_hub(
 		regions_bed = full_regions,
 		these_samples_metadata = meta,
-		maf_data = maf,
-		these_seq_types = "genome",
 		projection = projection,
 		local_web_host_dir = local_web_host_dir,
 		hub_dir = hub_dir,
