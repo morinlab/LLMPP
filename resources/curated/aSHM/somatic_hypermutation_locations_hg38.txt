@@ -132,3 +132,4 @@ chr22	28798955	28801473	XBP1	TSS	NA
 chrX	12975189	12976392	TMSB4X	intron	active_promoter
 chrX	42941331	42944935	None	intergenic	NA
 chrX	48917479	48918978	PIM2	TSS	active_promoter
+chr1	6552018	6554541	NOL9	TSS	active_promoter
