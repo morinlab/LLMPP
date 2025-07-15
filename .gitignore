@@ -1,3 +1,8 @@
 *.DS_Store
 literature/mutation_patterns/discrepancies/.Rhistory
 literature/mutation_patterns/discrepancies/.Rapp.history
+renv/
+renv.lock
+.renvignore
+config.yml
+.Rprofile
