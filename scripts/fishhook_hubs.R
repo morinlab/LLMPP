@@ -1,21 +1,7 @@
 # Build track hubs of GABMLR SSMs data from aSHM regions, and
 # significant regions called by FishHook for current sample_sets
 
-library(devtools)
-
-# Load the latest GAMBLR repo versions
-setwd("/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev/GAMBLR.data")
-devtools::load_all()
-setwd("/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev/GAMBLR.helpers")
-devtools::load_all()
-setwd("/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev/GAMBLR.utils")
-devtools::load_all()
-setwd("/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev/GAMBLR.viz")
-devtools::load_all()
-setwd("/projects/rmorin_scratch/sgillis_temp/GAMBLR-dev/GAMBLR.results")
-devtools::load_all()
-
-setwd("/projects/rmorin_scratch/sgillis_temp/LLMPP")
+library(GAMBLR)
 library(purrr)
 library(tidyr)
 library(readr)
@@ -60,7 +46,7 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 
 	full_signif <- subsets_df %>%
 	mutate(tsv_df = map(tsv, ~ {
-		suppressMessages(read_tsv(.x, progress = FALSE))
+		suppressMessages(read_tsv(.x, progress = FALSE, num_threads = 4))
 	})) %>%
 	unnest(tsv_df)
 
@@ -151,8 +137,6 @@ make_hub_per_tilesize_overlap_projection <- function(subsets_df,
 
 	# covariates <- read_tsv(dir(paste0(output_high_level_dir, "BL_fishhook_test--", projection, "--", date, "/tilesize_1000_overlap_0/"), ".*_regions\\.tsv", full.names=TRUE)) %>%
 	# check passed so using the above
-
-
 
 	covariates <- full_signif %>%
 		dplyr::select(-c("subset","date","tsv","width","tile.id", "nearest.gene", "Hugo_Symbol", "Variant_Classification", "Variant_Type","p","fdr","effectsize","count","count.pred","count.density","count.pred.density","query.id","p.neg","fdr.neg","theta")) %>%
